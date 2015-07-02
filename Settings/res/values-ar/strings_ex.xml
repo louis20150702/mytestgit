@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"ضبط نوع apn"</string>
+<string name="user_could_input_apn_type">"المستخدم يمكن له إدخال نوع apn"</string>
+<string name="could_not_input_the_same_apn_type">"لا يمكن إدخال نفس نوع apn"</string>
+<string name="apn_type_message">" هذا لا يحتوي على نوع إفتراضي لـ APN الجديد الخاص بك , و هذا يعني عدم القدرة على إختيار APN"</string>
+<string name="error_apn_type_message">"لا يمكن أن يكون نوع APN فارغ"</string>
+<string name="error_apn_type">"نوع Apn الذي أدخلته غير مدعوم، من فضلك قم بإعادة إدخاله!"</string>
+<string name="same_apn_type">"لقد أدخلت نفس نوع APN، من فضلك أعد إدخاله!"</string>
+<string name="empty_apn_type">"أنت لم تقم بإدخال أو إختيار أي نوع من APN، من فضلك أعد إدخاله!"</string>
+<string name="dual_settings_title_uui">"إدارة SIM"</string>
+<string name="dual_voice_setting_title">"ضبط الصوت"</string>
+<string name="dual_video_setting_title">"ضبط الفيديو"</string>
+<string name="dual_mms_setting_title">"ضبط SMS"</string>
+<string name="dual_settings_title">"إعدادات Sim المزدوج"</string>
+<string name="sim_name_setting_title">"تحرير اسم SIM"</string>
+<string name="sim_color_setting_title">"ضبط لون الخلفية"</string>
+<string name="dual_settings_always_prompt">"دائما عاجل"</string>
+<string name="mms_settings_auto">"تلقائي"</string>
+<string name="no_need_set_data_subscription">"لا حاجة لضبط إشتراك البيانات."</string>
+<string name="voice_setting_title">"إعدادات الإتصالات الصوتية"</string>
+<string name="video_setting_title">"إعدادات إتصال الفيديو"</string>
+<string name="mms_setting_title">"إعدادات MMS و SMS"</string>
+<string name="sim_reply_setting">"إعدادات رد Sim"</string>
+<string name="reply_message_setting">"رد Mms أو Sms"</string>
+<string name="closeData">"اغلاق"</string>
+<string name="data_title">"إعدادات إتصال البيانات"</string>
+<string name="sel_sub_title">"إعدادات الإستعداد"</string>
+<string name="sel_sub_summary">"لتفعيل أو إيقاف بطاقة SIM"</string>
+<string name="set_data_subscription_timeout">"إنتهاء مهلة إعدادات إتصال البيانات!"</string>
+<string name="set_dds_failed">"خطأ! مسح جميع إتصالات البيانات و المحاولة مرة أخرى !"</string>
+<string name="set_dds_success">"تم الضبط بنجاح"</string>
+<string name="set_data_subscription_progress">"جاري التنصيب، من فضلك الإنتظار ..."</string>
+<string name="set_data_subscription_error_ok">"تحديد"</string>
+<string name="set_data_subscription_error_title">"خطأ"</string>
+<string name="set_data_subscription_error">"بدون بطاقة SIM هذه ، قم بالتحقق و حاول مرة أخرى!"</string>
+<string name="sim_retries_left">"الرقم المتبقي من "</string>
+<string name="menu_kill_apps_services">"إغلاق جميع التطبيقات"</string>
+<string name="back_groud_data_usage_restrict_protocal">"بروتوكول استخدام بيانات الخلفية."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"الموافقة على بروتوكول استخدام بيانات الخلفية؟"</string>
+<string name="apn_edit_quit">"خروج"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> تحرير نقطة دخول"</string>
+<string name="input_pin_limit">"من فضلك قم بإدخال 4-8 أرقام"</string>
+    <string name="agps_supl_manual_settings">"إعدادات يدوية لخادم SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"الضبط اليدوي لخادم و منفذ SUPL"</string>
+     <string name="str_clear">"محو"</string>
+     <string name="str_save">"استخدام هذا التسجيل"</string>
+     <string name="gps_location_suplserver">"الخادم"</string>
+    <string name="agps_setting">"إعدادات Agps"</string>
+    <string name="open">"فتح"</string>
+    <string name="close">"اغلاق"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> إعدادات شبكة الهاتف"</string>
+    <string name="pin_enabled_success">"تم تمكين رقم التعريف الشخصي لبطاقة SIM"</string>
+    <string name="pin_disabled_success">"تم تعطيل رقم التعريف الشخصي لبطاقة SIM"</string>
+    <string name="gps_time_sync_attention_gps_on">"ستستغرق دقيقة على الأكثر لإصلاح GPS. بالإضافة إلى ذلك، قد يفشل GPS في توفير الوقت بسبب ضعف الإشارة في المنطقة.\n\nهل أنت متأكد من استخدام وقت GPS الموفر؟"</string>
+    <string name="gps_time_sync_attention_gps_off">"لاستخدام وقت GPS الموفر، يجب عليك تفعيل GPS أولاً. ثم ستستغرق دقيقة لإصلاح GPS. بالإضافة إلى ذلك،  قد يفشل GPS في توفير الوقت بسبب ضعف الإشارة في المنطقة.\n\nهل أنت متأكد من استخدام وقت GPS الموفر؟""</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

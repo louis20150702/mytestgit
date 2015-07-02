@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Tipo de apn de ajuste"</string>
+<string name="user_could_input_apn_type">"O usuário pode entrar o tipo de apn "</string>
+<string name="could_not_input_the_same_apn_type">"Não pode entrar o mesmo tempo de apn"</string>
+<string name="apn_type_message">"Não tem um tipo default no seu novo APN, não pode seleccionar o APN."</string>
+<string name="error_apn_type_message">"O APN tipo não pode ser vázio"</string>
+<string name="error_apn_type">"O APN tipo que entrou não é suportado, favor re-entre!"</string>
+<string name="same_apn_type">"Você entrou o mesmo tipo de APN, favor re-entre!"</string>
+<string name="empty_apn_type">"Você não entrou nem seleccionou qualquer tipo de APN, favor re-entre!"</string>
+<string name="dual_settings_title_uui">"Administração de cartão de SIM"</string>
+<string name="dual_voice_setting_title">"Ajuste de Voz"</string>
+<string name="dual_video_setting_title">"Ajuste de Vídeo"</string>
+<string name="dual_mms_setting_title">"Ajuste de SMS"</string>
+<string name="dual_settings_title">"Ajuste de Duplo SIM"</string>
+<string name="sim_name_setting_title">"Editar Nome de SIM"</string>
+<string name="sim_color_setting_title">"Ajuste a Cor de Fundo"</string>
+<string name="dual_settings_always_prompt">"Sempre pronto"</string>
+<string name="mms_settings_auto">"Auto"</string>
+<string name="no_need_set_data_subscription">"Não precisa de ajustar a subscrição de dados"</string>
+<string name="voice_setting_title">"Ajustes de chamada de voz"</string>
+<string name="video_setting_title">"Ajustes de chamada de video"</string>
+<string name="mms_setting_title">"MMS e SMS ajustes"</string>
+<string name="sim_reply_setting">"Ajuste de resposta de SIM"</string>
+<string name="reply_message_setting">"Responder MMS ou SMS"</string>
+<string name="closeData">"fechar"</string>
+<string name="data_title">"Ajuste de Conexão de Dados"</string>
+<string name="sel_sub_title">"Ajuste de espera"</string>
+<string name="sel_sub_summary">"Para activar ou desactivar o SIM cartão"</string>
+<string name="set_data_subscription_timeout">"O ajuste de conexão de dados expirado!"</string>
+<string name="set_dds_failed">"Erro! Limpe todas as conexões de dados e tente de novo!"</string>
+<string name="set_dds_success">"Ajustar com sucesso"</string>
+<string name="set_data_subscription_progress">"Ajustando, favor aguarde..."</string>
+<string name="set_data_subscription_error_ok">"Determinar"</string>
+<string name="set_data_subscription_error_title">"Erro"</string>
+<string name="set_data_subscription_error">"Sem este SIM cartão, favor verifique e tente de novo!"</string>
+<string name="sim_retries_left">"Número restante de"</string>
+<string name="menu_kill_apps_services">"Fechar todas as aplicações"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protocolo de uso de dados de fundo"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Se aceita o protocolo de utilização de dados de fundo?"</string>
+<string name="apn_edit_quit">"Sair"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Editar ponto de acesso"</string>
+<string name="input_pin_limit">"Favor entre 4-8 números"</string>
+    <string name="agps_supl_manual_settings">"Ajuste manual de SUPL servidor"</string>
+     <string name="agps_supl_manual_settings_summary">"Manual ajuste de SUPL servidor e porta"</string>
+     <string name="str_clear">"CLR"</string>
+     <string name="str_save">Guardar</string>
+     <string name="gps_location_suplserver">"Servidor"</string>
+    <string name="agps_setting">"Agps Ajuste"</string>
+    <string name="open">"Aberta"</string>
+    <string name="close">"Fechar"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Ajuste de rede móvel"</string>
+    <string name="pin_enabled_success">"PIN do SIM ativado"</string>
+    <string name="pin_disabled_success">"PIN do SIM desativado"</string>
+    <string name="gps_time_sync_attention_gps_on">"O qual vai demorar por mais 1 minuto para obter GPS fix. Além disso, GPS pode falhar fornecer o tempo devido ao sinal ambiental fraco.\n\nSe quer usar o GPS tempo fornecido?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Para usar o GPS tempo fornecido, você deve permitir o GPS primeiro. O qual vai demorar por mais 1 minuto para obter GPS fix. Além disso, GPS pode falhar fornecer o tempo devido  ao sinal ambiental fraco.\n\nSe quer permitir o GPS agora e esperar por GPS tempo fornecido?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

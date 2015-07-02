@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn tüübi määramine"</string>
+<string name="user_could_input_apn_type">"Kasutaja saab sisestada apn tüübi"</string>
+<string name="could_not_input_the_same_apn_type">"Ei saanud sisestada sama apn tüüpi"</string>
+<string name="apn_type_message">"Sinu uues APN-is ei sisaldu vaikimisi tüüpi, APN-i ei saa valida."</string>
+<string name="error_apn_type_message">"APN tüüp ei saa olla tühi"</string>
+<string name="error_apn_type">"Sisestatud Apn tüüp ei ole lubatud , palun sisesta uuesti!"</string>
+<string name="same_apn_type">"Sa oled sisestanud sama tüüpi APN-i, palun sisesta uuesti!"</string>
+<string name="empty_apn_type">"Sa ei sisestanud ega valinud ühtegi APN tüüpi, palun sisesta uuesti!"</string>
+<string name="dual_settings_title_uui">"Sim kaardi haldamine"</string>
+<string name="dual_voice_setting_title">"Hääle Sätted"</string>
+<string name="dual_video_setting_title">"Video Sätted"</string>
+<string name="dual_mms_setting_title">"SMS Sätted"</string>
+<string name="dual_settings_title">"Kaksik Sim Sätted"</string>
+<string name="sim_name_setting_title">"Muuda SIM Nime"</string>
+<string name="sim_color_setting_title">"Määra Tausta Värv"</string>
+<string name="dual_settings_always_prompt">"Alati viivitamatu"</string>
+<string name="mms_settings_auto">"Automaatne"</string>
+<string name="no_need_set_data_subscription">"pole vaja määrata andmetellimust ."</string>
+<string name="voice_setting_title">"Häälkõne sätted"</string>
+<string name="video_setting_title">"Videokõne sätted"</string>
+<string name="mms_setting_title">"MMS ja SMS sätted"</string>
+<string name="sim_reply_setting">"Sim vastuse sätted"</string>
+<string name="reply_message_setting">"Vasta Mms või Sms teel"</string>
+<string name="closeData">"Sulge"</string>
+<string name="data_title">"Andmeühenduse Sätted"</string>
+<string name="sel_sub_title">"ooterežiimi sätted"</string>
+<string name="sel_sub_summary">"Luba või keela SIM kaart"</string>
+<string name="set_data_subscription_timeout">"Andmeühenduse sätete aeg maas!"</string>
+<string name="set_dds_failed">"Viga!Tühjenda kogu andmeühendus ja proovi uuesti!"</string>
+<string name="set_dds_success">"Määramine õnnestus"</string>
+<string name="set_data_subscription_progress">"Määran, palun oota ..."</string>
+<string name="set_data_subscription_error_ok">"Määratle"</string>
+<string name="set_data_subscription_error_title">"Viga"</string>
+<string name="set_data_subscription_error">"Ilma selle SIM kaardita, palun kontrolli ja proovi uuesti!"</string>
+<string name="sim_retries_left">"Allesjäänud arv"</string>
+<string name="menu_kill_apps_services">"Sulge kõik rakendused"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Taustaandmete kasutuse protokoll."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Aktsepteeri Taustaandmete kasutuse protokoll?"</string>
+<string name="apn_edit_quit">"Loobu"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Muuda pääsukoht"</string>
+<string name="input_pin_limit">"Palun sisesta 4 - 8 numbrit"</string>
+    <string name="agps_supl_manual_settings">"SUPL serveri manuaalsätted"</string>
+     <string name="agps_supl_manual_settings_summary">"Määra manuaalselt SUPL server ja port"</string>
+     <string name="str_clear">"Kustuta otseteed"</string>
+     <string name="str_save">"Salvesta"</string>
+     <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">""Agps Säte"</string>
+    <string name="open">"Puudub"</string>
+    <string name="close">"Sulge"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobiilivõrgu sätted"</string>
+    <string name="pin_enabled_success">"SIM PIN lubatud"</string>
+    <string name="pin_disabled_success">"SIM PIN keelatud"</string>
+    <string name="gps_time_sync_attention_gps_on">"See võtab kõige rohkem 1 minut, et  omandada GPS parndust. Lisaks, GPS ajapakkumine võib nurjuda nõrga keskkonna signaali tõttu.\n\nKas oled kindel, et soovid kasutada GPS pakutavat aega?"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS aja kasutamiseks, pead kõigepealt GPSi lubama. Siis kasuta kõige rohkem 1 minutit et omandada GPS parandust. Lisaks, GPS ajapakkumine võib nurjuda nõrga keskkonna signaali tõttu. \n\n Kas oled kindel, et tahad lubada GPSi nüüd ja oodata GPSi pakutavat aega?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

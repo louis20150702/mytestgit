@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>@string/wifi_security_wapi_psk</item>
+        <item>@string/wifi_security_wapi_cert</item>
+<!-- Broadcom, WAPI -->
+    </string-array>
+  <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+        <item>"Amerika"</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+        <item>"Eropa"</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+        <item>"Afrika"</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+        <item>"Asia"</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+        <item>"Australia"</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+        <item>"Pasifik"</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+        <item>"Semua"</item>
+    </string-array>
+  <string-array name="screen_timeout_entries">
+        <item>"15 detik"</item>
+        <item>"30 detik"</item>
+        <item>"1 menit"</item>
+        <item>"2 menit"</item>
+        <item>"5 menit"</item>
+        <item>"10 menit"</item>
+        <item>"30 menit"</item>
+        <!--revo lyq 20141215-->    
+        <item>"Tidak pernah"</item>    
+    </string-array>
+  <string-array name="dream_timeout_entries">
+        <item>"Tidak pernah"</item>
+        <item>"15 detik"</item>
+        <item>"30 detik"</item>
+        <item>"1 menit"</item>
+        <item>"2 menit"</item>
+        <item>"5 menit"</item>
+        <item>"10 menit"</item>
+        <item>"30 menit"</item>
+    </string-array>
+  <string-array name="lock_after_timeout_entries">
+        <item>"Segera"</item>
+        <item>"5 detik"</item>
+        <item>"15 detik"</item>
+        <item>"30 detik"</item>
+        <item>"1 menit"</item>
+        <item>"2 menit"</item>
+        <item>"5 menit"</item>
+        <item>"10 menit"</item>
+        <item>"30 menit"</item>
+    </string-array>
+  <string-array name="entries_font_size">
+        <item msgid="6490061470416867723">"Kecil"</item>
+        <item msgid="3579015730662088893">"Normal"</item>
+        <item msgid="1678068858001018666">"Besar"</item>
+        <item msgid="490158884605093126">"Raksasa"</item>
+    </string-array>
+  <string-array name="tts_rate_entries">
+        <item>"Sangat lambat"</item>
+        <item>"Lambat"</item>
+        <item>"Normal"</item>
+        <item>"Cepat"</item>
+        <item>"Sangat cepat"</item>
+    </string-array>
+  <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+  <string-array name="tts_pitch_entries">
+        <item>"Sangat rendah"</item>
+        <item>"Rendah"</item>
+        <item>"Normal"</item>
+        <item>"Tinggi"</item>
+        <item>"Sangat tinggi"</item>
+    </string-array>
+  <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+  <string-array name="wifi_status">
+        <!-- Status message of Wi-Fi when it is idle. -->
+    <item msgid="8934131797783724664">"Memindai..."</item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>"Menyambung…"</item>
+        <!-- Status message of Wi-Fi when it is connecting. -->
+        <item>"Mengautentikasi…"</item>
+        <!-- Status message of Wi-Fi when it is authenticating. -->
+        <item>"Mendapatkan alamat IP…"</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+        <item>"Terhubung"</item>
+        <!-- Status message of Wi-Fi when it is connected. -->
+        <item>"Ditangguhkan"</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>"Memutus sambungan..."</item>
+        <!-- Status message of Wi-Fi when it is disconnecting. -->
+        <item>"Sambungan terputus"</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>"Gagal"</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item> </item>
+    </string-array>
+  <string-array name="wifi_status_with_ssid">
+        <!-- Status message of Wi-Fi when it is idle. -->
+    <item msgid="8878186979715711006">"Memindai..."</item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+        <item>"Menyambung ke <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is connecting to a network. -->
+        <item>"Mengautentikasi dengan <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+        <item>"Mendapatkan alamat IP dari <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+        <item>"Tersambung ke <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+        <!-- Status message of Wi-Fi when it is connected to a network. -->
+        <item>"Ditangguhkan"</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+        <item>"Diputus dari <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+        <item>"Sambungan terputus"</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+        <item>"Gagal"</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        <item> </item>
+    </string-array>
+  <string-array name="wifi_eap_method">
+        <!-- Do not translate. -->
+        <item>"PEAP"</item>
+        <!-- Do not translate. -->
+        <item>"TLS"</item>
+        <!-- Do not translate. -->
+        <item>"TTLS"</item>
+    </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+        <!-- Push button based configuration involves pushing a button on two connecting devices [CHAR LIMIT=30]-->
+        <item>"Tekan tombol"</item>
+        <!-- This involves entering a pin obtained from a peer device [CHAR LIMIT=30] -->
+        <item>"PIN dari perangkat rekan"</item>
+        <!-- This involves generating a pin from this device [CHAR LIMIT=20] -->
+        <item>"PIN dari perangkat ini"</item>
+    </string-array>
+  <string-array name="wifi_p2p_status">
+        <item>"Tersambung"</item>
+        <item>"Diundang"</item>
+        <item>"Gagal"</item>
+        <item>"Tersedia"</item>
+        <item>"Di luar jangkauan"</item>
+   </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+        <item>"2 menit"</item>
+        <item>"5 menit"</item>
+        <item>"1 jam"</item>
+        <item>"Tanpa waktu tunggu"</item>
+    </string-array>
+  <string-array name="wifi_signal">
+        <item>"Buruk"</item>
+        <item>"Sedang"</item>
+        <item>"Baik"</item>
+        <item>"Luar biasa"</item>
+    </string-array>
+  <string-array name="wifi_sleep_policy_entries">
+        <!-- Always keep Wi-Fi on when screen turns off. -->
+        <item>"Selalu"</item>
+        <!-- Keep Wi-Fi on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>"Hanya ketika terhubung ke sumber daya"</item>
+        <!-- Do not keep Wi-Fi on when screen turns off. -->
+        <item>"Tidak pernah (meningkatkan penggunaan data)"</item>
+    </string-array>
+  <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <!-- Always keep Wi-Fi on when screen turns off. -->
+        <item>"Selalu"</item>
+        <!-- Keep Wi-Fi on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>"Hanya saat trhbng ke smbr daya"</item>
+        <!-- Do not keep Wi-Fi on when screen turns off, for Wi-Fi-only devices, no other data connection -->
+        <item>"Tidak pernah"</item>
+    </string-array>
+  <string-array name="wifi_sleep_policy_values">
+        <!-- Do not translate. -->
+            <item>"2"</item>
+        <!-- Do not translate. -->
+        <item>"1"</item>
+        <!-- Do not translate. -->
+            <item>"0"</item>
+    </string-array>
+  <string-array name="wifi_frequency_band_entries">
+        <!-- Operation on both 2.4 GHz and 5 GHz [CHAR LIMIT=25]-->
+        <item>"Otomatis"</item>
+        <!-- Operation on 5 GHz alone [CHAR LIMIT=25]-->
+        <item>"Hanya 5 GHz"</item>
+        <!-- Operation on 2.4 GHz alone [CHAR LIMIT=25]-->
+        <item>"Hanya 2,4 GHz"</item>
+    </string-array>
+  <string-array name="usage_stats_display_order_types">
+        <item>"Waktu penggunaan"</item>
+        <item>"Penghitungan peluncuran"</item>
+        <item>"Nama apl"</item>
+    </string-array>
+  <string-array name="wifi_eap_entries">
+        <item>"PEAP"</item>
+        <item>"TLS"</item>
+        <item>"TTLS"</item>
+    </string-array>
+  <string-array name="wifi_phase2_entries">
+        <item>"Tak Satu Pun"</item>
+        <item>"PAP"</item>
+        <item>"MSCHAP"</item>
+        <item>"MSCHAPV2"</item>
+        <item>"GTC"</item>
+    </string-array>
+  <string-array name="wifi_ip_settings">
+        <!-- Use DHCP (Dynamic Host Configuration Protocol) for obtaining IP settings [CHAR LIMIT=25] -->
+        <item>"DHCP"</item>
+        <!-- Use statically defined IP settings [CHAR LIMIT=25]-->
+        <item>"Statik"</item>
+    </string-array>
+  <string-array name="wifi_proxy_settings">
+        <!-- No HTTP proxy is used for the current wifi network [CHAR LIMIT=25] -->
+        <item>"Tak Satu Pun"</item>
+        <!-- Manual HTTP proxy settings are used for the current wifi network [CHAR LIMIT=25] -->
+        <item>"Manual"</item>
+    </string-array>
+  <string-array name="emergency_tone_entries">
+        <item>"Mati"</item>
+        <item>"Lansiran"</item>
+        <item>"Getar"</item>
+    </string-array>
+  <string-array name="emergency_tone_values">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+    </string-array>
+  <string-array name="apn_auth_entries">
+        <item>"Tak Satu Pun"</item>
+        <item>"PAP"</item>
+        <item>"CHAP"</item>
+        <item>"PAP atau CHAP"</item>
+    </string-array>
+  <string-array name="apn_protocol_entries">
+        <item>"IPv4"</item>
+        <item>"IPv6"</item>
+        <item>"IPv4/IPv6"</item>
+    </string-array>
+  <string-array name="bearer_entries">
+        <item>"LTE"</item>
+        <item>"eHRPD"</item>
+        <item>"Tidak ditentukan"</item>
+    </string-array>
+  <string-array name="app_install_location_entries">
+        <item>"Penyimpanan perangkat internal"</item>
+        <item>"Kartu SD yang dapat dicopot"</item>
+        <item>"Biarkan sistem menentukan"</item>
+    </string-array>
+  <string-array name="dualsim_summaries">
+        <item> SIM 1 </item>
+        <item> SIM 2 </item>
+        <item>selalu menyarankan</item>
+    </string-array>
+  <string-array name="dualsim_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+  <string-array name="dualsim_setting_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>selalu menyarankan</item>
+    </string-array>
+  <string-array name="dualsim_values">
+        <!-- Do not translate. -->
+        <item>"0"</item>
+        <!-- Do not translate. -->
+        <item>"1"</item>
+    </string-array>
+  <string-array name="silent_mode_entries">
+        <item>"Mati"</item>
+        <item>"Getar"</item>
+        <item>"Bungkam"</item>
+    </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+        <!-- A title for the option for short long-press timeout [CHAR LIMIT=25] -->
+        <item>"Singkat"</item>
+        <!-- A title for the option for medium long-press timeout [CHAR LIMIT=25] -->
+        <item>"Sedang"</item>
+        <!-- A title for the option for long long-press timeout [CHAR LIMIT=25] -->
+        <item>"Lama"</item>
+    </string-array>
+  <string-array name="hdcp_checking_titles">
+        <item>"Jangan periksa"</item>
+        <item>"Periksa hanya konten DRM"</item>
+        <item>"Selalu periksa"</item>
+    </string-array>
+  <string-array name="hdcp_checking_summaries">
+        <item>"Jangan gunakan pemeriksaan HDCP"</item>
+        <item>"Gunakan pemeriksaan HDCP untuk konten DRM saja"</item>
+        <item>"Selalu gunakan pemeriksaan HDCP"</item>
+    </string-array>
+  <string-array name="window_animation_scale_entries">
+        <item>"Animasi mati"</item>
+        <item>"Skala animasi 0,5x"</item>
+        <item>"Skala animasi 1x"</item>
+        <item>"Skala animasi 1,5x"</item>
+        <item>"Skala animasi 2x"</item>
+        <item>"Skala animasi 5x"</item>
+        <item>"Skala animasi 10x"</item>
+    </string-array>
+  <string-array name="transition_animation_scale_entries">
+        <item>"Animasi mati"</item>
+        <item>"Skala animasi 0,5x"</item>
+        <item>"Skala animasi 1x"</item>
+        <item>"Skala animasi 1,5x"</item>
+        <item>"Skala animasi 2x"</item>
+        <item>"Skala animasi 5x"</item>
+        <item>"Skala animasi 10x"</item>
+    </string-array>
+  <string-array name="app_process_limit_entries">
+        <item>"Batas standar"</item>
+        <item>"Tanpa proses latar belakang"</item>
+        <item>"Maksimal 1 proses"</item>
+        <item>"Maksimal 2 proses"</item>
+        <item>"Maksimal 3 proses"</item>
+        <item>"Maksimal 4 proses"</item>
+    </string-array>
+  <string-array name="vpn_types_long">
+        <item>"PPTP VPN"</item>
+        <item>"L2TP/IPSec VPN dengan kunci pra-bagi"</item>
+        <item>"L2TP/IPSec VPN dengan sertifikat"</item>
+        <item>"IPSec VPN dengan kunci pra-bagi dan autentikasi Xauth"</item>
+        <item>"IPSec VPN dengan sertifikat dan autentikasi Xauth"</item>
+        <item>"IPSec VPN dengan sertifikat dan autentikasi hibrida"</item>
+    </string-array>
+  <string-array name="vpn_states">
+        <!-- Status message when VPN is disconnected. -->
+        <item>"Terputus"</item>
+        <!-- Status message when VPN is initializing. -->
+        <item>"Memulai..."</item>
+        <!-- Status message when VPN is connecting. -->
+        <item>"Menyambung…"</item>
+        <!-- Status message when VPN is connected. -->
+        <item>"Terhubung"</item>
+        <!-- Status message when VPN is timeout. -->
+        <item>"Waktu tunggu"</item>
+        <!-- Status message when VPN is failed. -->
+        <item>"Gagal"</item>
+    </string-array>
+  <string-array name="wep_key_index">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+   </string-array>
+  <string-array name="alarm_set">
+        <item>Ini setel untuk kurang dari 1 menit dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang.</item>
+        <item>Ini disetel untuk <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, dan <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> dari sekarang.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn வகை அமைப்பு"</string>
+<string name="user_could_input_apn_type">"பயனர் apn வகையை உள்ளிட முடியும்"</string>
+<string name="could_not_input_the_same_apn_type">"அதே apn வகையை உள்ளிட முடியாது"</string>
+<string name="apn_type_message">"உங்களின் புதிய APNஇல் ஒரு இயல்புநிலை வகை இல்லை, APNஐத் தேர்ந்தெடுக்க இயலாது."</string>
+<string name="error_apn_type_message">"APN வகை காலியாக இருக்க முடியாது"</string>
+<string name="error_apn_type">"நீங்கள் உள்ளீடு செய்த Apn வகையானது ஆதரிக்கப்படாதது ஆகும், தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="same_apn_type">"நீங்கள் அதே வகை APNஐ உள்ளீடு செய்துள்ளீர்கள், தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="empty_apn_type">"நீங்கள் எந்தஒரு வகை APNஐயும் உள்ளீடு செய்யவோ அல்லது தேர்ந்தெடுக்கவோ இல்லை, தயவுசெய்து மீண்டும் உள்ளீடு செய்யவும்!"</string>
+<string name="dual_settings_title_uui">"Sim கார்டு மேலாமை"</string>
+<string name="dual_voice_setting_title">"குரல் அமைப்பு"</string>
+<string name="dual_video_setting_title">"வீடியோ அமைப்பு"</string>
+<string name="dual_mms_setting_title">"SMS அமைப்பு"</string>
+<string name="dual_settings_title">"இரட்டை Sim அமைவுகள்"</string>
+<string name="sim_name_setting_title">"SIM பெயரைத் திருத்து"</string>
+<string name="sim_color_setting_title">"பின்புல நிறத்தை அமை"</string>
+<string name="dual_settings_always_prompt">"எப்போதும் விழிப்பூட்டவும்"</string>
+<string name="mms_settings_auto">"தானியங்கு"</string>
+<string name="no_need_set_data_subscription">"தரவு சந்தாவை அமைக்க வேண்டிய தேவை இல்லை ."</string>
+<string name="voice_setting_title">"வீடியோ அழைப்பு அமைவுகள்"</string>
+<string name="video_setting_title">"குரல் அழைப்பு அமைவுகள்"</string>
+<string name="mms_setting_title">"MMS மற்றும் SMS அமைவுகள்"</string>
+<string name="sim_reply_setting">"Sim பதிலளி அமைவுகள்"</string>
+<string name="reply_message_setting">"பதிலளி Mms அல்லது Sms"</string>
+<string name="closeData">"மூடு"</string>
+<string name="data_title">"தரவு இணைப்பு அமைவுகள்"</string>
+<string name="sel_sub_title">"காத்திருநிலை அமைவுகள்"</string>
+<string name="sel_sub_summary">"SIM கார்டை செயல்படுத்த அல்லது செயலிழக்கச் செய்ய"</string>
+<string name="set_data_subscription_timeout">"தரவு இணைப்பு அமைவுகள் நேரம் முடிந்தது!"</string>
+<string name="set_dds_failed">"பிழை! அனைத்து தரவு இணைப்புகளையும் அழித்துவிட்டு மீண்டும் முயற்சிக்கவும்!"</string>
+<string name="set_dds_success">"வெற்றிகரமாக அமைக்கப்பட்டது"</string>
+<string name="set_data_subscription_progress">"அமைத்துக் கொண்டிருக்கின்றது, தயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="set_data_subscription_error_ok">"தீர்மானி"</string>
+<string name="set_data_subscription_error_title">"பிழை"</string>
+<string name="set_data_subscription_error">"இந்த SIM கார்டு இல்லாமல், தயவுசெய்து சரிபார்த்து மீண்டும் முயற்சிக்கவும்!"</string>
+<string name="sim_retries_left">"மீதமுள்ள எண்"</string>
+<string name="menu_kill_apps_services">"அனைத்து பயன்பாடுகளையும் மூடவும்"</string>
+<string name="back_groud_data_usage_restrict_protocal">"பின்புல தரவு பயன்பாட்டு நெறிமுறை."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"பின்புல தரவு பயன்பாட்டு நெறிமுறையை ஏற்றுக்கொள்கிறீர்களா?"</string>
+<string name="apn_edit_quit">"வெளியேறு"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> அணுகல் புள்ளியைத் திருத்து"</string>
+<string name="input_pin_limit">"தயவுசெய்து 4 - 8 எண்களை உள்ளிடவும்"</string>
+    <string name="agps_supl_manual_settings">"SUPL சர்வர் மேனுவல் அமைவு"</string>
+    <string name="agps_supl_manual_settings_summary">"மேனுவல் செட் SUPL சர்வர் மற்றும் போர்ட்"</string>
+    <string name="str_clear">CLR</string>
+    <string name="str_save">சேமி</string>
+    <string name="gps_location_suplserver">சர்வர்</string>
+    <string name="agps_setting">"Agps அமைவுகள்"</string>
+    <string name="open">திற</string>
+    <string name="close">மூடவும்</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> மொபைல் நெட்வொர்க் அமைவுகள்"</string>
+    <string name="pin_enabled_success">சிம் PIN ஏதுவாக்கப்பட்டது</string>
+    <string name="pin_disabled_success">சிம் PIN செயலிழக்க செய்யப் பட்டது</string>
+    <string name="gps_time_sync_attention_gps_on">"GPS ஃபிக்ஸைப் பெறுவதற்கு அதிகபட்சம் 1 நிமிடம் எடுக்கும். அதைத் தவிர, மோசமான சுற்றுப்புற சிக்னலின் காரணமாக GPS  நேரம் வழங்குவதில் தோல்வியடையக்கூடும்.\n\n GPS வழங்கிய நேரத்தை பயன்படுத்துவதில் நீங்கள் உறுதியாக இருக்கிறீர்களா?"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS வழங்கிய நேரத்தைப் பயன்படுத்த நீங்கள் முதலில் GPS ஐ செயல்படுத்த வேண்டும். GPS ஃபிக்ஸைப் பெறுவதற்கு அதிகபட்சம் 1 நிமிடம் எடுக்கும். அதைத் தவிர, மோசமான சுற்றுப்புற சிக்னலின் காரணமாக GPS  நேரம் வழங்குவதில் தோல்வியடையக்கூடும்.\n\nGPS ஐ இப்பொழுதே செயல்படுத்தி, GPS வழங்கும் நேரத்திற்காக காத்திருக்க விரும்புகிறீர்களா?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

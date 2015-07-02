@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Nastavitev vrste apn"</string>
+<string name="user_could_input_apn_type">"Uporabnik lahko vnese vrsto apn"</string>
+<string name="could_not_input_the_same_apn_type">"Iste vrste apn ni bilo mogoče vnesti"</string>
+<string name="apn_type_message">"Ne vsebuje privzete vrste APN, APN ne bo mogoče izbrati."</string>
+<string name="error_apn_type_message">"Vrsta APN ne more ostati prazna"</string>
+<string name="error_apn_type">"Vrsta apn, ki ste jo vnesli, ni podprta, vnesite jo znova!"</string>
+<string name="same_apn_type">"Vnesli ste isto vrsto APN, vnesite znova!"</string>
+<string name="empty_apn_type">"Vnesli ali izbrali niste nobene vrste APN, vnesite znova!"</string>
+<string name="dual_settings_title_uui">"Urejanje SIM kartice "</string>
+<string name="dual_voice_setting_title">"Glasovne nastavitve"</string>
+<string name="dual_video_setting_title">"Video nastavitve"</string>
+<string name="dual_mms_setting_title">"SMS nastavitve"</string>
+<string name="dual_settings_title">"Nastavitve za dve kartici sim"</string>
+<string name="sim_name_setting_title">"Uredi ime SIM"</string>
+<string name="sim_color_setting_title">"Nastavi barvo ozadja"</string>
+<string name="dual_settings_always_prompt">"Vedno vprašaj"</string>
+<string name="mms_settings_auto">"Samodejno"</string>
+<string name="no_need_set_data_subscription">"Podatkovnega prometa ni potrebno nastaviti."</string>
+<string name="voice_setting_title">"Nastavitve glasovnega klicanja"</string>
+<string name="video_setting_title">"Nastavitve video klicanja"</string>
+<string name="mms_setting_title">"Nastavitve MMS in SMS"</string>
+<string name="sim_reply_setting">"Nastavitve za odgovor s Sim"</string>
+<string name="reply_message_setting">"Odgovori z Mms ali Sms"</string>
+<string name="closeData">"Zapri "</string>
+<string name="data_title">"Nastavitve podatkovne povezave"</string>
+<string name="sel_sub_title">"Nastavitve mirovanja"</string>
+<string name="sel_sub_summary">"Omogočanje kartice SIM"</string>
+<string name="set_data_subscription_timeout">"Potekel čas za nastavitev podatkovne povezave!"</string>
+<string name="set_dds_failed">"Napaka! Počistite vse podatkovne povezave in poskusite znova!"</string>
+<string name="set_dds_success">"Uspešno nastavljeno"</string>
+<string name="set_data_subscription_progress">"Nastavljam, prosim, počakajte ..."</string>
+<string name="set_data_subscription_error_ok">"Določi"</string>
+<string name="set_data_subscription_error_title">"Napaka"</string>
+<string name="set_data_subscription_error">"SIM kartica ni vstavljena, preverite in poskusite znova!"</string>
+<string name="sim_retries_left">"Število preostalih vnosov"</string>
+<string name="menu_kill_apps_services">"Zapri vse aplikacije"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protokol uporabe podatkov v ozadju."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Sprejmi protokol uporabe podatkov v ozadju?"</string>
+<string name="apn_edit_quit">"Izhod"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Uredi dostopno točko"</string>
+<string name="input_pin_limit">"Vnesite 4-8 številk"</string>
+    <string name="agps_supl_manual_settings">"SUPL ročna nastavitev strežnika"</string>
+    <string name="agps_supl_manual_settings_summary">"Ročna nastavitev SUPL strežnika in vrat"</string>
+    <string name="str_clear">"Počisti"</string>
+    <string name="str_save">"Shrani"</string>
+    <string name="gps_location_suplserver">"Strežnik"</string>
+    <string name="agps_setting">"Nastavitev agps"</string>
+    <string name="open">"Odpri"</string>
+    <string name="close">Zapri </string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Nastavitve mobilnega omrežja"</string>
+    <string name="pin_enabled_success">"PIN kartice SIM omogočen"</string>
+    <string name="pin_disabled_success">"PIN kartice SIM onemogočen"</string>
+    <string name="gps_time_sync_attention_gps_on">"Za določitev položaja GPS bo potrebna največ 1 minuta. Poleg tega lahko GPS ne pridobi podatkov o času zaradi slabega signala.\n\nSte prepričani, da hočete uporabiti GPS čas?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Za uporabo GPS časa morate najprej vklopiti GPS. Za določitev položaje bo potrebna največ 1 minuta. Poleg tega lahko GPS ne pridobi podatkov o času zaradi slabega signala.\n\nSte prepričani, da hočete uporabiti GPS čas in počakati, da se prikaže?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNi"</string>
+
+</resources>

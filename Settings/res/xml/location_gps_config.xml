@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/gps_config_titlebar">
+    <ListPreference
+            android:key="agps_setting"
+            android:title="@string/agps_setting"
+            android:persistent="true"
+            android:defaultValue="2"
+            android:entries="@array/agps_setting_entries"
+            android:entryValues="@array/agps_setting_entries_values"
+            />
+    <PreferenceScreen
+            android:key="supl_manual_settings"
+            android:title="@string/agps_supl_manual_settings"
+            android:summary="@string/agps_supl_manual_settings_summary" >
+    </PreferenceScreen>
+
+    <ListPreference
+            android:key="location_suplserver"
+            android:title="@string/gps_location_suplserver"
+            android:persistent="true"
+            android:defaultValue="0"
+            android:entries="@array/gps_location_suplserver_entries"
+            android:entryValues="@array/gps_location_suplserver_entries_values"
+            />
+
+    <EditTextPreference
+            android:key="supl_host"
+            android:title="@string/gps_config_supl_host"
+            android:persistent="false"
+            android:singleLine="true"
+            />
+
+    <EditTextPreference
+            android:key="supl_port"
+            android:title="@string/gps_config_supl_port"
+            android:persistent="false"
+            android:singleLine="true"
+            />
+
+    <EditTextPreference
+            android:key="cert_path"
+            android:title="@string/gps_config_cert_path"
+            android:persistent="false"
+            android:singleLine="true"
+            />
+    <ListPreference
+            android:key="location_method"
+            android:title="@string/gps_config_location_method"
+            android:persistent="false"
+            android:entries="@array/gps_config_location_method_entries"
+            android:entryValues="@array/gps_config_location_method_entries_values"
+            />
+<!--
+    <ListPreference
+            android:key="start_mode"
+            android:title="@string/gps_config_start_mode"
+            android:persistent="false"
+            android:entries="@array/gps_config_start_mode_entries"
+            android:entryValues="@array/gps_config_start_mode_entries_values"
+            android:visibility="gone"
+            />
+
+    <ListPreference
+            android:key="connection_type"
+            android:title="@string/gps_config_connection_type"
+            android:persistent="false"
+            android:entries="@array/gps_config_connection_type_entries"
+            android:entryValues="@array/gps_config_connection_type_entries_values"
+            android:visibility="gone"
+            />   -->
+</PreferenceScreen>

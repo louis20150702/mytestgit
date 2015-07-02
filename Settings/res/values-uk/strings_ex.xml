@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Налаштування типу APN"</string>
+<string name="user_could_input_apn_type">"Користувач міг ввести тип APN"</string>
+<string name="could_not_input_the_same_apn_type">"Не вдається ввести той самий тип APN"</string>
+<string name="apn_type_message">"Немає стандартного типу для Вашого нового APN. Неможливо обрати APN."</string>
+<string name="error_apn_type_message">"Тип APN не може бути пустим"</string>
+<string name="error_apn_type">"Введений Вами тип APN не підтримується. Будь ласка, введіть повторно!"</string>
+<string name="same_apn_type">"Ви ввели той самий тип APN. Будь ласка, введіть повторно!"</string>
+<string name="empty_apn_type">"Ви не ввели або не обрали тип APN, будь ласка, введіть ще раз!"</string>
+<string name="dual_settings_title_uui">"Управління SIM-картою"</string>
+<string name="dual_voice_setting_title">"Налаштування звуку"</string>
+<string name="dual_video_setting_title">"Налаштування відео"</string>
+<string name="dual_mms_setting_title">"Налаштування SMS"</string>
+<string name="dual_settings_title">"Налаштування Dual Sim "</string>
+<string name="sim_name_setting_title">"Змінити ім\'я SIM"</string>
+<string name="sim_color_setting_title">"Встановити колір фону"</string>
+<string name="dual_settings_always_prompt">"Завжди запитувати"</string>
+<string name="mms_settings_auto">"Авто "</string>
+<string name="no_need_set_data_subscription">"Немає потреби налаштовувати підписку даних."</string>
+<string name="voice_setting_title">"Налаштування голосового виклику "</string>
+<string name="video_setting_title">"Налаштування відеовиклику"</string>
+<string name="mms_setting_title">"Налаштування MMS та SMS "</string>
+<string name="sim_reply_setting">"SIM-налаштування відповіді "</string>
+<string name="reply_message_setting">"Відповісти на  MMS або SMS"</string>
+<string name="closeData">"Закрити"</string>
+<string name="data_title">"Параметри підключення обміну даними"</string>
+<string name="sel_sub_title">"Налаштування режиму очікування "</string>
+<string name="sel_sub_summary">"Підключити або відключити SIM-карту "</string>
+<string name="set_data_subscription_timeout">"Час налаштування з\'єднання для передачі даних вийшов!"</string>
+<string name="set_dds_failed">"Помилка! Очистіть усі з\'єднання для передачі даних і спробуйте ще раз!"</string>
+<string name="set_dds_success">"Час налаштування підключення обміну даними вийшов!"</string>
+<string name="set_data_subscription_progress">"Встановлення. Будь ласка, почекайте..."</string>
+<string name="set_data_subscription_error_ok">"Визначити"</string>
+<string name="set_data_subscription_error_title">"Помилка"</string>
+<string name="set_data_subscription_error">"Відсутність SIM-карти. Перевірте і повторіть спробу!"</string>
+<string name="sim_retries_left">"Залишилося"</string>
+<string name="menu_kill_apps_services">"Закрити всі додатки"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Протокол використання фонових даних"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Прийняти протокол використання фонових даних?"</string>
+<string name="apn_edit_quit">"Вийти"</string>
+<string name="apn_edit_ex">"Зміна точки доступу для SIM-<xliff:g id="SIM">%s</xliff:g> "</string>
+<string name="input_pin_limit">"Будь ласка, введіть 4-8 значний номер."</string>
+    <string name="agps_supl_manual_settings">"Ручна настройка серверу SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Встановить сервер і порт SUPL вручну"</string>
+     <string name="str_clear">"Очистити"</string>
+     <string name="str_save">Зберегти</string>
+     <string name="gps_location_suplserver">"Сервер"</string>
+    <string name="agps_setting">"Налаштування AGPS "</string>
+    <string name="open">"Відкр."</string>
+    <string name="close">Закрити</string>
+    <string name="mobile_network_settings_ex">Налаштування мобільної мережі для SIM<xliff:g id="SIM">%s</xliff:g> </string>
+    <string name="pin_enabled_success">"PIN-код SIM увімк."</string>
+    <string name="pin_disabled_success">"PIN-код SIM вимкнено"</string>
+    <string name="gps_time_sync_attention_gps_on">"Налаштування GPS займе близько 1 хвилини. Крім того, GPS може не вдатися передавати час через слабкий сигнал. Ви впевнені, що хочете використовувати час, що надається через GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Щоб використовувати час, що надається через GPS, необхідно спочатку включити GPS. Потім налаштування GPS займе близько 1 хвилини. Крім того GPS може не вдатися передавати час через слабкий сигнал. Ви впевнені, що хочете використовувати час, що надається через GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="wifi_eap_method">
+    <!-- Do not translate. -->
+    <item>"PEAP"</item>
+    <!-- Do not translate. -->
+    <item></item>
+    <!-- Do not translate. -->
+    <item></item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item>"PEAP"</item>
+    <item></item>
+    <item></item>
+  </string-array>
+  <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+    <item>ཨ་མེ་རི་ཁ།</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+    <item>ཡོ་རབ།</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+    <item>ཨ་ཧྥེ་རི་ཁ།</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+    <item>ཨེ་ཤེ་ཡ།</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+    <item>ཨ་སུ་ཁྲུ་ལི་ཡ།</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+    <item>ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོ།</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+    <item>ཡོངས་འདེམས།</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item>སྐར་ཆ་15</item>
+    <item>སྐར་ཆ་30</item>
+    <item>སྐར་མ་1</item>
+    <item>སྐར་མ་2</item>
+    <item>སྐར་མ་10</item>
+    <item>སྐར་མ་30</item>
+    <item>30 སྐར་མ།</item>
+    <!--revo lyq 20141215-->    
+    <item>ཚང་མ་མི་དགོས།</item>    
+  </string-array>
+  <string-array name="tts_pitch_entries">
+    <item>ཧ་ཅང་དམའ་པོ།</item>
+    <item>དམའ།</item>
+    <item>རྒྱུན་ལྡན།</item>
+    <item>མཐོ།</item>
+    <item>ཧ་ཅང་མཐོ་པོ།</item>
+  </string-array>
+  <string-array name="wifi_security">
+    <item>@string/wifi_security_none</item>
+    <item>@string/wifi_security_wep</item>
+    <item>@string/wifi_security_psk_generic</item>
+    <item>@string/wifi_security_eap</item>
+    <item>@string/wifi_security_wapi_psk</item>
+    <item>@string/wifi_security_wapi_cert</item>
+   </string-array>
+  <string-array name="wifi_status">
+    <!-- Status message of Wi-Fi when it is idle. -->
+    <item> </item>
+    <!-- Status message of Wi-Fi when it is scanning. -->
+    <item>བཤར་འབེབས་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is connecting. -->
+    <item>འབྲེལ་མཐུད་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is authenticating. -->
+    <item>ཐོབ་ཐང་ར་སྤྲོད་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+    <item>Ipས་གནས་ལེན་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is connected. -->
+    <item>འབྲེལ་མཐུད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is suspended. -->
+    <item>སྐབས་སྡོད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is disconnecting. -->
+    <item>འབྲེལ་མཐུད་འབྲེལ་གཅོད་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is disconnected. -->
+    <item>འབྲེལ་མཐུད་ཕྲལ་གཅོད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is a failure. -->
+    <item>ཕམ་པ།</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <!-- Status message of Wi-Fi when it is idle. -->
+    <item> </item>
+    <!-- Status message of Wi-Fi when it is scanning. -->
+    <item>བཤར་འབེབས་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is connecting to a network. -->
+    <item><xliff:g id="NETWORK_NAME">%1$s</xliff:g>ལ་འབྲེལ་མཐུད་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+    <item><xliff:g id="NETWORK_NAME">%1$s</xliff:g>བརྒྱུད་ནས་ཐོབ་ཐང་ར་སྤྲོད་བྱེད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+    <item><xliff:g id="NETWORK_NAME">%1$s</xliff:g>ནས་Ipས་གནས་ལེན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is connected to a network. -->
+    <item><xliff:g id="NETWORK_NAME">%1$s</xliff:g>ལ་འབྲེལ་མཐུད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is suspended. -->
+    <item>སྐབས་སྡོད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+    <item><xliff:g id="NETWORK_NAME">%1$s</xliff:g>དང་འབྲེལ་མཐུད་གཅོད་བཞིན་པ།...</item>
+    <!-- Status message of Wi-Fi when it is disconnected. -->
+    <item>འབྲེལ་མཐུད་ཕྲལ་གཅོད་བྱས་ཟིན།</item>
+    <!-- Status message of Wi-Fi when it is a failure. -->
+    <item>ཕམ་པ།</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item>སྐར་མ་2</item>
+    <item>སྐར་མ་5</item>
+    <item>ཆུ་ཚོད་1</item>
+    <item>ཚང་མ་མི་དགོས།</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item>ཞན།</item>
+    <item>སྤྱིར་བཏང་།</item>
+    <item>རྒྱུན་ལྡན།</item>
+    <item>དྲག</item>
+  </string-array>
+  <string-array name="wifi_sleep_policy_entries">
+    <!-- Wi-Fi should go to sleep when the screen turns off. -->
+    <item>བརྙན་ཤེལ་ཁ་རྒྱག་དུས་མལ་གསོ་བྱེད།</item>
+    <!-- When plugged in, never go to sleep.  When on battery, go to sleep when screen turns off. -->
+    <item>གློག་བླུགས་སྐབས་གཏན་ནས་མལ་གསོ་མི་བྱེད།</item>
+    <!-- Never go to sleep. -->
+    <item>ཚང་མ་མི་དགོས།</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item>སྤྱོད་པའི་དུས་ཚོད།</item>
+    <item>འགོ་སློང་ཐེངས་གྲངས།</item>
+    <item>ཉེར་སྤྱོད་བྱ་རིམ་གྱི་མིང་།</item>
+  </string-array>
+  <string-array name="wifi_phase2_entries">
+    <item>མེད།</item>
+    <item>PAP</item>
+    <item>MSCHAP</item>
+    <item>MSCHAPV2</item>
+    <item>GTC</item>
+  </string-array>
+  <string-array name="emergency_tone_entries">
+    <item>ཁ་རྒྱག་པ།</item>
+    <item>ཉེན་བརྡ།</item>
+    <item>འདར་འགུལ།</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item>མེད།</item>
+    <item>PAP ཡང་ན་ CHAP</item>
+    <item>གཏན་འཁེལ་མ་བྱས་པ།</item>
+    <item>PAP ཡང་ན་ CHAP</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item>སྒྲིག་ཆས་ནང་ཁུལ་ཉར་གསོག</item>
+    <item>བཤིག་འདོན་བྱེད་རུང་བའི་SDཁཱ།</item>
+    <item>བརྒྱུད་ཁོངས་ནས་གཏན་འཁེལ།</item>
+  </string-array>
+  
+  <string-array name="app_ums_install_location_entries">
+        <item>སྒྲིག་ཆས་ནང་ཁུལ་ཉར་གསོག</item>
+        <item>ཁ་པར་གྱི་ནང་རོལ་གསོག་ཆས།</item>
+        <item>བརྒྱུད་ཁོངས་ནས་གཏན་འཁེལ།</item>
+   </string-array>
+
+  
+  <string-array name="dualsim_summaries">
+    <item> SIM 1</item>
+    <item> SIM 2</item>
+        <item>ནམ་རྒྱུན་གསལ་སྟོན། </item>
+  </string-array>
+  <string-array name="alarm_set">
+    <item>ད་ལྟ་ནས་སྐར་མ་1མ་སླེབས་གོང་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="DAYS">%1$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="HOURS">%2$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="HOURS">%2$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="MINUTES">%3$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ད་ལྟ་ནས་སྐར་མ་<xliff:g id="HOURS">%2$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g>རྗེས་ནུས་པ་ཐོན་པར་སྒྲིག་འགོད་བྱེད།</item>
+    <item>ཐིར་འདི་ད་ལྟ་ནས་<xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="HOURS">%2$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g>རྗེས་ལ་དྲན་སྐུལ་ཡོད་པར་སྒྲིག་འགོད་བྱེད། འདེམས་ཚར་ཡང་སྐྱུར་ཆོག</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+        <item>ཚང་མ་མི་དགོས།</item>
+        <item>15 སྐར་ཆ། </item>
+        <item>30 སྐར་ཆ། </item>
+        <item>1 སྐར་མ།</item>
+        <item>2 སྐར་མ།</item>
+        <item>5 སྐར་མ།</item>
+        <item>10 སྐར་མ།</item>
+        <item>30 སྐར་མ།</item>
+    </string-array>
+  <string-array name="lock_after_timeout_entries">
+        <item>མྱུར་དུ།</item>
+        <item>སྐར་ཆ 5 </item>
+        <item>15 སྐར་ཆ། </item>
+        <item>30 སྐར་ཆ། </item>
+        <item>1 སྐར་མ།</item>
+        <item>2 སྐར་མ།</item>
+        <item>5 སྐར་མ།</item>
+        <item>10 སྐར་མ།</item>
+        <item>30 སྐར་མ།</item>
+    </string-array>
+  <string-array name="entries_font_size">
+        <item msgid="6490061470416867723">ཆུང་བ།</item>
+        <item msgid="3579015730662088893">རྒྱུན་ལྡན།</item>
+        <item msgid="1678068858001018666">ཆེ།</item>
+        <item msgid="490158884605093126">ཆེ་དྲགས། </item>
+    </string-array>
+  <string-array name="wifi_p2p_wps_setup">
+        <!-- Push button based configuration involves pushing a button on two connecting devices [CHAR LIMIT=30]-->
+        <item>མཐེབ་གནོན། </item>
+        <!-- This involves entering a pin obtained from a peer device [CHAR LIMIT=30] -->
+        <item>ཆ་མཚུངས་སྒྲིག་ཆས་ལས་ཐོབ་པའི PIN</item>
+        <!-- This involves generating a pin from this device [CHAR LIMIT=20] -->
+        <item>སྒྲིག་ཆས་ལས་ཐོབ་པའི PIN</item>
+    </string-array>
+  <string-array name="wifi_p2p_status">
+        <item>འབྲེལ་མཐུད་བྱས་ཟིན།</item>
+        <item>གདན་ཞུ། </item>
+        <item>ཕམ་པ།</item>
+        <item>སྤྱོད་རུང་བའི་བར་སྟོང་།</item>
+        <item>ཁྱབ་ཁོངས་ལས་བརྒལ་བ། </item>
+   </string-array>
+  <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <!-- Always keep Wi-Fi on when screen turns off. -->
+        <item>ནམ་རྒྱུན། </item>
+        <!-- Keep Wi-Fi on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>གློག་བླུགས་སྐབས་གཏན་ནས་མལ་གསོ་མི་བྱེད།</item>
+        <!-- Do not keep Wi-Fi on when screen turns off, for Wi-Fi-only devices, no other data connection -->
+        <item>ཚང་མ་མི་དགོས།</item>
+    </string-array>
+  <string-array name="wifi_frequency_band_entries">
+        <!-- Operation on both 2.4 GHz and 5 GHz [CHAR LIMIT=25]-->
+        <item>རང་འགུལ་</item>
+        <!-- Operation on 5 GHz alone [CHAR LIMIT=25]-->
+        <item>བརྙན་སྐུད 5 GHzཁོ་ན་བཀོལ་བ། </item>
+        <!-- Operation on 2.4 GHz alone [CHAR LIMIT=25]-->
+        <item>བརྙན་སྐུད 2.4 GHzཁོ་ན་བཀོལ་བ། </item>
+    </string-array>
+  <string-array name="wifi_proxy_settings">
+        <!-- No HTTP proxy is used for the current wifi network [CHAR LIMIT=25] -->
+        <item>མེད།</item>
+        <!-- Manual HTTP proxy settings are used for the current wifi network [CHAR LIMIT=25] -->
+        <item>ལག་འགུལ། </item>
+    </string-array>
+  <string-array name="dualsim_entries">
+        <item>བྱང་བུ 1</item>
+        <item>བྱང་བུ 2</item>
+    </string-array>
+  <string-array name="dualsim_setting_entries">
+        <item>བྱང་བུ 1</item>
+        <item>བྱང་བུ 2</item>
+        <item>ནམ་རྒྱུན་གསལ་སྟོན། </item>
+    </string-array>
+  <string-array name="silent_mode_entries">
+        <item>ཁ་རྒྱག་པ།</item>
+        <item>འདར་འགུལ།</item>
+        <item>སྒྲ་མེད།</item>
+    </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+        <!-- A title for the option for short long-press timeout [CHAR LIMIT=25] -->
+        <item>ཐུང་། </item>
+        <!-- A title for the option for medium long-press timeout [CHAR LIMIT=25] -->
+        <item>དཀྱིལ།</item>
+        <!-- A title for the option for long long-press timeout [CHAR LIMIT=25] -->
+        <item>རིང་བ།</item>
+    </string-array>
+  <string-array name="hdcp_checking_titles">
+        <item>ནམ་ཡང་ཞིབ་བཤེར་མི་བྱེད་པ། </item>
+        <item>DRM ཡི་ནང་དོན་ཁོ་ནར་ཞིབ་བཤེར་བྱེད་པ། </item>
+        <item>ནམ་ཡང་ཞིབ་བཤེར་བྱེད་པ། </item>
+    </string-array>
+  <string-array name="hdcp_checking_summaries">
+        <item>ནམ་ཡང HDCP ཡི་ཞིབ་བཤེར་མི་བཀོལ་བ། </item>
+        <item>HDCP ཡིས DRM ཡི་ནང་དོན་ཁོ་ནར་ཞིབ་བཤེར་བྱེད་པ། </item>
+        <item>ནམ་རྒྱུན HDCP ཡི་ཞིབ་བཤེར་བཀོལ་བ། </item>
+    </string-array>
+  <string-array name="window_animation_scale_entries">
+        <item>འགུལ་རིས་ཁ་རྒྱག་པ། </item>
+        <item>འགུལ་རིས་བརྙན་ངོས 0.5x ཅན་དུ་གཏོང་བ། </item>
+        <item>འགུལ་རིས་བརྙན་ངོས 1x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 1.5x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 2x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 5x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 10x ཅན་དུ་གཏོང་བ།</item>
+    </string-array>
+  <string-array name="transition_animation_scale_entries">
+        <item>འགུལ་རིས་ཁ་རྒྱག་པ། </item>
+        <item>འགུལ་རིས་བརྙན་ངོས .5x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 1x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 1.5x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 2x ཅན་དུ་གཏོང་བ།</item>
+        <item>འགུལ་རིས་བརྙན་ངོས 5x ཅན་དུ་གཏོང་བ། </item>
+        <item>འགུལ་རིས་བརྙན་ངོས 10x ཅན་དུ་གཏོང་བ།</item>
+    </string-array>
+  <string-array name="app_process_limit_entries">
+        <item>ཚད་ལྡན་ཚད་བཀག</item>
+        <item>རྒྱབ་ངོས་འཕེལ་རིམ་བཀོལ་མི་ཆོག</item>
+        <item>རྒྱབ་ངོས་འཕེལ་རིམ་གཅིག་ལས་བརྒལ་མི་ཆོག</item>
+        <item>རྒྱབ་ངོས་འཕེལ་རིམ་གཅིག་ལས་བརྒལ་མི་ཆོག</item>
+        <item>རྒྱབ་ངོས་འཕེལ་རིམ་གཅིག་ལས་བརྒལ་མི་ཆོག</item>
+        <item>རྒྱབ་ངོས་འཕེལ་རིམ་གཅིག་ལས་བརྒལ་མི་ཆོག</item>
+    </string-array>
+  <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>སྔོན་ནས་མཉམ་སྤྱོད་གསང་གྲངས་ཡོད་པའི L2TP/IPSec VPN</item>
+        <item>དཔང་ཡིག་ཡོད་པའི L2TP/IPSec VPN</item>
+        <item>སྔོན་ནས་མཉམ་སྤྱོད་གསང་གྲངས་ཡོད་ཅིང Xauth ཐོབ་ཐང་ཞིབ་བཤེར་ཅན་གྱི    IPSec VPN</item>
+        <item>དཔང་ཡིག་ཡོད་ཅིང Xauthཐོབ་ཐང་ཞིབ་བཤེར་ཅན་གྱི IPSec VPN </item>
+        <item>དཔང་ཡིག་ཡོད་ཅིང་བསྲེས་རྣམ་ཐོབ་ཐང་ཞིབ་བཤེར་ཅན་གྱི IPSec VPN </item>
+    </string-array>
+  <string-array name="vpn_states">
+        <!-- Status message when VPN is disconnected. -->
+        <item>འབྲེལ་མཐུད་ཕྲལ་གཅོད་བྱས་ཟིན།</item>
+        <!-- Status message when VPN is initializing. -->
+        <item>མགོ་རྩོམ་བཞིན་པ། </item>
+        <!-- Status message when VPN is connecting. -->
+        <item>འབྲེལ་མཐུད་བྱེད་བཞིན་པ།...</item>
+        <!-- Status message when VPN is connected. -->
+        <item>འབྲེལ་མཐུད་བྱས་ཟིན།</item>
+        <!-- Status message when VPN is timeout. -->
+        <item>དུས་ལས་བརྒལ་བ། </item>
+        <!-- Status message when VPN is failed. -->
+        <item>ཕམ་པ།</item>
+    </string-array>
+  <string-array name="wifi_ip_settings">
+        <!-- Use DHCP (Dynamic Host Configuration Protocol) for obtaining IP settings [CHAR LIMIT=25] -->
+        <item></item>
+        <!-- Use statically defined IP settings [CHAR LIMIT=25]-->
+        <item>ཞི་འཇགས།</item>
+    </string-array>
+  <string-array name="bearer_entries">
+        <item></item>
+        <item></item>
+        <item>གཏན་འཁེལ་མ་བྱས།</item>
+    </string-array>
+  <string-array name="mobile_to_wlan">
+        <item>རང་འགུལ་མཐུད་འཇུག</item>
+        <item>ལག་འགུལ་གྱིས་སྦྲེལ།</item>
+        <item>རྒྱུན་པར་དོགས་འདྲི་བྱེད།</item>
+    </string-array>
+  <string-array name="touch_light_timeout_entries">
+<item>"སྐར་ཆ་1.5"</item>
+<item>6 སྐར་ཆ།</item>
+<item>ནམ་རྒྱུན་བཀོལ་བ།</item>
+<item>Always close</item>
+</string-array>
+  <string-array name="dualsim_mms_summaries">
+<item>SIM 1</item>
+<item>SIM 2</item>
+<item>རྟག་ཏུ་གསལ་འདེབས།</item>
+<item>རང་འགུལ་</item>
+</string-array>
+  <string-array name="animator_duration_scale_entries">
+<item>འགུལ་རིས་ཁ་རྒྱག་པ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས .5x ཅན་དུ་གཏོང་བ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས 1x ཅན་དུ་གཏོང་བ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས 1.5x ཅན་དུ་གཏོང་བ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས 2x ཅན་དུ་གཏོང་བ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས 5x ཅན་དུ་གཏོང་བ།</item>
+<item>འགུལ་རིས་བརྙན་ངོས 10x ཅན་དུ་གཏོང་བ།</item>
+</string-array>
+    <string-array name="tts_rate_entries">
+        <item>"ཧ་ཅང་དལ་པོ།"</item>
+        <item>"དལ་པོ།"</item>
+        <item>"རྒྱུན་ལྡན།"</item>
+        <item>"མགྱོགས་པོ།"</item>
+        <item>"ཧ་ཅང་མགྱོགས་པོ།"</item>
+        <item>"ཤིན་ཏུ་མྱུར།"</item>
+        <item>"མྱུར་མོ།"</item>
+        <item>"མགྱོགས་མྱུར།"</item>
+        <item>"ཆེས་མྱུར།"</item>
+    </string-array>
+     <string-array name="wifi_peap_phase2_entries">
+        <item>"མེད།"</item>
+        <item>"MSCHAPV2"</item>
+        <item>"GTC"</item>
+    </string-array>
+     <string-array name="mvno_type_entries">
+        <item>"མེད།"</item>
+        <item>"SPN"</item>
+        <item>"IMSI"</item>
+        <item>"GID"</item>
+    </string-array>
+     <string-array name="app_ops_categories">
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"མི་སྒེར།"</item>
+        <item>"ཆ་འཕྲིན།"</item>
+        <item>"སྨྱན་གཟུགས།"</item>
+        <item>"སྒྲིག་ཆས།"</item>
+    </string-array>
+     <string-array name="app_ops_summaries">
+        <item>"གནས་ས་རགས་མོ།"</item>
+        <item>"གནས་ས་ཞིབ་ཕྲ།"</item>
+        <item>"GPS"</item>
+        <item>"འདར་འགུལ།"</item>
+        <item>"འབྲེལ་གཏུག་འཚོལ།"</item>
+        <item>"འབྲེལ་གཏུག་ཀློག"</item>
+        <item>"ཁ་བརྡའི་ཉིན་ཐོ་ཀློག"</item>
+        <item>"ཁ་བརྡའི་ཟིན་ཐོ་སྒྱུར།"</item>
+        <item>"ཚེས་ཐོ་ཀློག"</item>
+        <item>"ཚེས་ཐོ་སྒྱུར།"</item>
+        <item>"wi-fiབཤར་འབེབ།"</item>
+        <item>"བརྡ་ཐོ།"</item>
+        <item>"ཁ་པར་དྲ་བའི་བཤར་འབེབ།"</item>
+        <item>"ཁ་པར་གཏོང་།"</item>
+        <item>"འཕྲིན་ཐུང་ཀློག"</item>
+        <item>"འཕྲིན་ཐུང་འབྲི།"</item>
+        <item>"འཕྲིན་ཐུང་སྡུད།"</item>
+        <item>"འཕྲིན་ཐུང་བྲེལ་མོ་འབྱོར།"</item>
+        <item>"ཚོན་འཕྲིན་སྡུད།"</item>
+        <item>"WAP pushའབྱོར།"</item>
+        <item>"འཕྲིན་ཐུང་སྐུར།"</item>
+        <item>"ICC SMSཀློག"</item>
+        <item>"ICC SMSའབྲི།"</item>
+        <item>"སྒྲིག་འགོད་སྒྱུར།"</item>
+        <item>"རྩེ་མོར་འགོད།"</item>
+        <item>"འདྲི་གཏུག་བརྡ།"</item>
+        <item>"པར་ཆས།"</item>
+        <item>"སྒྲ་ཕབ།"</item>
+        <item>"སྒྲ་ཟློས་གཏོང་།"</item>
+        <item>"དྲས་སྦྱར་སྡེ་ཀློག"</item>
+        <item>"དྲས་སྦྱར་སྡེ་སྒྱུར།"</item>
+        <item>"སྦྱན་གཟུགས་མཐེབ།"</item>
+        <item>"སྒྲ་ཟློས་མདོ་ཚེག"</item>
+        <item>"སྒྲ་ཚད་གཙོ་བོ།"</item>
+        <item>"སྐད་སྒྲའི་སྒྲ་ཚད།"</item>
+        <item>"དྲིལ་སྒྲའི་སྒྲ་ཚད།"</item>
+        <item>"སྨྱན་གཟུགས་ཀྱི་སྒྲའི་ཚད།"</item>
+        <item>"ཐིར་སྒྲའི་སྐད་ཤུགས།"</item>
+        <item>"བརྡ་སྦྱོར་སྒྲ་ཚད།"</item>
+        <item>"སོ་སྔོན་སྒྲ་ཚད།"</item>
+        <item>"གཉིས་སད་རྣམ་པ་རྒྱུན་འཁྱོངས།"</item>
+        <item>"གནས་ས་འཚོལ་བཤེར།"</item>
+        <item>"རྩོལ་ཕྱོད་ཆེ་བའི་གནས་འཚོལ་བཤེར་བྱེད།"</item>
+    </string-array>
+     <string-array name="app_ops_labels">
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"འདར་འགུལ།"</item>
+        <item>"འབྲེལ་གཏུག་འཚོལ།"</item>
+        <item>"འབྲེལ་གཏུག་ཀློག"</item>
+        <item>"ཁ་བརྡའི་ཉིན་ཐོ་ཀློག"</item>
+        <item>"ཁ་བརྡའི་ཟིན་ཐོ་སྒྱུར།"</item>
+        <item>"ཚེས་ཐོ་ཀློག"</item>
+        <item>"ཚེས་ཐོ་སྒྱུར།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"བརྡ་ཁྱབ་སྒྲོག་བྱེད།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"ཁ་པར་གཏོང་།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་ཀློག"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྲི།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྱོར།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྱོར།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྱོར།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྱོར།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་སྐུར།"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་ཀློག"</item>
+        <item>"འཕྲིན་ཐུང/ཚོན་འཕྲིན་འབྲི།"</item>
+        <item>"སྒྲིག་འགོད་སྒྱུར།"</item>
+        <item>"རྩེ་མོར་འགོད།"</item>
+        <item>"འདྲི་གཏུག་བརྡ།"</item>
+        <item>"པར་ཆས།"</item>
+        <item>"སྒྲ་ཕབ།"</item>
+        <item>"སྒྲ་ཟློས་གཏོང་།"</item>
+        <item>"དྲས་སྦྱར་སྡེ་ཀློག"</item>
+        <item>"དྲས་སྦྱར་སྡེ་སྒྱུར།"</item>
+        <item>"སྦྱན་གཟུགས་མཐེབ།"</item>
+        <item>"སྒྲ་ཟློས་མདོ་ཚེག"</item>
+        <item>"སྒྲ་ཚད་གཙོ་བོ།"</item>
+        <item>"སྐད་སྒྲའི་སྒྲ་ཚད།"</item>
+        <item>"དྲིལ་སྒྲའི་སྒྲ་ཚད།"</item>
+        <item>"སྨྱན་གཟུགས་ཀྱི་སྒྲའི་ཚད།"</item>
+        <item>"ཐིར་སྒྲའི་སྐད་ཤུགས།"</item>
+        <item>"བརྡ་སྦྱོར་སྒྲ་ཚད།"</item>
+        <item>"སོ་སྔོན་སྒྲ་ཚད།"</item>
+        <item>"གཉིས་སད་རྣམ་པ་རྒྱུན་འཁྱོངས།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+        <item>"གནས་ཡུལ་ཞབས་འདེགས།"</item>
+    </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>"ཁོག་འཐད།"</item>
+        <item>"Sans-serif"</item>
+        <item>"Sans-serif condensed"</item>
+        <item>"Serif"</item>
+        <item>"ཞེང་མཚུངས།"</item>
+    </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>"ཤིན་ཏུ་ཆུང་།"</item>
+        <item>"ཆུང་བ།"</item>
+        <item>"རྒྱུན་ལྡན།"</item>
+        <item>"ཆེ།"</item>
+        <item>"ཤིན་ཏུ་ཆེ།"</item>
+    </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>"མེད།"</item>
+        <item>"སྐྱ་རིས།"</item>
+        <item>"གྲིབ་མ།"</item>
+    </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>"དཀར་པོའི་སྟེང་གི་དཀར་ཐིག"</item>
+        <item>"ནག་པོའི་སྟེང་གི་དཀར་ཐིག"</item>
+        <item>"ནག་པོའི་སྟེང་སེར་ཐིག"</item>
+        <item>"སྔོན་པོའི་སྟེང་གི་སེར་ཐིག"</item>
+        <item>"རང་འཇོག"</item>
+    </string-array>
+     <string-array name="select_runtime_titles">
+        <item>"Dalvik"</item>
+        <item>"ART"</item>
+        <item>"ART(སྙོམ་སྒྲིག)"</item>
+    </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>"Dalvikབཀོལ།"</item>
+        <item>"ARTབཀོལ་སྤྱོད་བྱེད།"</item>
+        <item>"ARTབཀོལ་ནས་པར་གཞི་སྙོམ་སྒྲིག་བྱེད།"</item>
+    </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>"མེད།"</item>
+        <item>"720x480 mdpi"</item>
+        <item>"720x480 mdpi (བདེ་འཇགས།)"</item>
+        <item>"1280x720 tvdpi"</item>
+        <item>"1280x720 tvdpi(བདེ་འཇགས།)"</item>
+        <item>"1920x1080 xhdpi"</item>
+        <item>"1920x1080 xhdpi (བདེ་འཇགས།)"</item>
+        <item>"1280x720 tvdpi and 1920x1080 xhdpi"</item>
+    </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>"མེད།"</item>
+        <item>"Logcat"</item>
+        <item>"Systrace(པར་རིས།)"</item>
+        <item>"glGetErrorདུ་དོས་ཁང་སྙོམ་སྒྲིག་བྱེད།"</item>
+    </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>"ཁ་རྒྱག་པ།"</item>
+        <item>"སྔོན་པོས་བཀང་ཞིང་གྲུ་བཞི་དབྱིབས་མ་ཡིན་པའི་དྲས་བརྒྱབས་ཁུལ།"</item>
+        <item>"སྔོན་པོ་མངོན་པར་གསལ་བའི་རིས་འགོད་ཚོད་ལྟའི་བཀའ་།"</item>
+    </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>"ཁ་རྒྱག་པ།"</item>
+        <item>"འཆར་ཤེལ་གྱི་ངོས་སུ་ནར་དབྱིབས་སུ་འཆར།"</item>
+        <item>"འཆར་ཤེལ་གྱི་ངོས་སུ་ཐིག་རིས་འཆར།"</item>
+        <item>"adb shell dumpsys gfxinfoནང་དུ།"</item>
+    </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>"ཁ་རྒྱག་པ།"</item>
+        <item>"བར་བརྒལ་རིས་འགོད་ཁུལ།"</item>
+        <item>"ལྗང་མདོག་མཐོང་ཚོར་ཉམས་པའི་ནད་པར་འཕྲོད་པའི་ཁུལ་འཆར།"</item>
+        <item>"བར་བརྒལ་རྩིས་ཐོ་འཆར།"</item>
+    </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>"འདྲི།"</item>
+        <item>"རྟག་པར་བྱེད་དུ་མི་འཇུག"</item>
+        <item>"རྟག་པར་བྱེད་དུ་འཇུག"</item>
+    </string-array>
+     <string-array name="ram_states">
+        <item>"རྒྱུན་ལྡན།"</item>
+        <item>"དཀྱིལ།"</item>
+        <item>"དམའ།"</item>
+        <item>"ཚབས་ཆེ།"</item>
+    </string-array>
+  <string-array name="agps_setting_entries">
+    <item>ཁ་འབྱེད་པ། </item>
+    <item>ཁ་རྒྱག་པ། </item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item>དྲ་རྒྱ་ནས་མཁོ་སྤྲོད་བྱས་པའི་གྲངས་སྤྱོད་པ།(ཁ་པར་བསྐྱར་སློང་རྗེས་ནུས་པ་ལྡན་ལ་དྲ་རྒྱར་རྒྱབ་སྐྱོར་ཡོད།)</item>
+    <item>"GPSདུས་ཚོད་འདོན་སྤྲོད་བྱེད།"</item>
+    <item>ཁ་རྒྱག་པ།</item>
+  </string-array>
+  <string-array name="auto_time_entries_no_gps">
+    <item>དྲ་རྒྱ་ནས་མཁོ་སྤྲོད་བྱས་པའི་གྲངས་སྤྱོད་པ།(ཁ་པར་བསྐྱར་སློང་རྗེས་ནུས་པ་ལྡན་ལ་དྲ་རྒྱར་རྒྱབ་སྐྱོར་ཡོད།)</item>
+    <item>ཁ་རྒྱག་པ།</item>
+  </string-array>
+</resources>

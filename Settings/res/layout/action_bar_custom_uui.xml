@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ationBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/ab_solid_dark_holo"
+    android:orientation="horizontal" >
+    <ImageButton
+        android:id="@+id/ationBarBack"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="@drawable/btn_action_back_selector"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_ab_back_holo_light_sprd" />
+
+    <TextView
+        android:id="@+id/uninstall"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:layout_toRightOf="@id/ationBarBack"
+        android:text="@string/delete_applications"
+        android:textColor="@android:color/white"
+        android:textSize="18dp" />
+
+    <ImageButton
+        android:id="@+id/actionbar_sort"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="@drawable/btn_action_back_selector"
+        android:src="@drawable/uninstall_sort"
+        android:layout_marginRight="12dip" />
+
+</RelativeLayout>

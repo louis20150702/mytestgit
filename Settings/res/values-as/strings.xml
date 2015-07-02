@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"হয়"</string>
+<string name="no">"নহয়"</string>
+<string name="create">"সৃষ্টি কৰক"</string>
+<string name="allow">"অনুমতি দিয়া হওঁক"</string>
+<string name="deny">"অনুমতি নাকচ হওঁক"</string>
+<string name="device_info_default">"অজ্ঞাত"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"আপুনি এতিয়া এগৰাকী পৰিৱৰ্তনকাৰী হোৱাৰ পৰা <xliff:g id="step_count">%1$d</xliff:g> খোজ আঁতৰত৷"</item>
+<item quantity="other">"আপুনি এতিয়া এগৰাকী পৰিৱৰ্তনকাৰী হোৱাৰ পৰা <xliff:g id="step_count">%1$d</xliff:g> খোজ আঁতৰত৷"</item>
+</plurals>
+<string name="show_dev_on">"আপুনি এতিয়া এগৰাকী পৰিৱৰ্তনকাৰী!"</string>
+<string name="show_dev_already">"কোনো প্ৰয়োজন নাই, আপুনি ইতিমধ্যেই এগৰাকী পৰিৱৰ্তনকাৰী"</string>
+<string name="header_category_wireless_networks">"ৱায়াৰলেছ আৰু নেটৱৰ্ক"</string>
+<string name="header_category_device">"ডিভাইচ"</string>
+<string name="header_category_personal">"ব্যক্তিগত"</string>
+<string name="header_category_system">"ছিষ্টেম"</string>
+<string name="turn_on_radio">"ৰেডিঅ চালু কৰক"</string>
+<string name="turn_off_radio">"ৰেডিঅ বন্ধ কৰক"</string>
+<string name="sms_over_ims_on">"IMS ৰ ওপৰত SMS অন কৰক"</string>
+<string name="sms_over_ims_off">"IMS ৰ ওপৰত SMS অফ কৰক"</string>
+<string name="ims_reg_required_on">"প্ৰয়োজনীয় IMS পঞ্জীয়ন অন কৰক"</string>
+<string name="ims_reg_required_off">"প্ৰয়োজনীয় IMS পঞ্জীয়ন অফ কৰক"</string>
+<string name="lte_ram_dump_on">"LTE ৰেম ডাম্প অন কৰক"</string>
+<string name="lte_ram_dump_off">"LTE ৰেম ডাম্প অফ কৰক"</string>
+<string name="radioInfo_menu_viewADN">"SIM ৰ এড্ৰেছ বুক চাওঁক"</string>
+<string name="radioInfo_menu_viewFDN">"ফিক্সড ডায়েলিং নম্বৰসমূহ চাওঁক"</string>
+<string name="radioInfo_menu_viewSDN">"চাৰ্ভিছ ডায়েলিং নম্বৰসমূহ চাওঁক"</string>
+<string name="radioInfo_menu_getPDP">"PDP তালিকা গ্ৰহণ কৰক"</string>
+<string name="radioInfo_service_in">"সেৱাত"</string>
+<string name="radioInfo_service_out">"সেৱা বহিৰ্ভূত"</string>
+<string name="radioInfo_service_emergency">"কেৱল জৰুৰীকালীন ফোন"</string>
+<string name="radioInfo_service_off">"ৰেডিঅ’ বন্ধ"</string>
+<string name="radioInfo_roaming_in">"ৰোমিং"</string>
+<string name="radioInfo_roaming_not">"ৰোমিং নাই"</string>
+<string name="radioInfo_phone_idle">"আইডল"</string>
+<string name="radioInfo_phone_ringing">"ৰিং হৈ আছে"</string>
+<string name="radioInfo_phone_offhook">"কল প্ৰেৰিত হৈ আছে"</string>
+<string name="radioInfo_data_disconnected">"সংযোগ বিচ্ছিন্ন হৈছে"</string>
+<string name="radioInfo_data_connecting">"সংযোজিত হৈছে"</string>
+<string name="radioInfo_data_connected">"সংযোগ স্থাপন হৈছে"</string>
+<string name="radioInfo_data_suspended">"নিলম্বন কৰা হৈছে"</string>
+<string name="radioInfo_unknown">"অজ্ঞাত"</string>
+<string name="radioInfo_display_bytes">"বাইটছ"</string>
+<string name="sdcard_unmount" product="nosdcard">"USB ষ্ট’ৰেজ আনমাউণ্ট কৰক"</string>
+<string name="sdcard_unmount" product="default">"SD কাৰ্ড আনমাউণ্ট কৰক"</string>
+<string name="sdcard_format" product="nosdcard">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+<string name="sdcard_format" product="default">"SD কাৰ্ড মচি পেলাওঁক"</string>
+<string name="small_font">"সৰু"</string>
+<string name="medium_font">"মিডিয়াম"</string>
+<string name="large_font">"ডাঙৰ"</string>
+<string name="font_size_save">"ঠিক আছে"</string>
+<string name="sdcard_setting" product="nosdcard">"USB ষ্ট্\'ৰেজ"</string>
+<string name="sdcard_setting" product="default">"SD কাৰ্ড"</string>
+<string name="battery_info_status_label">"বেটাৰীৰ স্থিতি"</string>
+<string name="battery_info_power_label">"পাৱাৰ প্লাগ"</string>
+<string name="battery_info_scale_label">"বেটাৰীৰ সময়সীমা"</string>
+<string name="battery_info_level_label">"বেটাৰীৰ পৰ্যায়"</string>
+<string name="battery_info_health_label">"বেটাৰীৰ অৱস্থা"</string>
+<string name="battery_info_technology_label">"বেটাৰীৰ প্ৰযুক্তি"</string>
+<string name="battery_info_voltage_label">"বেটাৰীৰ ভল্টেজ"</string>
+<string name="battery_info_temperature_label">"বেটাৰীৰ উষ্ণতা"</string>
+<string name="battery_info_temperature_units">"\u00B0 C"</string>
+<string name="battery_info_uptime">"বন্ধ কৰি থোৱাৰ পৰা সময়"</string>
+<string name="battery_info_awake_battery">"বেটাৰীত জাগ্ৰত হোৱা সময়"</string>
+<string name="battery_info_awake_plugged">"চাৰ্জ হৈ থাকোতে জাগ্ৰত হোৱা সময়"</string>
+<string name="battery_info_screen_on">"স্ক্ৰীণৰ অন হোৱা সময়"</string>
+<string name="battery_info_status_unknown">"অজ্ঞাত"</string>
+<string name="battery_info_status_charging">"চাৰ্জ হৈ আছে"</string>
+<string name="battery_info_status_charging_ac">"(AC)"</string>
+<string name="battery_info_status_charging_wireless">"(ৱায়াৰলেছ)"</string>
+<string name="battery_info_status_discharging">"চাৰ্জ হৈ থকা নাই"</string>
+<string name="battery_info_status_not_charging">"চাৰ্জ হৈ থকা নাই"</string>
+<string name="battery_info_status_full">"সম্পূৰ্ণ"</string>
+<string name="battery_info_power_unplugged">"আনপ্লাগড্"</string>
+<string name="battery_info_power_ac">"AC"</string>
+<string name="battery_info_power_wireless">"ৱায়াৰলেছ"</string>
+<string name="battery_info_power_ac_usb">"AC+USB"</string>
+<string name="battery_info_power_unknown">"অজ্ঞাত"</string>
+<string name="battery_info_health_unknown">"অজ্ঞাত"</string>
+<string name="battery_info_health_good">"ভাল"</string>
+<string name="battery_info_health_overheat">"অত্যধিক গৰম"</string>
+<string name="battery_info_health_dead">"মৃত"</string>
+<string name="battery_info_health_over_voltage">"অত্যধিক ভল্টেজ"</string>
+<string name="battery_info_health_unspecified_failure">"অজ্ঞাত আঁসোৱাহ"</string>
+<string name="battery_info_health_cold">"ক’ল্ড"</string>
+<string name="bluetooth">"ব্লুটুথ"</string>
+<string name="bluetooth_is_discoverable">"ওচৰত থকা আটাইবোৰ ব্লুটুথ ডিভাইচ দৃশ্যমান (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"ওচৰত থকা আটাইবোৰ ব্লুটুথ ডিভাইচ দৃশ্যমান"</string>
+<string name="bluetooth_not_visible_to_other_devices">"অন্যান্য ব্লুটুথ ডিভাইচসমূহ দৃশ্যমান নহয়৷"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"কেৱল পেইৰড ডিভাইচসমূহ দৃশ্যমান"</string>
+<string name="bluetooth_visibility_timeout">"দৃশ্যমান হোৱা সময় উকলি গ’ল"</string>
+<string name="bluetooth_lock_voice_dialing">"ভয়চ ডায়েলিং লক"</string>
+<string name="bluetooth_lock_voice_dialing_summary">""স্ক্ৰীণ লক হৈ থকা সময়ত ব্লুটুথ ডায়েলাৰৰ ব্যৱহাৰ "প্ৰতিৰোধ"</string>
+<string name="bluetooth_devices">"ব্লুটুথ ডিভাইচসমূহ"</string>
+<string name="bluetooth_device_name">"ডিভাইচৰ নাম"</string>
+<string name="bluetooth_device_details">"ডিভাইচৰ ছেটিংছ"</string>
+<string name="bluetooth_profile_details">"প্ৰ’ফাইল ছেটিংছ"</string>
+<string name="bluetooth_name_not_set">"কোনো নাম ছেট কৰা হোৱা নাই, একাউণ্টৰ নাম ব্যৱহৃত হৈ আছে৷"</string>
+<string name="bluetooth_scan_for_devices">"ডিভাইচ বিচাৰিবৰ বাবে স্কেন"</string>
+<string name="bluetooth_rename_device" product="tablet">"টেবলেটটোৰ পুনৰ নামাকৰণ কৰক"</string>
+<string name="bluetooth_rename_device" product="default">"ফোনটোৰ পুনৰ নামাকৰণ কৰক"</string>
+<string name="bluetooth_rename_button">"পুনঃনামাকৰণ"</string>
+<string name="bluetooth_disconnect_title">"সংযোগ বিচ্ছিন্ন?"</string>
+<string name="bluetooth_disconnect_all_profiles">"ই :&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>ৰ সৈতে আপোনাৰ সংযোগ বিচ্ছিন্ন কৰিব৷"</string>
+<string name="bluetooth_disable_profile_title">"প্ৰ’ফাইল অদৃশ্যমান কৰিব?"</string>
+<string name="bluetooth_disable_profile_message">"ই &lt;br>&lt;b><xliff:g id="profile_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br> ক &lt;br>&lt;b><xliff:g id="device_name">%2$s</xliff:g>&lt;/b>ৰ পৰা অদৃশ্যমান কৰি পেলাব৷"</string>
+<string name="bluetooth_connected">"সংযোগ স্থাপন হৈছে"</string>
+<string name="bluetooth_connected_no_headset">"সংযোগ স্থাপন হৈছে (কোনো ফোন নাই)"</string>
+<string name="bluetooth_connected_no_a2dp">"সংযোগ স্থাপন হৈছে (কোনো মিডিয়া নাই)"</string>
+<string name="bluetooth_connected_no_map">"সংযোগ স্থাপন হৈছে (কোনো মেছেজ আহৰণ হোৱা নাই)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"সংযোগ স্থাপন হৈছে (কোনো ফোন বা মিডিয়া নাই)"</string>
+<string name="bluetooth_disconnected">"সংযোগ বিচ্ছিন্ন হৈছে"</string>
+<string name="bluetooth_disconnecting">"সংযোগ বিচ্ছিন্ন হৈ আছে\u2026"</string>
+<string name="bluetooth_connecting">"সংযোগ স্থাপন হৈ আছে\u2026"</string>
+<string name="bluetooth_pairing">"পেইৰিং\u2026"</string>
+<string name="bluetooth_device">"নামাকৰণ নোহোৱা ব্লুটুথ ডিভাইচ"</string>
+<string name="progress_scanning">"চাৰ্চিং"</string>
+<string name="bluetooth_no_devices_found">"ওচৰত কোনো ব্লুটুথ ডিভাইচ পোৱা যোৱা নাই"</string>
+<string name="bluetooth_notif_ticker">"ব্লুটুথ পেইৰিংৰ বাবে অনুৰোধ"</string>
+<string name="bluetooth_notif_title">"পেইৰিংৰ বাবে অনুৰোধ"</string>
+<string name="bluetooth_notif_message">"<xliff:g id="device_name">%1$s</xliff:g>ৰ সৈতে পেইৰ কৰিবলৈ স্পৰ্শ কৰক৷"</string>
+<string name="bluetooth_show_received_files">"গ্ৰহণ কৰা ফাইলসমূহ প্ৰদৰ্শন কৰক"</string>
+<string name="device_picker">"ব্লুটুথ ডিভাইচ বাচনিকৰ্ত্তা"</string>
+<string name="bluetooth_permission_request">"ব্লুটুথৰ অনুমতিৰ বাবে অনুৰোধ"</string>
+<string name="bluetooth_ask_enablement">"এটা এপ্পে ব্লুটুথ অন কৰিবলৈ বিচাৰে"</string>
+<string name="bluetooth_ask_discovery" product="tablet">"এটা এপ্পে <xliff:g id="timeout">%1$d</xliff:g> ছেকেণ্ডৰ বাবে অইন ব্লুটুথ ডিভাইচক আপোনাৰ টেবলটটো দৃশ্যমান কৰিবলৈ বিচাৰে৷"</string>
+<string name="bluetooth_ask_discovery" product="default">"এটা এপ্পে <xliff:g id="timeout">%1$d</xliff:g> ছেকেণ্ডৰ বাবে অইন ব্লুটুথ ডিভাইচক আপোনাৰ ফোনটো দৃশ্যমান কৰিবলৈ বিচাৰে৷"</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"এটা এপ্পে অইন ব্লুটুথ ডিভাইচসমূহক আপোনাৰ টেবলেটটো দৃশ্যমান কৰিবলৈ বিচাৰে৷ আপুনি ব্লুটুথ ছেটিংছত এয়া পিছত সলনি কৰিব পাৰিব৷"</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"এটা এপ্পে অইন ব্লুটুথ ডিভাইচসমূহক আপোনাৰ ফোনটো দৃশ্যমান কৰিবলৈ বিচাৰে৷ আপুনি ব্লুটুথ ছেটিংছত এয়া পিছত সলনি কৰিব পাৰিব৷"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"এটা এপ্পে ব্লুটুথ অন কৰিব বিচাৰে আৰু অইন ডিভাইচৰ বাবে আপোনাৰ টেবলেটটো <xliff:g id="timeout">%1$d</xliff:g> ছেকেণ্ডৰ বাবে দৃশ্যমান কৰি তুলিব বিচাৰে৷"</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"এটা এপ্পে ব্লুটুথ অন কৰিব বিচাৰে আৰু অইন ডিভাইচৰ বাবে আপোনাৰ ফোনটো <xliff:g id="timeout">%1$d</xliff:g> ছেকেণ্ডৰ বাবে দৃশ্যমান কৰি তুলিব বিচাৰে৷"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"এটা এপ্পে ব্লুটুথ অন কৰিব বিচাৰে আৰু অইন ডিভাইচৰ বাবে আপোনাৰ টেবলেটটো দৃশ্যমান কৰি তুলিব বিচাৰে৷ আপুনি ব্লুটুথ ছেটিংছত এয়া পিছত সলনি কৰিব পাৰিব৷"</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"এটা এপ্পে ব্লুটুথ অন কৰিব বিচাৰে আৰু অইন ডিভাইচৰ বাবে আপোনাৰ ফোনটো দৃশ্যমান কৰি তুলিব বিচাৰে৷ আপুনি ব্লুটুথ ছেটিংছত এয়া পিছত সলনি কৰিব পাৰিব৷"</string>
+<string name="bluetooth_turning_on">"ব্লুটুথ অন কৰক\u2026"</string>
+<string name="bluetooth_turning_off">"ব্লুটুথ অফ কৰক\u2026"</string>
+<string name="bluetooth_auto_connect">"স্বয়ংক্ৰিয়ভাৱে সংযোগ"</string>
+<string name="bluetooth_connection_permission_request">"ব্লুটুথ সংযোগৰ বাবে অনুৰোধ"</string>
+<string name="bluetooth_connection_notif_message">"\u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022ৰ সৈতে সংযোগ হ’বলৈ স্পৰ্শ কৰক৷"</string>
+<string name="bluetooth_connection_dialog_text">"আপুনি \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022ৰ সৈতে সংযগ কৰিবলৈ বিচাৰে নেকি?"</string>
+<string name="bluetooth_phonebook_request">"ফোনবুক আহৰণৰ বাবে অনুৰোধ৷"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s য়ে আপোনাৰ যোগাযোগৰ নম্বৰ আৰু কলৰ সবিশেষ আহৰণ কৰিবলৈ বিচাৰে৷ %2$s ক আহৰণ কৰিবলৈ দিয়ক৷"</string>
+<string name="bluetooth_remember_choice">"পুনৰ নুসুধিব"</string>
+<string name="bluetooth_pb_remember_choice">"পুনৰ নুসুধিব"</string>
+<string name="bluetooth_map_request">"মেছেজ আহৰণৰ অনুৰোধ"</string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s য়ে আপোনাৰ মেছেজ আহৰণ কৰিবলৈ বিচাৰে৷ %2$s ক আহৰণ কৰিবলৈ দিয়ক৷"</string>
+<string name="date_and_time">"তাৰিখ আৰু সময় ছেটিংছ"</string>
+<string name="choose_timezone">"সময় ক্ষেত্ৰ বাচনি কৰক"</string>
+<string name="normal_date_format">"আঞ্চলিক (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)"</string>
+<string name="display_preview_label">"প্ৰিভিউ:"</string>
+<string name="display_font_size_label">"ফণ্ট আকাৰ:"</string>
+<string name="intent_sender_sendbroadcast_text">"<xliff:g id="broadcast">broadcast</xliff:g>পঠিয়াওক"</string>
+<string name="intent_sender_startactivity_text">"<xliff:g id="activity">activity</xliff:g>আৰম্ভ কৰক"</string>
+<string name="intent_sender_account_label">"একাউন্ট"</string>
+<string name="proxy_settings_title">"প্ৰক্সি"</string>
+<string name="proxy_clear_text">"ক্লীয়াৰ"</string>
+<string name="proxy_port_label">"প্ৰক্সি প\'র্ট"</string>
+<string name="proxy_exclusionlist_label">"বাইপাছ প্ৰক্সি প\'র্ট"</string>
+<string name="proxy_defaultView_text">"একেধৰণে ৰিষ্টোৰ কৰক"</string>
+<string name="proxy_action_text">"হৈ গৈছে"</string>
+<string name="proxy_hostname_label">"প্ৰক্সি হ\'ষ্টনেইম""</string>
+<string name="proxy_error">"মনোযোগ"</string>
+<string name="proxy_error_dismiss">"ঠিক আছে"</string>
+<string name="proxy_error_invalid_host">"আপুনি টাইপ কৰা হ\'ষ্টনেইম বৈধ নহয়"</string>
+<string name="proxy_error_invalid_exclusion_list">" আপুনি টাইপ কৰা বর্হিভূত তালিকাখন সঠিকভাৱে ফৰমেট হোৱা নাই ৷ বাদ দিয়া ড\'মেইনৰ তালিকাখন ক\'মাৰে পৃথক কৰি টাইপ কৰক"</string>
+<string name="proxy_error_empty_port">"আপুনি পর্ট ফিল্ড সম্পূর্ণ কৰাটো প্ৰয়োজম"</string>
+<string name="proxy_error_empty_host_set_port">""হ\'ষ্ট ফিল্ড খালী থাকিলে পর্ট ফিল্ড খালী থাকিব লাগিব" "</string>
+<string name="proxy_error_invalid_port">"আপুনি টাইপ কৰা পর্ট  বৈধ নহয়"</string>
+<string name="proxy_warning_limited_support">""ব্ৰাউজাৰে HTTP প্ৰক্সি ব্যৱহাৰ কৰিছে, কিন্তু অন্য এপৰ দ্বাৰা ব্যৱহৃত নহ\'বও পাৰে ৷"  "</string>
+<string name="proxy_url">"PAC URL: "</string>
+<string name="radio_info_signal_location_label">"লোকেশ্যন:"</string>
+<string name="radio_info_neighboring_location_label">"প্ৰতিৱেশী CID:"</string>
+<string name="radio_info_cellinfo_label">"কমিউনিটি তথ্য"</string>
+<string name="radio_info_data_attempts_label">"ডাটা প্ৰচেষ্টা:"</string>
+<string name="radio_info_gprs_service_label">"GPRS সেৱা :"</string>
+<string name="radio_info_roaming_label">"ৰ\'মিং:"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">" পুনৰ নিৰ্দেশলৈ কল কৰক:"</string>
+<string name="radio_info_ppp_resets_label">"বুট হোৱাৰ পৰা PPP স\'খ্যা ৰিচেট কৰক:"</string>
+<string name="radio_info_gsm_disconnects_label">"GSM বিছিন্ন হৈছে:"</string>
+<string name="radio_info_current_network_label">"কাৰেন্ট নেটৱৰ্ক:"</string>
+<string name="radio_info_data_successes_label">"ডাটা সফল হৈছে:"</string>
+<string name="radio_info_ppp_received_label">"PPP গ্ৰহণ হৈছে:"</string>
+<string name="radio_info_gsm_service_label">"GSM সেৱা:"</string>
+<string name="radio_info_signal_strength_label">" স\'কেত শক্তি:"</string>
+<string name="radio_info_call_status_label">"কল স্থিতি:"</string>
+<string name="radio_info_ppp_sent_label">"PPP প্ৰেৰণ কৰা হ\'ল:"</string>
+<string name="radio_info_radio_resets_label">"ৰেডিও ৰিছেট হৈছে:"</string>
+<string name="radio_info_message_waiting_label">"বাৰ্তা অপেক্ষিত:"</string>
+<string name="radio_info_phone_number_label">"ফোন নম্নৰ:"</string>
+<string name="radio_info_band_mode_label">"ৰেডিও বেণ্ড বাচনি কৰক"</string>
+<string name="radio_info_network_type_label">"নেটওয়াৰ্ক ধৰণ:"</string>
+<string name="radio_info_set_perferred_label">"পছন্দৰ নেটৱৰ্ক ধৰণ চেট কৰক:"</string>
+<string name="radio_info_ping_ipaddr">" Ip ঠিকনা পীং কৰক:"</string>
+<string name="radio_info_ping_hostname">" হষ্টনেইম পীং কৰক(www.google.com):"</string>
+<string name="radio_info_http_client_test">"HTTP গ্ৰাহক পৰীক্ষা:"</string>
+<string name="ping_test_label">"পীং টেষ্ট ৰান কৰক"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"আপডেট"</string>
+<string name="radio_info_smsc_refresh_label">"ৰিফ্ৰেশ্ব"</string>
+<string name="radio_info_toggle_dns_check_label">"DNS পৰীক্ষা কৰক "</string>
+<string name="oem_radio_info_label">"OEM-নিৰ্দিষ্ট তথ্য/চেটি\'"</string>
+<string name="band_mode_title">" GSM/UMTS বেন্ড চেট কৰক"</string>
+<string name="band_mode_loading">" বেণ্ড তালিকা লোডিং হৈ আছে\u2026"</string>
+<string name="band_mode_set">"ছেট"</string>
+<string name="band_mode_failed">"অসফল"</string>
+<string name="band_mode_succeeded">"সফল"</string>
+<string name="sdcard_changes_instructions">" USB তাঁৰ পুনৰ সংযোগ কৰাৰ পিছত পৰিবৰ্তন বোৰ কাৰ্য্যক্ষম হয় "</string>
+<string name="sdcard_settings_screen_mass_storage_text">" USB মাচ্ ষ্টোৰেজ সক্ৰিয় কৰক"</string>
+<string name="sdcard_settings_total_bytes_label">"মুঠ বাইট:"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"USB ষ্টোৰেজ মাউন্ট নহ\'ল"</string>
+<string name="sdcard_settings_not_present_status" product="default">"কোনো SD কাৰ্ড নাই"</string>
+<string name="sdcard_settings_available_bytes_label">"বাইট উপলব্ধ"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">""মাচ্ ষ্টোৰেজ ডিভাইচে USB ষ্টোৰেজ ব্যৱহাৰ কৰি আছে" "</string>
+<string name="sdcard_settings_mass_storage_status" product="default">""মাচ্ ষ্টোৰেজ ডিভাইচে SD কাৰ্ড ব্যৱহাৰ কৰি আছে" "</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"এতিয়া USB ষ্টোৰেজ আঁতৰ কৰাটো নিৰাপদ."</string>
+<string name="sdcard_settings_unmounted_status" product="default">"এতিয়া SD কাৰ্ড আঁতৰ কৰাটো নিৰাপদ."</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"USB ষ্টোৰেজ ব্যৱহৃত হৈ থাকোতে আঁতৰোৱা হৈছিল!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"SD কাৰ্ড ব্যৱহৃত হৈ থাকোতে আঁতৰোৱা হৈছিল!"</string>
+<string name="sdcard_settings_used_bytes_label">" ব্যৱহৃত বাইট:"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">" মেডিয়া ৰ কাৰণে USB ষ্টোৰেজ স্কেনিং চলি আছে\u2026"</string>
+<string name="sdcard_settings_scanning_status" product="default">" মেডিয়া ৰ কাৰণে SD কাৰ্ড স্কেনিং চলি আছে\u2026"</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"মাউন্ট কৰা USB ষ্টোৰেজ পাঠ যোগ্য "</string>
+<string name="sdcard_settings_read_only_status" product="default">"মাউন্ট কৰা SD কাৰ্ড পাঠ যোগ্য "</string>
+<string name="skip_label">"এৰাই যোৱা"</string>
+<string name="next_label">"পৰৱৰ্তী"</string>
+<string name="language_picker_title">"ভাষা"</string>
+<string name="activity_picker_label">"কাৰ্যাৱলী বাচনি কৰা"</string>
+<string name="device_info_label">"ডিভাইচ ইনফো"</string>
+<string name="battery_info_label">"বেটাৰী ইনফো"</string>
+<string name="display_label">"স্ক্ৰিন"</string>
+<string name="phone_info_label" product="tablet">"টেবলেট ইনফো"</string>
+<string name="phone_info_label" product="default">"ফোন ইনফো"</string>
+<string name="sd_card_settings_label" product="nosdcard">"USB ষ্ট্\'ৰেজ"</string>
+<string name="sd_card_settings_label" product="default">"SD কাৰ্ড"</string>
+<string name="proxy_settings_label">"প্ৰক্সি চেটিং"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="settings_label">"ছেটিংছ"</string>
+<string name="settings_label_launcher">"ছেটিংছ"</string>
+<string name="settings_shortcut">"চেটিং চৰ্টকাট"</string>
+<string name="airplane_mode">"বিমান ম\'ড"</string>
+<string name="radio_controls_title">" অধিক\u2026"</string>
+<string name="wireless_networks_settings_title">"ৱায়াৰলেছ আৰু নেটৱৰ্ক"</string>
+<string name="radio_controls_summary">" WiFi, ব্লুটুথ, বিমান ম\'ড, মোবাইল নেটৱৰ্ক, আৰু  VPNs পৰিচালনা কৰক"</string>
+<string name="roaming">"ডাটা ৰোমিং"</string>
+<string name="roaming_enable">"ৰোমিংত থাকোতে ডাটা সেৱাৰ সৈতে সংযোগ কৰক"</string>
+<string name="roaming_disable">"ৰোমিংত থাকোতে ডাটা সেৱাৰ সৈতে সংযোগ কৰক"</string>
+<string name="roaming_reenable_message">" আপোনাৰ হ\'ম নেটৱৰ্কত ডাটা ৰ\'মিং অফ কৰি থোৱাৰ কাৰণে অপুনি ডাটা সংযোগ হেৰুৱালে"</string>
+<string name="roaming_turn_it_on_button">"অন কৰক"</string>
+<string name="roaming_warning">"যেতিয়া আপুনি ডাটা ৰ\'মিংৰ অনুমতি দিয়ে তেতিয়া অপুনি বিশেষ ৰ\'মিং চাৰ্জ বহন কৰিবলগীয়া হ\'ব পাৰে"</string>
+<string name="roaming_warning_multiuser" product="tablet">"যেতিয়া আপুনি ডাটা ৰ\'মিংৰ অনুমতি দিয়ে তেতিয়া অপুনি বিশেষ ৰ\'মিং চাৰ্জ বহন কৰিবলগীয়া হ\'ব পাৰে !"\n\n এই চেটিং এ টেবলেটটোৰ সকলো ব্যৱহাৰকাৰীক প্ৰভাৱিত কৰে"</string>
+<string name="roaming_warning_multiuser" product="default">"যেতিয়া আপুনি ডাটা ৰ\'মিংৰ অনুমতি দিয়ে তেতিয়া অপুনি বিশেষ ৰ\'মিং চাৰ্জ বহন কৰিবলগীয়া হ\'ব পাৰে !"\n\n এই চেটিং এ ফোনটোৰ সকলো ব্যৱহাৰকাৰীক প্ৰভাৱিত কৰে"</string>
+<string name="roaming_reenable_title">""ডাটা ৰ\'মিংৰ অনুমতি দিবনে?"</string>
+<string name="networks">"অপাৰেতৰ বাচনি কৰক"</string>
+<string name="sum_carrier_select">"এটা নেটৱৰ্ক অপাৰেটৰ বাচনি কৰক"</string>
+<string name="date_and_time_settings_title">" তাৰিখ আৰু সময়"</string>
+<string name="date_and_time_settings_title_setup_wizard">"তাৰিখ আৰু সময় নিৰ্দ্দিষ্ট কৰক"</string>
+<string name="date_and_time_settings_summary">" তাৰিখ,সময় অঞ্ছল আৰু ফৰমেট চেট কৰক"</string>
+<string name="date_time_auto">"স্বয়ংক্ৰিয় তাৰিখ আৰু সময়"</string>
+<string name="date_time_auto_summaryOn">" নেটৱৰ্কে যুগুতোৱা সময় ব্যৱহাৰ কৰক"</string>
+<string name="date_time_auto_summaryOff">" নেটৱৰ্কে যুগুতোৱা সময় ব্যৱহাৰ কৰক"</string>
+<string name="zone_auto">"স্বয়ংক্ৰিয় সময় অঞ্ছল"</string>
+<string name="zone_auto_summaryOn">" নেটৱৰ্কে যুগুতোৱা সময় অঞ্ছল ব্যৱহাৰ কৰক"</string>
+<string name="zone_auto_summaryOff">" নেটৱৰ্কে যুগুতোৱা সময় অঞ্ছল ব্যৱহাৰ কৰক"</string>
+<string name="date_time_24hour">" 24 ঘণ্টাৰ সময় আৰ্হি ব্যৱহাৰ কৰক"</string>
+<string name="date_time_set_time">"সময় ছেট কৰক"</string>
+<string name="date_time_set_timezone">"সময় অঞ্ছল বাচি লওক"</string>
+<string name="date_time_set_date">"তাৰিখ ছেট কৰক"</string>
+<string name="date_time_date_format">" তাৰিখৰ আৰ্হি পছন্দ কৰি লওক"</string>
+<string name="zone_list_menu_sort_alphabetically">"বৰ্ণানুক্ৰমত বাছি লওক"</string>
+<string name="zone_list_menu_sort_by_timezone">" সময় অঞ্ছল অনুসৰি বাছি লওক"</string>
+<string name="zone_list_menu_sort_by_pinyin">"চাইনিজ পিনয়িন মতে বাছি লওক"</string>
+<string name="date_picker_title">"তাৰিখ"</string>
+<string name="time_picker_title">"সময়"</string>
+<string name="biometric_weak_improve_matching_title">" মূখৰ মিলৰ উন্নতি কৰক"</string>
+<string name="biometric_weak_liveliness_title">"লাইবনেস পৰীক্ষা কৰক"</string>
+<string name="biometric_weak_liveliness_summary">" আনলক কৰোতে চকুৰ টিপ বিচাৰক"</string>
+<string name="lock_after_timeout">"স্বয়ংক্ৰিয় লক"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="timeout_string">%1$s</xliff:g> শোৱাৰ পিছত"</string>
+<string name="show_owner_info_on_lockscreen_label">"লক স্ক্ৰিনত কৰাকীৰ তথ্য প্ৰদৰ্শন কৰক"</string>
+<string name="owner_info_settings_title">"গৰাকীৰ তথ্য"</string>
+<string name="security_enable_widgets_title">"বিজেট্স সক্ৰিয় কৰক"</string>
+<string name="security_enable_widgets_disabled_summary">" প্ৰশাসকৰ দ্বাৰা অক্ষম কৰা হৈছে"</string>
+<string name="owner_info_settings_edit_text_hint">" লক স্ক্ৰিনত দেখুওৱাবলৈ পাঠ টাইপ কৰক"</string>
+<string name="show_user_info_on_lockscreen_label">"লক স্ক্ৰিনত ব্যৱহাৰকাৰীৰ তথ্য প্ৰদৰ্শন কৰক"</string>
+<string name="user_info_settings_title">"ব্যৱহাৰকাৰীৰ তথ্য"</string>
+<string name="show_profile_info_on_lockscreen_label">"লক স্ক্ৰিনত প্ৰফাইল তথ্য প্ৰদৰ্শন কৰক"</string>
+<string name="profile_info_settings_title">"প্ৰফাইল তথ্য"</string>
+<string name="location_settings_title">"লোকেশ্যন"</string>
+<string name="security_settings_title">"নিৰাপত্তা"</string>
+<string name="security_settings_summary">"মোৰ অৱস্থান, স্ক্ৰিন আনলক, SIM কাৰ্ড লক , সংখ্যাপত্ৰ ষ্টোৰেজ লক চেট কৰক"</string>
+<string name="cdma_security_settings_summary">"মোৰ অৱস্থান, স্ক্ৰিন আনলক, সংখ্যাপত্ৰ ষ্টোৰেজ লক চেট কৰক"</string>
+<string name="security_passwords_title">"পাছৱৰ্ড""</string>
+<string name="crypt_keeper_settings_title">"এনক্ৰিপ্টশ্যন"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"টেবলেট এনক্ৰিপ্ট কৰক"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"ফোন এনক্ৰিপ্ট কৰক"</string>
+<string name="crypt_keeper_encrypt_summary" product="tablet">"আপুনি প্ৰতিবাৰে পাৱাৰ অন কৰোতে টেবলেট টো  ডিক্ৰিপ্ট কৰিবলৈ সাংখ্যিক PIN নাইবা পাছৱৰ্ড ৰ প্ৰয়োজন হ\'ব"</string>
+<string name="crypt_keeper_encrypt_summary" product="default">"আপুনি প্ৰতিবাৰে পাৱাৰ অন কৰোতে ফোনটো ডিক্ৰিপ্ট কৰিবলৈ সাংখ্যিক PIN নাইবা পাছৱৰ্ড ৰ প্ৰয়োজন হ\'ব"</string>
+<string name="crypt_keeper_encrypted_summary">"এনক্ৰিপ্ট কৰা হৈছে"</string>
+<string name="crypt_keeper_desc" product="tablet">" আপুনি আপোনাৰ একাউন্ট, চেটিং, ডাউনল\'ড কৰা সকলো এপচ্ আৰু সেইবোৰৰ তথ্য, মিডিয়া আৰু অন্যান্য ফাইলসমূহ এনক্ৰিপ্ট কৰিব পাৰে ৷ এবাৰ আপুনি নিজৰ টেবলেট এনক্ৰিপ্ট কৰিলে প্ৰতিবাৰেই পাৱাৰ অন কৰোতে তাক ডিক্ৰিপ্ট কৰিবলৈ আপুনি এটা সাংখ্যিক PIN নাইবা পাছৱৰ্ড টাইপ কৰিব লাগিব ৷ আপোনাৰ সকলো তথ্য মচি ফেক্টৰী ডাটা ৰিচেট নকৰাকৈ অপুনি অপোনাৰ টেবলেত ডিক্ৰিপট কৰিব নোৱাৰে ৷\n\nএনক্ৰিপশ্যনত এঘণ্টা বা বেছি সময় লাগে ৷ এনক্ৰিপশ্যন কৰোতে সম্পূৰ্ণ চাৰ্জ কৰা বেটাৰী থাকিব লাগিব আৰু এনক্ৰিপশ্যন সম্পূৰ্ণ নোহোৱালৈকে আপোনাৰ টেবলেট প্লাগ ইন হৈ থাকিব লাগিব ৷ যদিহে আপুনি এনক্ৰিপশ্যন প্ৰক্ৰিয়াত কোনো বাধাৰ সৃষ্টি কৰেন তেন্তে আপুনি কিছুমান নাইবা সকলো তথ্য হেৰুৱাব পাৰে ৷"</string>
+<string name="crypt_keeper_desc" product="default">" আপুনি আপোনাৰ একাউন্ট, চেটিং, ডাউনল\'ড কৰা সকলো এপচ্ আৰু সেইবোৰৰ তথ্য, মিডিয়া আৰু অন্যান্য ফাইলসমূহ এনক্ৰিপ্ট কৰিব পাৰে ৷ এবাৰ আপুনি নিজৰ পোণ এনক্ৰিপ্ট কৰিলে প্ৰতিবাৰেই পাৱাৰ অন কৰোতে তাক ডিক্ৰিপ্ট কৰিবলৈ আপুনি এটা সাংখ্যিক PIN নাইবা পাছৱৰ্ড টাইপ কৰিব লাগিব ৷ আপোনাৰ সকলো তথ্য মচি ফেক্টৰী ডাটা ৰিচেট নকৰাকৈ অপুনি অপোনাৰ পোণ ডিক্ৰিপট কৰিব নোৱাৰে \n\nএনক্ৰিপশ্যনত এঘণ্টা বা বেছি সময় লাগে ৷ এনক্ৰিপশ্যন কৰোতে সম্পূৰ্ণ চাৰ্জ কৰা বেটাৰী থাকিব লাগিব আৰু এনক্ৰিপশ্যন সম্পূৰ্ণ নোহোৱালৈকে আপোনাৰ পোণ প্লাগ ইন হৈ থাকিব লাগিব ৷ যদিহে আপুনি এনক্ৰিপশ্যন প্ৰক্ৰিয়াত কোনো বাধাৰ সৃষ্টি কৰেন তেন্তে আপুনি কিছুমান নাইবা সকলো তথ্য হেৰুৱাব পাৰে ৷"</string>
+<string name="crypt_keeper_button_text" product="tablet">"টেবলেট এনক্ৰিপ্ট কৰক"</string>
+<string name="crypt_keeper_button_text" product="default">"ফোন এনক্ৰিপ্ট কৰক"</string>
+<string name="crypt_keeper_low_charge_text">"আপোনাৰ বেটাৰী চাৰ্জ কৰক আৰু পুনৰ চেষ্টা কৰক"</string>
+<string name="crypt_keeper_unplugged_text">"আপোনাৰ চাৰ্জাৰ প্লাগ ইন কৰক আৰু পুনৰ চেষ্টা কৰক"</string>
+<string name="crypt_keeper_dialog_need_password_title">"কোনো স্ক্ৰীণ লক কৰিব পৰা PIN আৰু পাছৱৰ্ড নাই৷"</string>
+<string name="crypt_keeper_dialog_need_password_message">"আপুনি তথ্যাদি সংকেতত পৰিণত কৰাৰ আগতে স্ক্ৰীণ লক কৰিব পৰা PIN আৰু পাছৱৰ্ড ছেট কৰি ল’ব লাগিব৷"</string>
+<string name="crypt_keeper_confirm_title">"এনক্রিপ্ট?"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্য পুনৰ ঘুৰাই আনিব পৰা বিধৰ নহয় আৰু আপুনি যদি এই কাৰ্যৰ মাজতে হস্তক্ষেপ কৰে তেন্তে আপুনি আপোনাৰ ডাটাসমূহ হেৰুওৱাৰ উপক্ৰম ঘটিব৷ তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্যই এঘণ্টা বা অধিক সময় ল’ব পাৰে, সেই সময়খিনিৰ ভিতৰত টেবলেটটো কেবাবাৰো অন-অফ হ’ব৷"</string>
+<string name="crypt_keeper_final_desc" product="default">"তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্য পুনৰ ঘুৰাই আনিব পৰা বিধৰ নহয় আৰু আপুনি যদি এই কাৰ্যৰ মাজতে হস্তক্ষেপ কৰে তেন্তে আপুনি আপোনাৰ ডাটাসমূহ হেৰুওৱাৰ উপক্ৰম ঘটিব৷ তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্যই এঘণ্টা বা অধিক সময় ল’ব পাৰে, সেই সময়খিনিৰ ভিতৰত ফোনটো কেবাবাৰো অন-অফ হ’ব৷"</string>
+<string name="crypt_keeper_setup_title">"এনক্রিপ্টিং"</string>
+<string name="crypt_keeper_setup_description" product="tablet">"আপোনাৰ টেবলেটটোৰ তথ্যাদি সংকেতত পৰিণত কৰা হৈ থকা সময়খিনি অপেক্ষা কৰক৷ <xliff:g id="percent" example="50">^1</xliff:g> % সম্পূৰ্ণ৷"</string>
+<string name="crypt_keeper_setup_description" product="default">"আপোনাৰ ফোনটোৰ তথ্যাদি সংকেতত পৰিণত কৰা হৈ থকা সময়খিনি অপেক্ষা কৰক৷ <xliff:g id="percent" example="50">^1</xliff:g> % সম্পূৰ্ণ৷"</string>
+<string name="crypt_keeper_cooldown">"<xliff:g id="delay" example="15">^1</xliff:g> ছেকেণ্ডৰ ভিতৰত পুনৰ চেষ্টা কৰক."</string>
+<string name="crypt_keeper_enter_password">"আপোনাৰ পাছৱৰ্ড টাইপ কৰক"</string>
+<string name="crypt_keeper_failed_title">"আপোনাৰ তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্য ব্যৰ্থ হ’ল৷"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্য বাধাপ্ৰাপ্ত হৈছে আৰু সম্পূৰ্ণ নহয়৷ তাৰ ফলত আপোনাৰ টেবলেটত থকা ডাটাসমূহ আৰু আপুনি ব্যৱহাৰ কৰিব নোৱাৰিব৷\n\n আপোনাৰ টেবলেটটোৰ পুনঃব্যৱহাৰৰ বাবে আপুনি ফেক্টৰী ৰিছেট কৰিব লাগিব৷ ৰিছেট কৰাৰ পিছত আপুনি আপোনাৰ টেবলেটটো যেতিয়া ছেটআপ কৰিব তেতিয়া আপোনাৰ গুগল একাউণ্টত সংৰক্ষিত হৈ থকা ডাটাসমূহ আপুনি পুনৰ লাভ কৰাৰ এটা সুযোগ লাভ কৰিব৷"</string>
+<string name="crypt_keeper_failed_summary" product="default">"তথ্যাদি সংকেতত পৰিণত কৰা কাৰ্য বাধাপ্ৰাপ্ত হৈছে আৰু সম্পূৰ্ণ নহয়৷ তাৰ ফলত আপোনাৰ ফোনত থকা ডাটাসমূহ আৰু আপুনি ব্যৱহাৰ কৰিব নোৱাৰিব৷\n\n আপোনাৰ ফোনটোৰ পুনঃব্যৱহাৰৰ বাবে আপুনি ফেক্টৰী ৰিছেট কৰিব লাগিব৷ ৰিছেট কৰাৰ পিছত আপুনি আপোনাৰ ফোনটো যেতিয়া ছেটআপ কৰিব তেতিয়া আপোনাৰ গুগল একাউণ্টত সংৰক্ষিত হৈ থকা ডাটাসমূহ আপুনি পুনৰ লাভ কৰাৰ এটা সুযোগ লাভ কৰিব৷"</string>
+<string name="crypt_keeper_switch_input_method">"ইনপুট পদ্ধতিলৈ যাওঁক"</string>
+<string name="lock_settings_picker_title">"স্ক্ৰীণ লক বাচনি কৰক"</string>
+<string name="backup_lock_settings_picker_title">"বেকআপ লক বাচনি কৰক"</string>
+<string name="unlock_set_unlock_launch_picker_title">"স্ক্ৰীণ লক"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"স্ক্ৰীণ লক বাচনি কৰক"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"ধৰণ, PIN বা পাছৱৰ্ড ছিকিউৰিটি সলনি কৰক বা নিস্ত্ৰিয় কৰক৷"</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"স্ক্ৰীণ লক কৰিবলৈ বাচনি কৰক"</string>
+<string name="unlock_backup_info_summary">"ফেচ আনলকটো যেতিয়া আপুনি দেখিবলৈ সমৰ্থ নহয় তেতিয়া আপুনি কেনেকৈ আনলক কৰিব?"</string>
+<string name="unlock_set_unlock_off_title">"নাই"</string>
+<string name="unlock_set_unlock_none_title">"শ্লাইড"</string>
+<string name="unlock_set_unlock_none_summary">"ছিকিউৰিটি নাই"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"ফেচ আনলক"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"ল’ ছিকিউৰিটি, পৰীক্ষামূলক"</string>
+<string name="unlock_set_unlock_pattern_title">"ধৰণ"</string>
+<string name="unlock_set_unlock_pattern_summary">"মধ্যমীয়া ছিকিউৰিটি"</string>
+<string name="unlock_set_unlock_pin_summary">"মধ্যমৰ পৰা উচ্চ ছিকিউৰিটি"</string>
+<string name="unlock_set_unlock_password_title">"পাছৱৰ্ড"</string>
+<string name="unlock_set_unlock_password_summary">"উচ্চ ছিকিউৰিটি"</string>
+<string name="unlock_set_unlock_disabled_summary">"প্ৰশাসক, এনক্ৰিপশন নীতি বা ক্ৰেডেনশিয়েল ষ্ট’ৰেজৰ দ্বাৰা নিস্ক্ৰিয় কৰক৷"</string>
+<string name="unlock_set_unlock_mode_off">"নাই"</string>
+<string name="unlock_set_unlock_mode_none">"শ্লাইড"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"ফেচ আনলক"</string>
+<string name="unlock_set_unlock_mode_pattern">"ধৰণ"</string>
+<string name="unlock_set_unlock_mode_password">"পাছৱৰ্ড"</string>
+<string name="unlock_disable_lock_title">"স্ক্ৰীণ লক অফ কৰক"</string>
+<string name="unlock_disable_lock_pattern_summary">"আনলকৰ ধৰণ নাইকিয়া কৰক"</string>
+<string name="unlock_disable_lock_pin_summary">"আনলক PIN নাইকিয়া কৰক"</string>
+<string name="unlock_disable_lock_password_summary">"আনলক পাছৱৰ্ড নাইকিয়া কৰক"</string>
+<string name="unlock_change_lock_pattern_title">"আনলকৰ ধৰণ সলনি কৰক"</string>
+<string name="unlock_change_lock_pin_title">"আনলক PIN সলনি কৰক"</string>
+<string name="unlock_change_lock_password_title">"আনলক পাছৱৰ্ড সলনি কৰক"</string>
+<string name="lockpassword_password_too_short">"পাছৱৰ্ডটো ন্যূনতম %d টা আখৰযুক্ত হ’ব লাগে৷"</string>
+<string name="lockpassword_pin_too_short">"PIN ন্যূনতম %d টা সংখ্যাযুক্ত হ’ব লাগে৷"</string>
+<string name="lockpassword_press_continue">"যেতিয়া হৈ যায় তেতিয়া স্পৰ্শ কৰক"</string>
+<string name="lockpassword_continue_label">"অব্যাহত ৰাখক"</string>
+<string name="lockpassword_password_too_long">"পাছৱৰ্ড <xliff:g id="number" example="17">%d</xliff:g> টা আখৰতকৈ অধিক হ’ব লাগে৷"</string>
+<string name="lockpassword_pin_too_long">"PIN <xliff:g id="number" example="17">%d</xliff:g> টা সংখ্যাতকৈ অধিক হ’ব লাগে৷"</string>
+<string name="lockpassword_pin_contains_non_digits">"PIN ত 0-9 ৰ ভিতৰতহে সংখ্যা থাকিব লাগে৷"</string>
+<string name="lockpassword_pin_recently_used">"অলপতে ব্যৱহাৰ কৰি উঠা PIN এটা ডিভাইচ প্ৰশাসকে ব্যৱহাৰ কৰিবলৈ নিদিয়ে৷"</string>
+<string name="lockpassword_illegal_character">"পাছৱৰ্ডত এটা অবৈধ আখৰ আছে"</string>
+<string name="lockpassword_password_requires_alpha">"পাছৱৰ্ডত ন্যূনতম এটা আখৰ থাকিব লাগিব৷"</string>
+<string name="lockpassword_password_requires_digit">"পাছৱৰ্ডত ন্যূনতম এটা সংখ্যা থাকিব লাগিব৷"</string>
+<string name="lockpassword_password_requires_symbol">"পাছৱৰ্ডত ন্যূনতম এটা চিহ্ন থাকিব লাগিব৷"</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 আখৰ থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা আখৰ থাকিব লাগিব৷"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 নিম্নস্তৰীয় আখৰ থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা নিম্নস্তৰীয় আখৰ থাকিব লাগিব৷"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 উচ্চস্তৰীয় আখৰ থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা উচ্চস্তৰীয় আখৰ থাকিব লাগিব৷"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 টা সংখ্যা থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা সংখ্যা থাকিব লাগিব৷"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 টা বিশেষ চিহ্ন থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা বিশেষ চিহ্ন থাকিব লাগিব৷"</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"পাছৱৰ্ডত ন্যূনতম 1 টা নন-লেটাৰ আখৰ থাকিব লাগিব৷"</item>
+<item quantity="other">"পাছৱৰ্ডত ন্যূনতম %d টা নন-লেটাৰ আখৰ থাকিব লাগিব৷"</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"ডিভাইচৰ প্ৰশাসকে এটা অলপতে ব্যৱহাৰ কৰা পাছৱৰ্ডৰ অনুমতি নিদিয়ে৷"</string>
+<string name="lockpassword_ok_label">"ঠিক আছে"</string>
+<string name="lockpassword_cancel_label">"নাকচ"</string>
+<string name="lockpattern_tutorial_cancel_label">"নাকচ"</string>
+<string name="lockpattern_tutorial_continue_label">"পৰৱৰ্তী"</string>
+<string name="lock_setup">"ছেটআপ সম্পূৰ্ণ"</string>
+<string name="device_admin_title">"ডিভাইচৰ প্ৰশাসন"</string>
+<string name="manage_device_admin">"ডিভাইচৰ প্ৰশাসক"</string>
+<string name="manage_device_admin_summary">"ডিভাইচৰ প্ৰশাসক চাওঁক বা নিস্ক্ৰিয় কৰক"</string>
+<string name="manage_notification_access">"নটিফিকেশ্যন আহৰণ"</string>
+<string name="manage_notification_access_summary_zero">"এপ্পসমূহে নটিফিকেশ্যনসমূহ পঢ়িব নোৱাৰে"</string>
+<plurals name="manage_notification_access_summary_nonzero">
+<item quantity="one">"%d এপ্পে নটিফিকেশ্যনসমূহ পঢ়িব পাৰে"</item>
+<item quantity="other">"%d এপ্পসমূহে নটিফিকেশ্যনসমূহ পঢ়িব পাৰে"</item>
+</plurals>
+<string name="no_notification_listeners">"কোনো নটিফিকেশ্যন শুনোটা ইনষ্টল কৰা নাই৷"</string>
+<string name="notification_listener_security_warning_title">"সক্ৰিয় কৰিব<xliff:g id="service" example="NotificationReader">%1$s</xliff:g>?"</string>
+<string name="notification_listener_security_warning_summary">"<xliff:g id="notification_listener_name">%1$s</xliff:g> য়ে ইনষ্টল কৰা যিকোনো এপ্প বা ছিষ্টেমে পোষ্ট কৰা নটিফিকেশ্যনসমূহ পঢ়িবলৈ সক্ষম, য’ত ব্যক্তিগত তথ্য যেনে কনটেক্টৰ নাম আৰু আপোনালৈ পঠিওৱা মেছেজৰ টেক্সট অন্তৰ্ভুক্ত হৈ থাকে৷ ই লগতে এই নটিফিকেশ্যনসমূ অগ্ৰাহ্য কৰিব পাৰে বা স্পৰ্ক কৰি কাৰ্যকৰী কৰিব পৰা বুটামসমূহ সেইবোৰৰ মাজত সক্ৰিয় কৰিব পাৰে৷"</string>
+<string name="bluetooth_quick_toggle_title">"ব্লুটুথ"</string>
+<string name="bluetooth_quick_toggle_summary">"ব্লুটুথ অন কৰক"</string>
+<string name="bluetooth_settings">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_title">"ব্লুটুথ"</string>
+<string name="bluetooth_settings_summary">"সংযোগসমূহ তদাৰক কৰক, ডিভাইচৰ নাম ছেট কৰক আৰু ডিছকভাৰেবিলিটে ছেট কৰক৷"</string>
+<string name="bluetooth_pairing_request">"ব্লুটুথ পেইৰিংৰ বাবে অনুৰোধ"</string>
+<string name="bluetooth_enter_pin_msg">"<xliff:g id="bold">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b>&lt;br>&lt;br></xliff:g>ৰ সৈতে পেইৰ কৰিবলৈ ডিভাইচে বিচৰাধৰণে PIN টাইপ কৰক৷"</string>
+<string name="bluetooth_enter_passkey_msg">"<xliff:g id="bold">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold">&lt;/b>&lt;br>&lt;br></xliff:g>ৰ সৈতে পেইৰ কৰিবলৈ ডিভাইচে বিচৰাধৰণে পাছৱৰ্ড টাইপ কৰক৷"</string>
+<string name="bluetooth_enable_alphanumeric_pin">"PIN ত আখৰ বা চিহ্ন থাকে"</string>
+<string name="bluetooth_pin_values_hint">"সাধাৰণতে 0000 বা 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"আপুনি হয়তো এই PIN টো অইন ডিভাইচতো টাইপ কৰিবলগীয়া হ’ব পাৰে৷"</string>
+<string name="bluetooth_enter_passkey_other_device">"আপুনি হয়তো এই পাছৱৰ্ডটো অইন ডিভাইচতো টাইপ কৰিবলগীয়া হ’ব পাৰে৷"</string>
+<string name="bluetooth_confirm_passkey_msg">"&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br> ৰ সৈতে পেইৰ কৰিবলৈ নিশ্চিত কৰক যে ই যেন &lt;br>&lt;b><xliff:g id="passkey">%2$s</xliff:g>&lt;/b> পাছৱৰ্ডটো প্ৰদৰ্শন কৰিছে"</string>
+<string name="bluetooth_incoming_pairing_msg">"পৰা:&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br>এই ডিভাইচৰ সৈতে পেইৰ কৰিবনে?"</string>
+<string name="bluetooth_display_passkey_pin_msg">"<xliff:g id="bold1">&lt;br>&lt;b></xliff:g><xliff:g id="device_name">%1$s</xliff:g><xliff:g id="end_bold1">&lt;/b>&lt;br>&lt;br></xliff:g> ৰ সৈতে পেইৰ কৰিবলৈ <xliff:g id="bold2">&lt;br>&lt;b></xliff:g><xliff:g id="passkey">%2$s</xliff:g><xliff:g id="end_bold2">&lt;/b></xliff:g>টাইপ কৰক, তাৰ পিছত ৰিটাৰ্ণ বা এণ্টাৰত টিপক৷"</string>
+<string name="bluetooth_pairing_accept">"পেইৰ"</string>
+<string name="bluetooth_pairing_decline">"নাকচ"</string>
+<string name="bluetooth_pairing_error_message">"<xliff:g id="device_name">%1$s</xliff:g>ৰ সৈতে পেইৰ কৰিব পৰা নগ’ল৷"</string>
+<string name="bluetooth_pairing_pin_error_message">"ভুল PIN বা পাছৱৰ্ডৰ বাবে <xliff:g id="device_name">%1$s</xliff:g> ৰ সৈতে পেইৰ কৰিব পৰা নগ’ল৷"</string>
+<string name="bluetooth_pairing_device_down_error_message">"<xliff:g id="device_name">%1$s</xliff:g>ৰ সৈতে যোগাযোগ স্থাপন কৰিব পৰা নগ’ল"</string>
+<string name="bluetooth_pairing_rejected_error_message">"ৰ দ্বাৰা পেইৰিং অগ্ৰাহ্য কৰা হৈছে <xliff:g id="device_name">%1$s</xliff:g>."</string>
+<string name="bluetooth_connecting_error_message">"<xliff:g id="device_name">%1$s</xliff:g>ৰ সৈতে সংযোগ স্থাপন কৰিব পৰা নগ’ল৷"</string>
+<string name="bluetooth_preference_scan_title">"ডিভাইচ বিচাৰিবৰ বাবে স্কেন"</string>
+<string name="bluetooth_search_for_devices">"ডিভাইচৰ বাবে বিচাৰি থকা হৈছে৷"</string>
+<string name="bluetooth_searching_for_devices">"বিচাৰি থকা হৈছে \u2026"</string>
+<string name="bluetooth_preference_device_settings">"ডিভাইচৰ ছেটিংছ"</string>
+<string name="bluetooth_preference_paired_devices">"পেইৰ হোৱা ডিভাইচসমূহ"</string>
+<string name="bluetooth_preference_found_devices">"উপলব্ধ ডিভাইচ"</string>
+<string name="bluetooth_device_context_connect">"সংযোগ স্থাপন"</string>
+<string name="bluetooth_device_context_disconnect">"সংযোগ বিচ্ছিন্ন"</string>
+<string name="bluetooth_device_context_pair_connect">"পেইৰ আৰু সংযোগ"</string>
+<string name="bluetooth_device_context_unpair">"আনপেইৰ"</string>
+<string name="bluetooth_device_context_disconnect_unpair">"সংযোগ বিচ্ছিন্ন আৰু আনপেইৰ৷"</string>
+<string name="bluetooth_device_context_connect_advanced">"বিকল্পসমূহ\u2026"</string>
+<string name="bluetooth_menu_advanced">"এডভান্সড"</string>
+<string name="bluetooth_advanced_titlebar">"উন্নত ব্লুটুথ"</string>
+<string name="bluetooth_empty_list_bluetooth_off">"ডিভাইচসমূহ চাবৰ বাবে ব্লুটুথ অন কৰক৷"</string>
+<string name="bluetooth_connect_specific_profiles_title">"ৰ সৈতে সংযোগ স্থাপন কৰক\u2026 "</string>
+<string name="bluetooth_profile_a2dp">"মিডিয়া অডিঅ’"</string>
+<string name="bluetooth_profile_headset">"ফোন অ’ডিঅ’"</string>
+<string name="bluetooth_profile_opp">"ফাইল স্থানান্তৰ কৰক"</string>
+<string name="bluetooth_profile_hid">"ইনপুট ডিভাইচ"</string>
+<string name="bluetooth_profile_pan">"ইণ্টাৰনেট আহৰণ"</string>
+<string name="bluetooth_profile_pan_nap">"ইণ্টাৰনেটৰ সংযোগ শ্বেয়াৰ কৰা হৈ আছে৷"</string>
+<string name="bluetooth_profile_map">"মেছেজ আহৰণ"</string>
+<string name="bluetooth_disconnect_a2dp_profile">"<xliff:g id="device_name">%1$s</xliff:g> মিডিয়া অডিঅ’ৰ পৰা সংযোগ বিচ্ছিন্ন হ’ব৷"</string>
+<string name="bluetooth_disconnect_headset_profile">"<xliff:g id="device_name">%1$s</xliff:g> হেণ্ডছফ্ৰী অডিঅ’ৰ পৰা সংযোগ বিচ্ছিন্ন কৰা হ’ব৷"</string>
+<string name="bluetooth_disconnect_hid_profile">""<xliff:g id="device_name">%1$s</xliff:g> ইনপুট ডিভাইচৰ পৰা সংযোগ বিচ্ছিন্ন কৰা হ’ব৷"</string>
+<string name="bluetooth_disconnect_pan_user_profile">"<xliff:g id="device_name">%1$s</xliff:g> ৰ যোগেদি ইণ্টাৰনেট আহৰণৰ সংযোগ বিচ্ছিন্ন কৰা হ’ব৷"</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="tablet">"<xliff:g id="device_name">%1$s</xliff:g> এই টেবলেটৰ ইণ্টাৰনেট সংযোগৰ পৰা সংযোগ বিচ্ছিন্ন হৈ যাব৷"</string>
+<string name="bluetooth_disconnect_pan_nap_profile" product="default">"<xliff:g id="device_name">%1$s</xliff:g> এই ফোনৰ ইণ্টাৰনেট সংযোগৰ পৰা সংযোগ বিচ্ছিন্ন হৈ যাব৷"</string>
+<string name="bluetooth_device_advanced_title">"পেইৰড ব্লুটুথ ডিভাইচ"</string>
+<string name="bluetooth_device_advanced_online_mode_title">"সংযোগ স্থাপন"</string>
+<string name="bluetooth_device_advanced_online_mode_summary">"ব্লুটুথ ডিভাইচৰ সৈতে সংযোগ স্থাপন"</string>
+<string name="bluetooth_device_advanced_profile_header_title">"প্ৰ’ফাইল"</string>
+<string name="bluetooth_device_advanced_rename_device">"পুনঃনামাকৰণ"</string>
+<string name="bluetooth_device_advanced_enable_opp_title">"ইনকামিং ফাইলৰ স্থানান্তৰণৰ অনুমতি দিয়ক"</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"মিডিয়া অডিঅ’ সংযোগ কৰা হৈছে"</string>
+<string name="bluetooth_headset_profile_summary_connected">"ফোন অডিঅ’ সংযোগ কৰা হৈছে"</string>
+<string name="bluetooth_opp_profile_summary_connected">"ফাইল স্থানান্তৰণ চাৰ্ভাৰ সংযোগ কৰা হৈছে"</string>
+<string name="bluetooth_map_profile_summary_connected">"মানচিত্ৰৰ সৈতে সংযোগ কৰা হৈছে"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"ফাইল স্থানান্তৰণ চাৰ্ভাৰৰ সৈতে সংযোগ নাই হোৱা"</string>
+<string name="bluetooth_hid_profile_summary_connected">"ইনপুট ডিভাইচৰ সৈতে সংযোগ কৰা হৈছে"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">""ইণ্টাৰনেট আহৰণৰ বাবে ডিভাইচৰ সৈতে সংযোগ কৰা "হৈছে"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"ডিভাইচৰ সৈতে স্থানীয় ইণ্টাৰনেট সংযোগ শ্বেয়াৰ কৰক"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"মিনিয়া অডিঅ’ৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"ফোন অডিঅ’ৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"ফাইল স্থানান্তৰকৰণৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"ইনপুটৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"ইণ্টাৰনেট আহৰণৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_map_profile_summary_use_for">"মেপৰ বাবে ব্যৱহাৰ"</string>
+<string name="bluetooth_dock_settings">"ডক ছেটিংছ"</string>
+<string name="bluetooth_dock_settings_title">"অডিঅ’ৰ বাবে ডকৰ ব্যৱহাৰ"</string>
+<string name="bluetooth_dock_settings_headset">"স্পীকাৰ ফোন হিচাপে"</string>
+<string name="bluetooth_dock_settings_a2dp">"মিউজিক আৰু মিডিয়াৰ বাবে"</string>
+<string name="bluetooth_dock_settings_remember">"ছেটিংছ মনত ৰাখক"</string>
+<string name="wifi_display_settings_title">"স্ক্ৰীণ কাষ্ট"বাচনি কৰা"</string>
+<string name="wifi_display_enable_menu_item">"ৱায়াৰলেছ ডিছপ্লে সক্ৰিয় কৰক"</string>
+<string name="wifi_display_no_devices_found">"ওচৰৰ কোনো ডিভাইচ লাভ কৰা হোৱা নাই৷"</string>
+<string name="wifi_display_status_connecting">"সংযোজিত হৈছে"</string>
+<string name="wifi_display_status_connected">"সংযোগ স্থাপন হৈছে"</string>
+<string name="wifi_display_status_in_use">"ব্যৱহৃত"</string>
+<string name="wifi_display_status_not_available">"উপলব্ধ নহয়"</string>
+<string name="wifi_display_details">"ডিচপ্লে\' চেটিং"</string>
+<string name="wifi_display_options_title">"ৱায়াৰলেছ ডিছপ্লে অপশ্যনসমূহ"</string>
+<string name="wifi_display_options_forget">"পাহৰি যোৱা"</string>
+<string name="wifi_display_options_done">"হৈ গৈছে"</string>
+<string name="wifi_display_options_name">"নাম"</string>
+<string name="nfc_quick_toggle_summary" product="tablet">"টেবলেটে যেতিয়া অইন ডিভাইচ স্পৰ্শ কৰে তেতিয়া ডাটা বিনিময় কৰিবলৈ অনুমতি দিয়ক"</string>
+<string name="nfc_quick_toggle_summary" product="default">"ফোনটোৱে যেতিয়া অইন ডিভাইচ স্পৰ্শ কৰে তেতিয়া ডাটা বিনিময় কৰিবলৈ অনুমতি দিয়ক"</string>
+<string name="android_beam_on_summary">"NFC ৰ দ্বাৰা এপ্পৰ বিষয়বস্তু স্থানান্তৰ কৰাৰ বাবে সাজু"</string>
+<string name="android_beam_off_summary">"অফ"</string>
+<string name="android_beam_disabled_summary">"NFC অফ কৰি ৰখা বাবে উপলব্ধ নহয়৷"</string>
+<string name="android_beam_explained">"যেতিয়া এই বৈশিষ্টটো অফ হৈ থাকে তেতিয়া আপুনি দুয়োটা ডিভাইচ ওচৰা-ওচৰিকৈ ৰাখি এপ্পৰ বিষয়বস্তু আন এটা NFC ৰাখিব পৰা ডিভাইচৰে সৈতে বীম কৰিব পাৰে৷ উদাহৰণস্বৰূপে আপুনি ব্ৰাউজাৰ পৃষ্ঠা, ইউটিউব ভিডিঅ’, সংযোজিত হৈ থকা ব্যক্তি, আৰু অন্যান্য দিশ বীম কৰিব পাৰে৷ \n\n কেৱল আপুনি দুয়োটা ডিভাইচ একেলগে ৰাখক(পিছফাল দুটা লগলগাই) আৰু তাৰ পিছত আপোনাৰ স্ক্ৰীণখন স্পৰ্শ কৰক৷ এপ্পটোৱে কি বিষয়বস্তু বীম কৰিব লাগে সেয়া নিজেই বাচনি কৰি ল’ব৷"</string>
+<string name="nsd_quick_toggle_title">"নেটৱৰ্ক চাৰ্ভিচ ডিছকভাৰী"</string>
+<string name="nsd_quick_toggle_summary">"এই ডিভাইচত এপ্পসমূহ বিচাৰি উলিয়াবলৈ অইন ডিবাইচৰ এপ্পক অনুমতি দিয়ক৷"</string>
+<string name="wifi_quick_toggle_title">"Wi\u2011Fi"</string>
+<string name="wifi_quick_toggle_summary">"Wi\u2011Fi অন কৰক৷"</string>
+<string name="wifi_settings">"Wi\u2011Fi"</string>
+<string name="wifi_settings_category">"Wi\u2011Fi ছেটিংছ"</string>
+<string name="wifi_settings_title">"Wi\u2011Fi"</string>
+<string name="wifi_settings_summary">"ৱায়াৰলেছ আহৰণ পইণ্টসমূহ ছেটআপ কৰক আৰু তদাৰক কৰক"</string>
+<string name="wifi_setup_wizard_title">"WiFi বাচনি কৰক"</string>
+<string name="wifi_starting">"WiFi অন কৰক\u2026"</string>
+<string name="wifi_stopping">"WiFi অফ কৰক\u2026"</string>
+<string name="wifi_error">"আঁসোৱাহ"</string>
+<string name="wifi_in_airplane_mode">"এয়াৰপ্লেন মোডত"</string>
+<string name="wifi_fail_to_scan">"নেটৱৰ্ক স্কেন কৰিব নোৱাৰি"</string>
+<string name="wifi_wapi_fail_to_init">"WAPI প্ৰমাণপত্ৰসমূহ পঢ়িব নোৱাৰি আৰু সেয়ে \nপৰিচয়ৰ ষ্ট’ৰেজ সক্ৰিয় নহ’ব পাৰে৷"</string>
+<string name="wifi_wapi_fail_to_auth">"WAPI প্ৰামাণিকীকৰণ ব্যৰ্থ হ’ল৷\n অনুগ্ৰহ কৰি পাছৱৰ্ড বা প্ৰমাণপত্ৰসমূহ পৰীক্ষা কৰক৷"</string>
+<string name="wifi_wapi_cert_lost">"সাম্প্ৰতিক সংযোজিত হৈ থকা AP ৰ বাবে প্ৰামাণিকীকৰণ বিচাৰি পোৱা নগ’ল৷"</string>
+<string name="wifi_notify_open_networks">"নেটৱৰ্ক জাননীবাৰ্তা"</string>
+<string name="wifi_notify_open_networks_summary">"যেতিয়া এটা মুক্ত নেটৱৰ্ক উপলব্ধ হ’ব তেতিয়া মোক জনাব৷"</string>
+<string name="wifi_poor_network_detection">"দুৰ্বল সংযোগ অগ্ৰাহ্য কৰক"</string>
+<string name="wifi_poor_network_detection_summary">"ভাল ইণ্টাৰনেট সংযোগ নোপোৱা পৰ্যন্ত এটা Wi-Fi নেটৱৰ্ক ব্যৱহাৰ নকৰিব৷"</string>
+<string name="wifi_scan_always_available">"সদায় স্কেন উপলব্ধ"</string>
+<string name="wifi_scan_always_available_summary">"নেটৱৰ্কৰ বাবে গুগলৰ লোকেশ্যন সেৱা আৰু অন্যান্য এপ্প স্কেন কৰক আনকি Wi-Fi বন্ধ হৈ থকা সময়তো৷"</string>
+<string name="wifi_install_credentials">"প্ৰমাণপত্ৰসমূহ ইনষ্টল কৰক"</string>
+<string name="wifi_scan_notify_text_location_on">"লোকেশ্যনৰ সটিকতা আৰু অন্যান্য উদ্দেশ্যে, গুগল আৰু অন্যান্য এপ্পে ওচৰৰ নেটৱৰ্ক স্কেন কৰিব পাৰে, আনকি যেতিয়া WLAN অফ থাকে তেতিয়াও৷ আপুনি যদি এয়া হোৱাটো নিবিচাৰে তেন্তে সদায়ে উপলব্ধ অডভান্সড &amp;gt; ছেটিংছলৈ যাওঁক৷"</string>
+<string name="wifi_scan_notify_text_location_off">"এপ্পে ওচৰৰ নেটৱৰ্কৰ বাবে স্কেন কৰিব পাৰে, আনকি Wi-Fi অফ হৈ থকা অৱস্থাতো৷ আপুনি যদি এয়া হোৱাটো নিবিচাৰে তেন্তে সদায়ে উপলব্ধ অডভান্সড &amp;gt; ছেটিংছলৈ যাওঁক৷"</string>
+<string name="wifi_scan_notify_remember_choice">"পুনৰ প্ৰদৰ্শন নকৰিব"</string>
+<string name="wifi_setting_sleep_policy_title">"টোপনি যোৱা সময়ত Wi-Fi অন কৰি ৰাখক"</string>
+<string name="wifi_setting_sleep_policy_error">"ছেটিংছ সলনিৰ সময়ত তাত কোনো সমস্যা সৃষ্টি হৈছিল"</string>
+<string name="wifi_suspend_optimizations">"Wi-Fi অপ্টিমাইজেশ্যন"</string>
+<string name="wifi_suspend_optimizations_summary">"Wi-Fi অন হৈ থকা সময়ত বেটাৰীৰ ব্যৱহাৰ ন্যূনতম কৰি ৰাখক"</string>
+<string name="wifi_add_network">"নেটৱৰ্ক যোগ কৰক"</string>
+<string name="wifi_access_points">"Wi-Fi নেটৱৰ্কসমূহ"</string>
+<string name="wifi_menu_wps_pbc">"WPS পুশ্ব বুটাম"</string>
+<string name="wifi_menu_more_options">"অধিক বিকল্প"</string>
+<string name="wifi_menu_wps_pin">"WPS পিন অন্তৰ্ভুক্তি"</string>
+<string name="wifi_menu_p2p">"Wi-Fi ডাইৰেক্ট"</string>
+<string name="wifi_menu_scan">"স্কেন"</string>
+<string name="wifi_menu_advanced">"এডভান্সড"</string>
+<string name="wifi_menu_connect">"নেটৱৰ্কৰ লগত সংযোগ"</string>
+<string name="wifi_menu_forget">"নেটৱৰ্ক পাহৰি যোৱা হৈছে"</string>
+<string name="wifi_menu_modify">"নেটৱৰ্কৰ সালসলনি"</string>
+<string name="wifi_empty_list_wifi_off">"উপলব্ধ নেটৱৰ্ক চাবলৈ Wi-Fi অন কৰক"</string>
+<string name="wifi_empty_list_wifi_on">"Wi-Fi নেটৱৰ্কৰ বাবে চাৰ্ছ কৰা হৈ আছে\u2026"</string>
+<string name="wifi_empty_list_user_restricted">"Wi-Fi নেটৱৰ্ক সলনি কৰাৰ বাবে আপোনাৰ অনুমতি নাই৷"</string>
+<string name="wifi_other_network">"অন্যান্য নেটৱৰ্ক\u2026"</string>
+<string name="wifi_more">"অধিক"</string>
+<string name="wifi_setup_wps">"স্বয়ংক্ৰিয় ছেটআপ (WPS)"</string>
+<string name="wifi_required_info_text">"ছেটআপ সম্পূৰ্ণ কৰিবলৈ আপোনাৰ টেবলেটটোৱে Wi-Fi আহৰণ কৰিব লাগিব৷ ছেটআপ হোৱাৰ পিছত আপুনি মোবাইল ডাটা আৰু Wi-Fiৰ মাজত সালসলনি ঘটাব পাৰে৷"</string>
+<string name="wifi_show_advanced">"উন্নত বিকল্পসমূহ প্ৰদৰ্শন কৰক"</string>
+<string name="wifi_wps_setup_title">"Wi-Fi প্ৰ’টেক্টেড ছেটআপ"</string>
+<string name="wifi_wps_setup_msg">"আৰম্ভ হৈ আছে WPS\u2026"</string>
+<string name="wifi_wps_onstart_pbc">"আপোনাৰ ৰ’টাৰত Wi-Fi প্ৰ’টেক্টেড ছেটআপ বুটাম টিপক৷ ইয়াক \"WPS\"বুলি কোৱা হ’ব পাৰে বা ইয়াত এই চিহ্নটো থাকিব পাৰে:"</string>
+<string name="wifi_wps_onstart_pin">"আপোনাৰ Wi-Fi ৰ’টাৰত <xliff:g id="number">%1$s</xliff:g> পিন অন্তৰ্ভুক্ত কৰক৷ এই ছেট-আপ সম্পূৰ্ণ হ’বলৈ দুই মিনিট ল’ব পাৰে৷"</string>
+<string name="wifi_wps_complete">"WPS সফল হৈছে৷ নেটৱৰ্কৰ সৈতে সংযোগ স্থাপন হৈ আছে৷\u2026"</string>
+<string name="wifi_wps_connected">"Wi-Fi নেটৱৰ্কৰ সৈতে সংযোগ স্থাপন হৈছে <xliff:g id="network_name">%s</xliff:g>"</string>
+<string name="wifi_wps_in_progress">"WPS ইতিমধ্যে প্ৰেৰিত হৈছে আৰু সম্পূৰ্ণ হ’বলৈ দুই মিনিট ল’ব পাৰে৷"</string>
+<string name="wifi_wps_failed_generic">"WPS ব্যৰ্থ হৈছে৷ কিছুসময় পিছত পুনৰ চেষ্টা কৰক৷"</string>
+<string name="wifi_wps_failed_wep">"ৱায়াৰলেছ ৰ’টাৰ ছিকিউৰিটি ছেটিং (WEP) সমৰ্থিত নহয়৷"</string>
+<string name="wifi_wps_failed_tkip">"ৱায়াৰলেছ ৰ’টাৰ ছিকিউৰিটি ছেটিং (TKIP) সমৰ্থিত নহয়৷"</string>
+<string name="wifi_wps_failed_auth">"প্ৰামাণিকীকৰণ ব্যৰ্থ হৈছে৷ অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক৷"</string>
+<string name="wifi_wps_failed_overlap">"অন্য এটা WPS লাভ কৰা হৈছে৷ অনুগ্ৰহ কৰি কিছুসময় পিছত চেষ্টা কৰক৷"</string>
+<string name="wifi_ssid">"নেটৱৰ্ক SSID"</string>
+<string name="wifi_ssid_hint">"SSID অন্তৰ্ভুক্ত কৰক"</string>
+<string name="wifi_security">"নিৰাপত্তা"</string>
+<string name="wifi_signal">"ছিগনেলৰ ক্ষমতা"</string>
+<string name="wifi_status">"স্থিতি"</string>
+<string name="wifi_speed">"লিংকৰ তীব্ৰতা"</string>
+<string name="wifi_ip_address">"IP ঠিকনা"</string>
+<string name="wifi_eap_method">"EAP পদ্ধতি"</string>
+<string name="please_select_phase2">"ফেজ 2 ৰ প্ৰামাণিকীকৰণ"</string>
+<string name="wifi_eap_ca_cert">"CA প্ৰমাণপত্ৰ"</string>
+<string name="wifi_eap_user_cert">"ব্যৱহাৰকাৰীৰ প্ৰমাণপত্ৰ"</string>
+<string name="wifi_eap_identity">"পৰিচয়"</string>
+<string name="wifi_eap_anonymous">"বেনামী পৰিচয়"</string>
+<string name="wifi_wapi_psk_type">"পাছৱৰ্ডৰ ধৰণ"</string>
+<string name="wifi_password">"পাছৱৰ্ড"</string>
+<string name="wifi_show_password">"পাচৱৰ্ড প্ৰদৰ্শন কৰক"</string>
+<string name="wifi_wapi_as_certificate">"AS প্ৰমাণপত্ৰ"</string>
+<string name="wifi_wapi_user_certificate">"ব্যৱহাৰকাৰীৰ প্ৰমাণপত্ৰ"</string>
+<string name="wifi_ip_settings">"IP ছেটিংছ"</string>
+<string name="wifi_unchanged">"(অপৰিবৰ্তনীয়)"</string>
+<string name="wifi_unspecified">"(অনিৰ্দ্দিষ্ট)"</string>
+<string name="wifi_remembered">"সংৰক্ষিত"</string>
+<string name="wifi_disabled_generic">"অদৃশ্য"</string>
+<string name="wifi_disabled_network_failure">"বেয়া ইণ্টাৰনেট সংযোজন পৰিহাৰ কৰক"</string>
+<string name="wifi_disabled_password_failure">"প্ৰমাণিকীকৰণত সমস্যা"</string>
+<string name="wifi_not_in_range">"পৰিসৰত নাই"</string>
+<string name="wifi_wps_available_first_item">"WPS উপলব্ধ"</string>
+<string name="wifi_wps_available_second_item">"\u0020(WPS available)"</string>
+<string name="wifi_secured_first_item">"<xliff:g id="wifi_security_short">%1$s</xliff:g> ৰ সৈতে সুৰক্ষিত৷"</string>
+<string name="wifi_secured_second_item">", <xliff:g id="wifi_security_short">%1$s</xliff:g> ৰ সৈতে সুৰক্ষিত৷"</string>
+<string name="wifi_security_none">"খোলা"</string>
+<string name="wifi_security_wapi_psk_hexadecimal">"WAPI PSK হেক্সাডেচিমল"</string>
+<string name="wifi_scan_always_turnon_message">"লোকেশ্যনৰ সঠিকতা উন্নয়নৰ বাবে আৰু অন্যান্য উদ্দেশ্যে, <xliff:g id="app_name">%1$s</xliff:g> য়ে নেটৱৰ্ক স্কেনিং অন কৰিবলৈ বিচাৰিব পাৰে, আনকি WLAN অন হৈ থকা অৱস্থাতো৷ \n\nস্কেন কৰিবলৈ বিচৰা আটাইবোৰ এপ্পৰ বাবে ইয়াক মঞ্জুৰ কৰিবনে?"</string>
+<string name="wifi_scan_always_confirm_allow">"অনুমতি দিয়া হওঁক"</string>
+<string name="wifi_scan_always_confirm_deny">"অনুমতি নাকচ হওঁক"</string>
+<string name="wifi_connect">"সংযোগ স্থাপন"</string>
+<string name="wifi_failed_connect_message">"নেটৱৰ্কৰ সৈতে সংযোগ কৰাত ব্যৰ্থ"</string>
+<string name="wifi_forget">"পাহৰি যোৱা"</string>
+<string name="wifi_failed_forget_message">"নেটৱৰ্ক পাহৰি যোৱাত ব্যৰ্থ"</string>
+<string name="wifi_save">"সংৰক্ষণ কৰা "</string>
+<string name="wifi_failed_save_message">"নেটৱৰ্ক সংৰক্ষণ কৰাত ব্যৰ্থ"</string>
+<string name="wifi_cancel">"নাকচ"</string>
+<string name="wifi_skip_anyway">"কোনোপধ্যে এৰাই যাওঁক"</string>
+<string name="wifi_dont_skip">"এৰাই নাযাব"</string>
+<string name="wifi_skipped_message" product="tablet">"সাৱধান: আপুনি হয়তো অতিৰিক্তভাৱে কেৰিয়াৰ ডাটা ব্যৱহাৰৰ মাচুল ভৰিব লাগিব পাৰে৷ \n\nটেবলেট ছেটআপে বিশেষ নেটৱৰ্ক কাৰুকাৰ্য বিচাৰিব পাৰে৷"</string>
+<string name="wifi_skipped_message" product="default">"সাৱধান: আপুনি হয়তো অতিৰিক্তভাৱে কেৰিয়াৰ ডাটা ব্যৱহাৰৰ মাচুল ভৰিব লাগিব পাৰে৷ \n\nফোনৰ ছেটআপে বিশেষ নেটৱৰ্ক কাৰুকাৰ্য বিচাৰিব পাৰে৷"</string>
+<string name="wifi_and_mobile_skipped_message" product="tablet">"সাৱধান: আপোনাৰ এটা ইণ্টাৰনেট সংযোগ নথকা পৰ্যন্ত, আপোনাৰ ছফটৱেৰটো আপডেট হয় নে নহয় সেয়া আপোনাৰ টেবলেটটোৱে পৰীক্ষা কৰিব নোৱাৰে৷"</string>
+<string name="wifi_and_mobile_skipped_message" product="default">"সাৱধান: আপোনাৰ এটা ইণ্টাৰনেট সংযোগ নথকা পৰ্যন্ত, আপোনাৰ ছফটৱেৰটো আপডেট হয় নে নহয় সেয়া আপোনাৰ ফোনটোৱে পৰীক্ষা কৰিব নোৱাৰে৷"</string>
+<string name="wifi_connect_failed_message" product="tablet">"টেবলেটটোৱে এই Wi-Fi নেটৱৰ্কৰে সৈতে সংযোগ স্থাপন কৰিব নোৱাৰিলে৷"</string>
+<string name="wifi_connect_failed_message" product="default">"ফোনটোৱে এই Wi-Fi নেটৱৰ্কৰে সৈতে সংযোগ স্থাপন কৰিব নোৱাৰিলে৷"</string>
+<string name="wifi_advanced_titlebar">"উন্নত Wi\u2011Fi"</string>
+<string name="wifi_setting_frequency_band_title">"Wi\u2011Fi ফ্ৰিকুৱেন্সী বেণ্ড"</string>
+<string name="wifi_setting_frequency_band_summary">"অপাৰেশ্যনৰ ফ্ৰিকুৱেন্সীৰ পৰিসৰ নিৰ্দ্দিষ্ট কৰক"</string>
+<string name="wifi_setting_frequency_band_error">"ফ্ৰিকুৱেন্সী বেণ্ডৰ ছেট কৰোতে তাত কোনো সমস্যা হৈছিল"</string>
+<string name="wifi_advanced_mac_address_title">"MAC ঠিকনা"</string>
+<string name="wifi_advanced_ip_address_title">"IP ঠিকনা"</string>
+<string name="wifi_advanced_settings_label">"IP ছেটিংছ"</string>
+<string name="wifi_ip_settings_menu_save">"সংৰক্ষণ কৰা "</string>
+<string name="wifi_ip_settings_menu_cancel">"নাকচ"</string>
+<string name="wifi_ip_settings_invalid_ip_address">"এটা বৈধ IP ঠিকনা টাইফ কৰক"</string>
+<string name="wifi_ip_settings_invalid_gateway">"এটা বৈধ গেটৱে IP ঠিকনা টাইপ কৰক"</string>
+<string name="wifi_ip_settings_invalid_dns">"এটা বৈধ DNS ঠিকনা টাইপ কৰক"</string>
+<string name="wifi_ip_settings_invalid_network_prefix_length">"0 আৰু 32 ৰ ভিতৰত এটা নেটৱৰ্কৰ প্ৰাকনিৰ্দ্দিষ্ট দৈৰ্ঘ্য টাইপ কৰক"</string>
+<string name="wifi_dns1">"DNS 1"</string>
+<string name="wifi_dns2">"DNS 2"</string>
+<string name="wifi_gateway">"গেটৱে"</string>
+<string name="wifi_network_prefix_length">"নেটৱৰ্কৰ প্ৰাকনিৰ্দ্দিষ্ট দৈৰ্ঘ্য"</string>
+<string name="wifi_p2p_settings_title">"Wi-Fi ডাইৰেক্ট"</string>
+<string name="wifi_p2p_device_info">"ডিভাইচৰ তথ্য"</string>
+<string name="wifi_p2p_persist_network">"এই সংযোগটো মনত ৰাকিব"</string>
+<string name="wifi_p2p_menu_search">"ডিভাইচৰ বাবে বিচাৰি থকা হৈছে৷"</string>
+<string name="wifi_p2p_menu_searching">"বিচাৰি থকা হৈছে \u2026"</string>
+<string name="wifi_p2p_menu_rename">"ডিভাইচৰ পুনঃনামাকৰণ"</string>
+<string name="wifi_p2p_peer_devices">"পাৰ ডিভাইচসমূহ"</string>
+<string name="wifi_p2p_remembered_groups">"গোটবোৰ মনত ৰখা হ’ল"</string>
+<string name="wifi_p2p_failed_connect_message">"সংযোগ কৰিব পৰা নগ’ল"</string>
+<string name="wifi_p2p_failed_rename_message">"ডিভাইচৰ পুনঃনামাকৰণ ব্যৰ্থ হ’ল"</string>
+<string name="wifi_p2p_disconnect_title">"সংযোগ বিচ্ছিন্ন?"</string>
+<string name="wifi_p2p_disconnect_message">"আপুনি যদি সংযোগ বিচ্ছিন্ন হৈ যায় তেন্তে <xliff:g id="peer_name">%1$s</xliff:g> ৰ সৈতে আপোনাৰ সংযোগ শেষ হৈ যাব৷"</string>
+<string name="wifi_p2p_disconnect_multiple_message">"আপুনি যদি সংযোগ বিচ্ছিন্ন হৈ যায় তেন্তে <xliff:g id="peer_name">%1$s</xliff:g> আৰু <xliff:g id="peer_count">%2$s</xliff:g> অন্যান্য যন্ত্ৰবোৰ শেষ হৈ পৰিব৷"</string>
+<string name="wifi_p2p_cancel_connect_title">"আমন্ত্ৰণ প্ৰত্যাহাৰ?"</string>
+<string name="wifi_p2p_cancel_connect_message">"আপুনি <xliff:g id="peer_name">%1$s</xliff:g>ৰ সৈতে সংযোজিত হোৱাৰ আমন্ত্ৰন প্ৰত্যাহাৰ কৰিব খোজে নেকি?"</string>
+<string name="wifi_p2p_delete_group_message">"এই গোটটো পাহৰি গ’ল নেকি?"</string>
+<string name="wifi_tether_checkbox_text">"প’ৰ্টেবল Wi\u2011Fi হটস্পট"</string>
+<string name="wifi_tether_starting">"হটস্পট খোলা হৈছে\u2026"</string>
+<string name="wifi_tether_stopping">"হটস্পট বন্ধ কৰি থকা হৈছে\u2026"</string>
+<string name="wifi_tether_enabled_subtext">"প’ৰ্টেবল হটস্পট <xliff:g id="network_ssid">%1$s</xliff:g> সক্ৰিয়"</string>
+<string name="wifi_tether_failed_subtext">"প’ৰ্টেবল Wi-Fi হটস্পটত আঁসোৱাহ"</string>
+<string name="wifi_tether_configure_ap_text">"Wi\u2011Fi হটস্পট ছেট কৰক"</string>
+<string name="wifi_tether_configure_subtext">"<xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> প’ৰ্টেবল Wi-Fi হটস্পট৷"</string>
+<string name="wifi_tether_configure_ssid_default">"এণ্ড্ৰইড হটস্পট"</string>
+<string name="home_settings">"হোম"</string>
+<string name="display_settings_title">"ডিচপ্লে\'"</string>
+<string name="sound_settings">"শব্দ"</string>
+<string name="ringtone_title">"ফোনৰ ৰিংটোন"</string>
+<string name="all_volume_title">"ভলিউম"</string>
+<string name="musicfx_title">"সংগীত প্ৰভাৱ"</string>
+<string name="ring_volume_title">"ৰিংটোন ভলিউম"</string>
+<string name="vibrate_in_silent_title">"চাইলেন্ট থকা অৱস্থাত কম্পন কৰক"</string>
+<string name="notification_sound_title">"ডিফল্ট জাননিসূচক শব্দ"</string>
+<string name="notification_pulse_title">"পালচ্ ইংগিতসূচক পোহৰ"</string>
+<string name="incoming_call_volume_title">"ৰিংটোন"</string>
+<string name="notification_volume_title">"জাননীবাৰ্তা"</string>
+<string name="checkbox_notification_same_as_incoming_call">"জাননিৰ বাবে ইনকামিং কল ভলিউম ব্যৱহাৰ কৰক"</string>
+<string name="notification_sound_dialog_title">"ডিফল্ট জাননিসূচক শব্দ"</string>
+<string name="media_volume_title">"মিডিয়া"</string>
+<string name="media_volume_summary">"মিউজিক আৰু ভিডিও\'ৰ বাবে ভলিউম চেট কৰক"</string>
+<string name="alarm_volume_title">"এলাৰ্ম"</string>
+<string name="dock_settings_summary">"গাঁথি দিয়া নথি-পত্ৰৰ বাবে অডিও\' চেটিংচ"</string>
+<string name="dtmf_tone_enable_title">"ডায়েল পেড স্পৰ্শৰ টোন"</string>
+<string name="sound_effects_enable_title">"স্পৰ্শৰ শব্দ"</string>
+<string name="lock_sounds_enable_title">"স্ক্ৰীণ লক হ’লে হোৱা শব্দ"</string>
+<string name="haptic_feedback_enable_title">"স্পৰ্শত ভাইব্ৰেট"</string>
+<string name="audio_record_proc_title">"নইজ নাকচ"</string>
+<string name="volume_media_description">"মিউজিক, ভিডিও, গেমচ্ আৰু অন্য মিডিয়া"</string>
+<string name="volume_ring_description">"ৰিংটোন আৰু জাননী বাৰ্তাসমূহ"</string>
+<string name="volume_notification_description">"জাননি"</string>
+<string name="volume_alarm_description">"এলাৰ্ম"</string>
+<string name="volume_ring_mute">"ৰিংটোন আৰু অন্য নিৰ্দেশ মিউট কৰক""</string>
+<string name="volume_media_mute">"মিউজিক আৰু অন্য মিডিয়া মিউট কৰক"</string>
+<string name="volume_notification_mute">"নিৰ্দেশ সমূহ মিউট কৰক"</string>
+<string name="volume_alarm_mute">"এলাৰ্ম সমুহ মিউট কৰক"</string>
+<string name="vibrate_when_ringing_title">"ৰিং হ’লে কম্পন"</string>
+<string name="dock_settings">"নথি"</string>
+<string name="dock_settings_title">"ডক ছেটিংছ"</string>
+<string name="dock_audio_settings_title">"অডিও\'"</string>
+<string name="dock_audio_summary_desk">"ডেস্কটপ ডকৰ বাবে গাঁথি দিয়া চেটিংচ্"</string>
+<string name="dock_audio_summary_car">"গাঁথি দিয়া কাৰ ডকৰ বাবে চেটিংচ্"</string>
+<string name="dock_audio_summary_none" product="tablet">"টেবলেট ডক্ কৰা হোৱা নাই"</string>
+<string name="dock_audio_summary_none" product="default">"ফোন ডক্ কৰা হোৱা নাই"</string>
+<string name="dock_audio_summary_unknown">"গাঁথি দিয়া ডকৰ বাবে চেটিংচ"</string>
+<string name="dock_not_found_title">"ডক পোৱা নগ\'ল"</string>
+<string name="dock_not_found_text" product="tablet">"ডক অডিও\' চেটিং কৰাৰ আগতে টেবলেট টো ডক কৰা প্ৰয়োজন"</string>
+<string name="dock_not_found_text" product="default">"ডক অডিও\' চেটিং কৰাৰ আগতে ফোন টো ডক কৰা প্ৰয়োজন"</string>
+<string name="dock_sounds_enable_title">"ইনচাৰ্ট চাউণ্ড ডক কৰক"</string>
+<string name="dock_sounds_enable_summary_on" product="tablet">"ডকৰ পৰা টেবলেট আঁতৰ কৰোতে নাইবা প্ৰৱেশ কৰাওতে শব্দ সংগীত বজাওক"</string>
+<string name="dock_sounds_enable_summary_on" product="default">"ডকৰ পৰা ফোন আঁতৰ কৰোতে নাইবা প্ৰৱেশ কৰাওতে শব্দ সংগীত বজাওক"</string>
+<string name="dock_sounds_enable_summary_off" product="tablet">"ডকৰ পৰা টেবলেট আঁতৰ কৰোতে নাইবা প্ৰৱেশ কৰাওতে শব্দ সংগীত সৃষ্টি নকৰিব"</string>
+<string name="dock_sounds_enable_summary_off" product="default">"ডকৰ পৰা ফোন আঁতৰ কৰোতে নাইবা প্ৰৱেশ কৰাওতে শব্দ সৃষ্টি নকৰিব"</string>
+<string name="account_settings">"হিচাপ-বিৱৰণ"</string>
+<string name="search_settings">"বিচাৰ"</string>
+<string name="search_settings_summary">"চাৰ্চ চেটিংচ্ আৰু হিষ্টৰি মেনেজ কৰক"</string>
+<string name="display_settings">"ডিচপ্লে\'"</string>
+<string name="accelerometer_title">"অটো-ৰ\'টেট স্ক্ৰীন"</string>
+<string name="accelerometer_summary_on" product="tablet">"টেবলেট ঘুৰাই-পকাই থাকোতে পূৰ্ব্ব অৱস্থা নিজাকৈ ণিৰ্ণয় কৰাওক"</string>
+<string name="accelerometer_summary_on" product="default">"ফোন ঘুৰাই-পকাই থাকোতে পূৰ্ব্ব অৱস্থা নিজাকৈ ণিৰ্ণয় কৰাওক"</string>
+<string name="accelerometer_summary_off" product="tablet">"টেবলেট ঘুৰাই-পকাই থাকোতে পূৰ্ব্ব অৱস্থা নিজাকৈ ণিৰ্ণয় কৰাওক"</string>
+<string name="accelerometer_summary_off" product="default">"ফোন ঘুৰাই-পকাই থাকোতে পূৰ্ব্ব অৱস্থা নিজাকৈ ণিৰ্ণয় কৰাওক"</string>
+<string name="brightness">"উজ্জ্বলতা"</string>
+<string name="brightness_summary">"স্ক্ৰিনৰ উজ্জ্বলতা মিলাওক"</string>
+<string name="screen_timeout">"নিদ্ৰিত অৱস্থা"</string>
+<string name="touch_light_timeout">"টাছ লাইট"</string>
+<string name="touch_light_timeout_title">"টাছ লাইট সময়"</string>
+<string name="touch_light_timeout_summary">"<xliff:g id="timeout_description">%1$s</xliff:g> নিষ্ক্ৰিয় অৱস্থাৰ কেইচেকেণ্ড মান পিছত"</string>
+<string name="close_screen_bright_automode">"অনুগ্ৰহ কৰি স্বয়ংক্ৰিয় স্ক্ৰিন এডজাষ্ট অফ্ কৰক"</string>
+<string name="screen_timeout_summary">"<xliff:g id="timeout_description">%1$s</xliff:g> নিষ্ক্ৰিয় অৱস্থাৰ পিছত""</string>
+<string name="wallpaper_settings_title">"ৱালপেপাৰ"</string>
+<string name="wallpaper_settings_fragment_title">"ৰ পৰা ৱালপেপাৰ বাচনি কৰক"</string>
+<string name="screensaver_settings_title">"ডে’ড্ৰীম"</string>
+<string name="screensaver_settings_summary_either_long">"কেতিয়া ডক কৰিব, নিদ্ৰিত অৱস্থাত থাকিব আৰু চাৰ্জিং হ\'ব?"</string>
+<string name="screensaver_settings_summary_either_short">"নতুবা"</string>
+<string name="screensaver_settings_summary_sleep">"চাৰ্জ দি থাকোতে"</string>
+<string name="screensaver_settings_summary_dock">"ডক কৰি থাকোতে"</string>
+<string name="screensaver_settings_summary_off">"অফ"</string>
+<string name="screensaver_settings_disabled_prompt">"ফোন ডক হৈ থাকোতে নাইবা নিদ্ৰিত অৱস্থাত থাকোতে যি ঘটে তাক নিয়ণ্ৰণ কৰিবলৈ ডেড্ৰীম অন্ কৰক"</string>
+<string name="screensaver_settings_when_to_dream">"ডেড্ৰীম কেতিয়া কৰিব"</string>
+<string name="screensaver_settings_dream_start">"এতিয়া আৰম্ভ কৰক"</string>
+<string name="screensaver_settings_button">"ছেটিংছ"</string>
+<string name="automatic_brightness">"স্বয়ংক্ৰিয় উজ্জ্বলতা"</string>
+<string name="title_font_size">"ফন্টৰ আকাৰ"</string>
+<string name="dialog_title_font_size">"ফন্টৰ আকাৰ"</string>
+<string name="sim_lock_settings">"SIM কাৰ্ড লক চেটিংচ্"</string>
+<string name="sim_lock_settings_category">"SIM কাৰ্ড লক সেট আপ কৰক"</string>
+<string name="sim_lock_settings_title">"SIM কাৰ্ড লক"</string>
+<string name="sim_pin_toggle">"SIM কাৰ্ড লক কৰক"</string>
+<string name="sim_lock_on" product="tablet">"টেবলেট ব্যৱহাৰ কৰিবলৈ PIN বিচাৰক"</string>
+<string name="sim_lock_on" product="default">"ফোন ব্যৱহাৰ কৰিবলৈ PIN বিচাৰক"</string>
+<string name="sim_lock_off" product="tablet">"টেবলেট ব্যৱহাৰ কৰিবলৈ PIN বিচাৰক"</string>
+<string name="sim_lock_off" product="default">"ফোন ব্যৱহাৰ কৰিবলৈ PIN বিচাৰক"</string>
+<string name="sim_pin_change">"SIM PIN সলনি কৰক"</string>
+<string name="sim_enter_pin">"SIM পিন"</string>
+<string name="sim_enable_sim_lock">"SIM কাৰ্ড লক কৰক"</string>
+<string name="sim_disable_sim_lock">"SIM কাৰ্ড আনলক কৰক"</string>
+<string name="sim_enter_old">"পুৰণি SIM PIN"</string>
+<string name="sim_enter_new">"নতুন SIM PIN"</string>
+<string name="sim_reenter_new">"নতুন PIN পুনৰ টাইপ কৰক"</string>
+<string name="sim_change_pin">"SIM পিন"</string>
+<string name="sim_bad_pin">"ভুল PIN"</string>
+<string name="sim_pins_dont_match">"PIN মিলা নাই"</string>
+<string name="sim_change_failed">"PIN সলাব নোৱাৰে ৷\nসম্ভৱত: অশুদ্ধ PIN"</string>
+<string name="sim_change_succeeded">"SIM PIN সফলতাৰে সলোৱা হ\'ল"</string>
+<string name="sim_lock_failed">"SIM কাৰ্ড লক অৱস্থাৰ পৰিবৰ্তন কৰিব নোৱাৰি ৷\nসম্ভৱত: অশুদ্ধ PIN"</string>
+<string name="sim_enter_ok">"ঠিক আছে"</string>
+<string name="sim_enter_cancel">"নাকচ"</string>
+<string name="wrong_pin_code_pukked">"অশুদ্ধ SIM PIN কোড,এতিয়া আপোনাৰ ডিভাইচ আনলক্ কৰিবলৈ আপোনাৰ কেৰিয়াৰৰ সৈতে কন্টেক্ত কৰক ৷"</string>
+<plurals name="wrong_pin_code">
+<item quantity="one">""অশুদ্ধ SIM PIN কোড,এতিয়াও আপোনাৰ এটেম্পট্ বাকী আছে, <xliff:g id="number">%d</xliff:g> তাৰ আগতে আপোনাৰ ডিভাইচ আনলক্ কৰিবলৈ আপোনাৰ কেৰিয়াৰৰ সৈতে কন্টেক্ত কৰক ৷"</item>
+<item quantity="other">"SIM PIN কোড অশুদ্ধ, আপোনাৰ এটেম্প্ট্ <xliff:g id="number">%d</xliff:g> বাকী আছে"</item>
+</plurals>
+<string name="pin_failed">"SIM PIN অভিযান বিফল হ\'ল"</string>
+<string name="device_info_settings" product="tablet">"টেনলেটৰ অৱস্থা"</string>
+<string name="device_info_settings" product="default">"ফোনৰ অৱস্থা"</string>
+<string name="system_update_settings_list_item_title">"চিষ্টেম আপডেট হৈছে"</string>
+<string name="firmware_version">"এন্ড্ৰইড ভাৰ-শ্বন"</string>
+<string name="model_number">"মডেল নাম্বাৰ"</string>
+<string name="fcc_equipment_id">"সঁজুলি ID"</string>
+<string name="baseband_version">"বেচবেণ্ড ভাৰ-শ্বন"</string>
+<string name="kernel_version">"কাৰ্নেল ভাৰ-শ্বন""</string>
+<string name="build_number">"নিৰ্মিত নাম্বাৰ"</string>
+<string name="selinux_status">"SELinux অৱস্থা""</string>
+<string name="device_info_not_available">"উপলব্ধ নহয়"</string>
+<string name="device_status_activity_title">"স্থিতি"</string>
+<string name="device_status">"স্থিতি"</string>
+<string name="device_status_summary" product="tablet">"বেটাৰি, নেটৱৰ্ক আৰু অন্য তথ্যৰ সৱিশেষ"</string>
+<string name="device_status_summary" product="default">"ফোন নম্বৰ, সংকেত ইত্যাদি"</string>
+<string name="storage_settings">"সঞ্চয়"</string>
+<string name="storage_settings_title">"ষ্টোৰেজ চেটিং"</string>
+<string name="storage_settings_summary" product="nosdcard">"USB ষ্টোৰেজ খোলক, পৰ্যাপ্ত ষ্টোৰেজ চাওক"</string>
+<string name="storage_settings_summary" product="default">"SD কাৰ্ড খোলক, পৰ্যাপ্ত ষ্টোৰেজ চাওক""</string>
+<string name="status_number" product="tablet">"MDN"</string>
+<string name="status_number" product="default">"মোৰ ফোন নম্বৰ"</string>
+<string name="status_prl_version">"PRL ভাৰ-শ্বন"</string>
+<string name="status_network_type">"মোবাইল নেটৱৰ্ক ধৰণ"</string>
+<string name="status_latest_area_info">"অপাৰেটৰ ইনফো\'"</string>
+<string name="status_data_state">"মোবাইল নেটৱৰ্ক ক্ষেত্ৰ"</string>
+<string name="status_service_state">"সেৱা ক্ষেত্ৰ"</string>
+<string name="status_signal_strength">"ছিগনেলৰ ক্ষমতা"</string>
+<string name="status_roaming">"ৰোমিং"</string>
+<string name="status_operator">"নেটৱৰ্ক"</string>
+<string name="status_wifi_mac_address">"Wi\u2011Fi MAC ঠিকনা"</string>
+<string name="status_bt_address">"ব্লু-টুথ ঠিকনা"</string>
+<string name="status_serial_number">"ক্ৰমিক নম্বৰ"</string>
+<string name="status_unavailable">"উপলব্ধ নহয়"</string>
+<string name="status_up_time">"আহি পোৱা সময়"</string>
+<string name="status_awake_time">"সাৰ পোৱা সময়"</string>
+<string name="internal_memory">"ইণ্টাৰনেল ষ্ট\'ৰেজ"</string>
+<string name="sd_memory" product="nosdcard">"USB ষ্ট্\'ৰেজ"</string>
+<string name="sd_memory" product="default">"SD কাৰ্ড"</string>
+<string name="memory_available">"উপলব্ধ"</string>
+<string name="memory_available_read_only">"উপলব্ধ (কেৱল পঢ়িবৰ বাবে)"</string>
+<string name="memory_size">"মুঠ ঠাই"</string>
+<string name="memory_calculating_size">"গণনা কৰি থকা হৈছে\u2026"</string>
+<string name="memory_apps_usage">"এপ্পসমূহ (এপ্প ডাটা আৰু মিডিয়া কনটেণ্ট)"</string>
+<string name="memory_media_usage">"মিডিয়া"</string>
+<string name="memory_downloads_usage">"ডাউনল’ড"</string>
+<string name="memory_dcim_usage">"ছবিসমূহ"</string>
+<string name="memory_music_usage">"অডিঅ’ (মিউজিক, ৰিংটোন, পডকাষ্ট আদি)"</string>
+<string name="memory_media_misc_usage">"সানমিহলি"</string>
+<string name="memory_others_usage">"ব্যৱহৃত(অন্যধৰণৰ ফাইল)"</string>
+<string name="memory_media_cache_usage">"কেচ্ড ডাটা"</string>
+<string name="sd_eject" product="nosdcard">"শ্বেয়াৰ্ড ষ্টোৰেজ আনমাউণ্ট কৰক"</string>
+<string name="sd_eject" product="default">"SD কাৰ্ড আনমাউণ্ট কৰক"</string>
+<string name="sd_eject_summary" product="nosdcard">"ইণ্টাৰনেল USB ষ্টোৰেজ আনমাউণ্ট কৰক"</string>
+<string name="sd_eject_summary" product="default">"সুৰক্ষিতভাৱে আঁতৰাই আনিবলৈ SD কাৰ্ডখন আনমাউণ্ট কৰক"</string>
+<string name="sd_insert_summary" product="nosdcard">"মাউণ্টিং কৰিবৰ বাবে USB ষ্টোৰেজ সুমুৱাই দিয়ক"</string>
+<string name="sd_insert_summary" product="default">"মাউণ্টিং কৰিবৰ বাবে SD কাৰ্ড এখন সুমুৱাই দিয়ক"</string>
+<string name="sd_mount" product="nosdcard">"USB ষ্টোৰেজ মাউণ্ট কৰক"</string>
+<string name="sd_mount" product="default">"SD কাৰ্ড মাউণ্ট কৰক"</string>
+<string name="sd_format" product="nosdcard">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+<string name="sd_format" product="default">"SD কাৰ্ড মচি পেলাওঁক"</string>
+<string name="sd_format_summary" product="nosdcard">"মিউজিক আৰু ফটোৰ দৰে ইণ্টাৰনেল USB ষ্টোৰেজত থকা আটাইবোৰ ডাটা মচি পেলোৱা হয়৷"</string>
+<string name="sd_format_summary" product="default">"মিউজিক আৰু ফটোৰ দৰে ইণ্টাৰনেল SD কাৰ্ডত থকা আটাইবোৰ ডাটা মচি পেলোৱা হয়৷"</string>
+<string name="memory_clear_cache_title">"কেচড ডাটাসমূহ মচি পেলাব নে?"</string>
+<string name="memory_clear_cache_message">"ই আটাইবোৰ এপ্পৰ বাবে কেচড ডাটাসমূহ আঁতৰাই পেলাব৷"</string>
+<string name="mtp_ptp_mode_summary">"MTP বা PTP ৰ কাৰ্যব্যৱস্থা সক্ৰিয়"</string>
+<string name="dlg_confirm_unmount_title" product="nosdcard">"USB ষ্টোৰেজ আনমাউণ্ট কৰিবনে?"</string>
+<string name="dlg_confirm_unmount_title" product="default">"SD কাৰ্ড আনমাউণ্ট কৰিবনে?"</string>
+<string name="dlg_confirm_unmount_text" product="nosdcard">"আপুনি যদি আপোনাৰ USB ষ্টোৰেজটো আনমাউণ্ট কৰে, আপুনি ব্যৱহাৰ কৰি থকা কিছুমান এপ্পে কাম কৰিবলৈ বন্ধ কৰি দিব আৰু আপুনি USB ষ্টোৰেজটো ৰিমাউণ্ট নকৰা পৰ্যন্ত ই অনুপলব্ধ হৈ ছাকিব৷"</string>
+<string name="dlg_confirm_unmount_text" product="default">"আপুনি যদি আপোনাৰ SD কাৰ্ডখন আনমাউণ্ট কৰে, আপুনি ব্যৱহাৰ কৰি থকা কিছুমান এপ্পে কাম কৰিবলৈ বন্ধ কৰি দিব আৰু আপুনি USB ষ্টোৰেজটো ৰিমাউণ্ট নকৰা পৰ্যন্ত ই অনুপলব্ধ হৈ ছাকিব৷"</string>
+<string name="dlg_error_unmount_text" product="nosdcard">"USB ষ্টোৰেজ আনমাউণ্ট কৰিব পৰা নগ’ল৷ কিছুসময় পিছত পুনৰ চেষ্টা কৰক৷"</string>
+<string name="dlg_error_unmount_text" product="default">"SD কাৰ্ড আনমাউণ্ট কৰিব পৰা নগ’ল৷ কিছুসময় পিছত পুনৰ চেষ্টা কৰক৷"</string>
+<string name="unmount_inform_text" product="nosdcard">"USB ষ্টোৰেজ আনমাউণ্ট কৰা হ’ব৷"</string>
+<string name="unmount_inform_text" product="default">"SD কাৰ্ড আনমাউণ্ট কৰা হ’ব৷"</string>
+<string name="sd_ejecting_title">"আনমাউণ্টিং"</string>
+<string name="sd_ejecting_summary">"আনমাউণ্ট হৈ আছে"</string>
+<string name="storage_low_title">"ষ্টোৰেজৰ স্থান পৰিপূৰ্ণ হৈ পৰিছে"</string>
+<string name="storage_low_summary">"ছিনক্ৰ’নাইজিংৰ দৰে কিছুমান ছিষ্টেম সম্পৰ্কীয় কাৰ্যাৱলীয়ে কাম নকৰিব পাৰে৷ এপ্পসমূহ বা মিডিয়া কনটেণ্টৰ দৰে বিষয়বস্তুৰ মোচন কাৰ্য বা আনপিন কৰা কাৰ্যৰে কিছুমান ঠাই খালী কৰিবলৈ যত্ন কৰক৷"</string>
+<string name="storage_menu_usb">"USB ৰে কম্পিউটাৰৰ সৈতে সংযোগ স্থাপন হৈছে"</string>
+<string name="storage_title_usb">"USB ৰে কম্পিউটাৰৰ সৈতে সংযোগ স্থাপন হৈছে"</string>
+<string name="usb_connection_category">"হিচাপে সংযোগ স্থাপন কৰক"</string>
+<string name="usb_mtp_title">"মিডিয়া ডিভাইচ (MTP)"</string>
+<string name="usb_mtp_summary">"ই মিডিয়া ফাইলসমূহক উইণ্ডোজলৈ বা এণ্ড্ৰইড ফাইলসমূহক মেকলৈ স্থানান্তৰ কৰিবলৈ দিয়ে (www.android.com/filetransfer চাওঁক)"</string>
+<string name="usb_ptp_title">"কেমেৰা(PTP)"</string>
+<string name="usb_ptp_summary">"কেমেৰা ছফ্টৱেৰৰ ব্যৱহাৰেৰে ফটোসমূহ স্থানান্তৰ হ’বলৈ দিয়ক, আৰু MTP য়ে সমৰ্থন নকৰা অন্য যিকোনো ফাইল স্থানান্তৰ কৰক৷"</string>
+<string name="usb_label_installer_cd">"ফাইল স্থানান্তৰ কৰা সঁজুলি ইনষ্টল কৰক"</string>
+<string name="storage_other_users">"অইন ব্যৱহাৰকাৰীসকল"</string>
+<string name="battery_status_title">"বেটাৰীৰ স্থিতি"</string>
+<string name="battery_level_title">"বেটাৰীৰ পৰ্যায়"</string>
+<string name="apn_settings">"APNs"</string>
+<string name="apn_edit">"আহৰণ পইণ্ট সম্পাদনা কৰক"</string>
+<string name="apn_not_set">"ছেট কৰা হোৱা নাই"</string>
+<string name="apn_name">"নাম"</string>
+<string name="apn_http_proxy">"প্ৰক্সি"</string>
+<string name="apn_http_port">"পৰ্ট"</string>
+<string name="apn_user">"ব্যৱহাৰকাৰীৰ নাম"</string>
+<string name="apn_password">"পাছৱৰ্ড"</string>
+<string name="apn_server">"চাৰ্ভাৰ"</string>
+<string name="apn_mms_proxy">"MMS প্ৰক্সি"</string>
+<string name="apn_mms_port">"MMS প’ৰ্ট"</string>
+<string name="apn_auth_type">"প্ৰামাণিকীকৰণৰ ধৰণ"</string>
+<string name="apn_auth_type_none">"নাই"</string>
+<string name="apn_auth_type_pap_chap">"PAP বা CHAP"</string>
+<string name="apn_type">"APN ৰ ধৰণ"</string>
+<string name="apn_protocol">"APN প্ৰ’ট’ক’ল"</string>
+<string name="apn_roaming_protocol">"APN ৰোমিং প্ৰ’ট’ক’ল"</string>
+<string name="carrier_enabled">"APN সক্ৰিয়/নিস্ক্ৰিয়"</string>
+<string name="carrier_enabled_summaryOn">"APN সক্ৰিয়"</string>
+<string name="carrier_enabled_summaryOff">"APN নিস্ক্ৰিয়"</string>
+<string name="bearer">"বীয়েৰাৰ"</string>
+<string name="mvno_type">"MVNO ৰ ধৰণ"</string>
+<string name="mvno_match_data">"MVNO ৰ ভেল্যু"</string>
+<string name="menu_delete">"APN মচি পেলাওঁক"</string>
+<string name="menu_new">"নতুন APN"</string>
+<string name="menu_save">"সংৰক্ষণ কৰা "</string>
+<string name="menu_cancel">"অগ্ৰাহ্য"</string>
+<string name="error_name_empty">"নতুন ক্ষেত্ৰ খালী হৈ থাকিব নোৱাৰিব"</string>
+<string name="error_apn_empty">"APN খালী হৈ থাকিব নোৱাৰিব"</string>
+<string name="error_mcc_not3">"MCC ক্ষেত্ৰত 3 টা সংখ্যা থাকিবই লাগিব"</string>
+<string name="error_mnc_not23">"MCC ক্ষেত্ৰত 2 বা 3 টা সংখ্যা থাকিবই লাগিব৷"</string>
+<string name="restore_default_apn">"ডিফল্ট APN ছেটিংছ ৰিছেট কৰক"</string>
+<string name="menu_restore">"ডিফল্টৰ বাবে ৰিছেট কৰক"</string>
+<string name="restore_default_apn_completed">"ডিফল্ট APN ছেটিংছ ৰিছেট সম্পূৰ্ণ হ’ল"</string>
+<string name="master_clear_title">"ফেক্টৰী ডাটা পুনৰ সংস্থাপন"</string>
+<string name="master_clear_summary" product="tablet">"টেবলেটৰ আটাইবোৰ মচি পেলায়"</string>
+<string name="master_clear_summary" product="default">"ফোনৰ আটাইবোৰ মচি পেলায়"</string>
+<string name="master_clear_desc" product="tablet">"ই আপোনাৰ টেবলেটৰ আটাইবোৰ মচি পেলায় <b>ইন্টাৰনাল স্টোৰেজ</b>, লগতে:\n\n<li>আপোনাৰ গুগল অ্যাকাউন্ট</li>\n<li>ছিষ্টেম আৰু এপ্পৰ ডাটা আৰু ছেটিংছসমূহো</li>\n<li>ডাউনলোডেড  অ্যাপ্লিকেশান</li>"</string>
+<string name="master_clear_desc" product="default">"ই আপোনাৰ ফোনৰ আটাইবোৰ মচি পেলায় <b>ইন্টাৰনাল স্টোৰেজ</b>, লগতে:\n\n<li>আপোনাৰ গুগল অ্যাকাউন্ট</li>\n<li>ছিষ্টেম আৰু এপ্পৰ ডাটা আৰু ছেটিংছসমূহো</li>\n<li>ডাউনলোডেড  অ্যাপ্লিকেশান</li>"</string>
+<string name="master_clear_accounts" product="default">"\n\nআপুনি নিম্নোক্ত একাউণ্টত বৰ্তমান ছাইন-ইন কৰি আছে:\n"</string>
+<string name="master_clear_desc_also_erases_external">"<li>মিউজিক</li>\n<li>ফটোজ</li>\n<li>অন্যান্য ব্যৱহাৰকাৰীৰ ডাটা</li>"</string>
+<string name="master_clear_desc_erase_external_storage" product="nosdcard">"\n\nমিউজিক, ছবি আৰু অন্যান্য ব্যৱহাৰকাৰীৰ ডাটা আঁতৰাবলৈ <b>USB ষ্টোৰেজ</b> মচি পেলাব লাগিব"</string>
+<string name="master_clear_desc_erase_external_storage" product="default">"\n\nমিউজিক, ছবি আৰু অন্যান্য ব্যৱহাৰকাৰীৰ ডাটা আঁতৰাবলৈ <b>SD কাৰ্ডখন</b> মচি পেলাব লাগিব"</string>
+<string name="erase_external_storage" product="nosdcard">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+<string name="erase_external_storage" product="default">"SD কাৰ্ড মচি পেলাওঁক"</string>
+<string name="erase_external_storage_description" product="nosdcard">"মিউজিক আৰু ফটোৰ দৰে ইণ্টাৰনেল USB ষ্টোৰেজত থকা আটাইবোৰ ডাটা মচি পেলোৱা হয়৷"</string>
+<string name="erase_external_storage_description" product="default">"মিউজিক আৰু ফটোৰ দৰে ইণ্টাৰনেল SD কাৰ্ডত থকা আটাইবোৰ ডাটা মচি পেলোৱা হয়৷"</string>
+<string name="master_clear_button_text" product="tablet">"টেবলেটটো ৰিছেট কৰক"</string>
+<string name="master_clear_button_text" product="default">"ফোনটো ৰিছেট কৰক"</string>
+<string name="master_clear_final_desc">"আপোনাৰ আটাইবোৰ ব্যক্তিগত তথ্যপাতি মচি পেলাওঁক আৰু এপ্পসমূহ ডাউনলোড কৰিবনে? আপুনি এই কাৰ্যৰ পৰা উভতি যাবলৈ নোৱাৰে!"</string>
+<string name="master_clear_final_button_text">"আটাইবোৰ মচি পেলাওঁক"</string>
+<string name="master_clear_gesture_prompt">"আপোনাৰ আনলকৰ ধৰণ ব্যৱহাৰ কৰক"</string>
+<string name="master_clear_gesture_explanation">"এটা ফেক্টৰী ডাটা ৰিছেট কৰিবলৈ আপোনাৰ আনলকৰ ধৰণ ব্যৱহাৰ কৰক"</string>
+<string name="master_clear_failed">"ছিষ্টেম ক্লীয়েৰ সেৱা উপলব্ধ নথকা বাবে কোনো ৰিছেট কৰিব পৰা নগ’ল৷"</string>
+<string name="master_clear_confirm_title">"ৰিছেট কৰিব?"</string>
+<string name="media_format_title" product="nosdcard">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+<string name="media_format_title" product="default">"SD কাৰ্ড মচি পেলাওঁক"</string>
+<string name="media_format_summary" product="nosdcard">"USB ষ্টোৰেজৰ আটাইবোৰ ডাটা মচি পেলায়"</string>
+<string name="media_format_summary" product="default">"SD কাৰ্ডৰ আটাইবোৰ ডাটা মচি পেলায়"</string>
+<string name="media_format_desc" product="nosdcard">"USB ষ্টোৰেজৰ আটাইবোৰ ডাটা মচি পেলায় নে? আপুনি <b>আটাইবোৰ</b> সংৰক্ষিত ডাটা হেৰুৱাই পেলাব!"</string>
+<string name="media_format_desc" product="default">"SD কাৰ্ডৰ আটাইবোৰ ডাটা মচি পেলায় নে? আপুনি <b>আটাইবোৰ</b> সংৰক্ষিত ডাটা হেৰুৱাই পেলাব!"</string>
+<string name="media_format_button_text" product="nosdcard">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+<string name="media_format_button_text" product="default">"SD কাৰ্ড মচি পেলাওঁক"</string>
+<string name="media_format_final_desc" product="nosdcard">"USB ষ্টোৰেজটো মচি পেলাওঁক, তাত সংৰক্ষিত হৈ থকা আটাইবোৰ ডাটা মচা হৈ আছে!"</string>
+<string name="media_format_final_desc" product="default">"SD কাৰ্ডখন মচি পেলাওঁক, তাত সংৰক্ষিত হৈ থকা আটাইবোৰ ডাটা মচা হৈ আছে!"</string>
+<string name="media_format_final_button_text">"আটাইবোৰ মচি পেলাওঁক"</string>
+<string name="media_format_gesture_prompt">"আপোনাৰ আনলকৰ ধৰণ ব্যৱহাৰ কৰক"</string>
+<string name="media_format_gesture_explanation" product="nosdcard">"আপুনি যে USB ষ্টোৰেজটো মচি পেলাবলৈ বিচাৰিছে সেয়া নিশ্চিত কৰিবলৈ আপুনি আপোনাৰ আনলক কৰা ধৰণটো আহৰণ কৰিব লাগিব"</string>
+<string name="media_format_gesture_explanation" product="default">"আপুনি যে SD কাৰ্ডখন মচি পেলাবলৈ বিচাৰিছে সেয়া নিশ্চিত কৰিবলৈ আপুনি আপোনাৰ আনলক কৰা ধৰণটো আহৰণ কৰিব লাগিব"</string>
+<string name="call_settings_title">"কল চেটিং।"</string>
+<string name="call_settings_summary">"ভয়চমেইল, কল ফৰৱাৰ্ড, কল ৱেইটিং, কলাৰ আই ডি ছেটআপ কৰক৷"</string>
+<string name="tether_settings_title_usb">"USB টেথাৰিং"</string>
+<string name="tether_settings_title_wifi">"প’ৰ্টেবল হটস্পট"</string>
+<string name="tether_settings_title_bluetooth">"ব্লুটুথ টেথাৰিং"</string>
+<string name="tether_settings_title_usb_bluetooth">"টেথাৰিং"</string>
+<string name="tether_settings_title_all">"টেথাৰিং আৰু প’ৰ্টেবল হটস্পট"</string>
+<string name="usb_tethering_button_text">"USB টেথাৰিং"</string>
+<string name="usb_tethering_available_subtext">"USB সংযোগ হৈছে, টেথাৰিং পৰীক্ষা কৰক"</string>
+<string name="usb_tethering_active_subtext">"টেথাৰ্ড"</string>
+<string name="usb_tethering_storage_active_subtext">"USB ষ্টোৰেজ ব্যৱহাৰ হৈ থকা সময়ছোৱাত টেথাৰিং কৰিব নোৱাৰি"</string>
+<string name="usb_tethering_unavailable_subtext">"USB সংযোগ হোৱা নাই"</string>
+<string name="usb_tethering_errored_subtext">"USB টেথেৰিংত আঁসোৱাহ"</string>
+<string name="bluetooth_tether_checkbox_text">"ব্লুটুথ টেথাৰিং"</string>
+<string name="bluetooth_tethering_available_subtext" product="tablet">"টেবলেটৰ ইণ্টাৰনেট সংযোগ স্থাপন শ্বেয়াৰ হৈ আছে"</string>
+<string name="bluetooth_tethering_available_subtext" product="default">"ফোনৰ ইণ্টাৰনেট সংযোগ স্থাপন শ্বেয়াৰ হৈ আছে"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="tablet">"1 ডিভাইচৰ সৈতে এই টেবলেটটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ কৰক"</string>
+<string name="bluetooth_tethering_device_connected_subtext" product="default">"1 ডিভাইচৰ সৈতে এই ফোনটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ কৰক"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="tablet">"<xliff:g id="connectedDeviceCount">%1$d</xliff:g> ডিভাইচৰ সৈতে এই টেবলেটটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ কৰক"</string>
+<string name="bluetooth_tethering_devices_connected_subtext" product="default">"<xliff:g id="connectedDeviceCount">%1$d</xliff:g> ডিভাইচৰ সৈতে এই ফোনটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ কৰক"</string>
+<string name="bluetooth_tethering_off_subtext" product="tablet">"এই টেবলেটটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ নকৰিব"</string>
+<string name="bluetooth_tethering_off_subtext" product="default">"এই ফোনটোৰ ইণ্টাৰনেট সংযোগ শ্বেয়াৰ নকৰিব"</string>
+<string name="bluetooth_tethering_errored_subtext">"টেথাৰ্ড নাই"</string>
+<string name="bluetooth_tethering_overflow_error">"<xliff:g id="maxConnection">%1$d</xliff:g> ডিভাইচতকৈ অধিক টেথাৰ কৰিব পৰা নাযায়৷"</string>
+<string name="bluetooth_untether_blank">"<xliff:g id="device_name">%1$s</xliff:g> ক টেথাৰ কৰা হ’ব"</string>
+<string name="tethering_help_button_text">"সহায়"</string>
+<string name="network_settings_title">"মোবাইল নেটৱৰ্ক"</string>
+<string name="manage_mobile_plan_title">"মোবাইল প্লান"</string>
+<string name="sms_application_title">"ডিফল্ট SMS এপ্প"</string>
+<string name="sms_change_default_dialog_title">"SMS এপ্প সলনি কৰিব নে?"</string>
+<string name="sms_change_default_dialog_text">"<xliff:g id="current_app">%s</xliff:g> ৰ পৰিবৰ্তে আপোনাৰ এছ এম এছ এপ্প হিচাপে <xliff:g id="new_app">%s</xliff:g> ব্যৱহাৰ কৰিবনে?"</string>
+<string name="sms_change_default_no_previous_dialog_text">"<xliff:g id="new_app">%s</xliff:g> ক আপোনাৰ SMS এপ্প হিচাপে ব্যৱহাৰ কৰিব নে?"</string>
+<string name="mobile_unknown_sim_operator">"অচিনাকি চিম অপাৰেটৰ"</string>
+<string name="mobile_no_provisioning_url">"%1$ ৰ কোনো বিশেষ প্ৰযোজ্য ৱেবচাইট নাই"</string>
+<string name="mobile_insert_sim_card">"অনুগ্ৰহ কৰি চিমকাৰ্ডখন ভৰাওক আৰু পুনৰ আৰম্ভ কৰক"</string>
+<string name="mobile_connect_to_internet">"অনুগ্ৰহ কৰি ইন্টাৰনেটৰ সৈতে সংযোগ কৰক"</string>
+<string name="location_title">"মোৰ স্থান"</string>
+<string name="location_mode_title">"ম\'ড"</string>
+<string name="location_mode_high_accuracy_title">"উচ্চ শুদ্ধতা"</string>
+<string name="location_mode_battery_saving_title">"বেটাৰি চেভিং"</string>
+<string name="location_mode_sensors_only_title">"ডিভাইচ মাত্ৰ"</string>
+<string name="location_mode_location_off_title">"লোকেশ্যন বন্ধ"</string>
+<string name="location_category_recent_location_requests">"খন্তেক পূৰ্বৰ স্থান অনুৰোধ"</string>
+<string name="location_no_recent_apps">"অলপতে কোনো এপচ্ -এ স্থানৰ অনুৰোধ কৰা নাই"</string>
+<string name="location_category_location_services">"স্থানবিশেষ সেৱা"</string>
+<string name="location_high_battery_use">"উচ্চ হাৰত বেটাৰি ব্যৱহাৰ"</string>
+<string name="location_low_battery_use">"নিম্নহাৰত বেটাৰি ব্যৱহাৰ"</string>
+<string name="location_mode_screen_title">"লোকেচন ম\'ড"</string>
+<string name="location_mode_high_accuracy_description">"স্থান ণিৰ্ণয় কৰিবলৈ GPS, Wi\u2011Fi, আৰু মোবাইল নেটৱৰ্ক ব্যৱহাৰ কৰক"</string>
+<string name="location_mode_battery_saving_description">"স্থান ণিৰ্ণয় কৰিবলৈ Wi\u2011Fi আৰু মোবাইল নেটৱৰ্ক ব্যৱহাৰ কৰক"</string>
+<string name="location_mode_sensors_only_description">"স্থান ণিৰ্ণয় কৰিবলৈ GPS ব্যৱহাৰ কৰক"</string>
+<string name="location_loading_injected_setting">"পুনৰোদ্ধাৰ চলি আছে"</string>
+<string name="location_network_based">"Wi\u2011Fi আৰু মোবাইল নেটৱৰ্ক স্থান"</string>
+<string name="location_neighborhood_level">"আপোনাৰ স্থান দ্ৰুতগতিৰে নিৰূপন কৰিবলৈ এপচ্-ক গুগলৰ লোকেচন চাৰ্ভিচ ব্যৱহাৰ কৰিবলৈ দিয়া হওক ৷ বেনামি লোকেচন ডাটা সংগ্ৰহ কৰি গুগললৈ প্ৰেৰণ কৰা হ\'ব"</string>
+<string name="location_neighborhood_level_wifi">"Wi\u2011Fi ৰ দ্বাৰা স্থান নি্শ্চিত কৰা হৈছে"</string>
+<string name="location_gps">"GPS চেটেলাইট"</string>
+<string name="location_street_level" product="tablet">"আপোনাৰ স্থান আঙুলিয়াই দিবলৈ এপচ্-ক আপোনাৰ টেবলেটত GPS ব্যৱহাৰ কৰিবলৈ দিয়া হওক"</string>
+<string name="location_street_level" product="default">"আপোনাৰ স্থান আঙুলিয়াই দিবলৈ এপচ্-ক আপোনাৰ ফোনত GPS ব্যৱহাৰ কৰিবলৈ দিয়া হওক"</string>
+<string name="assisted_gps">"সহায়ক GPS ব্যৱহাৰ কৰক"</string>
+<string name="assisted_gps_enabled">"GPS ক সহায় কৰিবলৈ চাৰ্ভাৰ ব্যৱহাৰ কৰক (নেটৱৰ্কৰ ব্যৱহাৰ কমাবলৈ আনচেক্ কৰক)"</string>
+<string name="assisted_gps_disabled">"GPS ক সহায় কৰিবলৈ চাৰ্ভাৰ ব্যৱহাৰ কৰক (GPSৰ কৰ্ম দক্ষতা বৃদ্ধি কৰিবলৈ আনচেক্ কৰক)"</string>
+<string name="use_location_title">"অৱস্থান আৰু গুগল চাৰ্চ"</string>
+<string name="use_location_summary">"আপোনালৈ অনুসন্ধান ফলাফল আৰু অন্য সেৱা উন্নত কৰিবলৈ গুগলক আপোনাৰ স্থান ব্যৱহাৰ কৰিবলৈ দিয়া হওক"</string>
+<string name="location_access_title">"মোৰ স্থানৰ সৈতে সংযোগ স্থাপন কৰা হওক"</string>
+<string name="location_access_summary">"আপোনাৰ অনুমতি লাভ কৰা এপচ্-ক আপোনাৰ স্থানৰ তথ্য ব্যৱহাৰ কৰিবলৈ দিয়া হওক"</string>
+<string name="location_sources_heading">"অৱস্থানৰ উৎস সমূহ"</string>
+<string name="location_gps_config">"AGPS সক্ৰিয় কৰাৰ বিকল্প"</string>
+<string name="location_gps_config_summary">"ভিন্ন ভিন্ন নেটৱৰ্ক পৰিৱেশত agps সক্ৰিয় কৰিবনে"</string>
+<string name="agps_config_summary">"SUPL আৰু NTP কনফিগ"</string>
+<string name="location_gps_config_titlebar">"AGPS সক্ৰিয় কৰাৰ বিকল্প"</string>
+<string name="gps_config_titlebar">"GPS কনফিগ"</string>
+<string name="gps_config_supl_host">"SUPL চাৰ্ভাৰ ঠিকনা"</string>
+<string name="gps_config_supl_port">"SUPL চাৰ্ভাৰ প\'ৰ্ট"</string>
+<string name="gps_config_cert_path">"SUPL চাৰ্ট ফাইল পথ"</string>
+<string name="gps_config_location_method">"পছন্দিত প্ৰক্ৰিয়া"</string>
+<string name="gps_config_start_mode">"GPS ই্ঞ্জিন ষ্টাৰ্ট কৰা ম\'ড"</string>
+<string name="gps_config_connection_type">"সংযোগ প্ৰকাৰ"</string>
+<string name="gps_enable_option">"AGPS সক্ৰিয় কৰাৰ বিকল্প"</string>
+<string name="gps_log_show">"AGPS লগ প্ৰদৰ্শন"</string>
+<string name="gps_log_show_summary">"AGPS ৰ লগ প্ৰদৰ্শন কৰক"</string>
+<string name="agps_config_taile">"AGPS কনফিগ"</string>
+<string name="agps_enable_option_tailebar">"AGPS সক্ৰিয় কৰাৰ বিকল্প"</string>
+<string name="agps_enable_option_registered">"পঞ্জীকৃত নেটৱৰ্ক"</string>
+<string name="agps_enable_option_all">"সকলো নেটৱৰ্ক"</string>
+<string name="agps_enable_option_none">"AGPS ব্যৱহাৰ নকৰিব"</string>
+<string name="agps_enable_default_set_tailebar">"ডিফল্ট ছেটিংছ পুনৰ স্থাপন কৰক"</string>
+<string name="agps_enable_default_set_text">"ডিফল্ট্ চেটিংচ্ পুনৰ স্থাপন কৰিবলৈ ক্লিক কৰা হৈছে"</string>
+<string name="agps_enable_default_set_button">"ডিফল্ট্ চেটিংচ্"</string>
+<string name="agps_config_help_tailebar">"AGPS সহায়"</string>
+<string name="agps_config_help_text">"আপোনাৰ ফোনটো ইন্টাৰনেশ্বনেল ৰোমিঙত থাকোতে যদিহে আপুনি সকলো নেটৱৰ্ক সক্ৰিয় AGPS অৱস্থাত বাচি লয়, তেন্তে AGPS ৰ ব্যৱহাৰে ইন্টাৰনেশ্বনেল ৰোমিং মাচুল আদায় কৰিব"</string>
+<string name="settings_other">"অন্যান্য"</string>
+<string name="about_settings" product="tablet">"টেনলেটৰ বিষয়ে"</string>
+<string name="about_settings" product="default">"ফোনৰ বিষয়ে"</string>
+<string name="about_settings_summary">"আইনগত তথ্য, অৱস্থা, চফট্ৱেৰ ভাৰ-শ্বন্ চাওক"</string>
+<string name="legal_information">"আইনী তথ্য-পাতি"</string>
+<string name="contributors_title">"অৰিহনা"</string>
+<string name="regulatory_information">"বৈধানিক তথ্য-পাতি"</string>
+<string name="copyright_title">"স্বত্ব"</string>
+<string name="license_title">"লাইচেন্স"</string>
+<string name="terms_title">"চৰ্তাৱলী"</string>
+<string name="settings_license_activity_title">"লাইচেন্সৰ উৎস খোলক"</string>
+<string name="settings_license_activity_unavailable">"লাইচেন্সৰ ল\'ডিঙত অসুবিধা হৈছে"</string>
+<string name="settings_license_activity_loading">"লোড হৈ আছে\u2026"</string>
+<string name="settings_safetylegal_title">"নিৰাপত্তজনিত তথ্য"</string>
+<string name="settings_safetylegal_activity_title">"নিৰাপত্তজনিত তথ্য"</string>
+<string name="settings_safetylegal_activity_unreachable">"আপোনাৰ ডাটা সংযোগ নাই ৷এই তথ্য চাবলৈ ইন্টাৰনেট সংযোগ থকা যিকোনো কম্পিউটাৰৰ পৰা %s লৈ যাওক"</string>
+<string name="settings_safetylegal_activity_loading">"লোড হৈ আছে\u2026"</string>
+<string name="lockpassword_choose_your_password_header">"অপোনাৰ পাছৱৰ্ড বাচি লওক"</string>
+<string name="lockpassword_choose_your_pattern_header">"অপোনাৰ পেটাৰ্ন বাচি লওক"</string>
+<string name="lockpassword_choose_your_pin_header">"আপোনাৰ PIN বাচি লাওক"</string>
+<string name="lockpassword_confirm_your_password_header">"অপোনাৰ পাছৱৰ্ড নিশ্চিত কৰক"</string>
+<string name="lockpassword_confirm_your_pattern_header">"অপোনাৰ পেটাৰ্ন নিশ্চিত কৰক"</string>
+<string name="lockpassword_confirm_your_pin_header">"অপোনাৰ PIN নিশ্চিত কৰক"</string>
+<string name="lockpassword_confirm_passwords_dont_match">"পাছৱৰ্ড মিলা নাই"</string>
+<string name="lockpassword_confirm_pins_dont_match">"PIN মিলা নাই"</string>
+<string name="lockpassword_choose_lock_generic_header">"আনলক বাচনি"</string>
+<string name="lockpassword_password_set_toast">"পাছৱৰ্ড চেট্ কৰা হৈছে"</string>
+<string name="lockpassword_pin_set_toast">"PIN চেট্ কৰা হৈছে"</string>
+<string name="lockpassword_pattern_set_toast">"পেটাৰ্ন চেট্ কৰা হৈছে"</string>
+<string name="lock_settings_title">"স্ক্ৰীন চেকিউৰিটী"</string>
+<string name="lockpattern_change_lock_pattern_label">"আনলকৰ ধৰণ সলনি কৰক"</string>
+<string name="lockpattern_change_lock_pin_label">"আনলক PIN সলনি কৰক"</string>
+<string name="lockpattern_need_to_unlock">"চেভ কৰা পেটাৰ্ন নিশ্চিত কৰক"</string>
+<string name="lockpattern_need_to_unlock_wrong">"পুনৰ চেষ্টা কৰক"</string>
+<string name="lockpattern_recording_intro_header">"আনলক পেটাৰ্ন অংকন কৰক"</string>
+<string name="lockpattern_recording_intro_footer">"সহায়ৰ বাবে মেন্যু টিপক"</string>
+<string name="lockpattern_recording_inprogress">"কৰা হ\'লে আঙুলি আঁতৰাওক"</string>
+<string name="lockpattern_recording_incorrect_too_short">"অন্তত: <xliff:g id="number">%d</xliff:g> ডটচ্ সংযোগ কৰক. আকৌ চেষ্টা কৰক"</string>
+<string name="lockpattern_pattern_entered_header">"পেটাৰ্ন ৰেকৰ্ড কৰা হৈছে"</string>
+<string name="lockpattern_need_to_confirm">"নিশ্চিত কৰিবলৈ আকৌ পেটাৰ্ন অংকন কৰক"</string>
+<string name="lockpattern_pattern_confirmed_header">"আপোনাৰ নতুন আনলক পেটাৰ্ন"</string>
+<string name="lockpattern_confirm_button_text">"কনফৰ্ম"</string>
+<string name="lockpattern_restart_button_text">"আকৌ অংকন কৰক"</string>
+<string name="lockpattern_retry_button_text">"পুনৰাই চেষ্টা কৰক"</string>
+<string name="lockpattern_continue_button_text">"অব্যাহত ৰাখক"</string>
+<string name="lockpattern_settings_title">"পেটাৰ্ন আনলক কৰক"</string>
+<string name="lockpattern_settings_enable_title">"পেটাৰ্নৰ প্ৰয়োজন"</string>
+<string name="lockpattern_settings_enable_summary">"স্ক্ৰিন আনলক কৰিবলৈ পেটাৰ্ন অংকন কৰিব লাগিব"</string>
+<string name="lockpattern_settings_enable_visible_pattern_title">"পেটাৰ্ন দৃশ্যমান কৰক"</string>
+<string name="lockpattern_settings_enable_tactile_feedback_title">"স্পৰ্শত ভাইব্ৰেট"</string>
+<string name="lockpattern_settings_enable_power_button_instantly_locks">"পাৱাৰ বটন্ লগেলগে লক হয়"</string>
+<string name="lockpattern_settings_choose_lock_pattern">"আনলক পেটাৰ্ন চেট্ কৰক"</string>
+<string name="lockpattern_settings_change_lock_pattern">"আনলকৰ ধৰণ সলনি কৰক"</string>
+<string name="lockpattern_settings_help_how_to_record">"এটা আনলক পেটাৰ্ন কেনেকৈ অংকন কৰিব"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_header">"বহুকেইটা অশুদ্ধ প্ৰচেষ্টা"</string>
+<string name="lockpattern_too_many_failed_confirmation_attempts_footer">"<xliff:g id="number">%d</xliff:g>ছেকেণ্ডৰ ভিতৰত পুনৰ চেষ্টা কৰক."</string>
+<string name="activity_not_found">"আপোনাৰ ফোনটোত এপ্লিকেচন ইন্ষ্টল হোৱা নাই"</string>
+<string name="manageapplications_settings_title">"এপ্পসমূহৰ তদাৰকী"</string>
+<string name="manageapplications_settings_summary">"ইন্ষ্টল কৰা এপচ্ বিলাক মেনেজ কৰক আৰু আঁতৰ কৰক"</string>
+<string name="applications_settings">"এপ্পসমূহ"</string>
+<string name="applications_settings_summary">"এপচ্ মেনেজ কৰক,কুইক ল\'ঞ্ছ চৰ্টকাট স্থাপন কৰক"</string>
+<string name="applications_settings_header">"এপচ্ চেটিংচ্"</string>
+<string name="install_applications">"অচিনাকি উৎস"</string>
+<string name="install_unknown_applications">"অচিনাকি উৎসৰ পৰা এপচ্ ইনষ্টলেচনৰ অনুমতি প্ৰদান কৰক""</string>
+<string name="install_all_warning" product="tablet">"অচিনাকি উৎসৰ পৰা লোৱা এপচ্-ৰ দ্বাৰা আপোনাৰ টেবলেট আৰু ব্যক্তগত তথ্য অতি ভয়ানক ভাৱে আক্ৰান্ত হ\'ব পাৰে, এই এপচ্ ব্যৱহাৰ কৰাৰ পৰা আপোনাৰ টেবলেটটোৰ নাইবা তাৰ তথ্যখিনিৰ ক্ষয়-ক্ষতিৰ বাবে আপুনি নিজে একান্তভাৱে দায়ী বুলি আপুনি সৈমান হৈছে"</string>
+<string name="install_all_warning" product="default">"অচিনাকি উৎসৰ পৰা লোৱা এপচ্-ৰ দ্বাৰা আপোনাৰ ফোন আৰু ব্যক্তগত তথ্য অতি ভয়ানক ভাৱে আক্ৰান্ত হ\'ব পাৰে , এই এপচ্ ব্যৱহাৰ কৰাৰ পৰা আপোনাৰ ফোন টোৰ নাইবা তাৰ তথ্যখিনিৰ ক্ষয়-ক্ষতিৰ বাবে আপুনি নিজে একান্তভাৱে দায়ী বুলি আপুনি সৈমান হৈছে"</string>
+<string name="verify_applications">"এপচ্ শুদ্ধবুলি প্ৰমাণ কৰক"</string>
+<string name="verify_applications_summary">"অপকাৰ কৰিব পৰা এপচ্-ৰ ইনষ্টলৰ অনুমতি নিদিব নাইবা ইনষ্টল কৰাৰ আগত সতৰ্ক কৰিব"</string>
+<string name="advanced_settings">"উন্নত ছেটিং"</string>
+<string name="advanced_settings_summary">"অধিক চেটিংচ্-ৰ অধিকাৰ সক্ৰিয় কৰক"</string>
+<string name="application_info_label">"এপ্ ইনফো"</string>
+<string name="storage_label">"সঞ্চয়"</string>
+<string name="auto_launch_label">"বাই-ডিফল্ট লঞ্ছ কৰক"</string>
+<string name="auto_launch_label_generic">"ডিফল্ট হৈছে"</string>
+<string name="screen_compatibility_label">"স্ক্ৰিন যোগ্যতা"</string>
+<string name="permissions_label">"অনুমতিবোৰ"</string>
+<string name="cache_header_label">"লুকাই থওক"</string>
+<string name="clear_cache_btn_text">"কাচ্চে পৰিস্কাৰ কৰক"</string>
+<string name="cache_size_label">"লুকাই থওক"</string>
+<string name="controls_label">"তত্বাবধান কৰে"</string>
+<string name="force_stop">"জোৰ-জুলুম বন্ধ কৰা"</string>
+<string name="total_size_label">"মুঠ"</string>
+<string name="application_size_label">"App"</string>
+<string name="external_code_size_label">"USB ষ্টোৰেজ এপ্"</string>
+<string name="data_size_label">"ডাটা"</string>
+<string name="external_data_size_label" product="nosdcard">"USB ষ্টোৰেজ ডাটা"</string>
+<string name="external_data_size_label" product="default">"SD কাৰ্ড"</string>
+<string name="uninstall_text">"আনইন্সটল কৰক"</string>
+<string name="uninstall_all_users_text">"সকলো ব্যৱহাৰকাৰীৰ বাবে আন-ইনষ্টল্ কৰক"</string>
+<string name="install_text">"ইনষ্টল কৰক"</string>
+<string name="disable_text">"অক্ষম"</string>
+<string name="enable_text">"সক্ষম"</string>
+<string name="clear_user_data_text">"ডাটা ক্লীয়েৰ কৰক"</string>
+<string name="app_factory_reset">"আপডেট সমূহ আন-ইনষ্টল্ কৰক"</string>
+<string name="auto_launch_enable_text">"কিছুমান কামৰ বাবে আপুনি বাই ডিফল্ট এই এপ্ লঞ্ছ কৰিবলৈ বাচি লৈছে"</string>
+<string name="always_allow_bind_appwidgets_text">"কিছুমান বিজেটস সৃষ্টি কৰি সেইবোৰৰ তথ্য আহৰন কৰিবলৈ আপুনি এই এপক অনুমতি দিছে""</string>
+<string name="auto_launch_disable_text">"কোনো ডিফল্ট চেট্ নাই"</string>
+<string name="clear_activities">"ডিফল্ট ক্লীয়াৰ কৰক"</string>
+<string name="screen_compatibility_text">"আপোনাৰ স্ক্ৰিনৰ বাবে এই এপ ডিজাইন কৰা নহ\'ব পাৰে ৷ ই কিদৰে আপোনাৰ স্ক্ৰিন সঠিকভাৱে মিলাই লয় সেয়া চলাই চাব পাৰে"</string>
+<string name="ask_compatibility">"কেতিয়া লঞ্ছ হ\'ল জানক"</string>
+<string name="enable_compatibility">"এপ্-ৰ জোখ লওক"</string>
+<string name="unknown">"অজ্ঞাত"</string>
+<string name="sort_order_alpha">"নামৰ দ্বাৰা শ্ৰেনীবিভাজন"</string>
+<string name="sort_order_size">"আকৃতি অনুসৰি ভাগ কৰক"</string>
+<string name="show_running_services">"চলি থকা চাৰ্ভিচ সমূহ দেখুৱাই দিয়ক"</string>
+<string name="show_background_processes">"লুকাই থোৱা প্ৰক্ৰিয়া দেখুৱাই দিয়ক"</string>
+<string name="reset_app_preferences">"এপ প্ৰিফাৰেনচ্ ৰিচেট্ কৰক"</string>
+<string name="reset_app_preferences_title">"এপ প্ৰিফাৰেনচ্ ৰিচেট্ কৰিবনে?"</string>
+<string name="reset_app_preferences_desc">"ই আটাইবোৰ অগ্ৰাধিকাৰ ৰিছেট কৰিব:\n\n <li>এপ্প নিস্ক্ৰিয়কৰণ</li>\n <li>এপ্পৰ জাননীবাৰ্তা নিস্ক্ৰিয়কৰণ</li>\n <li>কাৰ্যৰ বাবে ডিফল্ট এপ্লিকেচনসমূহ </li>\n <li>এপ্পৰ বাবে বেকগ্ৰাউণ্ডৰ ডাটাৰ নিষিদ্ধতা </li>\n <li>যিকোনো অনুমতিৰ নিষিদ্ধতা </li>\n\n আপুনি কোনো এপ্প ডাটা হেৰুৱাব নালাগে৷"</string>
+<string name="reset_app_preferences_button">"এপ্প ৰিছেট কৰক"</string>
+<string name="manage_space_text">"স্পেচ তদাৰক কৰক"</string>
+<string name="filter">"ফিল্টাৰ"</string>
+<string name="filter_dlg_title">"ফিল্টাৰ অপশ্যনসমূহ বাচনি কৰক"</string>
+<string name="filter_apps_all">"সকলো"</string>
+<string name="filter_apps_disabled">"অদৃশ্য"</string>
+<string name="filter_apps_third_party">"ডাউনল’ড হ’ল"</string>
+<string name="filter_apps_running">"চলি আছে"</string>
+<string name="filter_apps_onsdcard" product="nosdcard">"USB ষ্ট্\'ৰেজ"</string>
+<string name="filter_apps_onsdcard" product="default">"SD কাৰ্ডত"</string>
+<string name="disabled">"অদৃশ্য"</string>
+<string name="not_installed">"ইন্সটল হোৱা নাই"</string>
+<string name="no_applications">"কোনো এপ্প নাই"</string>
+<string name="internal_storage">"ইণ্টাৰনেল ষ্ট\'ৰেজ"</string>
+<string name="sd_card_storage" product="nosdcard">"USB ষ্ট্\'ৰেজ"</string>
+<string name="sd_card_storage" product="default">"SD কাৰ্ড ষ্টোৰেজ"</string>
+<string name="recompute_size">"ৰিকম্পিউটিং আকাৰ\u2026"</string>
+<string name="clear_data_dlg_title">"এপ্প ডাটা মচি পেলাওঁক"</string>
+<string name="clear_data_dlg_text">"এই আটাইবোৰ ডাটা স্থায়ীভাৱে মচি দিয়া হ’ব৷ ইয়াত সন্নিৱিষ্ট থাকে আটাইবোৰ ফাইল, ছেটিংছ, একাউণ্টছ, ডাটাবেছ আদি৷"</string>
+<string name="dlg_ok">"ঠিক আছে"</string>
+<string name="dlg_cancel">"নাকচ"</string>
+<string name="app_not_found_dlg_text">"ইনষ্টল এপ্পসমূহৰ তালিকাত এপ্পটো পাৱা হোৱা নাই৷"</string>
+<string name="clear_data_failed">"এপ্প ডাটা ক্লীয়েৰ কৰিব পৰা নগ’ল"</string>
+<string name="app_factory_reset_dlg_title">"আপডেটসমূহ আনইনষ্টল কৰিব নে?"</string>
+<string name="app_factory_reset_dlg_text">"এই এনড্ৰইড ছিষ্টেম এপ্পটোত হোৱা আটাইবোৰ আপডেট আনইনষ্টল কৰা হ’ব৷"</string>
+<string name="clear_failed_dlg_title">"ডাটা ক্লীয়েৰ কৰক"</string>
+<string name="clear_failed_dlg_text">"এপ্পৰ বাবে ডাটা ক্লীয়েৰ কৰিব পৰা নগ’ল"</string>
+<string name="security_settings_desc" product="tablet">"এই এপ্পটোৱে টেবলেটটোত নিম্নোক্ত দিশসমূহ আহৰণ কৰিব পাৰে"</string>
+<string name="security_settings_desc" product="default">"এই এপ্পটোৱে ফোনটোত নিম্নোক্ত দিশসমূহ আহৰণ কৰিব পাৰে"</string>
+<string name="security_settings_desc_multi" product="tablet">"এই এপ্পটোৱে টেবলেটটোত নিম্নোক্ত দিশসমূহ আহৰণ কৰিব পাৰে মেম’ৰিৰ ব্যৱহাৰ কমাবলৈ আৰু প্ৰদৰ্শন উন্নত কৰাৰ ক্ষেত্ৰত ইয়াৰে কিছুমান অনুমতি <xliff:g id="base_app_name">%1$s</xliff:g> ত উপলব্ধ হয় কাৰণ ই <xliff:g id="additional_apps_list">%2$s</xliff:g> ৰ দৰে একে প্ৰক্ৰিয়াৰে চালিত হয়:"</string>
+<string name="security_settings_desc_multi" product="default">"এই এপ্পটোৱে ফোনটোত নিম্নোক্ত দিশসমূহ আহৰণ কৰিব পাৰে মেম’ৰিৰ ব্যৱহাৰ কমাবলৈ আৰু প্ৰদৰ্শন উন্নত কৰাৰ ক্ষেত্ৰত ইয়াৰে কিছুমান অনুমতি <xliff:g id="base_app_name">%1$s</xliff:g> ত উপলব্ধ হয় কাৰণ ই <xliff:g id="additional_apps_list">%2$s</xliff:g> ৰ দৰে একে প্ৰক্ৰিয়াৰে চালিত হয়:"</string>
+<string name="join_two_items">"<xliff:g id="first_item">%1$s</xliff:g> আৰু <xliff:g id="second_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_last">"<xliff:g id="all_but_last_item">%1$s</xliff:g> আৰু <xliff:g id="last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_first">"<xliff:g id="first_item">%1$s</xliff:g>, <xliff:g id="all_but_first_and_last_item">%2$s</xliff:g>"</string>
+<string name="join_many_items_middle">"<xliff:g id="added_item">%1$s</xliff:g>, <xliff:g id="rest_of_items">%2$s</xliff:g>"</string>
+<string name="security_settings_billing_desc">"এই এপ্পটোৰ বাবে আপুনি ধন ব্যয় কৰিব লাগিব পাৰে"</string>
+<string name="security_settings_premium_sms_desc">"প্ৰিমিয়াম SMS পঠিয়াওঁক"</string>
+<string name="computing_size">"কম্পিউটিং\u2026"</string>
+<string name="invalid_size_value">"পেকেজৰ আকাৰ কম্পিউট কৰিব পৰা নগ’ল"</string>
+<string name="empty_list_msg">"আপোনাৰ কোনো তৃতীয় পক্ষৰ এপ্প ইনষ্টল হৈ থকা নাই৷"</string>
+<string name="version_text">"সংস্কৰণ <xliff:g id="version_num">%1$s</xliff:g>"</string>
+<string name="move_app">"যাওঁক"</string>
+<string name="move_app_to_internal" product="tablet">"টেবলেটলৈ যাওঁক"</string>
+<string name="move_app_to_internal" product="default">"ফোনলৈ যাওঁক"</string>
+<string name="move_app_to_sdcard" product="nosdcard">"USB ষ্টোৰেজলৈ যাওঁক"</string>
+<string name="move_app_to_sdcard" product="default">"SD কাৰ্ডলৈ যাওঁক"</string>
+<string name="moving">"গৈ থকা হৈছে"</string>
+<string name="insufficient_storage">"পৰ্যাপ্ত পৰিমানৰ ষ্টোৰেজৰ ঠাই নাই"</string>
+<string name="does_not_exist">"এপ্প লাভ কৰা হোৱা নাই"</string>
+<string name="app_forward_locked">"এপ্পটো কপি-নিষিদ্ধকৰণ কৰা আছে"</string>
+<string name="invalid_location">"ইনষ্টল হৈ থকা লোকেশ্যন বৈধ নহয়৷"</string>
+<string name="system_package">"এক্সটাৰনেল মিডিয়াত ছিষ্টেম আপডেট ইনষ্টল কৰিব নোৱাৰি"</string>
+<string name="force_stop_dlg_title">"জোৰকৈ ৰখাব নে?"</string>
+<string name="force_stop_dlg_text">"যদি এটা এপ্প জোৰকৈ ৰখোৱা হয়, তেনেক্ষেত্ৰত ই ভালদৰে কাম নকৰিব পাৰে৷"</string>
+<string name="move_app_failed_dlg_text">"এপ্পটো চলাচল কৰাব নোৱাৰি. <xliff:g id="reason">%1$s</xliff:g>"</string>
+<string name="app_install_location_title">"ইনষ্টলকৰিবলৈ অগ্ৰাধিকাৰযোগ্য লোকেশ্যন"</string>
+<string name="app_install_location_summary">"নতুন এপ্পৰ বাবে ইনষ্টলকৰিবলৈ অগ্ৰাধিকাৰযোগ্য লোকেশ্যন সলনি কৰক"</string>
+<string name="app_disable_dlg_title">"পূৰ্বৰে পৰা থকা এপ্প নিস্ক্ৰিয় কৰক?"</string>
+<string name="app_disable_dlg_text">"আপুনি যদি পূৰ্বৰে পৰা থকা এপ্প নিস্ক্ৰিয় কৰে তেন্তে অন্য এপ্পসমূহে ভালদৰে কাম কৰিবলৈ বন্ধ কৰিব পাৰে৷"</string>
+<string name="app_special_disable_dlg_title">"ডাটা মচি পেলাওঁক আৰু এপ্প নিস্ক্ৰিয় কৰিব নে?"</string>
+<string name="app_special_disable_dlg_text">"আপুনি যদি এটা পূৰ্বৰে পৰা থকা এপ্প নিস্ক্ৰিয় কৰে তেন্তে অন্য এপ্পসমূহে ভালদৰে কাম কৰিবলৈ বন্ধ কৰিব পাৰে৷ আপোনাৰ ডাটাসমূহে মচা যাব৷"</string>
+<string name="app_disable_notifications_dlg_title">"জাননীবাৰ্তা বন্ধ কৰিব নে?"</string>
+<string name="app_disable_notifications_dlg_text">"আপুনি যদি এই এপ্পটোৰ বাবে জাননীবাৰ্তা বন্ধ কৰে তেন্তে আপুনি গুৰুত্বপূৰ্ণ এলাৰ্টসমূহ আৰু আপডেটসমূহ হেৰুৱাব পাৰে৷"</string>
+<string name="app_ops_settings">"এপ্পৰ অপশ্যনসমূহ"</string>
+<string name="app_ops_running">"চলি আছে"</string>
+<string name="app_ops_never_used">"(কেতিয়াও ব্যৱহাৰ হোৱ নাই)"</string>
+<string name="storageuse_settings_title">"ব্যৱহৃত ষ্টোৰেজ"</string>
+<string name="storageuse_settings_summary">"এপ্পৰ দ্বাৰা ব্যৱহৃত ষ্টোৰেজ চাওঁক"</string>
+<string name="runningservices_settings_title">"চলি থকা সেৱাসমূহ"</string>
+<string name="runningservices_settings_summary">"বৰ্তমানে চলি থকা সেৱাসমূহ নিয়ন্ত্ৰণ কৰক আৰু চাওঁক"</string>
+<string name="service_restarting">"পুনৰ আৰম্ভ হৈছে"</string>
+<string name="cached">"কাচ্ড বেকগ্ৰাউণ্ড প্ৰক্ৰিয়া"</string>
+<string name="no_running_services">"একো চলি থকা নাই"</string>
+<string name="service_started_by_app">"এপ্পৰ দ্বাৰা আৰম্ভ কৰা হ’ল"</string>
+<string name="service_background_processes">"<xliff:g id="memory">%1$s</xliff:g> ফ্ৰী"</string>
+<string name="service_foreground_processes">"<xliff:g id="memory">%1$s</xliff:g> ব্যৱহৃত"</string>
+<string name="running_process_item_user_label">"ব্যৱহাৰকাৰী: <xliff:g id="user_name">%1$s</xliff:g>"</string>
+<string name="running_process_item_removed_user_label">"ব্যৱহাৰকাৰী আঁতৰাই পেলোৱা হ’ল"</string>
+<string name="running_processes_item_description_s_s">"<xliff:g id="numprocess">%1$d</xliff:g>প্ৰক্ৰিয়া আৰু <xliff:g id="numservices">%2$d</xliff:g> সেৱাসমূহ"</string>
+<string name="running_processes_item_description_s_p">"<xliff:g id="numprocess">%1$d</xliff:g> প্ৰক্ৰিয়া আৰু <xliff:g id="numservices">%2$d</xliff:g> সেৱাসমূহ"</string>
+<string name="running_processes_item_description_p_s">"<xliff:g id="numprocess">%1$d</xliff:g> প্ৰক্ৰিয়া আৰু <xliff:g id="numservices">%2$d</xliff:g> সেৱাসমূহ"</string>
+<string name="running_processes_item_description_p_p">"<xliff:g id="numprocess">%1$d</xliff:g> প্ৰক্ৰিয়া আৰু <xliff:g id="numservices">%2$d</xliff:g> সেৱাসমূহ"</string>
+<string name="runningservicedetails_settings_title">"চলি থকা এপ্প"</string>
+<string name="no_services">"সক্ৰিয় নহয়"</string>
+<string name="runningservicedetails_services_title">"সেৱাসমূহ"</string>
+<string name="runningservicedetails_processes_title">"প্ৰক্ৰিয়াসমূহ"</string>
+<string name="service_stop">"বন্ধ"</string>
+<string name="service_manage">"ছেটিংছ"</string>
+<string name="service_stop_description">"এই সেৱাটো ইয়াৰ এপ্পৰ দ্বাৰা আৰম্ভ কৰা হৈছে৷ এইক্ষেত্ৰত বন্ধ কৰিলে এপ্পটো ব্যৰ্থ হৈ যাব পাৰে৷"</string>
+<string name="heavy_weight_stop_description">"এই এপ্পটো সুৰক্ষিতভাৱে বন্ধ কৰিব নোৱাৰি৷ আপুনি যদি ইয়াক বন্ধ কৰে তেন্তে আপুনি আপোনাৰ বৰ্তমানৰ কিছুমান তথ্য হেৰুৱাব পাৰে৷"</string>
+<string name="background_process_stop_description">"এইটো এটা পুৰণি এপ্প প্ৰক্ৰিয়া যিটো ইয়াৰ প্ৰয়োজন সাপেক্ষে এতিয়াও চলি আছে৷তাত সাধাৰণতে বন্ধ কৰাৰ কোনো কাৰণ নাথাকে৷"</string>
+<string name="service_manage_description">"<xliff:g id="client_name">%1$s</xliff:g>:বৰ্তমান ব্যৱহাৰ হৈ আছে৷ ইয়াক নিয়ন্ত্ৰণ কৰিবলৈ ছেটিংছত স্পৰ্শ কৰক৷"</string>
+<string name="main_running_process_description">"মুখ্য প্ৰক্ৰিয়া ব্যৱহৃত হৈ আছে"</string>
+<string name="process_service_in_use_description">"সেৱা <xliff:g id="comp_name">%1$s</xliff:g>ত ব্যৱহাৰ হৈ আছে৷"</string>
+<string name="process_provider_in_use_description">"প্ৰদানকাৰী <xliff:g id="comp_name">%1$s</xliff:g>ত ব্যৱহাৰ হৈ আছে৷"</string>
+<string name="runningservicedetails_stop_dlg_title">"ছিষ্টেম চাৰ্ভিছ বন্ধ কৰিবনে?"</string>
+<string name="runningservicedetails_stop_dlg_text" product="tablet">"আপুনি যদি এই সেৱাটো বন্ধ কৰি দিয়ে তেন্তে আপোনাৰ টেবলেটটোৰ কিছুমান বৈশিষ্টই কাম কৰা বন্ধ কৰি দিব আৰু এই প্ৰক্ৰিয়া আপুনি এইটো বন্ধ কৰি নতুনকৈ অন নকৰা পৰ্যন্ত তেনেদৰেই থাকিব৷"</string>
+<string name="runningservicedetails_stop_dlg_text" product="default">"আপুনি যদি এই সেৱাটো বন্ধ কৰি দিয়ে তেন্তে আপোনাৰ ফোনটোৰ কিছুমান বৈশিষ্টই কাম কৰা বন্ধ কৰি দিব আৰু এই প্ৰক্ৰিয়া আপুনি এইটো বন্ধ কৰি নতুনকৈ অন নকৰা পৰ্যন্ত তেনেদৰেই থাকিব৷"</string>
+<string name="language_settings">"লেংগুৱেজ আৰু ইনপুট"</string>
+<string name="language_keyboard_settings_title">"লেংগুৱেজ আৰু ইনপুট"</string>
+<string name="language_settings_category">"লেংগুৱেজ ছেটিংছ"</string>
+<string name="keyboard_settings_category">"কীব’ৰ্ড আৰু ইনপুট ছেটিংছ"</string>
+<string name="phone_language">"ভাষা"</string>
+<string name="auto_replace">"স্বয়ংক্ৰিয়ভাৱে স্থলাভিষিক্ত"</string>
+<string name="auto_replace_summary">"ভুলকৈ টাইপ কৰা শব্দসমূহ শুদ্ধ কৰক"</string>
+<string name="auto_caps">"অ’টো-কেপিটেলাইজেশ্যন"</string>
+<string name="auto_caps_summary">"বাক্যসমূহৰ প্ৰথমটো আখৰ ডাঙৰ হৰফত কৰি লওঁক"</string>
+<string name="auto_punctuate">"অ’টো-পাংচুৱেট"</string>
+<string name="hardkeyboard_category">"ফিজিকেল কীব’ৰ্ড ছেটিংছ"</string>
+<string name="auto_punctuate_summary">"ভৰাবলৈ স্পেচ কীটো হেচি ধৰক \u0022.       \u0022"</string>
+<string name="show_password">"পাছৱৰ্ডটো দৃশ্যমান কৰি তোলক"</string>
+<string name="ime_security_warning">"আপুনি টাইপ কৰা আটাইখিনি টেক্সট এই ইনপুট পদ্ধতিটোৱে সংগ্ৰহ কৰিবলৈ সক্ষম হ’ব পাৰে, ইয়াত ব্যক্তিগত বিভিন্ন তথ্য যেনে পাছৱৰ্ডসমূহ আৰু ক্ৰেডিট কাৰ্ডৰ নম্বৰ আদিও থাকিব পাৰে৷ ই <xliff:g id="ime_application_name">%1$s</xliff:g> এপ্পৰ পৰা আহে৷ এই ইনপুট পদ্ধতিটো ব্যৱহাৰ কৰক৷"</string>
+<string name="spellchecker_security_warning">"আপুনি টাইপ কৰা আটাইখিনি টেক্সট এই স্পেল চেকাৰটোৱে সংগ্ৰহ কৰিবলৈ সক্ষম হ’ব পাৰে, ইয়াত ব্যক্তিগত বিভিন্ন তথ্য যেনে পাছৱৰ্ডসমূহ আৰু ক্ৰেডিট কাৰ্ডৰ নম্বৰ আদিও থাকিব পাৰে৷ ই <xliff:g id="spellchecker_application_name">%1$s</xliff:g> এপ্পৰ পৰা আহে৷ এই স্পেল চেকাৰটো ব্যৱহাৰ কৰক৷"</string>
+<string name="spellchecker_quick_settings">"ছেটিংছ"</string>
+<string name="spellchecker_language">"ভাষা"</string>
+<string name="failed_to_open_app_settings_toast">"<xliff:g id="spell_application_name">%1$s</xliff:g>ৰ বাবে ছেটিংছ মুকলি কৰাত ব্যৰ্থ হ’ল৷"</string>
+<string name="pointer_settings_category">"মাউচ/ট্ৰেকপেড"</string>
+<string name="pointer_speed">"পইণ্টাৰ স্পীড"</string>
+<string name="game_controller_settings_category">"গেম নিয়ন্ত্ৰক"</string>
+<string name="vibrate_input_devices">"ভাইব্ৰেটৰ ব্যৱহাৰ কৰক"</string>
+<string name="vibrate_input_devices_summary">"যেতিয়া সংযোগ স্থাপন হ’ব তেতিয়া ভাইব্ৰেটৰক গেম নিয়ন্ত্ৰকলৈ ৰিডাইৰেক্ট কৰক৷"</string>
+<string name="keyboard_layout_dialog_title">"কী-ব’ৰ্ডৰ লে-আউট বাচনি কৰক"</string>
+<string name="keyboard_layout_dialog_setup_button">"কী-ব’ৰ্ডৰ লে-আউট ছেট-আপ কৰক"</string>
+<string name="keyboard_layout_dialog_switch_hint">"চুইছ কৰিবলৈ কণ্ট্ৰ’ল-স্পেচবাৰডাল টিপক"</string>
+<string name="keyboard_layout_default_label">"ডিফল্ট"</string>
+<string name="keyboard_layout_picker_title">"কী-ব’ৰ্ডৰ লে-আউটসমূহ"</string>
+<string name="user_dict_settings_title">"ব্যক্তিগত অভিধান"</string>
+<string name="user_dict_settings_add_menu_title">"যোগ"</string>
+<string name="user_dict_settings_add_dialog_title">"অভিধানত যোগ কৰক"</string>
+<string name="user_dict_settings_add_screen_title">"খণ্ডবাক্য"</string>
+<string name="user_dict_settings_add_dialog_more_options">"অধিক বিকল্প"</string>
+<string name="user_dict_settings_add_dialog_less_options">"কম অপশ্যন"</string>
+<string name="user_dict_settings_add_dialog_confirm">"ঠিক আছে"</string>
+<string name="user_dict_settings_add_word_option_name">"শব্দ:"</string>
+<string name="user_dict_settings_add_shortcut_option_name">"শ্বৰ্টকাট:"</string>
+<string name="user_dict_settings_add_locale_option_name">"লেংগুৱেজ:"</string>
+<string name="user_dict_settings_add_word_hint">"এটা শব্দ টাইপ কৰক"</string>
+<string name="user_dict_settings_add_shortcut_hint">"অপশ্যনেল শ্বৰ্টকাট"</string>
+<string name="user_dict_settings_edit_dialog_title">"শব্দ সম্পাদনা কৰক"</string>
+<string name="user_dict_settings_context_menu_edit_title">"সম্পাদনা"</string>
+<string name="user_dict_settings_context_menu_delete_title">"মচি দিয়া"</string>
+<string name="user_dict_settings_empty_text">"ব্যৱহাৰকাৰীৰ অভিধানত আপোনাৰ কোনো শব্দ নাই৷আড (+) বুটামটো স্পৰ্শ কৰি এটা শব্দ যোগ দিয়ক৷"</string>
+<string name="user_dict_settings_all_languages">"আটাইবোৰ লেংগুৱেজৰ বাবে"</string>
+<string name="user_dict_settings_more_languages">"অধিক লেংগুৱেজ….."</string>
+<string name="testing">"টেষ্টিং"</string>
+<string name="testing_phone_info" product="tablet">"টেবলেটৰ তথ্য"</string>
+<string name="testing_phone_info" product="default">"ফোনৰ তথ্য"</string>
+<string name="testing_battery_info">"বেটাৰীৰ তথ্য"</string>
+<string name="quick_launch_title">"তাৎক্ষণিক মুকলি"</string>
+<string name="quick_launch_summary">"এপ্প মুকলি কৰিবলৈ কী-ব’ৰ্ড শ্বৰ্টকাট ছেট কৰক"</string>
+<string name="quick_launch_assign_application">"এপ্প এছাইন কৰক"</string>
+<string name="quick_launch_no_shortcut">"কোনো শ্বৰ্টকাট নাই"</string>
+<string name="quick_launch_shortcut">"বিচাৰক + <xliff:g id="shortcut_letter">%1$s</xliff:g>"</string>
+<string name="quick_launch_clear_dialog_title">"ক্লীয়াৰ"</string>
+<string name="quick_launch_clear_dialog_message">"<xliff:g id="shortcut_letter">%1$s</xliff:g> (<xliff:g id="application_name">%2$s</xliff:g>) ৰ বাবে আপোনাৰ শ্বৰ্টকাট আঁতৰাই দিয়া হ’ব৷"</string>
+<string name="quick_launch_clear_ok_button">"ঠিক আছে"</string>
+<string name="quick_launch_clear_cancel_button">"নাকচ"</string>
+<string name="quick_launch_display_mode_applications">"এপ্পসমূহ"</string>
+<string name="quick_launch_display_mode_shortcuts">"শ্বৰ্টকাটসমূহ"</string>
+<string name="input_methods_settings_title">"টেক্সট ইনপুট"</string>
+<string name="input_method">"ইনপুট পদ্ধতি"</string>
+<string name="current_input_method">"ডিফল্ট"</string>
+<string name="input_method_selector">"ইনপুট পদ্ধতি নিৰ্বাচক"</string>
+<string name="input_method_selector_show_automatically_title">"স্বয়ংক্ৰিয়"</string>
+<string name="input_method_selector_always_show_title">"শ্ব\' অনুমোদিত"</string>
+<string name="input_method_selector_always_hide_title">"সদায় লুকুৱাই ৰাখক"</string>
+<string name="configure_input_method">"ইনপুট পদ্ধতি ছেট কৰক"</string>
+<string name="input_method_settings">"ছেটিংছ"</string>
+<string name="input_method_settings_button">"ছেটিংছ"</string>
+<string name="active_input_method_subtypes">"সক্ৰিয় ইনপুট পদ্ধতি"</string>
+<string name="use_system_language_to_select_input_method_subtypes">"ছিষ্টেম লেংগুৱেজ ব্যৱহাৰ"</string>
+<string name="input_methods_settings_label_format">"<xliff:g id="ime_name">%1$s</xliff:g> ছেটিংছ"</string>
+<string name="input_methods_and_subtype_enabler_title">"সক্ৰিয় ইনপুট পদ্ধতি বাচনি কৰক"</string>
+<string name="onscreen_keyboard_settings_summary">"অনস্ক্ৰীণ কী-ব’ৰ্ড ছেটিংছ"</string>
+<string name="builtin_keyboard_settings_title">"শাৰীৰিক কী-ব\'ৰ্ড"</string>
+<string name="builtin_keyboard_settings_summary">"ফিজিকেল কীব’ৰ্ড ছেটিংছ"</string>
+<string name="development_settings_title">"উন্নয়নকাৰীৰ বিকল্পসমূহ"</string>
+<string name="development_settings_summary">"এপ্প উন্নয়নৰ বাবে অপশ্যন ছেট কৰক"</string>
+<string name="development_settings_not_available">"এই ব্যৱহাৰকাৰীৰ বাবে উন্নয়নকাৰীৰ অপশ্যনসমূহ উপলব্ধ নহয়৷"</string>
+<string name="enable_adb">"USB ডিবাগিং"</string>
+<string name="enable_adb_summary">"USB সংযোজিত হৈ থকা অৱস্থাত ডিবাগ মোড"</string>
+<string name="clear_adb_keys">"USB ডিবাগিং প্ৰামাণিকীকৰণ ৰিভোক কৰক"</string>
+<string name="bugreport_in_power">"পাৱাৰ মেন্যু বাগ ৰিপ’ৰ্টসমূহ"</string>
+<string name="bugreport_in_power_summary">"বাগ ৰিপ’ৰ্ট গ্ৰহণ কৰিবৰ বাবে পাৱাৰ মেন্যুত অপশ্যন অন্তৰ্ভুক্ত কৰক"</string>
+<string name="keep_screen_on">"সজাগ হৈ থাকক"</string>
+<string name="keep_screen_on_summary">"চাৰ্জ হৈ থকা সময়ত স্ক্ৰীণখন বন্ধ হৈ নপৰে"</string>
+<string name="bt_hci_snoop_log">"ব্ৰুটুথ HCI তালিকা সক্ৰিয় কৰক"</string>
+<string name="bt_hci_snoop_log_summary">"আটাইবোৰ ব্লুটুথ HCI এটা ফাইলত কেপশ্যাৰ কৰক৷"</string>
+<string name="select_runtime_title">"চলি থকা সময় নিৰ্বাচন কৰক"</string>
+<string name="select_runtime_dialog_title">"চলি থকা সময় নিৰ্বাচন কৰক"</string>
+<string name="select_runtime_warning_message">"<xliff:g id="old" example="libdvm.so">%1$s</xliff:g> ৰ পৰা <xliff:g id="new" example="libart.so">%2$s</xliff:g> ৰ পৰা ৰাণটাইম সলনি কৰিবলৈ পুনৰ বন্ধ কৰি খোলক?"</string>
+<string name="wifi_display_certification">"ৱায়াৰলেছ ডিছপ্লে চাৰ্টিফিকেশ্যন"</string>
+<string name="wifi_display_certification_summary">"ৱায়াৰলেছ ডিছপ্লে চাৰ্টিফিকেশ্যনৰ বাবে অপশ্যনসমূহ প্ৰদৰ্শন কৰক"</string>
+<string name="allow_mock_location">"ম’ক লোকেশ্যনসমূহ অনুমতি প্ৰদান কৰক"</string>
+<string name="allow_mock_location_summary">"ম’ক লোকেশ্যনসমূহ অনুমতি প্ৰদান কৰক"</string>
+<string name="adb_warning_title">"ইউ নএচ বি ডিবাগিংৰ বাবে অনুমতি দিবনে?"</string>
+<string name="adb_warning_message">"USB ডিবাগিং কেৱল উন্নয়নৰ উদ্দেশ্যেহে কৰা হয়৷ আপোনাৰ কম্পিউটাৰ আৰু আপোনাৰ ডিভাইচটোৰ মাজত ডাটা আদান-প্ৰদানৰ বাবে, কোনো জাননীবাৰ্তা অবিহনে আপোনাৰ ডিভাইচত এপ্প ইনষ্টল কৰা আৰু লগ ডাটা পঢ়িবৰ বাবে এপ্প ইনষ্টল কৰা কামৰ বাবে ইয়াক ব্যৱহাৰ কৰা হয়৷"</string>
+<string name="adb_keys_warning_message">"আপুনি পূৰ্বতে কৰ্তৃত্ব প্ৰদান কৰা আটাইবোৰ কম্পিউটাৰৰ পৰা USB ডিবাগিংৰ বাবে আহৰণ বাতিল কৰা হওঁক?"</string>
+<string name="dev_settings_warning_title">"ডেভেলপমেণ্ট ছেটিংছ অনুমতি দিব নে?"</string>
+<string name="dev_settings_warning_message">"এই ছেটিংছসমূহ কেৱল উন্নয়নৰ উদ্দেশ্যেহে কৰা হয়৷ তাৰ ফলত আপোনাৰ ডিভাইচটো আৰু এপ্লিকেচনবোৰ ভাঙিব পাৰে বা বিপথে পৰিচালিত হ’ব পাৰে৷"</string>
+<string name="verify_apps_over_usb_title">"USB ৰ এপ্প পৰীক্ষা কৰি লওঁক"</string>
+<string name="verify_apps_over_usb_summary">"ক্ষতিপূৰ্ণ আচৰণৰ বাবে ADB/ADT ৰ যোগেদি ইনষ্টল হোৱা এপ্প পৰীক্ষা কৰক৷"</string>
+<string name="enforce_read_external_title" product="nosdcard">"USB ষ্ট’ৰেজ সুৰক্ষা দিয়ক"</string>
+<string name="enforce_read_external_summary" product="nosdcard">""USB ষ্ট\'ৰেজ পঢিবলৈ এপ্পে অৱশ্যেই অনুমতি গ্ৰহণ কৰিব লাগিব"_x000D_
+
+"</string>
+<string name="enforce_read_external_confirm_title" product="nosdcard">"USB ষ্ট’ৰেজ সুৰক্ষা দিবনে?"</string>
+<string name="enforce_read_external_confirm_message" product="nosdcard">"যেতিয়া USB ষ্ট’ৰেজ সুৰক্ষিত হ’ব তেতিয়া এক্সটাৰ্ণেল ষ্ট’ৰেজৰ পৰা ডাটা পঢ়িবলৈ এপ্পে অৱশ্যেই অনুমতি বিচাৰিব লাগিব৷ \n\n কিছুমান এপ্প সেইবোৰৰ ডেভেলপাৰবোৰৰ দ্বাৰা আপডেট নোহোৱা পৰ্যন্ত কাম নকৰিব পাৰে৷"</string>
+<string name="enforce_read_external_title" product="default">"SD কাৰ্ড সুৰক্ষা দিয়ক"</string>
+<string name="enforce_read_external_summary" product="default">"SD কাৰ্ড পঢ়িবলৈ এপ্পে অৱশ্যেই অনুমতি গ্ৰহণ কৰিব লাগিব"</string>
+<string name="enforce_read_external_confirm_title" product="default">"SD কাৰ্ড সুৰক্ষা দিবনে?"</string>
+<string name="enforce_read_external_confirm_message" product="default">"যেতিয়া SD কাৰ্ডখন সুৰক্ষিত হৈ থাকে তেতিয়া এক্সটাৰ্ণেল ষ্ট’ৰেজৰ পৰা ডাটা পঢ়িবলৈ এপ্পে অৱশ্যেই অনুমতি বিচাৰিব লাগিব৷ \n\n কিছুমান এপ্প সেইবোৰৰ ডেভেলপাৰবোৰৰ দ্বাৰা আপডেট নোহোৱা পৰ্যন্ত কাম নকৰিব পাৰে৷"</string>
+<string name="enable_terminal_title">"স্থানীয় টাৰ্মিনেল"</string>
+<string name="enable_terminal_summary">"স্থানীয় শ্বেল আহৰণ প্ৰদান কৰা টাৰ্মিনেল এপ্প সক্ৰিয় কৰক"</string>
+<string name="gadget_picker_title">"উইজেট বাচনি"</string>
+<string name="widget_picker_title">"উইজেট বাচনি"</string>
+<string name="allow_bind_app_widget_activity_allow_bind_title">"উইজেট সৃষ্টি আৰু আহৰণৰ বাবে অনুমতি দিবনে?"</string>
+<string name="allow_bind_app_widget_activity_allow_bind">"আপুনি উইজেটটো সৃষ্টি কৰাৰ পিছত, <xliff:g id="widget_host_name">%1$s</xliff:g> য়ে ইয়াত প্ৰদৰ্শিত আটাইবোৰ ডাটা আহৰণ কৰিব পাৰে"</string>
+<string name="allow_bind_app_widget_activity_always_allow_bind">"উইজেট সৃষ্টি কৰিবলৈ আৰু সেইবোৰৰ ডাটা আহৰণ কৰিবলৈ <xliff:g id="widget_host_name">%1$s</xliff:g> সদায় অনুমতি দিয়ক৷"</string>
+<string name="battery_history_days">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s"</string>
+<string name="battery_history_hours">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s"</string>
+<string name="battery_history_minutes">"<xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s"</string>
+<string name="battery_history_seconds">"<xliff:g id="seconds">%1$d</xliff:g>s"</string>
+<string name="battery_history_days_no_seconds">"<xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m"</string>
+<string name="battery_history_hours_no_seconds">"<xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m"</string>
+<string name="battery_history_minutes_no_seconds">"<xliff:g id="minutes">%1$d</xliff:g>m"</string>
+<string name="usage_stats_label">"পৰিসংখ্যাৰ ব্যৱহাৰ"</string>
+<string name="testing_usage_stats">"পৰিসংখ্যাৰ ব্যৱহাৰ"</string>
+<string name="display_order_text">"কেনেধৰণে তালিকাকৰণ হ’ব:"</string>
+<string name="app_name_label">"App"</string>
+<string name="launch_count_label">"কাউণ্ট"</string>
+<string name="usage_time_label">"ব্যৱহাৰ কৰিব পৰা সময়"</string>
+<string name="accessibility_settings">"আহৰণযোগ্যতা"</string>
+<string name="accessibility_settings_title">"সুলভতাৰ ছেটিংছসমূহ"</string>
+<string name="accessibility_services_title">"সেৱাসমূহ"</string>
+<string name="accessibility_system_title">"ছিষ্টেম"</string>
+<string name="accessibility_captioning_title">"কেপশ্যনসমূহ"</string>
+<string name="accessibility_screen_magnification_title">"পৰিবৰ্ধনৰ ভংগিমাসমূহ"</string>
+<string name="accessibility_screen_magnification_summary">"যেতিয়া এই সুবিধাটো অন হৈ থাকে তেতিয়া আপুনি স্ক্ৰীণখন ট্ৰিপল টেপ কৰি জুম ইন বা জুম আউট কৰিব পাৰিব৷ \n\nযেতিয়া জুম ইন কৰা হয় তেতিয়া আপুনি :\n<ul><li>পেন কৰিব পাৰে: স্ক্ৰীণখনৰ চাৰিওফালে দুটা বা তাতোধিক আঙুলি ঘুৰাব পাৰে৷ </li>\n<li>জুম কৰা স্তৰ এডজাষ্ট কৰক: দুটা বা তাতোধিক আঙুলি একেলগে হেঁচি বা চাৰিওফালে বহলাই দিয়ক৷</li></ul>\n\nআপুনি ত্ৰিপল টেপিং কৰি আৰু ধৰি থকাৰ জৰিয়তে আপোনাৰ আঙুলিৰ তলত কি আছে সেয়া অস্থায়ীভাৱে পৰিবৰ্ধিত কৰি চাব পাৰে৷ এই পৰিবৰ্ধনৰ সময়তে আপুনি আপোনাৰ আঙুলি ফুৰাই স্ক্ৰীণখনৰ বিভিন্ন অংশলৈ যাব পাৰে৷ আপোনাৰ আগৰ পৰ্যায়লৈ ঘুৰি যাবলৈ আঙুলিটো উঠাই আনক৷ \n\nটোকা: কীব’ৰ্ড আৰু নেভিগেশ্যন বাৰৰ বাহিৰে সকলোতে ট্ৰিপল টেপ ব্যৱহাৰ কৰিব পাৰি৷"</string>
+<string name="accessibility_global_gesture_preference_title">"সহজে লাভ কৰিব পৰা শ্বৰ্টকাট"</string>
+<string name="accessibility_global_gesture_preference_summary_on">"অন"</string>
+<string name="accessibility_global_gesture_preference_summary_off">"অফ"</string>
+<string name="accessibility_global_gesture_preference_description">"এই বৈশিষ্টটো যেতিয়া অন কৰা হয়, তেতিয়া আপুনি বৈশিষ্টসমূহৰ উপলব্ধতা দুটা পৰ্যায়ত সক্ৰিয় কৰিব পাৰে :\n\n পৰ্যায় 1: আপুনি কম্পন অনুভৱ নকৰা বা কোনো শব্দ নুশুনা পৰ্যন্ত পাৱাৰ চুইচটো ধৰি থাকক \n\n পৰ্যায় 2: কোনো শ্ৰাৱ্য শব্দ নুশুনা পৰ্যন্ত স্পৰ্শ কৰক আৰু দুটা আঙুলিৰে হেচি ধৰি থাকক৷ \n\nযদি যন্ত্ৰটোৰ কোনো একাধিক ব্যৱহাৰকাৰী থাকে তেন্তে এই শ্বৰ্টকাটটো অস্থায়ীভাৱে লক স্ক্ৰীণত ব্যৱহাৰ কৰি যন্ত্ৰটো লক হৈ নোযোৱা পৰ্যন্ত ইয়াক সক্ৰিয়ভাৱে ব্যৱহাৰ কৰিব পাৰে৷"</string>
+<string name="accessibility_toggle_large_text_preference_title">"অতি ডাঙৰ টেক্স"</string>
+<string name="accessibility_toggle_screen_magnification_preference_title">"স্ক্ৰীণৰ চুম্বকত্ব"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">"স্ক্ৰীণৰ চুম্বকত্ব স্বয়ংক্ৰিয়ভাৱে আপডেট কৰক"</string>
+<string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">"এপ্পৰ ট্ৰানজিশ্যনত স্ক্ৰীণৰ চুম্বকত্ব আপডেট কৰক"</string>
+<string name="accessibility_power_button_ends_call_prerefence_title">"পাৱাৰ বুটামটোৱে কল এটাৰ অন্ত পেলায়"</string>
+<string name="accessibility_toggle_speak_password_preference_title">"পাছৱৰ্ডসমূহ কওঁক"</string>
+<string name="accessibility_long_press_timeout_preference_title">"ডিলে’টো স্পৰ্শ কৰক আৰু ধৰি থাকক"</string>
+<string name="accessibility_menu_item_settings">"ছেটিংছ"</string>
+<string name="accessibility_feature_state_on">"অন"</string>
+<string name="accessibility_feature_state_off">"অফ"</string>
+<string name="captioning_preview_title">"প্ৰাকদৰ্শনী"</string>
+<string name="captioning_standard_options_title">"ষ্টেণ্ডাৰ্ড অপশ্যনসমূহ"</string>
+<string name="captioning_locale">"ভাষা"</string>
+<string name="captioning_text_size">"টেক্সটৰ আকাৰ"</string>
+<string name="captioning_preset">"কেপশ্যনৰ ষ্টাইল"</string>
+<string name="captioning_custom_options_title">"অপশ্যনসমূহ নিজৰ ইচ্ছানুসৰি সজাই লওঁক"</string>
+<string name="captioning_background_color">"বেকগ্ৰাউণ্ডৰ ৰঙ"</string>
+<string name="captioning_background_opacity">"বেকগ্ৰাউণ্ডৰ অস্পষ্টতা"</string>
+<string name="captioning_foreground_color">"টেক্সটৰ ৰং"</string>
+<string name="captioning_edge_color">"এডজৰ ৰঙ"</string>
+<string name="captioning_edge_type">"এডজৰ ধৰণ"</string>
+<string name="captioning_typeface">"ফণ্ট ফেমিলি"</string>
+<string name="captioning_preview_text">"কেপশ্যনবোৰ দেখাত এনেকুৱা দেখাব"</string>
+<string name="locale_default">"ডিফল্ট"</string>
+<string name="color_none">"নাই"</string>
+<string name="color_white">"বগা"</string>
+<string name="color_gray">"ধুসৰ"</string>
+<string name="color_black">"ক’লা"</string>
+<string name="color_red">"ৰঙা"</string>
+<string name="color_green">"সেউজীয়া"</string>
+<string name="color_blue">"নীলা"</string>
+<string name="color_cyan">"সেউজ-নীলা"</string>
+<string name="color_yellow">"হালধীয়া"</string>
+<string name="color_magenta">"মেজেণ্টা"</string>
+<string name="enable_service_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g> ব্যৱহাৰ কৰিব?"</string>
+<string name="capabilities_list_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g>ৰ প্ৰয়োজন:"</string>
+<string name="capability_title_receiveAccessibilityEvents">"আপোনাৰ কাৰ্যৰ প্ৰতি নজৰ দিব"</string>
+<string name="capability_desc_receiveAccessibilityEvents">"আপুনি এপ্পৰ সৈতে কাম কৰি থাকোঁতে অধিসূচনা প্ৰাপ্ত কৰক।"</string>
+<string name="disable_service_title">"<xliff:g id="service" example="TalkBack">%1$s</xliff:g>বন্ধ কৰিব?"</string>
+<string name="disable_service_message">"ঠিক স্পৰ্শ কৰিলে বন্ধ হ’ব <xliff:g id="service" example="TalkBack">%1$s</xliff:g>।"</string>
+<string name="accessibility_no_services_installed">"কোনো সেৱা ইন্সটল কৰা নাই"</string>
+<string name="accessibility_service_no_apps_title">"স্ক্ৰীণ ৰীডাৰ এটা লাগে?"</string>
+<string name="accessibility_service_no_apps_message">"অন্ধ আৰু নিম্ন দৃষ্টিশক্তিৰ ব্যৱকাৰকৰ্তা সকলক সহায় কৰাৰ বাবে TalkBackএ কথিত উত্তৰ দিয়ে। আপুনি ইয়াক এণ্ড্ৰইড মাৰ্কেটৰ পৰা ইন্সটল কৰিব বিচাৰেনে?"</string>
+<string name="accessibility_service_default_description">"কোনো বৰ্ণনা প্ৰদান কৰা নাই।"</string>
+<string name="settings_button">"ছেটিংছ"</string>
+<string name="print_settings">"প্ৰিন্ট কৰা"</string>
+<string name="print_settings_title">"প্ৰিণ্ট সেৱা"</string>
+<string name="print_service_security_warning_title">"<xliff:g id="service" example="My Print Service">%1$s</xliff:g> ব্যৱহাৰ কৰিব?"</string>
+<string name="print_service_security_warning_summary">"আপোনাৰ ডকুমেণ্টখন প্ৰিণ্টাৰলৈ যাওঁতে এক বা একাধিক চাৰ্ভাৰ মাজেৰে যাব পাৰে।"</string>
+<string name="print_no_services_installed">"কোনো সসেৱা ইন্সটল কৰা নাই।"</string>
+<string name="print_no_printers_found">"কোনো প্ৰিণ্টাৰ পোৱা নগ\'ল"</string>
+<string name="print_menu_item_settings">"ছেটিংছ"</string>
+<string name="print_menu_item_add_printers">"প্ৰিণ্টাৰ যোগ দিয়ক"</string>
+<string name="print_feature_state_on">"অন"</string>
+<string name="print_feature_state_off">"অফ"</string>
+<string name="print_menu_item_add_service">"চাৰ্ভিচ যোগ কৰক"</string>
+<string name="print_menu_item_add_printer">"প্ৰিণ্টাৰ সংযোগ কৰক"</string>
+<string name="print_menu_item_search">"বিচাৰ"</string>
+<string name="print_searching_for_printers">"প্ৰিণ্টাৰৰ সন্ধান কৰা হৈছে"</string>
+<string name="print_service_disabled">"সেৱা অক্ষম কৰা হৈছে"</string>
+<string name="print_print_jobs">"প্ৰিণ্ট কাৰ্যসমূহ"</string>
+<string name="print_print_job">"প্ৰিণ্ট কাৰ্য"</string>
+<string name="print_restart">"পুনৰ অন"</string>
+<string name="print_cancel">"নাকচ"</string>
+<string name="print_printing_state_title_template">"<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>প্ৰিন্টিং চলি আছে"</string>
+<string name="print_cancelling_state_title_template">"<xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"নাকচ কৰি থাকা হৈছে""</string>
+<string name="print_failed_state_title_template">"প্ৰিন্টাৰ ত্ৰুটি <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_blocked_state_title_template">"প্ৰিন্টাৰ ব্লক্ কৰা হৈছে <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g>"</string>
+<string name="print_search_box_shown_utterance">"চাৰ্ছ বক্স দেখুওৱা হৈছে"</string>
+<string name="print_search_box_hidden_utterance">"চাৰ্ছ বক্স লুকুৱাই ৰখা হৈছে"</string>
+<plurals name="print_search_result_count_utterance">
+<item quantity="one">"<xliff:g id="count" example="1">%1$s</xliff:g> প্ৰিণ্টাৰ পোৱা হৈছে"</item>
+<item quantity="other">"<xliff:g id="count" example="2">%1$s</xliff:g> প্ৰিণ্টাৰসমূহ পোৱা হৈছে"</item>
+</plurals>
+<string name="power_usage_summary_title">"বেটাৰি"</string>
+<string name="power_usage_summary">"কিহে বেটাৰি ব্যৱহাৰ কৰি আছে"</string>
+<string name="power_usage_not_available">"বেটাৰি ব্যৱহাৰ ডাটা উপলব্ধ নহয়।"</string>
+<string name="battery_since_unplugged">"প্লাগৰ পৰা আঁতৰোৱাৰ পৰা বেটাৰি ব্যৱহাৰ"</string>
+<string name="battery_since_reset">"ৰিছেট কৰাৰ পৰা বেটাৰি ব্যৱহাৰ"</string>
+<string name="battery_stats_on_battery">"<xliff:g id="time">%1$s</xliff:g> বেটাৰিত"</string>
+<string name="battery_stats_duration">"প্লাগৰ পৰা আঁতৰোৱাৰ পৰা <xliff:g id="time">%1$s</xliff:g>"</string>
+<string name="battery_stats_charging_label">"চাৰ্জ হৈ আছে"</string>
+<string name="battery_stats_screen_on_label">"স্ক্ৰীণ অন"</string>
+<string name="battery_stats_gps_on_label">"GPS অন"</string>
+<string name="battery_stats_wifi_running_label">"Wi\u2011Fi"</string>
+<string name="battery_stats_wake_lock_label">"সাৰে"</string>
+<string name="battery_stats_phone_signal_label">"মোবাইল নেটৱৰ্ক সংকেত"</string>
+<string name="awake">"ডিভাইছ সাৰে থকা সময়"</string>
+<string name="wifi_on_time">"Wi\u2011Fi অন সময়"</string>
+<string name="bluetooth_on_time">"Wi\u2011Fi অন সময়"</string>
+<string name="usage_name_percent">"<xliff:g id="name">%1$s</xliff:g>" - "<xliff:g id="number" example="30">%2$s</xliff:g><xliff:g id="percent" example="%">%%</xliff:g>"</string>
+<string name="history_details_title">"ইতিহাস বিৱৰণ"</string>
+<string name="details_title">"ব্যৱহাৰৰ বিৱৰণ"</string>
+<string name="details_subtitle">"ব্যৱহাৰৰ বিৱৰণ"</string>
+<string name="controls_subtitle">"শক্তি ব্যৱহাৰ সাল-সলনি"</string>
+<string name="packages_subtitle">"অন্তৰ্ভুক্ত পেকেজবোৰ"</string>
+<string name="power_screen">"স্ক্ৰিন"</string>
+<string name="power_wifi">"Wi\u2011Fi"</string>
+<string name="power_bluetooth">"ব্লুটুথ"</string>
+<string name="power_cell">"চেল ষ্টেণ্ডবাই"</string>
+<string name="power_phone">"ভয়চ কল"</string>
+<string name="power_idle" product="tablet">"টেবলেট নিষ্ক্ৰিয়"</string>
+<string name="power_idle" product="default">"ফোন নিষ্ক্ৰিয়"</string>
+<string name="usage_type_cpu">"CPU মুঠ"</string>
+<string name="usage_type_cpu_foreground">"CPU সন্মুখভূমি"</string>
+<string name="usage_type_wake_lock">"সজাক কৰি ৰাখক"</string>
+<string name="usage_type_wifi_running">"Wi\u2011Fi চলি আছে"</string>
+<string name="usage_type_phone" product="tablet">"টেৱলেট"</string>
+<string name="usage_type_phone" product="default">"ফোন"</string>
+<string name="usage_type_data_send">"মোবাইল ডাটা প্ৰেৰণ কৰা হৈছে।"</string>
+<string name="usage_type_data_recv">"মোবাইল ডাটা প্ৰাপ্ত কৰা হৈছে।"</string>
+<string name="usage_type_data_wifi_send">"Wi\u2011Fi ডাটা প্ৰেৰণ কৰা হৈছে।"</string>
+<string name="usage_type_data_wifi_recv">"Wi\u2011Fi ডাটা প্ৰাপ্ত কৰা হৈছে।"</string>
+<string name="usage_type_audio">"অডিও\'"</string>
+<string name="usage_type_video">"ভিডিঅ’"</string>
+<string name="usage_type_on_time">"অন সময়"</string>
+<string name="usage_type_no_coverage">"সংকেত অবিহনে সময়"</string>
+<string name="battery_action_stop">"জোৰ-জুলুম বন্ধ কৰা"</string>
+<string name="battery_action_app_details">"এপ্ ইনফো"</string>
+<string name="battery_action_app_settings">"এপচ্ চেটিংচ্"</string>
+<string name="battery_action_display">"স্ক্ৰীণ ছেটিংছ"</string>
+<string name="battery_action_wifi">"Wi\u2011Fi ছেটিংছ"</string>
+<string name="battery_action_bluetooth">"ব্লুটুথ ছেটিংছ"</string>
+<string name="battery_desc_voice">"ধ্বনি কলৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_desc_standby" product="tablet">"টেবলেট নিষ্ক্ৰিয় থাকোঁতে বেটাৰি ব্যৱহাৰ"</string>
+<string name="battery_desc_standby" product="default">"ফোন নিষ্ক্ৰিয় থাকোঁতে বেটাৰি ব্যৱহাৰ"</string>
+<string name="battery_desc_radio">"চেল ৰেডিঅ’ৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_sugg_radio">"মোবাইল নেটৱৰ্ক নথকা স্থানত শক্তি ৰাহি কৰিবলৈ এয়াৰপ্লেন মোডলৈ সলনি কৰক"</string>
+<string name="battery_desc_display">"ডিচপ্লে আৰু বেকলাইটৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_sugg_display">"স্ক্ৰীণ উজ্জ্বলতা আৰু/বা স্ক্ৰীণ উকলি যোৱা সময় হ্ৰাস কৰক"</string>
+<string name="battery_desc_wifi">"Wi\u2011Fৰ দ্বৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_sugg_wifi">"Wi\u2011Fi ব্যৱহাৰ নকৰা বা উপলব্ধ নথকা সময়ত ইয়াক অফ কৰক"</string>
+<string name="battery_desc_bluetooth">"ব্লুটুথৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_sugg_bluetooth_basic">"ব্লুটুথ ব্যৱহাৰ নকৰা সময়ত অফ কৰক"</string>
+<string name="battery_sugg_bluetooth_headset">"পৃথক ব্লুটুথ ডিভাইছ এটালৈ সংযোগৰ চেষ্টা কৰক"</string>
+<string name="battery_desc_apps">"এপ্পৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="battery_sugg_apps_info">"এপ্পটো বন্ধ বা আনইন্সটল কৰক"</string>
+<string name="battery_sugg_apps_gps">"বেটাৰি সংৰক্ষণ মোড বাছনি কৰক"</string>
+<string name="battery_sugg_apps_settings">"এপ্পটোৱে বেটাৰি ব্যৱহাৰ হ্ৰাস কৰিবলৈ ছেটিংছ প্ৰদান কৰিব পাৰে"</string>
+<string name="battery_desc_users">"ব্যৱহাৰকৰ্তাৰ দ্বাৰা ব্যৱহৃত বেটাৰি"</string>
+<string name="menu_stats_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g> প্লাগৰ পৰা আঁতৰোৱাৰ পৰা"</string>
+<string name="menu_stats_last_unplugged">"<xliff:g id="unplugged">%1$s</xliff:g>ৰ বাবে অন্তিমবাৰ প্লাগৰ পৰা আঁতৰাওঁতে।"</string>
+<string name="menu_stats_total">"ব্যৱহাৰ মুঠ"</string>
+<string name="menu_stats_refresh">"ৰিফ্ৰেশ্ব"</string>
+<string name="process_mediaserver_label">"মেডিয়াচাৰ্ভাৰ"</string>
+<string name="process_stats_summary_title">"প্ৰক্ৰিয়া পৰিসংখ্যা"</string>
+<string name="process_stats_summary">"চলি থকা প্ৰক্ৰিয়াবোৰৰ বিষয়ে গীকি পৰিসংখ্যা"</string>
+<string name="app_memory_use">"স্মৃতি ব্যৱহাৰ"</string>
+<string name="process_stats_total_duration">"<xliff:g id="time">%2$s</xliff:g> এপ্পৰ ওপৰত <xliff:g id="type">%1$s</xliff:g>"</string>
+<string name="process_stats_type_background">"বেকগ্ৰাউণ্ড"</string>
+<string name="process_stats_type_foreground">"সন্মুখভুমি"</string>
+<string name="process_stats_type_cached">"কেচ্ছড"</string>
+<string name="process_stats_memory_status">"ডিভাইছ স্মৃতি বৰ্তমানে <xliff:g id="memstate">%1$s</xliff:g>"</string>
+<string name="process_stats_avg_ram_use">"গড় RAM ব্যৱহাৰ"</string>
+<string name="process_stats_max_ram_use">"সৰ্বাধিক RAM ব্যৱহাৰ"</string>
+<string name="process_stats_run_time">"চলা সময়"</string>
+<string name="services_subtitle">"সেৱাসমূহ"</string>
+<string name="menu_proc_stats_duration">"সময়"</string>
+<string name="menu_duration_3h">"3 ঘণ্টা"</string>
+<string name="menu_duration_6h">"6 ঘণ্টা"</string>
+<string name="menu_duration_12h">"12 ঘণ্টা"</string>
+<string name="menu_duration_1d">"1 দিন"</string>
+<string name="menu_show_system">"চিষ্টেম প্ৰদৰ্শন কৰক"</string>
+<string name="menu_use_uss">"Uss ব্যৱহাৰ কৰক"</string>
+<string name="menu_proc_stats_type">"পৰিসংখ্যা প্ৰকাৰ"</string>
+<string name="menu_proc_stats_type_background">"বেকগ্ৰাউণ্ড"</string>
+<string name="menu_proc_stats_type_foreground">"সন্মুখভুমি"</string>
+<string name="menu_proc_stats_type_cached">"কেচ্ছড"</string>
+<string name="voice_input_output_settings">"ধ্বনি ইনপুট আৰু আউটপুট"</string>
+<string name="voice_input_output_settings_title">"ধ্বনি ইনপুট আৰু আউটপুট ছেটিংছ"</string>
+<string name="voice_search_settings_title">"ভয়চ বিচাৰ"</string>
+<string name="keyboard_settings_title">"এণ্ড্ৰইড কী-বোৰ্ড"</string>
+<string name="voice_category">"বক্তব্য"</string>
+<string name="recognizer_title">"ধ্বনি চিনাক্তকৰ্তা"</string>
+<string name="recognizer_settings_title">"ভয়চ বিচাৰ"</string>
+<string name="recognizer_settings_summary">"\'<xliff:g id="recognizer_name">%s</xliff:g>\'ৰ বাবে ছেটিংছ"</string>
+<string name="tts_settings">"পাঠৰ-পৰা-ধ্বনি ছেটিংছ"</string>
+<string name="tts_settings_title">"পাঠৰ-পৰা-ধ্বনি আউটপুট"</string>
+<string name="use_default_tts_settings_title">"সদায়ে মোৰ ছেটিংছ ব্যৱহাৰ কৰিব"</string>
+<string name="use_default_tts_settings_summary">"তলৰ ডিফল্ট ছেটিংছবোৰে এপ্প ছেটিংছ অতিক্ৰম কৰিব"</string>
+<string name="tts_default_settings_section">"ডিফল্ট্ চেটিংচ্"</string>
+<string name="tts_default_synth_title">"ডিফল্ট ইঞ্জিন"</string>
+<string name="tts_default_synth_summary">"কথিত পাঠৰ বাবে ব্যৱহাৰ কৰিবলগা ধ্বনি সংশ্লেষণ ইঞ্জিন নিৰ্ধাৰণ কৰে"</string>
+<string name="tts_default_rate_title">"ধ্বনিৰ হাৰ"</string>
+<string name="tts_default_rate_summary">"পাঠ কোৱাৰ গতি"</string>
+<string name="tts_default_pitch_title">"কণ্ঠস্বৰ"</string>
+<string name="tts_default_pitch_summary">"কথিত পাঠৰ স্বৰ প্ৰভাৱিত কৰে"</string>
+<string name="tts_default_lang_title">"ভাষা"</string>
+<string name="tts_lang_not_selected">"ভাষা বাছনি কৰা নাই"</string>
+<string name="tts_default_lang_summary">"কথিত পাঠৰ বাবে ভাষা-নিৰ্দিষ্ট ধ্বনি নিৰ্ধাৰণ কৰে"</string>
+<string name="tts_play_example_title">"উদাহৰণ এটা শুনক"</string>
+<string name="tts_play_example_summary">"ধ্বনি সংশ্লেষণৰ চমু প্ৰদৰ্শন এটা বজাওঁক"</string>
+<string name="tts_install_data_title">"ধ্বনি ডাটা ইন্সটল কৰক"</string>
+<string name="tts_install_data_summary">"ধ্বনি সংশ্লেষণৰ বাবে প্ৰয়োজনীয় ধ্বনি ডাটা ইন্সটল কৰে"</string>
+<string name="tts_data_installed_summary">"ধ্বনি সংশ্লেষণৰ বাবে প্ৰয়োজনীয় ধ্বনি ইতিমধ্যে সঠিক ভাৱে ইন্সটল কৰা আছে"</string>
+<string name="tts_settings_changed_demo">"আপোনাৰ ছেটিংবোৰ সলনি হৈছে। সেইবোৰ কেনে শুনাব ই তাৰ এটা উদাহৰণ।"</string>
+<string name="tts_engine_error">"আপুনি বাছনি কৰা ইঞ্জিনটো চলিব নোৱাৰে।"</string>
+<string name="tts_engine_error_config">"কনফিগাৰ"</string>
+<string name="tts_engine_error_reselect">"আন এটা ইঞ্জিন বাছনি কৰক"</string>
+<string name="tts_engine_security_warning">"এই ধ্বনি সংশ্লেষকে কোৱা সকলো পাঠ সংগ্ৰহ কৰিবলৈ সক্ষম হ’ব পাৰে, যাৰ ভিতৰত আছে পাছৱৰ্ড আৰু ক্ৰেডিট কাৰ্ড নম্বৰৰ দৰে ব্যক্তিগত তথ্য। ই <xliff:g id="tts_plugin_engine_name">%s</xliff:g> ইঞ্জিনৰ পৰা আহে। এই ধ্বনি সংশ্লেষণ ইঞ্জিনৰ ব্যৱহাৰ সক্ষম কৰিব?"</string>
+<string name="tts_engine_network_required">"এই ভাষাৰ পাঠৰ-পৰা-ধ্বনি প্ৰস্তুতৰ বাবে এক সক্ৰিয় নেটৱৰ্ক সংযোগৰ প্ৰয়োজন।"</string>
+<string name="tts_default_sample_string">"ই হৈছে ধ্বনি সংশ্লেষণৰ এক উদাহৰণ।"</string>
+<string name="tts_status_title">"ডিফল্ট ভাষা স্থিতি"</string>
+<string name="tts_status_ok">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> সম্পূৰ্ণভাৱে সমৰ্থিত"</string>
+<string name="tts_status_requires_network">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> ৰ বাবে নেটৱৰ্ক সংযোগৰ প্ৰয়োজন"</string>
+<string name="tts_status_not_supported">"<xliff:g id="locale" example="English (United States)">%1$s</xliff:g> সমৰ্থিত নহয়"</string>
+<string name="tts_status_checking">"পৰীক্ষা হৈ আছে..."</string>
+<string name="tts_engines_section">"ইঞ্জিনবোৰ"</string>
+<string name="tts_engine_name_settings">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> ছেটিংছ"</string>
+<string name="tts_engine_name_is_enabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> সক্ষম কৰা হৈছে"</string>
+<string name="tts_engine_name_is_disabled_summary">"<xliff:g id="tts_plugin_engine_name">%s</xliff:g> অক্ষম কৰা হৈছে"</string>
+<string name="tts_engine_settings_section">"ইঞ্জিন ছেটিংছ"</string>
+<string name="tts_engine_settings_title">"<xliff:g id="tts_engine_name">%s</xliff:g>ৰ বাবে ছেটিংছ"</string>
+<string name="pico_languages_and_voices">"ভাষা আৰু ধ্বনি"</string>
+<string name="pico_installed">"ইন্সটল কৰা হৈছে"</string>
+<string name="pico_not_installed">"ইন্সটল হোৱা নাই"</string>
+<string name="pico_voice_summary_female">"মহিলা"</string>
+<string name="pico_voice_summary_male">"পুৰুষ"</string>
+<string name="tts_notif_engine_install_title">"ধ্বনি সংশ্লেষণ ইঞ্জিন ইন্সটল হৈছে"</string>
+<string name="tts_notif_engine_install_message">"ব্যৱহাৰৰ আগতে নতুন ইঞ্জিন সক্ষম কৰক।"</string>
+<string name="tts_engine_settings_button">"ইঞ্জিন ছেটিংছ আৰম্ভ কৰক"</string>
+<string name="tts_engine_preference_section_title">"পছন্দৰ ইঞ্জিন"</string>
+<string name="tts_general_section_title">"সাধাৰণ"</string>
+<string name="gadget_title">"শক্তি নিয়ন্ত্ৰণ"</string>
+<string name="gadget_toggle_wifi">"Wi\u2011Fi ছেটিং আপডেট হৈ আছে"</string>
+<string name="gadget_toggle_bluetooth">"ব্লুটুথ ছেটিং আপডেট হৈ আছে"</string>
+<string name="gadget_state_template">"<xliff:g name="feature" example="Wi\u2011Fi">%1$s</xliff:g> <xliff:g name="state" example="off">%2$s</xliff:g>"</string>
+<string name="gadget_state_on">"অন"</string>
+<string name="gadget_state_off">"অফ"</string>
+<string name="gadget_state_turning_on">"অন হৈ আছে"</string>
+<string name="gadget_state_turning_off">"অফ হৈ আছে"</string>
+<string name="gadget_wifi">"Wi\u2011Fi"</string>
+<string name="gadget_bluetooth">"ব্লুটুথ"</string>
+<string name="gadget_location">"লোকেশ্যন"</string>
+<string name="gadget_sync">"সিংক"</string>
+<string name="gadget_brightness_template">"উজ্জ্বলতা <xliff:g name="state" example="half">%1$s</xliff:g>"</string>
+<string name="gadget_brightness_state_auto">"অটো"</string>
+<string name="gadget_brightness_state_full">"সম্পূৰ্ণ"</string>
+<string name="gadget_brightness_state_half">"আধা"</string>
+<string name="gadget_brightness_state_off">"অফ"</string>
+<string name="credentials_title">"যোগ্যতা সঞ্চয়"</string>
+<string name="credentials_install" product="nosdcard">"সঞ্চয়ৰ পৰা ইন্সটল কৰক"</string>
+<string name="credentials_install" product="default">"SD কাৰ্ডৰ পৰা ইন্সটল কৰক"</string>
+<string name="credentials_install_summary" product="nosdcard">"সঞ্চয়ৰ পৰা প্ৰমাণপত্ৰ ইন্সটল কৰক"</string>
+<string name="credentials_install_summary" product="default">"SD কাৰ্ডৰ পৰা প্ৰমাণপত্ৰ ইন্সটল কৰক"</string>
+<string name="credentials_reset">"যোগ্যতাবোৰ পৰিষ্কাৰ কৰক"</string>
+<string name="credentials_reset_summary">"সকলো প্ৰমাণপত্ৰ আঁতৰ কৰক"</string>
+<string name="trusted_credentials">"বিশ্বাসী যোগ্যতাবোৰ"</string>
+<string name="trusted_credentials_summary">"বিশ্বাসী CA প্ৰমাণপত্ৰবোৰ প্ৰদৰ্শন কৰক"</string>
+<string name="credential_storage_type">"সঞ্চয় প্ৰকাৰ"</string>
+<string name="credential_storage_type_hardware">"হাৰ্ডৱেৰ-সমৰ্থিত"</string>
+<string name="credential_storage_type_software">"কেৱল ছফ্টৱেৰ সংস্কৰণ"</string>
+<string name="credentials_install_gesture_prompt">"আপোনাৰ আনলকৰ ধৰণ ব্যৱহাৰ কৰক"</string>
+<string name="credentials_install_gesture_explanation">"আপুনি যোগ্যতা ইন্সটলেশ্বন নিশ্চিত কৰিবলৈ আপোনাৰ অনাৱদ্ধ আকৃতি আঁকিব লাগিব।"</string>
+<string name="credentials_unlock_hint">"যোগ্যতা সঞ্চয়ৰ বাবে পাছৱৰ্ডটো টাইপ কৰক।"</string>
+<string name="credentials_old_password">"বৰ্তমানৰ পাছৱৰ্ড:"</string>
+<string name="credentials_reset_hint">"সকলো সমল আঁতৰ কৰিব?"</string>
+<string name="credentials_password_too_short">"পাছৱৰ্ডটোত কমেও 8 টা আখৰ থাকিব লাগিব।"</string>
+<string name="credentials_wrong_password">"অশুদ্ধ পাফৱৰ্ড।"</string>
+<string name="credentials_reset_warning">"অশুদ্ধ পাফৱৰ্ড। যোগ্যতা সঞ্চয় মচি দিয়াৰ আগতে আপোনাৰ এটা সুযোগ বাকী আছে।"</string>
+<string name="credentials_reset_warning_plural">"অশুদ্ধ পাফৱৰ্ড। যোগ্যতা সঞ্চয় মচি দিয়াৰ আগতে আপোনাৰ <xliff:g id="number" example="5">%1$d</xliff:g> টা সুযোগ বাকী আছে।"</string>
+<string name="credentials_erased">"যোগ্যতা সঞ্চয় মচা হৈছে।"</string>
+<string name="credentials_not_erased">"যোগ্যতা সঞ্চয় মচিব পৰা নগ’ল।"</string>
+<string name="credentials_enabled">"যোগ্যতা সঞ্চয় সক্ষম কৰা হৈছে।"</string>
+<string name="credentials_configure_lock_screen_hint">"আপুনি যোগ্যতা সঞ্চয় ব্যৱহাৰ কৰিব পৰাৰ আগতে আপুনি এটা লক স্ক্ৰীণ PIN বা পাছৱৰ্ড নিৰ্ধাৰণ কৰিব লাগিব।"</string>
+<string name="emergency_tone_title">"জৰুৰী টোন"</string>
+<string name="emergency_tone_summary">"জৰুৰী কল এটা কৰোঁতে আচৰণ নিৰ্ধাৰণ কৰক"</string>
+<string name="privacy_settings">"বেকআপ আৰু ৰিছেট"</string>
+<string name="privacy_settings_title">"বেকআপ আৰু ৰিছেট"</string>
+<string name="backup_section_title">"বেকআপ আৰু পুনৰ্স্থাপন"</string>
+<string name="personal_data_section_title">"ব্যক্তিগত তথ্য"</string>
+<string name="backup_data_title">"মোৰ ডাটাৰ বাবে বেকআপ"</string>
+<string name="backup_data_summary">"এপ্প ডাটা, Wi\u2011Fi পাছৱৰ্ড, আৰু অন্যান্য ছেটিংছ Google চাৰ্ভাৰত বেক আপ কৰক।"</string>
+<string name="backup_configure_account_title">"বেকআপ একাউণ্ট"</string>
+<string name="backup_configure_account_default_summary">"কোনো একাউণ্ট বৰ্তমানে বেক আপ লোৱা ডাটা সঞ্চিত কৰি থকা নাই"</string>
+<string name="auto_restore_title">"স্বয়ংক্ৰিয় পুনৰ্স্থাপন"</string>
+<string name="auto_restore_summary">"এপ্প এটা পুনৰ-ইন্সটল কৰি থাকোঁতে, বেক আপ লোৱা ছেটিংছ আৰু ডাটা পুনৰ্স্থাপন কৰক"</string>
+<string name="local_backup_password_title">"ডেস্কটপ বেকআপ পাছৱৰ্ড"</string>
+<string name="local_backup_password_summary_none">"ডেস্কটপ সম্পূৰ্ণ বেকআপবোৰ বৰ্তমানে সুৰক্ষিত কৰা হোৱা নাই"</string>
+<string name="local_backup_password_summary_change">"ডেস্কটপ সম্পূৰ্ণ বেকআপবোৰৰ বাবে পাছৱৰ্ড সলনি বা আঁতৰ কৰিবলৈ স্পৰ্শ কৰক"</string>
+<string name="local_backup_password_toast_success">"নতুন বেকআপ পাছৱৰ্ড নিৰ্ধাৰণ"</string>
+<string name="local_backup_password_toast_confirmation_mismatch">"নতুন পাছৱৰ্ড আৰু নিশ্চিত মিলা নাই"</string>
+<string name="local_backup_password_toast_validation_failure">"বেকআপ পাছৱৰ্ড নিৰ্ধাৰণত বিফল"</string>
+<string name="backup_erase_dialog_message">"আপোনাৰ Wi\u2011Fi পাছৱৰ্ড, বুকমাৰ্ক, অন্যান্য ছেটিংছ, আৰু এপ্প ডাটা Google চাৰ্ভাৰত বেক আপ লোৱা বন্ধ কৰিব আৰু সকলো প্ৰতিলিপি বিলোপ কৰিব?"</string>
+<string name="device_admin_settings_title">"ডিভাইছ প্ৰৱন্ধন ছেটিংছ"</string>
+<string name="active_device_admin_msg">"ডিভাইছ প্ৰৱন্ধক"</string>
+<string name="remove_device_admin">"নিষ্ক্ৰিয় কৰক"</string>
+<string name="select_device_admin_msg">"ডিভাইচৰ প্ৰশাসক"</string>
+<string name="no_device_admins">"কোনো ডিভাইছ প্ৰৱন্ধক উপলব্ধ নাই"</string>
+<string name="add_device_admin_msg">"ডিভাইছ প্ৰৱন্ধক সক্ৰিয় কৰিব?"</string>
+<string name="add_device_admin">"সক্ৰিয়কৰণ"</string>
+<string name="device_admin_add_title">"ডিভাইছ প্ৰৱন্ধক"</string>
+<string name="device_admin_warning">"এই প্ৰৱন্ধকটো সক্ৰিয় কৰিলে <xliff:g id="app_name">%1$s</xliff:g> এপ্পে নিম্নলিখিত কাৰ্যবোৰ কৰিবলৈ সমৰ্থ হ’ব:"</string>
+<string name="device_admin_status">"এই প্ৰৱন্ধকটো সক্ৰিয় আৰু <xliff:g id="app_name">%1$s</xliff:g> এপ্পক নিম্নলিখিত কাৰ্যবোৰ কৰিবলৈ দিয়ে:"</string>
+<string name="untitled_apn">"শিৰোনামবিহীণ"</string>
+<string name="sound_category_sound_title">"সাধাৰণ"</string>
+<string name="sound_category_notification_title">"জাননি"</string>
+<string name="sound_category_call_ringtone_vibrate_title">"কল ৰিংটোন আৰু কম্পন"</string>
+<string name="sound_category_system_title">"ছিষ্টেম"</string>
+<string name="wifi_setup_title">"Wi\u2011Fi ছেটআপ"</string>
+<string name="wifi_setup_title_editing_network">"Wi\u2011Fi নেটৱৰ্ক <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>ৰ সৈতে সংযোগ কৰক"</string>
+<string name="wifi_setup_title_connecting_network">"Wi\u2011Fi নেটৱৰ্ক <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>ৰ সৈতে সংযোগ হৈ আছে\u2026"</string>
+<string name="wifi_setup_title_connected_network">"Wi\u2011Fi নেটৱৰ্ক <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>ৰ সৈতে সংযোগ হৈছে"</string>
+<string name="wifi_setup_title_add_network">"নেটৱৰ্ক এটা যোগ দিয়ক"</string>
+<string name="wifi_setup_not_connected">"সংযোগ হোৱা নাই"</string>
+<string name="wifi_setup_add_network">"নেটৱৰ্ক যোগ কৰক"</string>
+<string name="wifi_setup_refresh_list">"তালিকা সতেজ কৰক"</string>
+<string name="wifi_setup_skip">"এৰাই যোৱা"</string>
+<string name="wifi_setup_next">"পৰৱৰ্তী"</string>
+<string name="wifi_setup_back">"পিছলৈ"</string>
+<string name="wifi_setup_detail">"নেটৱৰ্ক বিৱৰণ"</string>
+<string name="wifi_setup_connect">"সংযোগ স্থাপন"</string>
+<string name="wifi_setup_forget">"পাহৰি যোৱা"</string>
+<string name="wifi_setup_save">"সংৰক্ষণ কৰা "</string>
+<string name="wifi_setup_cancel">"নাকচ"</string>
+<string name="wifi_setup_status_scanning">"নেটৱৰ্ক স্কেনিং হৈ আছে\u2026"</string>
+<string name="wifi_setup_status_select_network">"নেটৱৰ্ক এটালৈ সংযোগ কৰিবলৈ ইয়াক স্পৰ্শ কৰক"</string>
+<string name="wifi_setup_status_existing_network">"মজুত থকা নেটৱৰ্কৰ এটাৰ সৈতে সংযোগ কৰক"</string>
+<string name="wifi_setup_status_unsecured_network">"অসুৰক্ষিত নেটৱৰ্কৰ সৈতে সংযোগ কৰক"</string>
+<string name="wifi_setup_status_edit_network">"নেটৱৰ্ক কনফিগাৰেশ্বন টাইপ কৰক"</string>
+<string name="wifi_setup_status_new_network">"নতুন নেটৱৰ্কৰ সৈতে সংযোগ কৰক"</string>
+<string name="wifi_setup_status_connecting">"সংযোগ স্থাপন হৈ আছে\u2026"</string>
+<string name="wifi_setup_status_proceed_to_next">"পৰৱৰ্তী পদক্ষেপলৈ যাওঁক।"</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP সমৰ্থিত নহয়"</string>
+<string name="wifi_setup_eap_not_supported">"আপুনি ছেটআপৰ সময়ত এক EAP Wi\u2011Fi সংযোগ কনফিগাৰ কৰিব নোৱাৰে। ছেটআপৰ পিছত, আপুনি এয়া ছেটিংছ &amp;gt; ৱায়াৰলেছ আৰু নেটৱৰ্কত কৰিব পাৰে।"</string>
+<string name="wifi_setup_description_connecting">"সংযোগৰ বাবে কেইমিনিটমান লাগিব পাৰে\u2026"</string>
+<string name="wifi_setup_description_connected">"ছেটআপাৰ অব্যাহত ৰাখিবলৈ <b> নেক্স্ট </b> স্পৰ্শ কৰক।\n\nপৃথক Wi\u2011Fi নেটৱৰ্ক এটাৰ সৈতে সংযোগ কৰিবলৈ <b> ব্যাক </b> স্পৰ্শ কৰক।"</string>
+<string name="accessibility_sync_enabled">"ছিংক্ৰনাইজ সক্ষম কৰা হৈছে"</string>
+<string name="accessibility_sync_disabled">"ছিংক্ৰনাইজ অক্ষম কৰা হৈছে"</string>
+<string name="accessibility_sync_error">"ছিংক্ৰনাইজ ত্ৰুটী।"</string>
+<string name="sync_failed">"ছিংক্ৰনাইন বিফল হৈছে"</string>
+<string name="sync_active">"ছিংক্ৰনাইজ সক্ৰিয়"</string>
+<string name="account_sync_settings_title">"সিংক"</string>
+<string name="sync_is_failing">"ছিংক্ৰনাইজত বৰ্তমানে সমস্যা হৈ আছে। ই অলপতে ঠিক হ’ব।"</string>
+<string name="add_account_label">"একাউণ্ট যোগ কৰক"</string>
+<string name="background_data">"পৃষ্ঠভূমিৰ ডাটা"</string>
+<string name="background_data_summary">"এপ্পবোৰে যিকোনো সময়তে ডাটা ছিংক্ৰনাইজ, প্ৰেৰণ, আৰু প্ৰাপ্ত কৰিব পাৰে"</string>
+<string name="background_data_dialog_title">"পৃষ্ঠভূমিৰ ডাটা অক্ষম কৰিব?"</string>
+<string name="background_data_dialog_message">"পৃষ্ঠভূমিৰ ডাটা অক্ষম কৰিলে বেটাৰিৰ জীৱন সম্প্ৰসাৰণ কৰে আৰু ডাটা ব্যৱহাৰ হ্ৰাস কৰে। কিছুমান এপ্পে তথাপিও পৃষ্ঠভূমিৰ ডাটা সংযোগ ব্যৱহাৰ কৰিব।"</string>
+<string name="sync_automatically">"এপ্প ডাটা স্বয়ং-ছিংক্ৰনাইজ কৰক"</string>
+<string name="sync_enabled">"ছিংক্ৰনাইজ অন আছে"</string>
+<string name="sync_disabled">"ছিংক্ৰনাইজ অফ আছে"</string>
+<string name="sync_error">"ছিংক্ৰনাইজ ত্ৰুটী"</string>
+<string name="last_synced">"অন্তিমবাৰ ছিংক্ৰনাইজ কৰা হৈছে <xliff:g id="last_sync_time">%1$s</xliff:g>"</string>
+<string name="sync_in_progress">"এতিয়া ছিংক্ৰনাইজ হৈ আছে\u2026"</string>
+<string name="settings_backup">"ছেটিংছ বেক আপ লওঁক"</string>
+<string name="settings_backup_summary">"মোৰ ছেটিংছ বেক আপ লওঁক"</string>
+<string name="sync_menu_sync_now">"এতিয়া ছিংক্ৰনাইজ কৰক"</string>
+<string name="sync_menu_sync_cancel">"ছিংক্ৰনাইজ বাতিল কৰক"</string>
+<string name="sync_calendar">"কেলেণ্ডাৰ"</string>
+<string name="sync_contacts">"কণ্টেক্সমূহ"</string>
+<string name="sync_plug">"<font fgcolor="#ffffffff">গুগল সিংক লৈ স্বাগতম!</font> \nআপোনাৰ সম্পৰ্ক, এপইণ্টমেণ্ট, আৰু অধিক আপুনি য’তেই নাথাকক প্ৰাপ্ত কৰাৰ বাবে ডাটা ছিংক্ৰনাইজ কৰাৰ এক Google প্ৰচেষ্টা।"</string>
+<string name="header_application_sync_settings">"এপ্প ছিংক্ৰনাইজ ছেটিংছ"</string>
+<string name="header_data_and_synchronization">"ডাটা আৰু ছিংক্ৰনাইজেশ্বন"</string>
+<string name="preference_change_password_title">"পাছৱৰ্ড সলনি কৰক"</string>
+<string name="header_account_settings">"একাওন্ট চেটিংচ।"</string>
+<string name="remove_account_label">"একাওণ্ট মোহাৰি পেলাওক।"</string>
+<string name="header_add_an_account">"এটা একাউণ্ট যোগ কৰক"</string>
+<string name="finish_button_label">"শেষ"</string>
+<string name="really_remove_account_title">"একাউণ্ট আঁতৰাব?"</string>
+<string name="really_remove_account_message" product="tablet">"এই একাউণ্টটো আঁতৰালে ইয়াৰ সকলো বাৰ্তা, সম্পৰ্ক, আৰু অন্যান্য ডাটা টেবলেটটোৰ পৰা বিলোপ কৰিব।"</string>
+<string name="really_remove_account_message" product="default">"এই একাউণ্টটো আঁতৰালে ইয়াৰ সকলো বাৰ্তা, সম্পৰ্ক, আৰু অন্যান্য ডাটা ফোনটোৰ পৰা বিলোপ কৰিব।"</string>
+<string name="remove_account_failed" product="tablet">"এই একাউণ্টটো কিছুমান এপ্পক প্ৰয়োজন। আপুনি টেবলেটটো ছেটিংছ &amp;gt; বেকআপ আৰু ৰিছেটত ফেক্টৰী ডিফল্টলৈ ৰিছেট (যি আপোনাৰ সকলো ব্যক্তিগত ডাটা বিলোপ কৰে) কৰিহে ইয়াক আঁতৰাব পাৰিব।"</string>
+<string name="remove_account_failed" product="default">"এই একাউণ্টটো কিছুমান এপ্পক প্ৰয়োজন। আপুনি ফোনটো ছেটিংছ &amp;gt; বেকআপ আৰু ৰিছেটত ফেক্টৰী ডিফল্টলৈ ৰিছেট (যি আপোনাৰ সকলো ব্যক্তিগত ডাটা বিলোপ কৰে) কৰিহে ইয়াক আঁতৰাব পাৰিব।"</string>
+<string name="provider_label">"পুশ্ব চাবস্ক্ৰিপ্সনসমূহ"</string>
+<string name="sync_item_title">"<xliff:g id="authority" example="Calendar">%s</xliff:g>"</string>
+<string name="cant_sync_dialog_title">"মেনুৱেল ভাৱে ছিংক্ৰনাইজ কৰিব নোৱাৰি"</string>
+<string name="cant_sync_dialog_message">"এই বস্তুৰ বাবে ছিংক্ৰনাইজ বৰ্তমান অক্ষম আছে। এই ছেটিং সলনি কৰিবলৈ, অস্থায়ী ভাৱে পৃষ্ঠভূমিত ডাটা আৰু স্বয়ংক্ৰিয় ছিংক্ৰনাইজ অন কৰক।"</string>
+<string name="status_wimax_mac_address">"4G MAC ঠিকনা"</string>
+<string name="enter_password">"সঞ্চয় ডেক্ৰিপ্ট কৰিবলৈ পাছৱৰ্ড টাইপ কৰক"</string>
+<string name="try_again">"পুনৰ চেষ্টা কৰক"</string>
+<string name="delete">"মচি দিয়া"</string>
+<string name="misc_files">"বিবিধ ফাইল"</string>
+<string name="misc_files_selected_count">"<xliff:g id="total" example="15">%2$d</xliff:g> টাৰ ভিতৰত <xliff:g id="number" example="3">%1$d</xliff:g> টা বাছনি কৰা হৈছে"</string>
+<string name="misc_files_selected_count_bytes">"<xliff:g id="total" example="15.25MB">%2$s</xliff:g> টাৰ ভিতৰত <xliff:g id="number" example="3.25MB">%1$s</xliff:g> টা বাছনি কৰা হৈছে"</string>
+<string name="select_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="hdcp_checking_title">"HDCP পৰীক্ষণ"</string>
+<string name="hdcp_checking_dialog_title">"HDCP পৰীক্ষণ আচৰণ নিৰ্ধাৰণ কৰক"</string>
+<string name="debug_debugging_category">"ডিবাগিং"</string>
+<string name="debug_app">"ডিবাগ এপ্প বাছনি কৰক"</string>
+<string name="debug_app_not_set">"কোনো ডিবাগ এপ্লিকেচন নিৰ্ধাৰণ কৰা নাই"</string>
+<string name="debug_app_set">"এপ্লিকেচন ডিবাগিং হৈ আছে: <xliff:g id="app_name">%1$s</xliff:g>"</string>
+<string name="select_application">"এপ্লিকেচন বাছনি কৰক"</string>
+<string name="no_application">"একো নাই"</string>
+<string name="wait_for_debugger">"ডিবাগাৰৰ বাবে অপেক্ষা কৰক"</string>
+<string name="wait_for_debugger_summary">"ডিবাগ হোৱা এপ্লিকেচনবোৰে কাৰ্যকৰী হোৱাৰ আগতে ডিবাগাৰ সংলগ্ন হোৱাৰ বাবে অপেক্ষা কৰে"</string>
+<string name="debug_input_category">"ইনপুট"</string>
+<string name="debug_drawing_category">"ড্ৰয়িং"</string>
+<string name="debug_hw_drawing_category">"হাৰ্ডৱেৰ এক্সেলেৰেটেড ৰেণ্ডাৰিং"</string>
+<string name="debug_monitoring_category">"নিৰীক্ষণ"</string>
+<string name="strict_mode">"কঠোৰ মোড সক্ষম কৰা হৈছে"</string>
+<string name="strict_mode_summary">"এপ্পবোৰে মুখ্য ঠ্ৰেডত দীঘলীয়া কাৰ্য কৰিলে ফ্লাছ স্ক্ৰীণ"</string>
+<string name="pointer_location">"পইণ্টাৰ অৱস্থান"</string>
+<string name="pointer_location_summary">"বৰ্তমানৰ স্পৰ্শ ডাটা প্ৰদৰ্শন কৰা স্ক্ৰীণ অভাৰলে"</string>
+<string name="show_touches">"স্পৰ্শবোৰ প্ৰদৰ্শন কৰক"</string>
+<string name="show_touches_summary">"স্পৰ্শবোৰৰ বাবে দৃশ্যমান প্ৰতিক্ৰিয়া প্ৰদৰ্শন কৰক"</string>
+<string name="show_screen_updates">"পৃষ্ঠৰ আপডেটবোৰ প্ৰদৰ্শন কৰক"</string>
+<string name="show_screen_updates_summary">"আপডেট হৈ থাকোঁতে সমগ্ৰ উইণ্ডো পৃষ্ঠ ফ্লাছ কৰক"</string>
+<string name="show_hw_screen_updates">"GPU দৰ্শন আপডেটবোৰ প্ৰদৰ্শন কৰক"</string>
+<string name="show_hw_screen_updates_summary">"GPUৰ সৈতে আঁকোতে উইণ্ডোৰ ভিতৰৰ ফ্লাছ দৰ্শন"</string>
+<string name="show_hw_layers_updates">"হাৰ্ডৱেৰ স্তৰ আপডেটবোৰ প্ৰদৰ্শন কৰক"</string>
+<string name="show_hw_layers_updates_summary">"আপডেট হৈ থাকোঁতে হাৰ্ডৱেৰ স্তৰবোৰ সেউজীয়া কৈ ফ্লাছ কৰক"</string>
+<string name="debug_hw_overdraw">"ডিবাগ GPU অভাৰড্ৰ"</string>
+<string name="disable_overlays">"HW অভাৰলেবোৰ অক্ষম কৰক"</string>
+<string name="disable_overlays_summary">"স্ক্ৰীণ কম্পোজিশ্বনিঙৰ বাবে সদায়ে GPU ব্যৱহাৰ কৰিব"</string>
+<string name="enable_opengl_traces_title">"OpenGL ট্ৰেচেছ সক্ষম কৰক"</string>
+<string name="debug_layout">"লেআউট বাউণ্ডবোৰ দেখুৱাওক"</string>
+<string name="debug_layout_summary">"ক্লিপ বাউণ্ড, মাৰ্জিন আদি দেখুৱাওক"</string>
+<string name="force_rtl_layout_all_locales">"RTL লেআউট ডাইৰেক্সন বাধ্য কৰক"</string>
+<string name="force_rtl_layout_all_locales_summary">"সকলো অৱস্থানৰ বাবে স্ক্ৰীণ লেআউট ডাইৰেক্সন RTL লৈ বাধ্য কৰক"</string>
+<string name="show_cpu_usage">"CPU ব্যৱহাৰ দেখুৱাওক"</string>
+<string name="show_cpu_usage_summary">"বৰ্তমানৰ CPU ব্যৱহাৰ প্ৰদৰ্শন কৰা স্ক্ৰীণ অভাৰলে"</string>
+<string name="force_hw_ui">"GPU ৰেণ্ডাৰিং বাধ্য কৰক"</string>
+<string name="force_hw_ui_summary">"2D অংকনৰ বাবে GPU ব্যৱহাৰ বাধ্য কৰক"</string>
+<string name="force_msaa">"4x MSAA বাধ্য কৰক"</string>
+<string name="force_msaa_summary">"OpenGL ES 2.0 এপ্পবোৰত 4x MSAA সক্ষম কৰক"</string>
+<string name="show_non_rect_clip">"অনা-আয়তাকাৰ ক্লিপ কাৰ্যবোৰ ডিবাগ কৰক"</string>
+<string name="track_frame_time">"প্ৰফাইল GPU ৰেণ্ডাৰিং"</string>
+<string name="window_animation_scale_title">"উইণ্ডো এনিমেশ্বন স্কেল"</string>
+<string name="transition_animation_scale_title">"ট্ৰেঞ্জিশ্বন এনিমেশ্বন স্কেল"</string>
+<string name="animator_duration_scale_title">"এনিমেটৰ ম্যাদ স্কেল"</string>
+<string name="overlay_display_devices_title">"দ্বিতীয় ডিচপ্লে চিমুলেট কৰক"</string>
+<string name="debug_applications_category">"এপ্পসমূহ"</string>
+<string name="immediately_destroy_activities">"কাৰ্যকলাপবোৰ নাৰাখিব"</string>
+<string name="immediately_destroy_activities_summary">"প্ৰতিটো কাৰ্যকলাপ ব্যৱহাৰকৰ্তাই এৰাৰ লগে লগে নাশ কৰক"</string>
+<string name="app_process_limit_title">"পৃষ্ঠভূমিৰ প্ৰক্ৰিয়া সীমা"</string>
+<string name="show_all_anrs">"সকলো ANRs প্ৰদৰ্শন কৰক"</string>
+<string name="show_all_anrs_summary">"পৃষ্ঠভূমিৰ এপ্পবোৰৰ বাবে এপ্পে সঁহাৰি দিয়া সংলাপ দেখুৱাওক"</string>
+<string name="data_usage_summary_title">"ডাটাৰ ব্যবহাৰ"</string>
+<string name="data_usage_cycle">"ডাটা ব্যৱহাৰ চক্ৰ"</string>
+<string name="data_usage_menu_roaming">"ডাটা ৰোমিং"</string>
+<string name="data_usage_menu_restrict_background">"পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰক"</string>
+<string name="data_usage_menu_split_4g">"পৃথক 4G ব্যৱহাৰ"</string>
+<string name="data_usage_menu_show_wifi">"Wi\u2011Fi ব্যৱহাৰ প্ৰদৰ্শন কৰক"</string>
+<string name="data_usage_menu_show_ethernet">"ইথাৰনেট ব্যৱহাৰ দেখুৱাওক"</string>
+<string name="data_usage_menu_metered">"মোবাইল হটস্পটবোৰ"</string>
+<string name="data_usage_menu_auto_sync">"ডাটা স্বয়ং-ছিংক্ৰনাইজ কৰক"</string>
+<string name="data_usage_change_cycle">"চক্ৰ পৰিৱৰ্তন কৰক\u2026"</string>
+<string name="data_usage_pick_cycle_day">"ডাটা ব্যৱহাৰ চক্ৰ ৰিছেট কৰাৰ বাবে মাহৰ দিন:"</string>
+<string name="data_usage_empty">"এই সময়ৰ ভিতৰত কোনো এপ্পে ডাটা ব্যৱহাৰ কৰা নাই।"</string>
+<string name="data_usage_label_foreground">"সন্মুখভুমি"</string>
+<string name="data_usage_label_background">"বেকগ্ৰাউণ্ড"</string>
+<string name="data_usage_app_restricted">"প্ৰতিবন্ধিত"</string>
+<string name="data_usage_disable_mobile">"মোবাইল ডাটা অক্ষম কৰিব?"</string>
+<string name="data_usage_disable_mobile_limit">"মোবাইল ডাটা সীমা নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_disable_4g_limit">"4G ডাটা সীমা নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_disable_3g_limit">"2G-3G ডাটা সীমা নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_disable_wifi_limit">"Wi\u2011Fi ডাটা সীমা নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_tab_wifi">"Wi\u2011Fi"</string>
+<string name="data_usage_tab_ethernet">"ইথাৰনেট"</string>
+<string name="data_usage_tab_mobile">"মোবাইল"</string>
+<string name="data_usage_list_mobile">"মোবাইল"</string>
+<string name="data_usage_list_none">"নাই"</string>
+<string name="data_usage_enable_mobile">"মোবাইল ডাটা"</string>
+<string name="data_usage_enable_3g">"2G-3G ডাটা"</string>
+<string name="data_usage_enable_4g">"4G ডাটা"</string>
+<string name="data_usage_app_settings">"এপ্প ছেটিংছ চাওঁক"</string>
+<string name="data_usage_app_restrict_background">"পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰক"</string>
+<string name="data_usage_app_restrict_background_summary">"মোবাইল নেটৱৰ্কবোৰত পৃষ্ঠভূমিৰ ডাটা অক্ষম কৰক। উপলব্ধ থাকিলে অ-মোবাইল নেটৱৰ্ক ব্যৱহাৰ হ’ব।"</string>
+<string name="data_usage_app_restrict_background_summary_disabled">"এই এপ্পৰ বাবে পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰিবলৈ, প্ৰথমে মোবাইল ডাটা সীমা এটা নিৰ্ধাৰণ কৰক।"</string>
+<string name="data_usage_app_restrict_dialog_title">"পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰিব?"</string>
+<string name="data_usage_app_restrict_dialog">"ইয়াৰ ফলত কেৱল মোবাইল নেটৱৰ্ক উপলব্ধ নাথাকিলে পৃষ্ঠভূমিৰ ডাটাৰ ওপৰত নিৰ্ভৰ কৰা এপ্পবোৰে কাম কৰা বন্ধ হ’ব পাৰে।\n\nআপুনি এপ্পৰ ভিতৰত উপলব্ধ থকা ছেটিংছত উপযুক্ত ডাটা ব্যৱহাৰ নিয়ন্ত্ৰণৰ বিষয়ে অধিক জানিব পাৰিব।"</string>
+<string name="data_usage_restrict_denied_dialog">"আপুনি মোবাইল ডাটা সীমা নিৰ্ধাৰণ কৰিলেহে পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰা সম্ভৱ।"</string>
+<string name="data_usage_auto_sync_on_dialog_title">"ডাটা স্বয়ং-ছিংক্ৰনাইজ অন কৰিব?"</string>
+<string name="data_usage_auto_sync_on_dialog" product="tablet">"ৱেবত আপোনাৰ একাউণ্টত আপুনি কৰা যিকোনো পৰিৱৰ্তন স্বয়ংক্ৰিয়ভাৱে আপোনাৰ টেবলেটত প্ৰতিলিপি হ’ব।\n\nকিছুমান একাউণ্টে আপুনি টেবেলটত কৰা যিকোনো পৰিৱৰ্তনো ৱেবলৈ স্বয়ংক্ৰিয়ভাৱে প্ৰতিলিপি কৰিব পাৰে। একাউণ্ট এটাই এনেদৰে কাম কৰে।\n\nপ্ৰতিটো একাউণ্টৰ ভিতৰত কি প্ৰকাৰৰ তথ্য ছিংক্ৰনাইজ কৰিব বাছনি কৰিবলৈ ছেটিংছ &amp;gt; একাউণ্টলৈ যাওঁক।"</string>
+<string name="data_usage_auto_sync_on_dialog" product="default">"ৱেবত আপোনাৰ একাউণ্টত আপুনি কৰা যিকোনো পৰিৱৰ্তন স্বয়ংক্ৰিয়ভাৱে আপোনাৰ ফোনত প্ৰতিলিপি হ’ব।\n\nকিছুমান একাউণ্টে আপুনি ফোনত কৰা যিকোনো পৰিৱৰ্তনো ৱেবলৈ স্বয়ংক্ৰিয়ভাৱে প্ৰতিলিপি কৰিব পাৰে। একাউণ্ট এটাই এনেদৰে কাম কৰে।\n\nপ্ৰতিটো একাউণ্টৰ ভিতৰত কি প্ৰকাৰৰ তথ্য ছিংক্ৰনাইজ কৰিব বাছনি কৰিবলৈ ছেটিংছ &amp;gt; একাউণ্টলৈ যাওঁক।"</string>
+<string name="data_usage_auto_sync_off_dialog_title">"ডাটা স্বয়ং-ছিংক্ৰনাইজ অফ কৰিব?"</string>
+<string name="data_usage_auto_sync_off_dialog">"ই ডাটা আৰু বেটাৰি ব্যৱহাৰ ৰাহি কৰিব, কিন্তু আপুনি শেহতীয়া তথ্য প্ৰাপ্ত কৰিবলৈ আপুনি প্ৰতিটো তথ্য মেনুৱেল ভাৱে ছিংক্ৰনাইজ কৰিব লাগিব। আৰু যেতিয়া আপডেট উপলব্ধ হয় আপুনি অধিসূচনা নাপাব।"</string>
+<string name="data_usage_cycle_editor_title">"ব্যৱহাৰ চক্ৰ ৰিছেট তাৰিখ"</string>
+<string name="data_usage_cycle_editor_subtitle">"প্ৰতি মাহৰ তাৰিখ:"</string>
+<string name="data_usage_cycle_editor_positive">"ছেট"</string>
+<string name="data_usage_warning_editor_title">"ডাটা ব্যৱহাৰ সতৰ্কবাণী নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_limit_editor_title">"ডাটা ব্যৱহাৰ সীমা নিৰ্ধাৰণ কৰক"</string>
+<string name="data_usage_limit_dialog_title">"ডাটা ব্যৱহাৰে সীমাবদ্ধ কৰা"</string>
+<string name="data_usage_limit_dialog_mobile" product="tablet">"নিৰ্ধাৰিত সীমাত উপনিত হ’লে আপোনাৰ মোবাইল ডাটা সংযোগ অক্ষম কৰা হ’ব।\n\nযিহেতু ডাটা ব্যৱহাৰ আপোনাৰ টেবেলটে জোখে, আৰু আপোনাৰ কেৰিয়াৰে ব্যৱহাৰ পৃথকে জুখিব পাৰে, এক ৰক্ষণশীল সীমা নিৰ্ধাৰণ কৰা উচিত।"</string>
+<string name="data_usage_limit_dialog_mobile" product="default">"নিৰ্ধাৰিত সীমাত উপনিত হ’লে আপোনাৰ মোবাইল ডাটা সংযোগ অক্ষম কৰা হ’ব।\n\nযিহেতু ডাটা ব্যৱহাৰ আপোনাৰ ফোনে জোখে, আৰু আপোনাৰ কেৰিয়াৰে ব্যৱহাৰ পৃথকে জুখিব পাৰে, এক ৰক্ষণশীল সীমা নিৰ্ধাৰণ কৰা উচিত।"</string>
+<string name="data_usage_restrict_background_title">"পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰিব?"</string>
+<string name="data_usage_restrict_background">"যদি আপুনি পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰে, আপুনি Wi\u2011Fi নেটৱৰ্ক এটাৰ সৈতে সংযোগ নকৰিলে কিছুমান এপ্প আৰু সেৱাই কাম নকৰিব।"</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet">"যদি আপুনি পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰে, আপুনি Wi\u2011Fi নেটৱৰ্ক এটাৰ সৈতে সংযোগ নকৰিলে কিছুমান এপ্প আৰু সেৱাই কাম নকৰিব।\n\nএই ছেটিঙে এই টেবলেটৰ সকলো ব্যৱহাৰকৰ্তাক প্ৰভাৱিত কৰে।"</string>
+<string name="data_usage_restrict_background_multiuser" product="default">"যদি আপুনি পৃষ্ঠভূমিৰ ডাটা প্ৰতিবন্ধিত কৰে, আপুনি Wi\u2011Fi নেটৱৰ্ক এটাৰ সৈতে সংযোগ নকৰিলে কিছুমান এপ্প আৰু সেৱাই কাম নকৰিব।\n\nএই ছেটিঙে এই ফোনৰ সকলো ব্যৱহাৰকৰ্তাক প্ৰভাৱিত কৰে।"</string>
+<string name="data_usage_sweep_warning">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">warning</font>"</string>
+<string name="data_usage_sweep_limit">"<font size="21"><xliff:g id="number" example="128">^1</xliff:g></font> <font size="9"><xliff:g id="unit" example="KB">^2</xliff:g></font>\n<font size="12">limit</font>"</string>
+<string name="data_usage_uninstalled_apps">"আঁতৰোৱা এপ্পবোৰ"</string>
+<string name="data_usage_uninstalled_apps_users">"আঁতৰোৱা এপ্প আৰু ব্যৱহাৰকৰ্তাবোৰ"</string>
+<string name="data_usage_received_sent">"<xliff:g id="received" example="128KB">%1$s</xliff:g> প্ৰাপ্ত, <xliff:g id="sent" example="1.3GB">%2$s</xliff:g> প্ৰেৰিত"</string>
+<string name="data_usage_total_during_range">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্ৰায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যৱহৃত।"</string>
+<string name="data_usage_total_during_range_mobile" product="tablet">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্ৰায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যৱহৃত, আপোনাৰ টেবলেটে জোখা অনুসৰি। আপোনাৰ কেৰিয়াৰৰ ডাটা ব্যৱহাৰ গণনা পৃথক হ’ব পাৰে।"</string>
+<string name="data_usage_total_during_range_mobile" product="default">"<xliff:g id="range" example="Jul 1 - Jul 31">%2$s</xliff:g>: প্ৰায় <xliff:g id="total" example="128KB">%1$s</xliff:g> ব্যৱহৃত, আপোনাৰ ফোনে জোখা অনুসৰি। আপোনাৰ কেৰিয়াৰৰ ডাটা ব্যৱহাৰ গণনা পৃথক হ’ব পাৰে।"</string>
+<string name="data_usage_metered_title">"মোবাইল হটস্পটবোৰ"</string>
+<string name="data_usage_metered_body">"Wi\u2011Fi নেটৱৰ্কবোৰ বাছনি কৰক যিবোৰ হৈছে মোবাইল হটস্পট। এপ্পবোৰে পৃষ্ঠভূমিত থাকোতে এই নেটৱৰ্কবোৰ ব্যৱহাৰ কৰা প্ৰতিবন্ধিত কৰিব পাৰি। এপ্পবোৰে ডাঙৰ ডাউনলোডৰ বাবে এই নেটৱৰ্কবোৰ ব্যৱহাৰ কৰাৰ আগতে সতৰ্ক কৰি দিবও পাৰে।"</string>
+<string name="data_usage_metered_mobile">"মোবাইল নেটৱৰ্ক"</string>
+<string name="data_usage_metered_wifi">"Wi-Fi নেটৱৰ্কসমূহ"</string>
+<string name="data_usage_metered_wifi_disabled">"মোবাইল হটস্পট বাছনি কৰিবলৈ, Wi\u2011Fi অন কৰক।"</string>
+<string name="cryptkeeper_emergency_call">"জৰুৰীকালীন ফোন"</string>
+<string name="cryptkeeper_return_to_call">"কল কৰিবলৈ ঘুৰি আহক"</string>
+<string name="vpn_name">"নাম"</string>
+<string name="vpn_type">"প্ৰকাৰ"</string>
+<string name="vpn_server">"চাৰ্ভাৰ ঠিকনা"</string>
+<string name="vpn_mppe">"PPP এনকিপ্সন (MPPE)"</string>
+<string name="vpn_l2tp_secret">"L2TP গোপন"</string>
+<string name="vpn_ipsec_identifier">"IPSec চিনাক্তকৰণ"</string>
+<string name="vpn_ipsec_secret">"IPSec পুৰ্ব-প্ৰকাশিত কী"</string>
+<string name="vpn_ipsec_user_cert">"IPSec ব্যৱহাৰকৰ্তা প্ৰমাণপত্ৰ"</string>
+<string name="vpn_ipsec_ca_cert">"IPSec CA প্ৰমাণপত্ৰ"</string>
+<string name="vpn_ipsec_server_cert">"IPSec চাৰ্ভাৰ প্ৰমাণপত্ৰ"</string>
+<string name="vpn_show_options">"উন্নত বিকল্পসমূহ প্ৰদৰ্শন কৰক"</string>
+<string name="vpn_search_domains">"DNS সন্ধান ডমেইনবোৰ"</string>
+<string name="vpn_dns_servers">"DNS চাৰ্ভাৰ (যেনে 8.8.8.8)"</string>
+<string name="vpn_routes">"ফৰৱাৰ্ডিং পথ (যেনে 10.0.0.0/8)"</string>
+<string name="vpn_username">"ব্যৱহাৰকাৰীৰ নাম"</string>
+<string name="vpn_password">"পাছৱৰ্ড"</string>
+<string name="vpn_save_login">"একাউণ্ট তথ্য সঞ্চিত কৰক"</string>
+<string name="vpn_not_used">"(ব্যৱহাৰ কৰা নাই)"</string>
+<string name="vpn_no_ca_cert">"(চাৰ্ভাৰ সত্যাপণ নকৰিব)"</string>
+<string name="vpn_no_server_cert">"(চাৰ্ভাৰ পৰা প্ৰাপ্ত)"</string>
+<string name="vpn_cancel">"নাকচ"</string>
+<string name="vpn_save">"সংৰক্ষণ কৰা "</string>
+<string name="vpn_connect">"সংযোগ স্থাপন"</string>
+<string name="vpn_edit">"VPN প্ৰ’ফাইল সম্পাদনা কৰক"</string>
+<string name="vpn_connect_to">"<xliff:g id="profile" example="School">%s</xliff:g>লৈ সংযোগ কৰক"</string>
+<string name="vpn_create">"VPN প্ৰ’ফাইল যোগ দিয়ক"</string>
+<string name="vpn_menu_edit">"প্ৰ’ফাইল সম্পাদনা কৰক"</string>
+<string name="vpn_menu_delete">"প্ৰ’ফাইল বিলোপ কৰক।"</string>
+<string name="vpn_menu_lockdown">"সদায়ে-অন VPN"</string>
+<string name="vpn_lockdown_summary">"সদায়ে সংযোজিত হৈ থাকিবলৈ VPN প্ৰ’ফাইল এটা বাছনি কৰক। এই VPNৰ সৈতে সংযোজিত থাকিলেহে নেটৱৰ্ক ট্ৰেফিক অনুমোদিত হ’ব।"</string>
+<string name="vpn_lockdown_none">"নাই"</string>
+<string name="vpn_lockdown_config_error">"সদায়ে-অন VPNৰ বাবে চাৰ্ভাৰ আৰু DNS দুয়োৰে বাবে এক IP ঠিকনাৰ প্ৰয়োজন।"</string>
+<string name="vpn_no_network">"কোনো নেটৱৰ্ক সংযোগ নাই। অনুগ্ৰহ কৰি পিছত চেষ্টা কৰিব।"</string>
+<string name="vpn_missing_cert">"প্ৰমাণপত্ৰ এখন নাই। প্ৰ’ফাইলটো সম্পাদনা কৰক।"</string>
+<string name="trusted_credentials_system_tab">"ছিষ্টেম"</string>
+<string name="trusted_credentials_user_tab">"ব্যৱহাৰ কৰ্তা"</string>
+<string name="trusted_credentials_disable_label">"অক্ষম"</string>
+<string name="trusted_credentials_enable_label">"সক্ষম"</string>
+<string name="trusted_credentials_remove_label">"মচি দিয়ক"</string>
+<string name="trusted_credentials_enable_confirmation">"চিষ্টেম CA প্ৰমাণপত্ৰ সক্ষম কৰিব?"</string>
+<string name="trusted_credentials_disable_confirmation">"চিষ্টেম CA প্ৰমাণপত্ৰ অক্ষম কৰিব?"</string>
+<string name="trusted_credentials_remove_confirmation">"ব্যৱহাৰকৰ্তা CA প্ৰমাণপত্ৰ স্থায়ীভাৱে আঁতৰ কৰিব"</string>
+<string name="spellcheckers_settings_title">"বানান পৰীক্ষক"</string>
+<string name="current_backup_pw_prompt">"ইয়াৰ আপোনাৰ সম্পুৰ্ণ বেকআপ পাছৱৰ্ড টাইপ কৰক"</string>
+<string name="new_backup_pw_prompt">"ইয়াত সম্পুৰ্ণ বেকআপৰ বাবে নতুন পাছৱৰ্ড এটা টাইপ কৰক"</string>
+<string name="confirm_new_backup_pw_prompt">"ইয়াৰ আপোনাৰ সম্পুৰ্ণ বেকআপ পাছৱৰ্ড পুনৰ-টাইপ কৰক"</string>
+<string name="backup_pw_set_button_text">"বেকআপ পাছৱৰ্ড নিৰ্ধাৰণ কৰক"</string>
+<string name="backup_pw_cancel_button_text">"নাকচ"</string>
+<string name="percentage">"<xliff:g id="number" example="30">%d</xliff:g>%%"</string>
+<string name="additional_system_update_settings_list_item_title">"অতিৰিক্ত চিষ্টেম আপডেট"</string>
+<string name="selinux_status_disabled">"অদৃশ্য"</string>
+<string name="selinux_status_permissive">"অনুমোদনযোগ্য"</string>
+<string name="selinux_status_enforcing">"বাধ্য কৰা"</string>
+<string name="ssl_ca_cert_warning">"নেটৱৰ্কৰ নিৰীক্ষণ হ\'ব পাৰে"</string>
+<string name="done_button">"হৈ গৈছে"</string>
+<string name="ssl_ca_cert_dialog_title">"নেটৱৰ্ক নিৰীক্ষণ"</string>
+<string name="ssl_ca_cert_info_message">"এই ডিভাইছটো ইয়াৰ দ্বাৰা ব্যৱস্থিত:\n<xliff:g id="managing_domain">%s</xliff:g>\n\nআপোনাৰ প্ৰশাসকে আপোনাৰ নেটৱৰ্ক ক্ৰিয়া নিৰীক্ষণ কৰিব পাৰে, ইমেইল, এপ্প, আৰু সুৰক্ষিত ৱেবছাইট সহ।\n\nঅধিক তথ্যৰ বাবে, আপোনাৰ প্ৰশাসকৰ সৈতে যোগাযোগ কৰক।"</string>
+<string name="ssl_ca_cert_warning_message">"তৃতীয় পক্ষ এটাই আপোনাৰ নেটৱৰ্ক ক্ৰিয়া নিৰীক্ষণ কৰিব পাৰে, যাৰ ভিতৰত আছে ইমেইল, এপ্প, আৰু সুৰক্ষিত ৱেবছাইট।\n\nআপোনাৰ ডিভাইছৰ ইন্সটল কৰা বিশ্বাসী যোগ্যতা এটাই ইয়াক সম্ভৱ কৰে।"</string>
+<string name="ssl_ca_cert_settings_button">"বিশ্বাসী যোগ্যতাবোৰ পৰীক্ষা কৰক"</string>
+<string name="user_settings_title">"ব্যৱহাৰ কৰ্তা"</string>
+<string name="user_list_title">"ব্যৱহাৰকৰ্তা আৰু প্ৰ’ফাইল"</string>
+<string name="user_add_user_menu">"ব্যৱহাৰকৰ্তা বা প্ৰ’ফাইল যোগ দিয়ক"</string>
+<string name="user_summary_restricted_profile">"প্ৰতিবন্ধিত প্ৰ’ফাইল"</string>
+<string name="user_need_lock_message">"আপুনি এক প্ৰতিবন্ধিত প্ৰ’ফাইল সৃষ্টি কৰিব পৰাৰ আগতে, আপুনি আপোনাৰ এপ্প আৰু ব্যক্তিগত ডাটা সুৰক্ষিত কৰিবলৈ আপুনি এক স্ক্ৰীণ লক নিৰ্ধাৰণ কৰা প্ৰয়োজন।"</string>
+<string name="user_set_lock_button">"লক ছেট কৰক"</string>
+<string name="user_summary_not_set_up">"ছেট আপ নহয়"</string>
+<string name="user_summary_restricted_not_set_up">"ছেট আপ নহয় – প্ৰতিবন্ধিত প্ৰ’ফাইল"</string>
+<string name="user_owner">"স্বত্ত্বাধিকাৰী"</string>
+<string name="user_you">"আপুনি (<xliff:g id="name" example="Name">%s</xliff:g>)"</string>
+<string name="user_nickname">"ঘৰুৱা নাম"</string>
+<string name="user_add_user_type_title">"যোগ"</string>
+<string name="user_add_user_item_summary">"ব্যৱহাৰকৰ্তা সকলৰ তেওঁলোকৰ নিজা এপ্প আৰু সমল আছে"</string>
+<string name="user_add_profile_item_summary">"আপুনি আপোনাৰ একাউণ্টৰ পৰা এপ্প আৰু সমলৰ প্ৰৱেশাধিকাৰ প্ৰতিবন্ধিত কৰিব পাৰে"</string>
+<string name="user_add_user_item_title">"ব্যৱহাৰ কৰ্তা"</string>
+<string name="user_add_profile_item_title">"প্ৰতিবন্ধিত প্ৰ’ফাইল"</string>
+<string name="user_add_user_title">"নতুন ব্যৱহাৰকৰ্তা যোগ দিয়ক"</string>
+<string name="user_add_user_message_long">"আপুনি অতিৰিক্ত ব্যৱহাৰকৰ্তা সৃষ্টি কৰি এই ডিভাইছটো আন লোকৰ সৈতে ভাগ বতৰা কৰিব পাৰে। প্ৰতিটো ব্যৱহাৰকৰ্তাৰ নিজা স্থান থাকে, যাক তেওঁলোকে তেওঁলোকৰ নিজা এপ্প, ৱালপেপাৰ আদিৰে অনুকূলিত কৰিব পাৰে। ব্যৱহাৰকৰ্তাসকলে Wi\u2011Fiৰ দৰে টেবলেট ছেটিংছো সলনি কৰিব পাৰে যি সকলোকে প্ৰভাৱিত কৰে।\n\nআপুনি নতুন এক ব্যৱহাৰকৰ্তা সৃষ্টি কৰাৰ পিছত, সেই ব্যক্তিজনে ছেটআপ প্ৰক্ৰিয়াটোৰ মাজেৰে যোৱা প্ৰয়োজন।\n\nযিকোনো ব্যৱহাৰকৰ্তাই আন সকলো ব্যৱহাৰকৰ্তাৰ হৈ আপডেট হোৱা এপ্প অনুমতি স্বীকাৰ কৰিব পাৰে।"</string>
+<string name="user_add_user_message_short">"আপুনি নতুন এক ব্যৱহাৰকৰ্তা সৃষ্টি কৰাৰ পিছত, সেই ব্যক্তিজনে ছেটআপ প্ৰক্ৰিয়াটোৰ মাজেৰে যোৱা প্ৰয়োজন।\n\nযিকোনো ব্যৱহাৰকৰ্তাই আন সকলো ব্যৱহাৰকৰ্তাৰ হৈ আপডেট হোৱা এপ্প অনুমতি স্বীকাৰ কৰিব পাৰে।"</string>
+<string name="user_setup_dialog_title">"ব্যৱহাৰকৰ্তা এতিয়া ছেট আপ কৰিব?"</string>
+<string name="user_setup_dialog_message">"নিশ্চিত কৰিব যে ব্যক্তিজন টেবলেটটো লোৱা আৰু তেওঁলোকৰ স্থান ছেট আপ কৰাৰ বাবে উপলব্ধ।"</string>
+<string name="user_setup_profile_dialog_message">"প্ৰ’ফাইল এতিয়া ছেট আপ কৰিব?"</string>
+<string name="user_setup_button_setup_now">"এতিয়া ছেট আপ কৰক"</string>
+<string name="user_setup_button_setup_later">"এতিয়া নহয়"</string>
+<string name="user_cannot_manage_message" product="tablet">"কেৱল টেবলেটৰ মালিকে ব্যৱহাৰকৰ্তা সকলক ব্যৱস্থিত কৰিব পাৰে।"</string>
+<string name="user_cannot_manage_message" product="default">"কেৱল ফোনৰ মালিকে ব্যৱহাৰকৰ্তা সকলক ব্যৱস্থিত কৰিব পাৰে।"</string>
+<string name="user_cannot_add_accounts_message">"প্ৰতিবন্ধিত প্ৰ’ফাইলে একাউণ্ট যোগ দিব নোৱাৰে"</string>
+<string name="user_remove_user_menu">"এই ডিভাইছৰ পৰা <xliff:g id="user_name">%1$s</xliff:g> বিলোপ কৰক"</string>
+<string name="user_new_user_name">"নতুন ব্যৱহাৰকৰ্তা"</string>
+<string name="user_new_profile_name">"নতুন প্ৰ’ফাইল"</string>
+<string name="user_confirm_remove_self_title">"নিজকে বিলোপ কৰিব?"</string>
+<string name="user_confirm_remove_title">"ব্যৱহাৰকৰ্তা আঁতৰাব?"</string>
+<string name="user_profile_confirm_remove_title">"প্ৰ’ফাইল আঁতৰাব?"</string>
+<string name="user_confirm_remove_self_message" product="tablet">"আপুনি এই টেবলেটত আপোনাৰ স্থান আৰু ডাটা হেৰুৱাব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_confirm_remove_self_message" product="default">"আপুনি এই ফোনত আপোনাৰ স্থান আৰু ডাটা হেৰুৱাব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_confirm_remove_message" product="tablet">"এই ব্যৱহাৰকৰ্তাৰ স্থান আৰু ডাটা এই টেবলেটৰ পৰা নোহোৱা হ’ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_confirm_remove_message" product="default">"এই ব্যৱহাৰকৰ্তাৰ স্থান আৰু ডাটা এই ফোনৰ পৰা নোহোৱা হ’ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_profile_confirm_remove_message" product="tablet">"এই প্ৰ’ফাইলৰ স্থান আৰু ডাটা এই টেবলেটৰ পৰা নোহোৱা হ’ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_profile_confirm_remove_message" product="default">"এই প্ৰ’ফাইলৰ স্থান আৰু ডাটা এই ফোনৰ পৰা নোহোৱা হ’ব। আপুনি এই কাৰ্য আনডু কৰিব নোৱাৰে।"</string>
+<string name="user_adding_new_user">"নতুন ব্যৱহাৰকৰ্তা যোগ হৈ আছে\u2026"</string>
+<string name="user_delete_user_description">"ব্যৱহাৰকৰ্তা বিলোপ কৰক।"</string>
+<string name="user_delete_button">"মচি দিয়া"</string>
+<string name="application_restrictions">"এপ্প আৰু সমলৰ অনুমতি দিয়ক"</string>
+<string name="apps_with_restrictions_header">"প্ৰতিবন্ধক সহ এপ্লিকেচনবোৰ"</string>
+<string name="apps_with_restrictions_settings_button">"এপ্লিকেচনৰ বাবে ছেটিংছ সম্প্ৰসাৰিত কৰক"</string>
+<string name="home_app_uninstall_button">"এই এপ্লিকেচন আনইন্সটল কৰক"</string>
+<string name="only_one_home_message">"আপুনি আন এক গৃহ এপ্লিকেচন ইন্সটল নকৰালৈকে গৃহ ছেটিংছ গোপন কৰা হ’ব।"</string>
+<string name="global_change_warning" product="tablet">"এই ছেটিঙে এই টেবলেটত সকলো ব্যৱহাৰকৰ্তাক প্ৰভাৱিত কৰে।"</string>
+<string name="global_change_warning" product="default">"এই ছেটিঙে এই ফোনত সকলো ব্যৱহাৰকৰ্তাক প্ৰভাৱিত কৰে।"</string>
+<string name="global_locale_change_title">"ভাষা পৰিৱৰ্তন কৰক"</string>
+<string name="global_font_change_title">"ফণ্টৰ আকাৰ পৰিৱৰ্তন কৰক"</string>
+<string name="nfc_payment_settings_title">"টিপক আৰু পৰিশোধ কৰক"</string>
+<string name="nfc_payment_no_apps">"কেৱল এবাৰ টিপি পৰিশোধ কৰক"</string>
+<string name="nfc_payment_learn_more">"অধিক জানক"</string>
+<string name="nfc_payment_menu_item_add_service">"এপ্প বিচাৰক"</string>
+<string name="nfc_payment_set_default_label">"আপোনাৰ পছন্দ হিচাপে ছেট কৰিব?"</string>
+<string name="nfc_payment_set_default">"আপুনি টিপা আৰু পৰিশোধ কৰোঁতে সদায়ে <xliff:g id="app">%1$s</xliff:g> ব্যৱহাৰ কৰিব?"</string>
+<string name="nfc_payment_set_default_instead_of">"আপুনি টিপা আৰু পৰিশোধ কৰোঁতে সদায়ে <xliff:g id="app">%2$s</xliff:g> ৰ সলনি <xliff:g id="app">%1$s</xliff:g> ব্যৱহাৰ কৰিব?"</string>
+<string name="restriction_settings_title">"প্ৰতিবন্ধকতা সমূহ"</string>
+<string name="restriction_menu_reset">"প্ৰতিবন্ধকতা সমূহ আঁতৰ কৰক"</string>
+<string name="restriction_menu_change_pin">"PIN সলনি কৰক"</string>
+<string name="app_notifications_switch_label">"অধিসূচনা প্ৰদৰ্শন কৰক"</string>
+<string name="help_label">"সহায়"</string>
+<string name="user_account_title">"সমলৰ বাবে একাউণ্ট"</string>
+<string name="user_picture_title">"ফটো পৰিচয়"</string>
+<string name="cell_broadcast_settings">"চেল সম্প্ৰচাৰ"</string>
+<string name="user_restrictions_title">"এপ্লিকেচন আৰু সমল প্ৰতিবন্ধকতা"</string>
+<string name="user_rename">"পুনঃনামাকৰণ"</string>
+<string name="app_restrictions_custom_label">"এপ্প প্ৰতিবন্ধকতা ছেট কৰক"</string>
+<string name="user_restrictions_controlled_by">"<xliff:g id="app">%1$s</xliff:g>ৰ দ্বাৰা নিয়ন্ত্ৰিত"</string>
+<string name="app_not_supported_in_limited">"এই এপ্পটো প্ৰবন্ধিত প্ৰ’ফাইলবোৰত সমৰ্থিত নহয়"</string>
+<string name="app_sees_restricted_accounts">"এই এপ্পে আপোনাৰ একাউণ্টবোৰত প্ৰৱেশ কৰিব পাৰে"</string>
+<string name="restriction_wifi_config_title">"Wi\u2011Fi আৰু মোবাইল"</string>
+<string name="restriction_wifi_config_summary">"Wi\u2011Fi আৰু মোবাইল ছেটিংছ সংশোধনৰ অনুমতি দিয়ক"</string>
+<string name="restriction_bluetooth_config_title">"ব্লুটুথ"</string>
+<string name="restriction_bluetooth_config_summary">"ব্লুটুথ আৰু জোৰ কৰা আৰু ছেটিংছ সংশোধনৰ অনুমতি দিয়ক"</string>
+<string name="restriction_nfc_enable_summary" product="tablet">"টেবলেটে যেতিয়া অইন ডিভাইচ স্পৰ্শ কৰে তেতিয়া ডাটা বিনিময় কৰিবলৈ অনুমতি দিয়ক"</string>
+<string name="restriction_nfc_enable_summary" product="default">"ফোনটোৱে যেতিয়া অইন ডিভাইচ স্পৰ্শ কৰে তেতিয়া ডাটা বিনিময় কৰিবলৈ অনুমতি দিয়ক"</string>
+<string name="restriction_location_enable_title">"লোকেশ্যন"</string>
+<string name="restriction_location_enable_summary">"এপ্পক আপোনাৰ অৱস্থান তথ্য ব্যৱহাৰ কৰিব দিয়ে"</string>
+<string name="wizard_back">"পিছলৈ"</string>
+<string name="wizard_next">"পৰৱৰ্তী"</string>
+<string name="wizard_finish">"শেষ"</string>
+<string name="user_image_take_photo">"ফটো লওঁক কৰক"</string>
+<string name="user_image_choose_photo">"গেলেৰীৰ পৰা ফটো বাচনি কৰক"</string>
+<string name="recovery_update_title">"ছিষ্টেম ছফ্টৱেৰ আপডেট"</string>
+<string name="recovery_update_message">"ছিষ্টেম ছফ্টৱেৰ আপডেটটো, ছিষ্টেমটো ৰিবুট হ’ব, ডাটা সঞ্চিত কৰাৰ আগতে ৰিবুট কৰক"</string>
+<string name="recovery_sdacrd_status">"SD কাৰ্ড নাই"</string>
+<string name="recovery_updatefile_status">"update.zip ফাইলটো বিচাৰি পোৱা নাই"</string>
+<string name="recovery_update_level">"35%ৰ কম শক্তি, আপগ্ৰেড কাৰ্য আৰম্ভ কৰিব নোৱাৰি, ৰিচাৰ্জ কৰক"</string>
+<string name="recovery_no_package">"SD কাৰ্ডত আপডেট পেকেজ ফাইল নাই"</string>
+<string name="network_preference_settings">"নেটৱৰ্ক প্ৰৱন্ধন"</string>
+<string name="network_type_choosen">"আগতে সংযোগ কৰিবলৈ নেটৱৰ্ক এটা বাছনি কৰক"</string>
+<string name="default_cmcc_accesspoints_list">"ডিফল্ট বিশ্বাসী সংযোগ বিন্দুবোৰ"</string>
+<string name="user_defined_accesspoints_list">"ব্যৱহাৰকৰ্তা নিৰ্ধাৰিত বিশ্বাসী সংযোগ বিন্দুবোৰ"</string>
+<string name="other_accesspoints_list">"অন্যান্য সংযোগ বিন্দুবোৰ"</string>
+<string name="wifi_mac">"MAC ঠিকনা"</string>
+<string name="wifi_netmask">"নেটমাস্ক"</string>
+<string name="wifi_auto_connect_titile">"স্বয়ংসংযোগ"</string>
+<string name="wifi_auto_connect_summary">"WLAN খুলিলে স্বয়ংক্ৰিয়ভাৱে AP সংযোগ কৰিব"</string>
+<string name="wifi_trusted_ap">"বিশ্বাসী AP"</string>
+<string name="wifi_trusted_ap_category">"বিশ্বাসী AP আৰু প্ৰাথমিকতা"</string>
+<string name="wifi_trusted_ap_summary">"বিশ্বাসী AP আৰু প্ৰাথমিকতা চাওঁক"</string>
+<string name="wifi_move_ap_up">"ওপৰলৈ"</string>
+<string name="wifi_move_ap_down">"তললৈ"</string>
+<string name="wifi_save_update">"সংৰক্ষণ কৰা "</string>
+<string name="wifi_disconnect">"সংযোগ বিচ্ছিন্ন"</string>
+<string name="mobile_to_wlan_policy_title">"চেলুলাৰ নেটৱৰ্ক -&amp;gt;WLAN নেটৱৰ্ক"</string>
+<string name="mobile_to_wlan_policy_category">"নেটৱৰ্ক ডায়লগ বাছনি কৰক"</string>
+<string name="mobile_to_wlan_policy_error">"চেলুলাৰ ছেটিঙত সমস্যা এটা হৈছে"</string>
+<string name="mobile_to_wlan_popup_prefix">"WLAN সংকেত অন্বেষণ"</string>
+<string name="mobile_to_wlan_popup_suffix">"WLAN নেটৱৰ্ক ব্যৱহাৰ কৰিব নেকি, নেটৱৰ্ক ব্যৱহাৰ কৰিলে আংশিক ডাটা ব্যৱসায় ব্যাঘাত হ’ব পাৰে"</string>
+<string name="mobile_choice">"মোবাইল নেট বাছনি"</string>
+<string name="mobile_to_wlan_popup_title">"বিশ্বাসী WLAN AP এটা বিচাৰক"</string>
+<string name="download_complete_filename">"ডাউনলোড সম্পূৰ্ণ, ফাইল পথ সঞ্চিত কৰক:"</string>
+<string name="gps_to_wifi_yes">"হয়"</string>
+<string name="gps_to_wifi_no">"নহয়"</string>
+<string name="gprs_access">"GPRS সংযোগ"</string>
+<string name="wlan_access">"WLAN সংযোগ"</string>
+<string name="select_net_access_type">"নেটৱৰ্ক সংযোগ পৰামৰ্শ, আপোনাৰ নেটৱৰ্ক সংযোগ বাছনি কৰক"</string>
+<string name="select_trusted_ap_access">"বিশ্বাসী সংযোগ বিন্দু APত নিম্নলিখিতটো পোৱা গৈছে"</string>
+<string name="select_trusted_ap_connect">"সংযোগ স্থাপন"</string>
+<string name="download_wifi_unaviliable">"WLAN নেটৱৰ্ক ব্যাহত কৰা হৈছে, ইণ্টাৰনেটত মোবাইল নেটৱৰ্ক ব্যৱহাৰ কৰিবলৈ"</string>
+<string name="download_select_gprs_yes">"হয়"</string>
+<string name="download_select_gprs_no">"নহয়"</string>
+<string name="wlan_not_available">"WLAN উপলব্ধ নহয়, মোবাইল নেটৱৰ্ক ব্যৱহাৰ কৰিব নেকি"</string>
+<string name="mobile_net_yes">"হয়"</string>
+<string name="mobile_net_no">"নহয়"</string>
+<string name="key_index">"কী সূচক"</string>
+<string name="wifi_unable_connect_network">"নেটৱৰ্কৰ সৈতে সংযোগ কৰিবলৈ অক্ষম"</string>
+<string name="wifi_network_mask">"নেটমাস্ক"</string>
+<string name="wifi_ip_settings_invalid_network_mask">"বৈধ netmask ঠিকনা এটা টাইপ কৰক।"</string>
+<string name="trusted_ap_list_null">"বিশ্বাসী AP নাই!"</string>
+<string name="wep_password_tip_text">"WEP প্ৰমাণিকৰণৰ বাবে 5, 13, 16 টা ASCII বৰ্ণ বা 10, 26, 32 টা HEX বৰ্ণ টাইপ কৰক।"</string>
+<string name="mobile_data_connect_disable">"নহয়"</string>
+<string name="mobile_data_connect_enable">"হয়"</string>
+<string name="network_disconnect_title">"জাননী"</string>
+<string name="network_disconnect_message">"WLAN নেটৱৰ্ক সংযোগ ব্যাহত কৰা হৈছে। \n3G যোগে সংযোগ কৰিব? \nযদি আপোনাৰ নেট ডাটা আঁচনি নাই, ইয়াৰ বাবে অতিৰিক্ত মাচুল লাগিব পাৰে।"</string>
+<string name="swtichmachine">"টাইমাৰ চুইছ মেচিন"</string>
+<string name="power_on">"পাৱাৰ অন"</string>
+<string name="power_off">"পাৱাৰ অফ"</string>
+<string name="every_day">"সদায়"</string>
+<string name="never">"কেতিয়াও নহয়"</string>
+<string name="done">"হৈ গৈছে"</string>
+<string name="revert">"ৰিভাৰ্ট"</string>
+<string name="time">"সময়"</string>
+<string name="alarm_repeat">"পুনৰাবৃত্তি"</string>
+<string name="set_alarm">"এলাৰ্ম ছেট কৰক"</string>
+<string name="set_alarm_on">"এলাৰ্ম অন কৰক"</string>
+<string name="set_alarm_off">"এলাৰ্ম অফ কৰক"</string>
+<string name="day">"1 দিন"</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> দিন"</string>
+<string name="hour">"1 ঘণ্টা"</string>
+<string name="hours">"<xliff:g id="hours">%s</xliff:g> ঘণ্টা"</string>
+<string name="minute">"1 মিনিট"</string>
+<string name="minutes">"<xliff:g id="minutes">%d</xliff:g> মিনিট"</string>
+<string name="alarm_klaxon_service_desc">"ডেস্কক্লাকত ছেট কৰা এলাৰ্মবোৰৰ বাবে শব্দ প্লেবেক সেৱা।"</string>
+<string name="alarm_alread_exist">"টাইমাৰ চুইছ মেচিন <xliff:g id="time">%s</xliff:g> ইতিমধ্যে আছে, আন এক সময় ছেট কৰক"</string>
+<string name="hardware_version">"হাৰ্ডৱেৰ সংস্কৰণ"</string>
+<string name="choose_sub">"SIM বাছনি কৰক"</string>
+<string name="mobile_network_settings_other">"অন্যান্য"</string>
+<string name="sim1_lock_settings">"SIM1 লক ছেটিংছ"</string>
+<string name="sim2_lock_settings">"SIM2 লক ছেটিংছ"</string>
+<string name="applications_manager">"এপ্লিকেচন মেনেজাৰ"</string>
+<string name="tasks_manager">"টাস্ক মেনেজাৰ"</string>
+<string name="go_to_app">"এপ্পলৈ যাওঁক"</string>
+<string name="audio_profiles">"অডিঅ’ প্ৰ’ফাইলসমূহ"</string>
+<string name="font_setting_title">"ফণ্ট"</string>
+<string name="font_setting_tab_sys">"প্ৰস্তুত ফণ্ট"</string>
+<string name="font_setting_tab_usr">"ব্যৱহাৰকৰ্তা ফণ্ট"</string>
+<string name="font_setting_menu_add">"ফণ্ট যোগ দিয়ক"</string>
+<string name="font_setting_menu_reset">"ডিফ\'ল্ট ফণ্ট পুনঃস্থাপন কৰক"</string>
+<string name="font_setting_default_font">"ডিফ\'ল্ট ফণ্ট"</string>
+<string name="font_setting_menu_delete">"ফণ্ট বিলোপ কৰক"</string>
+<string name="font_setting_no_fonts">"ফণ্ট নাই"</string>
+<string name="font_setting_dialog_delete">"মচি দিয়া"</string>
+<string name="font_setting_dialog_deleting">"বিলোপ হৈ আছে"</string>
+<string name="font_setting_dialog_delete_confirmation">"বিলোপ কৰিব?"</string>
+<string name="font_setting_dialog_delete_confirmation_and_reset">"এই ফণ্ট বৰ্তমানে ব্যৱহৃত হৈ আছে, বিলোপ কৰাৰ পিছত ডিফল্ট ফণ্ট ব্যৱহাৰ কৰা হ’ব, বিলোপ অব্যাহত ৰাখিব?"</string>
+<string name="font_setting_dialog_import">"নতুন ফণ্ট আমদানি কৰক"</string>
+<string name="font_setting_dialog_importing">"নতুন ফণ্ট আমদানি হৈ আছে"</string>
+<string name="font_setting_dialog_set_font">"নতুন ফণ্ট ছেট কৰক।"</string>
+<string name="font_setting_dialog_set_font_confirmation">"এই ফণ্ট ব্যৱহাৰ কৰিব?"</string>
+<string name="font_setting_dialog_set_default">"ডিফল্ট ফণ্ট ছেট কৰক।"</string>
+<string name="font_setting_dialog_set_default_confirmation">"ডিফল্ট ফণ্ট ব্যৱহাৰ কৰিব?"</string>
+<string name="font_setting_not_selected">"প্ৰথমে আপুনি বিলোপ কৰিব বিচৰা ফণ্টবোৰ বাছনি কৰক"</string>
+<string name="font_setting_not_enable">"দুঃখীত, এই ফণ্টটো সক্ষম নহয়, আনবোৰ আমদানি কৰক"</string>
+<string name="font_setting_is_current">"ই ইতিমধ্যে বৰ্তমানৰ ফণ্ট"</string>
+<string name="font_setting_is_contant">"এই ফণ্ট ইতিমধ্যে আছে"</string>
+<string name="font_setting_name_too_long">"এই ফণ্টৰ নম অতি দীঘল, 75 টা বৰ্ণৰ অধিক হ’ব নোৱাৰে, নাম সলনি কৰক"</string>
+<string name="uplink_rate">"তাত্বিক আপলিংক হাৰ: <xliff:g id="maxuprate">%s</xliff:g>, বৰ্তমানৰ আপলিংক হাৰ: <xliff:g id="uprate">%s</xliff:g>ps"</string>
+<string name="downlink_rate">"তাত্বিক ডাউনলিংক হাৰ: <xliff:g id="maxdownrate">%s</xliff:g>, বৰ্তমানৰ ডাউনলিংক হাৰ: <xliff:g id="downrate">%s</xliff:g>ps"</string>
+<string name="total_rate">"ডাটা প্ৰেৰণ: <xliff:g id="maxSend">%s</xliff:g>, ডাটা প্ৰাপ্তি: <xliff:g id="maxReceive">%s</xliff:g>"</string>
+<string name="usb_settings">"USB ছেটিংছ"</string>
+<string name="usb_charge_only">"কেৱল চাৰ্জ"</string>
+<string name="usb_charge_only_summary">"USB সংযোগ হ’লে কেৱল চাৰ্জ মোড ব্যৱহাৰ কৰিব"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB সঞ্চয় ব্যৱহাৰ হৈ থাকোতে চাৰ্জ কৰিব নোৱাৰি"</string>
+<string name="usb_charge_only_notification">"কেৱল চাৰ্জ কৰা হিচাপে সংযোজিত হৈছে"</string>
+<string name="usb_storage">"USB ষ্ট্\'ৰেজ"</string>
+<string name="usb_storage_summary">" USB মাচ্ ষ্টোৰেজ সক্ৰিয় কৰক"</string>
+<string name="ums_settings">"UMS ছেটিংছ"</string>
+<string name="ums_mounted_setting">"এতিয়া কম্পিউটাৰত UMS মাউণ্ট কৰক, অপেক্ষা কৰক..."</string>
+<string name="ums_unmounted_setting">"এতিয়া কম্পিউটাৰৰ পৰা UMS আনমাউণ্ট কৰক, অপেক্ষা কৰক..."</string>
+<string name="usb_virtual_drive">"USB ভাৰ্চুৱেল ড্ৰাইভ"</string>
+<string name="usb_virtual_drive_summary">"USB ভাৰ্চুৱেল ড্ৰাইভ সক্ষম কৰক"</string>
+<string name="remember_choice">"মোৰ পচন্দ মনত ৰাখিব"</string>
+<string name="remember_choice_summary">"মোৰ পছন্দ মনত ৰাখক আৰু ইয়াক পিছৰ বাৰ নেদেখুৱাব"</string>
+<string name="internal_format">"আভ্যন্তৰীণ ষ্টোৰেজ মচক"</string>
+<string name="internal_format_summary">"আভ্যন্তৰীণ ষ্টোৰেজবোৰৰ সকলো ডাটা বিলোপ কৰে, যেনে সঙ্গীত আৰু ফটো"</string>
+<string name="media_format_title_internal">"আভ্যন্তৰীণ ষ্টোৰেজ মচক"</string>
+<string name="media_format_desc_internal">"সকলো আভ্যন্তৰীণ ষ্টোৰেজ মচিব? আপুনি <b>সকলো</b> সঞ্চিত ডাটা হেৰুৱাব!"</string>
+<string name="media_format_button_text_internal">"আভ্যন্তৰীণ ষ্টোৰেজ মচক"</string>
+<string name="media_format_final_desc_internal">"আভ্যন্তৰীণ ষ্টোৰেজ বিলোপ কৰিব, তাৰ সকলো ফাইল বিলোপ কৰিব? আপুনি এই কাৰ্য বিপৰীত কৰিব নোৱাৰে!"</string>
+<string name="delete_file_warning">"বাছনি কৰা ফাইল বা ডাইৰেক্টৰীবোৰ বিলোপ কৰা অব্যাহত ৰাখিব?"</string>
+<string name="sdcard_not_available">"SD কাৰ্ড উপলব্ধ নহয়"</string>
+<string name="network_settings_tab">"নেটৱৰ্ক"</string>
+<string name="more_settings_tab">"অধিক"</string>
+<string name="device_settings_tab">"মোৰ ডিভাইছবোৰ"</string>
+<string name="personal_settings_tab">"ব্যক্তিগত"</string>
+<string name="individual_title">"ব্যক্তিগতকৰণ"</string>
+<string name="language_time_title">"ভাষা আৰু সময়"</string>
+<string name="about_title">"বিষয়ে"</string>
+<string name="text_blue">"ব্লুটুথ"</string>
+<string name="text_sync">"সিংক"</string>
+<string name="text_bright">"উজ্জ্বলতা"</string>
+<string name="simslotcfg_title">"WCDMA কাৰ্ড ছেটিংছ"</string>
+<string name="simslotcfg_sub_summary">"WCDMA কাৰ্ড বাছনি কৰক, ৰিবুটৰ প্ৰয়োজন!"</string>
+<string name="wifi_eap_sim_slots">"SIM শ্লট"</string>
+<string name="wifi_eap_sim_slot1">"SIM শ্লট 1"</string>
+<string name="wifi_eap_sim_slot2">"SIM শ্লট 2"</string>
+<string name="toast_datatime_error">"তাৰিখ সময়ৰ বিষয়ে আপোনাৰ ছেটিংছ যুক্তিসঙ্গত পৰিসৰৰ ভিতৰত নহয়।"</string>
+<string name="install_credentials">"যোগ্যতা ইন্সটল কৰক"</string>
+<string name="cancel_select_all">"সকলো নাকচ কৰক"</string>
+<string name="title_delete_other_file">"বিবিধ ফাইল বিলোপ কৰক"</string>
+<string name="msg_deleteing_other_file">"এতিয়া বিবিধ ফাইল বিলোপ হৈ আছে।"</string>
+<string name="timerpower_afternoon">"pm"</string>
+<string name="timerpower_morning">"am"</string>
+<string name="widget_toast_airplane_is_on_wlan">"আপোনাৰ ফোন এয়াৰপ্লেন মোডত থাকোতে আপুনি Wifi ব্যৱহাৰ কৰিব নোৱাৰে।"</string>
+<string name="widget_toast_airplane_is_on_bt">"আপোনাৰ ফোন এয়াৰপ্লেন মোডত থাকোতে আপুনি ব্লুটুথ ব্যৱহাৰ কৰিব নোৱাৰে।"</string>
+<string name="memory_video_usage">"ভিডিঅ’"</string>
+<string name="master_clear_level">"30%ৰ কম শক্তি, ৰিছেট ফোন কাৰ্য অব্যাহত ৰাখিব?"</string>
+<string name="factory_dialog_title">"প্ৰম্পট"</string>
+<string name="confirm">"ঠিক আছে"</string>
+    <string name="text_gps">"LBS"</string>
+     <string name="softap_bt_cannot_coexist">"যেতিয়া ব্লুটুথ সক্ষম বা অন থাকে, softapএ কাম কৰিব নোৱাৰে, আপুনি যদি softap ব্যৱহাৰ কৰিব বিচাৰে, অনুগ্ৰহ কৰি ব্লুটুথ অক্ষম থকাটো নিশ্চিত কৰক।"</string>
+     <string name="bt_softap_cannot_coexist">"যেতিয়া softap সক্ষম বা অন থাকে, ব্লুটুথে কাম কৰিব নোৱাৰে, আপুনি যদি ব্লুটুথ ব্যৱহাৰ কৰিব বিচাৰে, অনুগ্ৰহ কৰি softap অক্ষম থকাটো নিশ্চিত কৰক।"</string>
+     <string name="hotspot">"Wi-Fi হটস্পট"</string>
+     <string name="hotspot_settings">"Wi-Fi হটস্পট ছেট আপ কৰক"</string>
+     <string name="hotspot_connected_stations">"সংযোগিত ব্যৱহাৰকাৰীসকল"</string>
+     <string name="hotspot_no_connected_station">"0 সংযোগিত ব্যৱহাৰকাৰী"</string>
+     <string name="hotspot_blocked_stations">"অৱৰোধিত ব্যৱহাৰকাৰীসকল"</string>
+     <string name="hotspot_no_blocked_station">"0 অৱৰোধিত ব্যৱহাৰকাৰী"</string>
+     <string name="block">"প্ৰতিবন্ধক"</string>
+     <string name="unblock">"অনৱৰোধ"</string>
+     <string name="move_app_to_internal_sdcard">"অভ্যন্তরীণ SD কার্ড থেকে সরান"</string>
+    <string name="delete_applications">"অ্যাপ্লিকেশন ডিলিট কৰক"</string>
+    <string name="uninstall">"আনইন্সটল কৰক"</string>
+    <string name="beatch_no_select_uninstall">"শ্ৰেণীবদ্ধ আন-ইনস্টল"</string>
+    <string name="cancle_select_all">"সকলো চয়ন বাতিল"</string>
+    <string name="beatch_uninstall">"শ্ৰেণীবদ্ধ আন-ইনস্টল (<xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g>)"</string>
+    <string name="confirm_beatch_uninstall_message">"আন-ইনষ্টল নিশ্চিত কৰক <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> অ্যাপ্লিকেশন？"</string>
+    <string name="uninstalling_message">"আন-ইনষ্টল, অনুগ্ৰহ কৰি অপেক্ষা কৰক ..."</string>
+    <string name="uninstall_done">"<xliff:g id="UNINSTALL_DONE">%1$s</xliff:g>অ্যাপ্লিকেশন আন-ইনষ্টল সম্পূৰ্ণ"</string>
+    <string name="confirm_one_uninstall_message">"আন-ইনষ্টল নিশ্চিত কৰক <xliff:g id="UNINSTALL_DESCRIPTION">%1$s</xliff:g> অ্যাপ্লিকেশন？"</string>
+    <string name="sort_order_time">"সময়ৰ দ্বাৰা শ্ৰেনীবিভাজন"</string>
+    <string name="sort_type">"ক্ৰমবদ্ধ ধৰণ"</string>
+    <string name="DM_config">"CMCC সমৃদ্ধ বিক্ৰী-পশ্চাৎ সেৱা"</string>
+    <string name="DM_config_summary">"পাৱাৰ অন হ’লে স্বয়ং আৰম্ভ ছেট কৰক"</string>
+    <string name="softap_need_mobile_data_enabled">"প\'ৰ্টেবল ‌ৱাই-ফাই হটস্পটৰ বাবে মোবাইল তথ্য সংযোগ প্ৰয়োজন, ব্যয় সাপেক্ষ হ\'ব পাৰে"</string>
+    <string name="show_crash_report_summary">"CRASH বিবৰণ স্ক্ৰীণ দেখু‌ৱাব লাগে"</string>
+    <string name="show_crash_report">"CRASH বিবৰণ দেখু‌ৱাব লাগে"</string>
+    <string name="sd_eject_usb">"শ্বেয়াৰ্ড ষ্টোৰেজ আনমাউণ্ট কৰক"</string>
+    <string name="sd_eject_summary_usb">"ইণ্টাৰনেল USB ষ্টোৰেজ আনমাউণ্ট কৰক"</string>
+    <string name="sd_insert_summary_usb">"মাউণ্টিং কৰিবৰ বাবে USB ষ্টোৰেজ সুমুৱাই দিয়ক"</string>
+    <string name="sd_mount_usb">"USB ষ্টোৰেজ মাউণ্ট কৰক"</string>
+    <string name="sd_format_usb">"USB ষ্ট\'ৰেজ মচি পেলাওঁক"</string>
+    <string name="sd_format_summary_usb">"মিউজিক আৰু ফটোৰ দৰে ইণ্টাৰনেল USB ষ্টোৰেজত থকা আটাইবোৰ ডাটা মচি পেলোৱা হয়৷"</string>
+    <string name="dlg_confirm_unmount_title_usb">"USB ষ্টোৰেজ আনমাউণ্ট কৰিবনে?"</string>
+    <string name="dlg_confirm_unmount_text_usb">"আপুনি যদি আপোনাৰ USB ষ্টোৰেজটো আনমাউণ্ট কৰে, আপুনি ব্যৱহাৰ কৰি থকা কিছুমান এপ্পে কাম কৰিবলৈ বন্ধ কৰি দিব আৰু আপুনি USB ষ্টোৰেজটো ৰিমাউণ্ট নকৰা পৰ্যন্ত ই অনুপলব্ধ হৈ ছাকিব৷"</string>
+    <string name="dlg_error_unmount_text_usb">"USB ষ্টোৰেজ আনমাউণ্ট কৰিব পৰা নগ’ল৷ কিছুসময় পিছত পুনৰ চেষ্টা কৰক৷"</string>
+    <string name="unmount_inform_text_usb">"USB ষ্টোৰেজ আনমাউণ্ট কৰা হ’ব৷"</string>
+    <string name="battery_percentage">"চাৰ্জৰ শতাংশ"</string>
+
+</resources>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- no translation found for wifi_security:0 (8491993170197127709) -->
+    <!-- no translation found for wifi_security:1 (6524315248437318854) -->
+    <!-- no translation found for wifi_security:2 (1532568756571457140) -->
+    <!-- no translation found for wifi_security:3 (3620707702811709779) -->
+    <!-- no translation found for wifi_security_no_eap:0 (2084555984818107151) -->
+    <!-- no translation found for wifi_security_no_eap:1 (397579322683471524) -->
+    <!-- no translation found for wifi_security_no_eap:2 (1968820975358150484) -->
+    <!-- no translation found for wifi_ap_security:0 (5251664683198623324) -->
+    <!-- no translation found for wifi_ap_security:1 (7989073072260294673) -->
+    <!-- no translation found for wifi_ap_security:2 (3112452131886885338) -->
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="2577747762745812488">"Geen"</item>
+    <item msgid="937786527870979616">"MSCHAPV2"</item>
+    <item msgid="5302613883318643629">"GTC"</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item msgid="4367119357633573465">"Geen"</item>
+    <item msgid="6062567900587138000">"SPN"</item>
+    <item msgid="2454085083342423481">"IMSI"</item>
+    <item msgid="2681427309183221543">"GID"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="6358963769537892925">"Ligging"</item>
+    <item msgid="255608127647030286">"Persoonlik"</item>
+    <item msgid="4588829735729884491">"Boodskappe"</item>
+    <item msgid="886742181977884584">"Media"</item>
+    <item msgid="7924928667052300589">"Toestel"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="4979188868761515915">"growwe ligging"</item>
+    <item msgid="5789673140227507995">"fyn ligging"</item>
+    <item msgid="1061584358377390581">"GPS"</item>
+    <item msgid="5387405117297558954">"vibreer"</item>
+    <item msgid="3434165993711230924">"lees kontakte"</item>
+    <item msgid="616161687718081936">"verander kontakte"</item>
+    <item msgid="7638002295329050091">"lees oproeprekord"</item>
+    <item msgid="6546959730920410907">"verander oproeprekord"</item>
+    <item msgid="446877710771379667">"lees kalender"</item>
+    <item msgid="7674458294386319722">"verander kalender"</item>
+    <item msgid="8281201165558093009">"Wi-Fi-skandering"</item>
+    <item msgid="8694611243479480497">"kennisgewing"</item>
+    <item msgid="7776439107987345446">"sel-skandering"</item>
+    <item msgid="514615766544675057">"bel foon"</item>
+    <item msgid="8181415497109310680">"lees SMS"</item>
+    <item msgid="6816551144382117307">"skryf SMS"</item>
+    <item msgid="4600463921908905030">"ontvang SMS"</item>
+    <item msgid="5958926493289432745">"ontvang nood-SMS"</item>
+    <item msgid="4945269495221089540">"ontvang MMS"</item>
+    <item msgid="5570472453573929087">"ontvang WAP-stootpos"</item>
+    <item msgid="7125408150230860501">"stuur SMS"</item>
+    <item msgid="7080337936612188061">"lees ICC-SMS"</item>
+    <item msgid="587124103118495063">"skryf ICC-SMS"</item>
+    <item msgid="2320577158869025503">"verander instellings"</item>
+    <item msgid="1545733463471924009">"teken bo-op"</item>
+    <item msgid="3609046903962454582">"kry toegang tot kennisgewings"</item>
+    <item msgid="4671646036128214513">"kamera"</item>
+    <item msgid="1097324338692486211">"neem oudio op"</item>
+    <item msgid="5031552983987798163">"speel oudio"</item>
+    <item msgid="8374996688066472414">"lees knipbord"</item>
+    <item msgid="3045529469061083747">"verander knipbord"</item>
+    <item msgid="5124443975763747838">"mediaknoppies"</item>
+    <item msgid="4547883971364273343">"klankfokus"</item>
+    <item msgid="2603878814882344450">"meestervolume"</item>
+    <item msgid="7136963238377062018">"stemvolume"</item>
+    <item msgid="4270236897655923007">"lui-volume"</item>
+    <item msgid="6325739889222559394">"mediavolume"</item>
+    <item msgid="5762123934816216821">"wekkervolume"</item>
+    <item msgid="785049718065337473">"kennisgewingvolume"</item>
+    <item msgid="6700305533746877052">"bluetoothvolume"</item>
+    <item msgid="2029227495214047094">"hou wakker"</item>
+    <item msgid="26109888160231211">"monitor ligging"</item>
+    <item msgid="5753382310468855812">"monitor hoë kragligging"</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item msgid="6602854600289714121">"Ligging"</item>
+    <item msgid="8677040780775113033">"Ligging"</item>
+    <item msgid="1660743989948992916">"Ligging"</item>
+    <item msgid="8791172739860195290">"Vibreer"</item>
+    <item msgid="383413555642128046">"Lees kontakte"</item>
+    <item msgid="3654594895269697313">"Verander kontakte"</item>
+    <item msgid="7928393476362362538">"Lees oproeprekord"</item>
+    <item msgid="6248591205254641116">"Verander oproeprekord"</item>
+    <item msgid="6093344633066170692">"Lees kalender"</item>
+    <item msgid="1334886368750347692">"Verander kalender"</item>
+    <item msgid="1638204101698708656">"Ligging"</item>
+    <item msgid="2154671955760380322">"Plaas kennisgewing"</item>
+    <item msgid="4282477730595931828">"Ligging"</item>
+    <item msgid="4891423912898525905">"Bel foon"</item>
+    <item msgid="2623604824935968113">"Lees SMS/MMS"</item>
+    <item msgid="4420177125221176306">"Skryf SMS/MMS"</item>
+    <item msgid="3986142739951490025">"Ontvang SMS/MMS"</item>
+    <item msgid="3984213795861739778">"Ontvang SMS/MMS"</item>
+    <item msgid="3656243523752472788">"Ontvang SMS/MMS"</item>
+    <item msgid="8105802370238551510">"Ontvang SMS/MMS"</item>
+    <item msgid="1407766984645388488">"Stuur SMS/MMS"</item>
+    <item msgid="3527273606643794973">"Lees SMS/MMS"</item>
+    <item msgid="4370895547001583812">"Skryf SMS/MMS"</item>
+    <item msgid="4218544235221631789">"Verander instellings"</item>
+    <item msgid="736541391767350377">"Teken bo-op"</item>
+    <item msgid="5530815681721654194">"Kry toegang tot kennisgewings"</item>
+    <item msgid="781213371706962767">"Kamera"</item>
+    <item msgid="1720492593061838172">"Neem oudio op"</item>
+    <item msgid="3493046322001257041">"Speel oudio"</item>
+    <item msgid="136815868796597058">"Lees knipbord"</item>
+    <item msgid="5238692940326972503">"Verander knipbord"</item>
+    <item msgid="5753789168376302997">"Mediaknoppies"</item>
+    <item msgid="3265262911688671938">"Oudiofokus"</item>
+    <item msgid="2098976479485046797">"Meestervolume"</item>
+    <item msgid="5660213838861789350">"Stemvolume"</item>
+    <item msgid="7983336752371254444">"Luivolume"</item>
+    <item msgid="7878027809189330917">"Mediavolume"</item>
+    <item msgid="7260546305036218513">"Wekkervolume"</item>
+    <item msgid="9103719301075748925">"Kennisgewingvolume"</item>
+    <item msgid="7025966722295861512">"Bluetoothvolume"</item>
+    <item msgid="4665183401128289653">"Hou wakker"</item>
+    <item msgid="8584357129746649222">"Ligging"</item>
+    <item msgid="7669257279311110599">"Ligging"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="1319652728542138112">"Verstek"</item>
+    <item msgid="1016452621833735880">"Sans-serif"</item>
+    <item msgid="2496277987934654454">"Sans-serif gekondenseer"</item>
+    <item msgid="4406003087391086325">"Serif"</item>
+    <item msgid="1558362802170124073">"Monospace"</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4800919809575254054">"Baie klein"</item>
+    <item msgid="6781094565687692782">"Klein"</item>
+    <item msgid="8222123259497646551">"Normaal"</item>
+    <item msgid="5813217276778560466">"Groot"</item>
+    <item msgid="9044232017390975191">"Baie groot"</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="6022616153255438487">"Geen"</item>
+    <item msgid="1352974708028506778">"Raamwerk"</item>
+    <item msgid="5850876295428722675">"Val-skaduwee"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7622491218136667566">"25%"</item>
+    <item msgid="2367156416247936773">"50%"</item>
+    <item msgid="5395560410107149298">"75%"</item>
+    <item msgid="8342334626783983353">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="1630625150404038035">"Wit op swart"</item>
+    <item msgid="4589278788192525675">"Swart op wit"</item>
+    <item msgid="1309255027325660115">"Geel op swart"</item>
+    <item msgid="2985943780939258562">"Geel op blou"</item>
+    <item msgid="7520438652121629055">"Gepasmaak"</item>
+  </string-array>
+  <string-array name="select_runtime_titles">
+    <item msgid="3574453009229338122">"Dalvik"</item>
+    <item msgid="8978402910750533864">"ART"</item>
+    <item msgid="7839859333977894115">"ART (ontfout)"</item>
+  </string-array>
+  <string-array name="select_runtime_summaries">
+    <item msgid="6412880178297884701">"Gebruik Dalvik"</item>
+    <item msgid="5131846588686178907">"Gebruik ART"</item>
+    <item msgid="4530003713865319928">"Gebruik ART-ontfoutbou"</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item msgid="1606809880904982133">"Geen"</item>
+    <item msgid="688482401508173818">"720x480 mdpi"</item>
+    <item msgid="6027541158956821790">"720x480 mdpi (veilig)"</item>
+    <item msgid="8181151155909301030">"1280x720 tvdpi"</item>
+    <item msgid="2920655562462493148">"1280x720 tvdpi (veilig)"</item>
+    <item msgid="8910371271391940941">"1920x1080 xhdpi"</item>
+    <item msgid="4171600481380800455">"1920x1080 xhdpi (veilig)"</item>
+    <item msgid="1937752114395156918">"1280x720 tvdpi en 1920x1080 xhdpi"</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item msgid="3191973083884253830">"Geen"</item>
+    <item msgid="9089630089455370183">"Logcat"</item>
+    <item msgid="5397807424362304288">"Systrace (Grafika)"</item>
+    <item msgid="1340692776955662664">"Belstapel op glGetError"</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item msgid="993742912147090253">"Af"</item>
+    <item msgid="675719912558941285">"Teken nie-reghoekige knipstreek in blou"</item>
+    <item msgid="1064373276095698656">"Merk getoetsde tekenopdragte in groen"</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item msgid="2193584639058893150">"Af"</item>
+    <item msgid="2751513398307949636">"Op skerm as balke"</item>
+    <item msgid="8272260411216018353">"Op skerm as reëls"</item>
+    <item msgid="120512413928262547">"In adb-dop dumpsys gfxinfo"</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item msgid="8190572633763871652">"Af"</item>
+    <item msgid="7688197031296835369">"Wys oortrekareas"</item>
+    <item msgid="2290859360633824369">"Wys areas vir Deuteranomaly"</item>
+    <item msgid="3448087929560624983">"Wys oortrektoonbank"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="7389829271787670252">"Vra"</item>
+    <item msgid="5077768429488260031">"Moet nooit toelaat dat"</item>
+    <item msgid="1417929597727989746">"Laat altyd toe"</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item msgid="7088762389498381203">"normaal"</item>
+    <item msgid="4517779899383204000">"matig"</item>
+    <item msgid="406385694840950802">"laag"</item>
+    <item msgid="4212263919458209842">"kritiek"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+            <item>"Animasie af"</item>
+            <item>"Animasieskaal 0,5x"</item>
+            <item>"Animasieskaal 1x"</item>
+            <item>"Animasieskaal 1,5x"</item>
+            <item>"Animasieskaal 2x"</item>
+            <item>"Animasieskaal 5x"</item>
+            <item>"Animasieskaal 10x"</item>
+      </string-array>
+     <string-array name="timezone_filters">
+            <item>"Amerika"</item>
+            <item>"Europa"</item>
+            <item>"Afrika"</item>
+            <item>"Asië"</item>
+            <item>"Australië"</item>
+            <item>"Pasifies"</item>
+            <item>"Alle"</item>
+      </string-array>
+     <string-array name="screen_timeout_entries">
+            <item>"15 sekondes"</item>
+            <item>"30 sekondes"</item>
+            <item>"1 minuut"</item>
+            <item>"2 minute"</item>
+            <item>"5 minute"</item>
+            <item>"10 minute"</item>
+            <item>"30 minute"</item>
+            <!--revo lyq 20141215-->
+            <item>"Nooit"</item>
+      </string-array>
+     <string-array name="dream_timeout_entries">
+            <item>"Nooit"</item>
+            <item>"15 sekondes"</item>
+            <item>"30 sekondes"</item>
+            <item>"1 minuut"</item>
+            <item>"2 minute"</item>
+            <item>"5 minute"</item>
+            <item>"10 minute"</item>
+            <item>"30 minute"</item>
+      </string-array>
+     <string-array name="lock_after_timeout_entries">
+            <item>"Dadelik"</item>
+            <item>"5 sekondes"</item>
+            <item>"15 sekondes"</item>
+            <item>"30 sekondes"</item>
+            <item>"1 minuut"</item>
+            <item>"2 minute"</item>
+            <item>"5 minute"</item>
+            <item>"10 minute"</item>
+            <item>"30 minute"</item>
+      </string-array>
+     <string-array name="entries_font_size">
+            <item>"Klein"</item>
+            <item>"Normaal"</item>
+            <item>"Groot"</item>
+            <item>"Baie groot"</item>
+      </string-array>
+<string-array name="tts_rate_entries">
+    <item msgid="6041212618892492920">"Baie stadig"</item>
+    <item msgid="2361722960903353554">"Stadig"</item>
+    <item msgid="1145554631248513562">"Normaal"</item>
+    <item msgid="7553665153391107454">"Vinnig"</item>
+    <item msgid="1370673569131070146">"Vinniger"</item>
+    <item msgid="4648206845228970803">"Baie vinnig"</item>
+    <item msgid="4977949754169483251">"Vinnig"</item>
+    <item msgid="6106302964845503577">"Baie vinnig"</item>
+    <item msgid="6800277205640837264">"Vinnigste"</item>
+  </string-array>
+     <string-array name="tts_pitch_entries">
+            <item>"Baie laag"</item>
+            <item>"Laag"</item>
+            <item>"Normaal"</item>
+            <item>"Hoog"</item>
+            <item>"Baie hoog"</item>
+      </string-array>
+     <string-array name="wifi_status">
+            <item></item>
+            <item>"Skandeer tans…"</item>
+            <item>"Koppel tans…"</item>
+            <item>"Staaf tans…"</item>
+            <item>"Bekom tans IP-adres…"</item>
+            <item>"Gekoppel"</item>
+            <item>"Opgeskort"</item>
+            <item>"Ontkoppel tans…"</item>
+            <item>"Ontkoppel"</item>
+            <item>"Onsuksesvol"</item>
+      </string-array>
+     <string-array name="wifi_status_with_ssid">
+            <item></item>
+            <item>"Skandeer tans…"</item>
+            <item>"Koppel tans aan <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Staaf tans met <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Verkry tans IP-adres van <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Gekoppel aan <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+            <item>"Opgeskort"</item>
+            <item>"Ontkoppel tans van <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Ontkoppel"</item>
+            <item>"Onsuksesvol"</item>
+      </string-array>
+     <string-array name="wifi_eap_method">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+            <item>"Druk knoppie"</item>
+            <item>"PIN van eweknietoestel"</item>
+            <item>"PIN van dié toestel"</item>
+      </string-array>
+     <string-array name="wifi_p2p_status">
+            <item>"Gekoppel"</item>
+            <item>"Uitgenooi"</item>
+            <item>"Onsuksesvol"</item>
+            <item>"Beskikbaar"</item>
+            <item>"Buite reikwydte"</item>
+      </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+            <item>"2 minute"</item>
+            <item>"5 minute"</item>
+            <item>"1 uur"</item>
+            <item>"Moenie uittel nie"</item>
+      </string-array>
+     <string-array name="wifi_signal">
+            <item>"Swak"</item>
+            <item>"Redelik"</item>
+            <item>"Goed"</item>
+            <item>"Uitstekend"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+            <item>"Altyd"</item>
+            <item>"Slegs wanneer ingeprop"</item>
+            <item>"Nooit (verhoog datagebruik)"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+            <item>"Altyd"</item>
+            <item>"Slegs wanneer ingeprop"</item>
+            <item>"Nooit"</item>
+      </string-array>
+     <string-array name="wifi_frequency_band_entries">
+            <item>"Outo"</item>
+            <item>"Net 5 GHz"</item>
+            <item>"Net 2.4 GHz"</item>
+      </string-array>
+     <string-array name="usage_stats_display_order_types">
+            <item>"Gebruikstyd"</item>
+            <item>"Bekendstelling-aftelling"</item>
+            <item>"Programnaam"</item>
+      </string-array>
+     <string-array name="wifi_eap_entries">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_phase2_entries">
+            <item>"Geen"</item>
+            <item>"PAP"</item>
+            <item>"MSCHAP"</item>
+            <item>"MSCHAPV2"</item>
+            <item>"GTC"</item>
+      </string-array>
+     <string-array name="wifi_ip_settings">
+            <item>"DHCP"</item>
+            <item>"Staties"</item>
+      </string-array>
+     <string-array name="wifi_proxy_settings">
+            <item>"Geen"</item>
+            <item>"Handmatig"</item>
+      </string-array>
+     <string-array name="emergency_tone_entries">
+            <item>"Af"</item>
+            <item>"Berig"</item>
+            <item>"Vibreer"</item>
+      </string-array>
+     <string-array name="apn_auth_entries">
+            <item>"Geen"</item>
+            <item>"PAP"</item>
+            <item>"CHAP"</item>
+            <item>"PAP of CHAP"</item>
+      </string-array>
+     <string-array name="apn_protocol_entries">
+            <item>"IPv4"</item>
+            <item>"IPv6"</item>
+            <item>"IPv4/IPv6"</item>
+      </string-array>
+     <string-array name="bearer_entries">
+            <item>"LTE"</item>
+            <item>"eHRPD"</item>
+            <item>"Ongespesifiseer"</item>
+      </string-array>
+     <string-array name="app_install_location_entries">
+            <item>"Interne toestelberging"</item>
+            <item>"Verwyderbare SD-kaart"</item>
+            <item>"Laat die stelsel besluit"</item>
+      </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+            <item>"Kort"</item>
+            <item>"Medium"</item>
+            <item>"Lank"</item>
+      </string-array>
+     <string-array name="hdcp_checking_titles">
+            <item>"Kontroleer nooit"</item>
+            <item>"Kontroleer net vir DRM-inhoud"</item>
+            <item>"Kontroleer altyd"</item>
+      </string-array>
+     <string-array name="hdcp_checking_summaries">
+            <item>"Moet nooit HDCP-kontrole gebruik nie"</item>
+            <item>"Gebruik HDCP-kontrolering net vir DRM-inhoud"</item>
+            <item>"Gebruik altyd HDCP-kontrolering"</item>
+      </string-array>
+     <string-array name="window_animation_scale_entries">
+            <item>"Animasie af"</item>
+            <item>"Animasieskaal .5x"</item>
+            <item>"Animasieskaal 1x"</item>
+            <item>"Animasieskaal 1.5x"</item>
+            <item>"Animasieskaal 2x"</item>
+            <item>"Animasieskaal 5x"</item>
+            <item>"Animasieskaal 10x"</item>
+      </string-array>
+     <string-array name="transition_animation_scale_entries">
+            <item>"Animasie af"</item>
+            <item>"Animasieskaal .5x"</item>
+            <item>"Animasieskaal 1x"</item>
+            <item>"Animasieskaal 1.5x"</item>
+            <item>"Animasieskaal 2x"</item>
+            <item>"Animasieskaal 5x"</item>
+            <item>"Animasieskaal 10x"</item>
+      </string-array>
+     <string-array name="app_process_limit_entries">
+            <item>"Standaardlimiet"</item>
+            <item>"Geen agtergrondprosesse"</item>
+            <item>"Nie meer as 1 proses nie"</item>
+            <item>"Nie meer as 2 prosesse nie"</item>
+            <item>"Nie meer as 3 prosesse nie"</item>
+            <item>"Nie meer as 4 prosesse nie"</item>
+      </string-array>
+     <string-array name="vpn_types_long">
+            <item>"PPTP VPN"</item>
+            <item>"L2TP/IPSec VPN met voorafgedeelde sleutels"</item>
+            <item>"L2TP/IPSec VPN met sertifikate"</item>
+            <item>"IPSec VPN met voorafgedeelde sleutels en Xauth-stawing"</item>
+            <item>"IPSec VPN met sertifikate en Xauth-stawing"</item>
+            <item>"IPSec VPN met sertifikate en hibriedstawing"</item>
+      </string-array>
+     <string-array name="vpn_states">
+            <item>"Ontkoppel"</item>
+            <item>"Inisialiseer tans..."</item>
+            <item>"Koppel tans…"</item>
+            <item>"Gekoppel"</item>
+            <item>"Uittelling"</item>
+            <item>"Onsuksesvol"</item>
+      </string-array>
+     <string-array name="silent_mode_entries">
+            <item>"Af"</item>
+            <item>"Vibreer"</item>
+            <item>"Demp"</item>
+      </string-array>
+</resources>

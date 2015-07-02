@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Indstil apn type"</string>
+<string name="user_could_input_apn_type">"Bruger kunne tilføre apn type"</string>
+<string name="could_not_input_the_same_apn_type">"Kunne ikke tilføre samme apn type"</string>
+<string name="apn_type_message">"Der findes ingen standardtype i din nye APN,vil ikke kunne vælge APN"</string>
+<string name="error_apn_type_message">"APN type kan ikke tømmes"</string>
+<string name="error_apn_type">"Den Apn type du indtastede understøttes ikke, genindtast venligst!"</string>
+<string name="same_apn_type">"Du har intastet samme type APN,genindtast venligst!"</string>
+<string name="empty_apn_type">"Du indtastede eller valgte ingen APN type, genindtast venligst!"</string>
+<string name="dual_settings_title_uui">"SIM-kort håndtering"</string>
+<string name="dual_voice_setting_title">"Stemme indstilling"</string>
+<string name="dual_video_setting_title">"Video indstilling"</string>
+<string name="dual_mms_setting_title">"SMS indstilling"</string>
+<string name="dual_settings_title">"Dobbelt Sim indstilling"</string>
+<string name="sim_name_setting_title">"Rediger SIM navn"</string>
+<string name="sim_color_setting_title">"Indstil baggrundsfarve"</string>
+<string name="dual_settings_always_prompt">"Spørg altid"</string>
+<string name="mms_settings_auto">"Automatisk"</string>
+<string name="no_need_set_data_subscription">"Ingen grund til at indstille dataabonnement"</string>
+<string name="voice_setting_title">"Stemme opkalds indstilling"</string>
+<string name="video_setting_title">"Video opkalds indstilling"</string>
+<string name="mms_setting_title">"MMS og SMS indstilling"</string>
+<string name="sim_reply_setting">"Sim svar indstillinger"</string>
+<string name="reply_message_setting">"Besvar Mms eller Sms"</string>
+<string name="closeData">"Luk"</string>
+<string name="data_title">"Data forbindelse indstilling"</string>
+<string name="sel_sub_title">"Standby-indstillinger"</string>
+<string name="sel_sub_summary">"At aktivere eller deaktivere SIM kort"</string>
+<string name="set_data_subscription_timeout">"Dataforbindelsesindstillinger timeout"</string>
+<string name="set_dds_failed">"Fejl,slet alle dataforbindelser og prøv igen!"</string>
+<string name="set_dds_success">"Indstilling lykkedes"</string>
+<string name="set_data_subscription_progress">"Etablering, vent venligst"</string>
+<string name="set_data_subscription_error_ok">"Afgør"</string>
+<string name="set_data_subscription_error_title">"Fejl"</string>
+<string name="set_data_subscription_error">"Venligst bekræft og prøv igen uden dette SIM kort"</string>
+<string name="sim_retries_left">"Resterende numre af"</string>
+<string name="menu_kill_apps_services">"Luk alle programmer"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Baggrunds dataforbrug protokol"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Accepter baggrunds dataforbrug protokol"</string>
+<string name="apn_edit_quit">"Afslut"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Rediger adgangspunkt"</string>
+<string name="input_pin_limit">"Vær venlig at indsætte 4 - 8 numre"</string>
+    <string name="agps_supl_manual_settings">"SUPL server manuel indstilling"</string>
+    <string name="agps_supl_manual_settings_summary">"Manuelt indstillet SUPL server og port"</string>
+    <string name="str_clear">"Ryd"</string>
+    <string name="str_save">"Gem"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Agps Indstilling"</string>
+    <string name="open">"Åbent"</string>
+    <string name="close">Luk</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobil netværksindstilling"</string>
+    <string name="pin_enabled_success">"PIN-koden til SIM-kortet blev aktiveret"</string>
+    <string name="pin_disabled_success">"PIN-koden til SIM-kortet er deaktiveret"</string>
+    <string name="gps_time_sync_attention_gps_on">"Det vil tage maks 1 minut at opnå GPS fixpunkt. Derudover vil GPS muligvis fejle i at angive tid pga. svagt modtagersignal.\n\n er du sikker på at du vil bruge GPS-angivet tid?"</string>
+    <string name="gps_time_sync_attention_gps_off">"For at bruge GPS- angivet tid skal du først aktivere GPS. Det tager max 1 minut  at opnå GPS-fixtid. Derudover kan GPS muligvis fejle i at angive tid pga. svagt modtager-signal. \n\n Er du sikker på at du vil anvende GPS nu og vente på GPS-angivet tid?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

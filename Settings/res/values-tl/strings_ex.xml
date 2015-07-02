@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Ilwego apn uri"</string>
+<string name="user_could_input_apn_type">"Tagagamit ay pwedeng magpasok ng uri ng apn"</string>
+<string name="could_not_input_the_same_apn_type">"Hindi maka pasok ng kaparehang uri ng apn"</string>
+<string name="apn_type_message">"Walang laman ang dating uri sa bago mong APN, hindi pwedeng pumili ng APN."</string>
+<string name="error_apn_type_message">"APN uri hindi pwedeng walang laman"</string>
+<string name="error_apn_type">"APN uri na pinasok ay hindi supurtado, paki pasok muli!"</string>
+<string name="same_apn_type">"Naipasok mo ang parehang uri ng APN, paki pasok milu!"</string>
+<string name="empty_apn_type">"Hindi mo pinasok o pinili ang uri ng APN, paki pasok muli!"</string>
+<string name="dual_settings_title_uui">"Pamamahala ng kard na SIM"</string>
+<string name="dual_voice_setting_title">"Tunog Ilwego"</string>
+<string name="dual_video_setting_title">"Bidyo Ilwego"</string>
+<string name="dual_mms_setting_title">"SMS Ilwego"</string>
+<string name="dual_settings_title">"Dalawang Sim Ilwego"</string>
+<string name="sim_name_setting_title">"Baguhin SIM Pangalan"</string>
+<string name="sim_color_setting_title">"Ilwego sa likod ng Kulay"</string>
+<string name="dual_settings_always_prompt">"Palaging mabilis"</string>
+<string name="mms_settings_auto">"Awto"</string>
+<string name="no_need_set_data_subscription">"Hindi na kailangan maglagay ng datus subskripsiyon"</string>
+<string name="voice_setting_title">"Tunog tawag ilwego"</string>
+<string name="video_setting_title">"Bidyo tawag ilwego"</string>
+<string name="mms_setting_title">"MMS and SMS ilwego"</string>
+<string name="sim_reply_setting">"Sim sagot ilwego"</string>
+<string name="reply_message_setting">"Sagot Mms or Sms"</string>
+<string name="closeData">"Isara"</string>
+<string name="data_title">"Koneksiyon ng Datus Ilwego"</string>
+<string name="sel_sub_title">"Nakaurong Ilwego"</string>
+<string name="sel_sub_summary">"Para paganahin o dipaganahin ang SIM kard"</string>
+<string name="set_data_subscription_timeout">"Koneksiyon Datus ilwego hindi muna gumana!"</string>
+<string name="set_dds_failed">"May mali! Burahin lahat ng datus koneksiyon at subukan muli!"</string>
+<string name="set_dds_success">"Ilwego matagumpay"</string>
+<string name="set_data_subscription_progress">"Nagiilwego, paki hintay"</string>
+<string name="set_data_subscription_error_ok">"Magpasya"</string>
+<string name="set_data_subscription_error_title">"Pagkakamali"</string>
+<string name="set_data_subscription_error">"Kung wala itong SIM kard, paki beripika at subukang muli!"</string>
+<string name="sim_retries_left">"Ang mga natirang numero ay"</string>
+<string name="menu_kill_apps_services">"Isarado lahat  ng aplikasyon"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Sa likod ng datus gamit protokol"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Tanggapin sa likod datus paggamit protokol?"</string>
+<string name="apn_edit_quit">"Pabayaan"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g>Baguhin ang daan na pupuntahan"</string>
+<string name="input_pin_limit">"Paki pasok 4-8 numero"</string>
+    <string name="agps_supl_manual_settings">"Mga manwal na itinakda sa SUPL server"</string>
+    <string name="agps_supl_manual_settings_summary">"Manwal na pagtakda sa SUPL server at port"</string>
+    <string name="str_clear">"CLR"</string>
+    <string name="str_save">"I-save"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Mga itinakda sa Agps"</string>
+    <string name="open">"Buksan"</string>
+    <string name="close">"Isara"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Istasyon ng Mobile ilwego"</string>
+    <string name="pin_enabled_success">"Pinagana ang PIN ng SIM"</string>
+    <string name="pin_disabled_success">"Hindi pinagana ang PIN ng SIM"</string>
+    <string name="gps_time_sync_attention_gps_on">"Aabutin ng hindi hihigit sa 1 minuto upang makakuha ng GPS na maayos. Bukod pa nito, maaaring mabigo ang GPS na magbigay ng oras dahil sa mahinang signal sa kapaligiran.\n\nSigurado ka bang gamitin ang ibinigay na oras ng GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Para magamit ang oras na ibinigay ng GPS, kailangan mo munang paganahin ang GPS. Aabutin ng hindi hihigit sa 1 minuto upang makakuha ng GPS na maayos. Bukod pa nito, maaaring mabigo ang GPS na magbigay ng oras dahil sa mahinang signal sa kapaligiran.\n\nSigurado ka bang gamitin ang ibinigay na oras ng GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

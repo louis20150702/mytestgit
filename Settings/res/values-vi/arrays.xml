@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- no translation found for wifi_security:0 (8491993170197127709) -->
+    <!-- no translation found for wifi_security:1 (6524315248437318854) -->
+    <!-- no translation found for wifi_security:2 (1532568756571457140) -->
+    <!-- no translation found for wifi_security:3 (3620707702811709779) -->
+    <!-- no translation found for wifi_security_no_eap:0 (2084555984818107151) -->
+    <!-- no translation found for wifi_security_no_eap:1 (397579322683471524) -->
+    <!-- no translation found for wifi_security_no_eap:2 (1968820975358150484) -->
+    <!-- no translation found for wifi_ap_security:0 (5251664683198623324) -->
+    <!-- no translation found for wifi_ap_security:1 (7989073072260294673) -->
+    <!-- no translation found for wifi_ap_security:2 (3112452131886885338) -->
+  <string-array name="wifi_eap_method">
+    <item msgid="1160193392455075561">"PEAP"</item>
+    <item msgid="7981731051382306293">"TLS"</item>
+    <item msgid="2892994535305020162">"TTLS"</item>
+    <item msgid="435667726254379514">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="2577747762745812488">"Không có"</item>
+    <item msgid="937786527870979616">"MSCHAPV2"</item>
+    <item msgid="5302613883318643629">"GTC"</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item msgid="4367119357633573465">"Không có"</item>
+    <item msgid="6062567900587138000">"SPN"</item>
+    <item msgid="2454085083342423481">"IMSI"</item>
+    <item msgid="2681427309183221543">"GID"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="6358963769537892925">"Vị trí"</item>
+    <item msgid="255608127647030286">"Cá nhân"</item>
+    <item msgid="4588829735729884491">"Nhắn tin"</item>
+    <item msgid="886742181977884584">"Truyền thông"</item>
+    <item msgid="7924928667052300589">"Thiết bị"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="4979188868761515915">"vị trí tổng thể"</item>
+    <item msgid="5789673140227507995">"vị trí chính xác"</item>
+    <item msgid="1061584358377390581">"GPS"</item>
+    <item msgid="5387405117297558954">"rung"</item>
+    <item msgid="3434165993711230924">"đọc danh sách liên hệ"</item>
+    <item msgid="616161687718081936">"sửa đổi danh sách liên hệ"</item>
+    <item msgid="7638002295329050091">"đọc nhật ký cuộc gọi"</item>
+    <item msgid="6546959730920410907">"sửa đổi nhật ký cuộc gọi"</item>
+    <item msgid="446877710771379667">"đọc lịch"</item>
+    <item msgid="7674458294386319722">"sửa đổi lịch"</item>
+    <item msgid="8281201165558093009">"quét wi-fi"</item>
+    <item msgid="8694611243479480497">"thông báo"</item>
+    <item msgid="7776439107987345446">"quét điện thoại di động"</item>
+    <item msgid="514615766544675057">"gọi điện thoại"</item>
+    <item msgid="8181415497109310680">"đọc SMS"</item>
+    <item msgid="6816551144382117307">"soạn SMS"</item>
+    <item msgid="4600463921908905030">"nhận SMS"</item>
+    <item msgid="5958926493289432745">"nhận SMS khẩn cấp"</item>
+    <item msgid="4945269495221089540">"nhận MMS"</item>
+    <item msgid="5570472453573929087">"nhận WAP push"</item>
+    <item msgid="7125408150230860501">"gửi SMS"</item>
+    <item msgid="7080337936612188061">"đọc ICC SMS"</item>
+    <item msgid="587124103118495063">"soạn ICC SMS"</item>
+    <item msgid="2320577158869025503">"sửa đổi cài đặt"</item>
+    <item msgid="1545733463471924009">"vẽ lên trên"</item>
+    <item msgid="3609046903962454582">"truy cập thông báo"</item>
+    <item msgid="4671646036128214513">"máy ảnh"</item>
+    <item msgid="1097324338692486211">"ghi âm"</item>
+    <item msgid="5031552983987798163">"phát âm thanh"</item>
+    <item msgid="8374996688066472414">"đọc khay nhớ tạm"</item>
+    <item msgid="3045529469061083747">"sửa đổi khay nhớ tạm"</item>
+    <item msgid="5124443975763747838">"các nút phương tiện truyền thông"</item>
+    <item msgid="4547883971364273343">"tập trung âm thanh"</item>
+    <item msgid="2603878814882344450">"âm lượng chính"</item>
+    <item msgid="7136963238377062018">"âm lượng thoại"</item>
+    <item msgid="4270236897655923007">"âm lượng chuông"</item>
+    <item msgid="6325739889222559394">"âm lượng phương tiện truyền thông"</item>
+    <item msgid="5762123934816216821">"âm lượng báo thức"</item>
+    <item msgid="785049718065337473">"âm lượng thông báo"</item>
+    <item msgid="6700305533746877052">"âm lượng bluetooth"</item>
+    <item msgid="2029227495214047094">"không khóa màn hình"</item>
+    <item msgid="26109888160231211">"giám sát vị trí"</item>
+    <item msgid="5753382310468855812">"theo dõi vị trí dùng điện năng cao"</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item msgid="6602854600289714121">"Vị trí"</item>
+    <item msgid="8677040780775113033">"Vị trí"</item>
+    <item msgid="1660743989948992916">"Vị trí"</item>
+    <item msgid="8791172739860195290">"Rung"</item>
+    <item msgid="383413555642128046">"Đọc danh sách liên hệ"</item>
+    <item msgid="3654594895269697313">"Sửa đổi danh sách liên hệ"</item>
+    <item msgid="7928393476362362538">"Đọc nhật ký cuộc gọi"</item>
+    <item msgid="6248591205254641116">"Sửa đổi nhật ký cuộc gọi"</item>
+    <item msgid="6093344633066170692">"Đọc lịch"</item>
+    <item msgid="1334886368750347692">"Sửa đổi lịch"</item>
+    <item msgid="1638204101698708656">"Vị trí"</item>
+    <item msgid="2154671955760380322">"Đăng thông báo"</item>
+    <item msgid="4282477730595931828">"Vị trí"</item>
+    <item msgid="4891423912898525905">"Gọi điện thoại"</item>
+    <item msgid="2623604824935968113">"Đọc SMS/MMS"</item>
+    <item msgid="4420177125221176306">"Viết SMS/MMS"</item>
+    <item msgid="3986142739951490025">"Nhận SMS/MMS"</item>
+    <item msgid="3984213795861739778">"Nhận SMS/MMS"</item>
+    <item msgid="3656243523752472788">"Nhận SMS/MMS"</item>
+    <item msgid="8105802370238551510">"Nhận SMS/MMS"</item>
+    <item msgid="1407766984645388488">"Gửi SMS/MMS"</item>
+    <item msgid="3527273606643794973">"Đọc SMS/MMS"</item>
+    <item msgid="4370895547001583812">"Viết SMS/MMS"</item>
+    <item msgid="4218544235221631789">"Sửa đổi cài đặt"</item>
+    <item msgid="736541391767350377">"Vẽ lên trên"</item>
+    <item msgid="5530815681721654194">"Truy cập thông báo"</item>
+    <item msgid="781213371706962767">"Máy ảnh"</item>
+    <item msgid="1720492593061838172">"Ghi âm"</item>
+    <item msgid="3493046322001257041">"Phát âm thanh"</item>
+    <item msgid="136815868796597058">"Đọc khay nhớ tạm"</item>
+    <item msgid="5238692940326972503">"Sửa đổi khay nhớ tạm"</item>
+    <item msgid="5753789168376302997">"Các nút phương tiện"</item>
+    <item msgid="3265262911688671938">"Tập trung âm thanh"</item>
+    <item msgid="2098976479485046797">"Âm lượng chính"</item>
+    <item msgid="5660213838861789350">"Âm lượng thoại"</item>
+    <item msgid="7983336752371254444">"Âm lượng chuông"</item>
+    <item msgid="7878027809189330917">"Âm lượng phương tiện"</item>
+    <item msgid="7260546305036218513">"Âm lượng báo thức"</item>
+    <item msgid="9103719301075748925">"Âm lượng thông báo"</item>
+    <item msgid="7025966722295861512">"Âm lượng bluetooth"</item>
+    <item msgid="4665183401128289653">"Không khóa màn hình"</item>
+    <item msgid="8584357129746649222">"Vị trí"</item>
+    <item msgid="7669257279311110599">"Vị trí"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="1319652728542138112">"Mặc định"</item>
+    <item msgid="1016452621833735880">"Sans-serif"</item>
+    <item msgid="2496277987934654454">"Sans-serif mật độ cao"</item>
+    <item msgid="4406003087391086325">"Serif"</item>
+    <item msgid="1558362802170124073">"Đơn cách"</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4800919809575254054">"Rất nhỏ"</item>
+    <item msgid="6781094565687692782">"Nhỏ"</item>
+    <item msgid="8222123259497646551">"Bình thường"</item>
+    <item msgid="5813217276778560466">"Lớn"</item>
+    <item msgid="9044232017390975191">"Rất lớn"</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="6022616153255438487">"Không có"</item>
+    <item msgid="1352974708028506778">"Viền ngoài"</item>
+    <item msgid="5850876295428722675">"Bóng đổ"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7622491218136667566">"25%"</item>
+    <item msgid="2367156416247936773">"50%"</item>
+    <item msgid="5395560410107149298">"75%"</item>
+    <item msgid="8342334626783983353">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="1630625150404038035">"Chữ trắng trên nền đen"</item>
+    <item msgid="4589278788192525675">"Chữ đen trên nền trắng"</item>
+    <item msgid="1309255027325660115">"Chữ vàng trên nền đen"</item>
+    <item msgid="2985943780939258562">"Chữ vàng trên nền xanh lam"</item>
+    <item msgid="7520438652121629055">"Tùy chỉnh"</item>
+  </string-array>
+  <string-array name="select_runtime_titles">
+    <item msgid="3574453009229338122">"Dalvik"</item>
+    <item msgid="8978402910750533864">"ART"</item>
+    <item msgid="7839859333977894115">"ART (gỡ lỗi)"</item>
+  </string-array>
+  <string-array name="select_runtime_summaries">
+    <item msgid="6412880178297884701">"Sử dụng Dalvik"</item>
+    <item msgid="5131846588686178907">"Sử dụng ART"</item>
+    <item msgid="4530003713865319928">"Sử dụng bản dựng gỡ lỗi ART"</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item msgid="1606809880904982133">"Không có"</item>
+    <item msgid="688482401508173818">"720x480 mdpi"</item>
+    <item msgid="6027541158956821790">"720x480 mdpi (an toàn)"</item>
+    <item msgid="8181151155909301030">"1280x720 tvdpi"</item>
+    <item msgid="2920655562462493148">"1280x720 tvdpi (an toàn)"</item>
+    <item msgid="8910371271391940941">"1920x1080 xhdpi"</item>
+    <item msgid="4171600481380800455">"1920x1080 xhdpi (an toàn)"</item>
+    <item msgid="1937752114395156918">"1280x720 tvdpi và 1920x1080 xhdpi"</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item msgid="3191973083884253830">"Không có"</item>
+    <item msgid="9089630089455370183">"Logcat"</item>
+    <item msgid="5397807424362304288">"Systrace (Đồ họa)"</item>
+    <item msgid="1340692776955662664">"Chồng lệnh trên glGetError"</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item msgid="993742912147090253">"Tắt"</item>
+    <item msgid="675719912558941285">"Vẽ vùng clip khác hình chữ nhật bằng màu lam"</item>
+    <item msgid="1064373276095698656">"Đánh dấu lệnh vẽ đã kiểm tra bằng màu lục"</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item msgid="2193584639058893150">"Tắt"</item>
+    <item msgid="2751513398307949636">"Trên màn hình dưới dạng thanh"</item>
+    <item msgid="8272260411216018353">"Trên màn hình dưới dạng đường"</item>
+    <item msgid="120512413928262547">"Trong adb shell dumpsys gfxinfo"</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item msgid="8190572633763871652">"Tắt"</item>
+    <item msgid="7688197031296835369">"Hiển thị các vùng vẽ quá"</item>
+    <item msgid="2290859360633824369">"Hiển thị các vùng mô phỏng mù màu lục"</item>
+    <item msgid="3448087929560624983">"Hiển thị bộ đo mức vẽ quá"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="7389829271787670252">"Hỏi"</item>
+    <item msgid="5077768429488260031">"Không bao giờ cho phép"</item>
+    <item msgid="1417929597727989746">"Luôn cho phép"</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item msgid="7088762389498381203">"bình thường"</item>
+    <item msgid="4517779899383204000">"vừa phải"</item>
+    <item msgid="406385694840950802">"thấp"</item>
+    <item msgid="4212263919458209842">"cực thấp"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+            <item>"Tắt hình động"</item>
+            <item>"Tỷ lệ hình động 0,5x"</item>
+            <item>"Tỷ lệ hình động 1x"</item>
+            <item>"Tỷ lệ hình động 1,5x"</item>
+            <item>"Tỷ lệ hình động 2x"</item>
+            <item>"Tỷ lệ hình động 5x"</item>
+            <item>"Tỷ lệ hình động 10x"</item>
+      </string-array>
+     <string-array name="timezone_filters">
+    <!-- The next level of the time zoner picker should show time zones from the Americas. -->
+                <item>"Châu Mỹ"</item>
+    <!-- The next level of the time zoner picker should show time zones from Europe. -->
+                <item>"Châu Âu"</item>
+    <!-- The next level of the time zoner picker should show time zones from Africa. -->
+                <item>"Châu Phi"</item>
+    <!-- The next level of the time zoner picker should show time zones from Asia. -->
+                <item>"Châu Á"</item>
+    <!-- The next level of the time zoner picker should show time zones from Australia. -->
+                <item>"Úc"</item>
+    <!-- The next level of the time zoner picker should show time zones from Pacific. -->
+                <item>"Thái Bình Dương"</item>
+    <!-- The next level of the time zoner picker should show time zones from ALL regions. -->
+                <item>"Tất cả"</item>
+        </string-array>
+     <string-array name="screen_timeout_entries">
+                <item>"15 giây"</item>
+                <item>"30 giây"</item>
+                <item>"1 phút"</item>
+                <item>"2 phút"</item>
+                <item>"5 phút"</item>
+                <item>"10 phút"</item>
+                <item>"30 phút"</item>
+                  <!--revo lyq 20141215-->    
+                  <item>"Không bao giờ"</item>          
+        </string-array>
+     <string-array name="dream_timeout_entries">
+                <item>"Không bao giờ"</item>
+                <item>"15 giây"</item>
+                <item>"30 giây"</item>
+                <item>"1 phút"</item>
+                <item>"2 phút"</item>
+                <item>"5 phút"</item>
+                <item>"10 phút"</item>
+                <item>"30 phút"</item>
+        </string-array>
+     <string-array name="lock_after_timeout_entries">
+                <item>"Ngay lập tức"</item>
+                <item>"5 giây"</item>
+                <item>"15 giây"</item>
+                <item>"30 giây"</item>
+                <item>"1 phút"</item>
+                <item>"2 phút"</item>
+                <item>"5 phút"</item>
+                <item>"10 phút"</item>
+                <item>"30 phút"</item>
+        </string-array>
+     <string-array name="entries_font_size">
+                <item>"Nhỏ"</item>
+                <item>"Thường"</item>
+                <item>"Lớn"</item>
+                <item>"Rất lớn"</item>
+        </string-array>
+<string-array name="tts_rate_entries">
+    <item msgid="6041212618892492920">"Rất chậm"</item>
+    <item msgid="2361722960903353554">"Chậm"</item>
+    <item msgid="1145554631248513562">"Thường"</item>
+    <item msgid="7553665153391107454">"Nhanh"</item>
+    <item msgid="1370673569131070146">"Nhanh hơn"</item>
+    <item msgid="4648206845228970803">"Rất nhanh"</item>
+    <item msgid="4977949754169483251">"Nhanh"</item>
+    <item msgid="6106302964845503577">"Rất nhanh"</item>
+    <item msgid="6800277205640837264">"Nhanh nhất"</item>
+  </string-array>
+     <string-array name="tts_pitch_entries">
+                <item>"Rất thấp"</item>
+                <item>"Thấp"</item>
+                <item>"Thường"</item>
+                <item>"Cao"</item>
+                <item>"Rất cao"</item>
+        </string-array>
+     <string-array name="wifi_status">
+        <!-- Status message of Wi-Fi when it is idle. -->
+                <item> </item>
+                <item>"Đang quét…"</item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+                <item>"Đang kết nối…"</item>
+        <!-- Status message of Wi-Fi when it is connecting. -->
+                <item>"Đang xác thực…"</item>
+        <!-- Status message of Wi-Fi when it is authenticating. -->
+                <item>"Đang lấy địa chỉ IP…"</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address. -->
+                <item>"Đã kết nối"</item>
+        <!-- Status message of Wi-Fi when it is connected. -->
+                <item>"Bị tạm ngưng"</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+                <item>"Đang ngắt kết nối…"</item>
+        <!-- Status message of Wi-Fi when it is disconnecting. -->
+                <item>"Đã ngắt kết nối"</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+                <item>"Không thành công"</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->
+        </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <!-- Status message of Wi-Fi when it is idle. -->
+                <item> </item>
+                <item>"Đang quét…"</item>
+        <!-- Status message of Wi-Fi when it is scanning. -->
+                <item>"Đang kết nối tới <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+        <!-- Status message of Wi-Fi when it is connecting to a network. -->
+                <item>"Đang xác thực với <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is authenticating with a network. -->
+                <item>"Đang lấy địa chỉ IP từ <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
+                <item>"Đã kết nối tới <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+        <!-- Status message of Wi-Fi when it is connected to a network. -->
+                <item>"Bị tạm ngưng"</item>
+        <!-- Status message of Wi-Fi when it is suspended. -->
+                <item>"Đăng ngắt kết nối khỏi <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+        <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
+                <item>"Đã ngắt kết nối"</item>
+        <!-- Status message of Wi-Fi when it is disconnected. -->
+                <item>"Không thành công"</item>
+        <!-- Status message of Wi-Fi when it is a failure. -->	
+        </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+        <!-- Push button based configuration involves pushing a button on two connecting devices [CHAR LIMIT=30]-->
+                <item>"Nút bấm"</item>
+        <!-- This involves entering a pin obtained from a peer device [CHAR LIMIT=30] -->
+                <item>"Mã PIN từ thiết bị ngang hàng"</item>
+        <!-- This involves generating a pin from this device [CHAR LIMIT=20] -->
+                <item>"Mã PIN từ th.bị này"</item>
+        </string-array>
+     <string-array name="wifi_p2p_status">
+                <item>"Đã kết nối"</item>
+                <item>"Đã mời"</item>
+                <item>"Không thành công"</item>
+                <item>"Có sẵn"</item>
+                <item>"Ngoài vùng phủ sóng"</item>
+       </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+                <item>"2 phút"</item>
+                <item>"5 phút"</item>
+                <item>"1 giờ"</item>
+                <item>"Không bao giờ hết thời gian chờ"</item>
+        </string-array>
+     <string-array name="wifi_signal">
+                <item>"Kém"</item>
+                <item>"Tốt"</item>
+                <item>"Tốt"</item>
+                <item>"Tuyệt vời"</item>
+        </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+        <!-- Always keep Wi-Fi on when screen turns off. -->
+                <item>"Luôn luôn"</item>
+        <!-- Keep Wi-Fi on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+                <item>"Chỉ khi cắm vào nguồn điện"</item>
+        <!-- Do not keep Wi-Fi on when screen turns off. -->
+                <item>"Không bao giờ (tăng mức sử dụng dữ liệu)"</item>
+        </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <!-- Always keep Wi-Fi on when screen turns off. -->
+                <item>"Luôn luôn"</item>
+        <!-- Keep Wi-Fi on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+                <item>"Chỉ khi cắm vào nguồn điện"</item>
+        <!-- Do not keep Wi-Fi on when screen turns off, for Wi-Fi-only devices, no other data connection -->
+                <item>"Không bao giờ"</item>
+        </string-array>
+     <string-array name="wifi_frequency_band_entries">
+        <!-- Operation on both 2.4 GHz and 5 GHz [CHAR LIMIT=25]-->
+                <item>"TỰ ĐỘNG"</item>
+        <!-- Operation on 5 GHz alone [CHAR LIMIT=25]-->
+                <item>"Chỉ 5 GHz"</item>
+        <!-- Operation on 2.4 GHz alone [CHAR LIMIT=25]-->
+                <item>"Chỉ 2,4 GHz"</item>
+        </string-array>
+     <string-array name="usage_stats_display_order_types">
+                <item>"Thời gian sử dụng"</item>
+                <item>"Số lần khởi chạy"</item>
+                <item>"Tên ứng dụng"</item>
+        </string-array>
+     <string-array name="wifi_eap_entries">
+                <item>"PEAP"</item>
+                <item>"TLS"</item>
+                <item>"TTLS"</item>
+        </string-array>
+     <string-array name="wifi_phase2_entries">
+                <item>"Không"</item>
+                <item>"PAP"</item>
+                <item>"MSCHAP"</item>
+                <item>"MSCHAPV2"</item>
+                <item>"GTC"</item>
+        </string-array>
+     <string-array name="wifi_ip_settings">
+        <!-- Use DHCP (Dynamic Host Configuration Protocol) for obtaining IP settings [CHAR LIMIT=25] -->
+                <item>"DHCP"</item>
+        <!-- Use statically defined IP settings [CHAR LIMIT=25]-->
+                <item>"Tĩnh"</item>
+        </string-array>
+     <string-array name="wifi_proxy_settings">
+        <!-- No HTTP proxy is used for the current wifi network [CHAR LIMIT=25] -->
+                <item>"Không chọn"</item>
+        <!-- Manual HTTP proxy settings are used for the current wifi network [CHAR LIMIT=25] -->
+                <item>"Thủ công"</item>
+        </string-array>
+     <string-array name="emergency_tone_entries">
+                <item>"Tắt"</item>
+                <item>"Thông báo"</item>
+                <item>"Rung"</item>
+        </string-array>
+     <string-array name="apn_auth_entries">
+                <item>"Không"</item>
+                <item>"PAP"</item>
+                <item>"CHAP"</item>
+                <item>"PAP hoặc CHAP"</item>
+        </string-array>
+     <string-array name="apn_protocol_entries">
+                <item>"IPv4"</item>
+                <item>"IPv6"</item>
+                <item>"IPv4/IPv6"</item>
+        </string-array>
+     <string-array name="bearer_entries">
+                <item>"LTE"</item>
+                <item>"eHRPD"</item>
+                <item>"Không xác định"</item>
+        </string-array>
+     <string-array name="app_install_location_entries">
+                <item>"Bộ nhớ trong của thiết bị"</item>
+                <item>"Thẻ SD tháo lắp được"</item>
+                <item>"Cho phép hệ thống quyết định"</item>
+        </string-array>
+
+    <string-array name="app_ums_install_location_entries">
+        <item>"Bộ nhớ trong của thiết bị"</item>
+        <item>"Lưu vào máy"</item>
+        <item>"Cho phép hệ thống quyết định"</item>
+    </string-array>
+
+     <string-array name="long_press_timeout_selector_titles">
+        <!-- A title for the option for short long-press timeout [CHAR LIMIT=25] -->
+                <item>"Ngắn"</item>
+        <!-- A title for the option for medium long-press timeout [CHAR LIMIT=25] -->
+                <item>"Trung bình"</item>
+        <!-- A title for the option for long long-press timeout [CHAR LIMIT=25] -->
+                <item>"Dài"</item>
+        </string-array>
+     <string-array name="hdcp_checking_titles">
+                <item>"Không bao giờ kiểm tra"</item>
+                <item>"Chỉ kiểm tra nội dung DRM"</item>
+                <item>"Luôn kiểm tra"</item>
+        </string-array>
+     <string-array name="hdcp_checking_summaries">
+                <item>"Không bao giờ sử dụng kiểm tra HDCP"</item>
+                <item>"Chỉ sử dụng kiểm tra HDCP cho nội dung DRM"</item>
+                <item>"Luôn sử dụng kiểm tra HDCP"</item>
+        </string-array>
+     <string-array name="window_animation_scale_entries">
+                <item>"Tắt hình động"</item>
+                <item>"Tỷ lệ hình động 0,5x"</item>
+                <item>"Tỷ lệ hình động 1x"</item>
+                <item>"Tỷ lệ hình động 1,5x"</item>
+                <item>"Tỷ lệ hình động 2x"</item>
+                <item>"Tỷ lệ hình động 5x"</item>
+                <item>"Tỷ lệ hình động 10x"</item>
+        </string-array>
+     <string-array name="transition_animation_scale_entries">
+                <item>"Tắt hình động"</item>
+                <item>"Tỷ lệ hình động 0,5x"</item>
+                <item>"Tỷ lệ hình động 1x"</item>
+                <item>"Tỷ lệ hình động 1,5x"</item>
+                <item>"Tỷ lệ hình động 2x"</item>
+                <item>"Tỷ lệ hình động 5x"</item>
+                <item>"Tỷ lệ hình động 10x"</item>
+        </string-array>
+     <string-array name="app_process_limit_entries">
+                <item>"Giới hạn tiêu chuẩn"</item>
+                <item>"Không có quá trình nền"</item>
+                <item>"Tối đa 1 quá trình"</item>
+                <item>"Tối đa 2 quá trình"</item>
+                <item>"Tối đa 3 quá trình"</item>
+                <item>"Tối đa 4 quá trình"</item>
+        </string-array>
+     <string-array name="vpn_types_long">
+                <item>"PPTP VPN"</item>
+                <item>"L2TP/IPSec VPN có khóa chia sẻ trước"</item>
+                <item>"L2TP/IPSec VPN có chứng chỉ"</item>
+                <item>"IPSec VPN có khóa được chia sẻ trước và xác thực Xauth"</item>
+                <item>"IPSec VPN có chứng chỉ và xác thực Xauth"</item>
+                <item>"IPSec VPN có chứng chỉ và xác thực kết hợp"</item>
+        </string-array>
+     <string-array name="vpn_states">
+        <!-- Status message when VPN is disconnected. -->
+                <item>"Đã ngắt kết nối"</item>
+        <!-- Status message when VPN is initializing. -->
+                <item>"Đang khởi chạy..."</item>
+        <!-- Status message when VPN is connecting. -->
+                <item>"Đang kết nối…"</item>
+        <!-- Status message when VPN is connected. -->
+                <item>"Đã kết nối"</item>
+        <!-- Status message when VPN is timeout. -->
+                <item>"Thời gian chờ"</item>
+        <!-- Status message when VPN is failed. -->
+                <item>"Không thành công"</item>
+        </string-array>
+     <string-array name="dualsim_mms_summaries">
+                <item> SIM 1 </item>
+                <item> SIM 2 </item>
+                <item>luôn nhắc</item>
+                <item>"TỰ ĐỘNG"</item>
+        </string-array>
+     <string-array name="dualsim_mms_setting_values">
+        <!-- Do not translate. -->
+                <item></item>
+        <!-- Do not translate. -->
+                <item></item>
+        <!-- Do not translate. -->
+                <item>-1</item>
+                <item></item>
+        </string-array>
+     <string-array name="dualsim_setting_values">
+    <!-- Do not translate. -->
+            <item>0</item>
+    <!-- Do not translate. -->
+            <item>1</item>
+    <!-- Do not translate. -->
+            <item>-1</item>
+      </string-array>
+     <string-array name="tts_rate_values">
+                <item>60</item>
+                <item>80</item>
+                <item>100</item>
+                <item>150</item>
+                <item>200</item>
+        </string-array>
+     <string-array name="tts_pitch_values">
+                <item>50</item>
+                <item>80</item>
+                <item>100</item>
+                <item>120</item>
+                <item>150</item>
+        </string-array>
+     <string-array name="wifi_sleep_policy_values">
+        <!-- Do not translate. -->
+                <item>"2"</item>
+        <!-- Do not translate. -->
+                <item>"1"</item>
+        <!-- Do not translate. -->
+                <item>"0"</item>
+        </string-array>
+     <string-array name="emergency_tone_values">
+                <item>"0"</item>
+                <item>"1"</item>
+                <item>"2"</item>
+        </string-array>
+     <string-array name="dualsim_summaries">
+                <item> SIM 1 </item>
+                <item> SIM 2 </item>
+                <item>luôn nhắc</item>
+        </string-array>
+     <string-array name="dualsim_entries">
+                <item>"SIM 1"</item>
+                <item>"SIM 2"</item>
+        </string-array>
+     <string-array name="dualsim_setting_entries">
+                <item>"SIM 1"</item>
+                <item>"SIM 2"</item>
+                <item>luôn nhắc</item>
+        </string-array>
+     <string-array name="dualsim_values">
+        <!-- Do not translate. -->
+                <item>"0"</item>
+        <!-- Do not translate. -->
+                <item>"1"</item>
+        </string-array>
+     <string-array name="silent_mode_entries">
+                <item>"Tắt"</item>
+                <item>"Rung"</item>
+                <item>"Tắt tiếng"</item>
+        </string-array>
+     <string-array name="wep_key_index">
+                <item>"0"</item>
+                <item>"1"</item>
+                <item>"2"</item>
+                <item>"3"</item>
+       </string-array>
+     <string-array name="alarm_set">
+                <item>Báo thức này được đặt dưới 1 phút kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> và <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> kể từ bây giờ.</item>
+                <item>Báo thức này được đặt <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> và <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> kể từ bây giờ.</item>
+        </string-array>
+     <string-array name="mobile_to_wlan">
+                <item>Tự động kết nối</item>
+                <item>Kết nối Thủ công</item>
+                <item>Luôn luôn Hỏi</item>
+        </string-array>
+     <string-array name="touch_light_timeout_entries">
+        <item>"1,5 giây"</item>
+        <item>6 giây</item>
+        <item>Luôn bật</item>
+        <item>Always close</item>
+    </string-array>
+     <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>@string/wifi_security_wapi_psk</item>
+        <item>@string/wifi_security_wapi_cert</item>
+    </string-array>
+  <string-array name="agps_setting_entries">
+    <item>"Mở"</item>
+    <item>đóng</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item>"Sử dụng thời gian do mạng cung cấp"</item>
+    <item>"Sử dụng thời gian do GPS cung cấp"</item>
+    <item>"Tắt"</item>
+  </string-array>
+  <string-array name="auto_time_entries_no_gps">
+    <item>"Sử dụng thời gian do mạng cung cấp"</item>
+    <item>"Tắt"</item>
+  </string-array>
+
+</resources>

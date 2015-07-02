@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Saita tsarin apn"</string>
+<string name="user_could_input_apn_type">"Mai shi zai iya sa apn"</string>
+<string name="could_not_input_the_same_apn_type">"Ba zai iya sa irin wannan apn ba"</string>
+<string name="apn_type_message">"Babu bugun asali a sabon lambar APN, ba zai iya sabar APN ba."</string>
+<string name="error_apn_type_message">"Bugun APN ba zai zama fanko ba"</string>
+<string name="error_apn_type">"Bugun Apn da ka shigar ba a goyon bayansa, ka sake shigarwa!"</string>
+<string name="same_apn_type">"Ka shigar da APN iri daya, ka sake shigarwa!"</string>
+<string name="empty_apn_type">"Ba ka shigar da ko zabi kowane irin APN ba, ka sake shigarwa!"</string>
+<string name="dual_settings_title_uui">"Tattalin katin Sim"</string>
+<string name="dual_voice_setting_title">"Saitin murya"</string>
+<string name="dual_video_setting_title">"Saitin bidiyo"</string>
+<string name="dual_mms_setting_title">"Saitunan SMS"</string>
+<string name="dual_settings_title">"Saitocin tagwayen Sim "</string>
+<string name="sim_name_setting_title">"Gyara sunan SIM"</string>
+<string name="sim_color_setting_title">"Saita kalan bayan fage"</string>
+<string name="dual_settings_always_prompt">"Alamar koyaushe"</string>
+<string name="mms_settings_auto">"Automatik"</string>
+<string name="no_need_set_data_subscription">"Ba bukatar saita sayen bayanai ."</string>
+<string name="voice_setting_title">"Saitunan kiran murya"</string>
+<string name="video_setting_title">"Saitunan kiran bidiyo"</string>
+<string name="mms_setting_title">"Saitocin MMS da SMS"</string>
+<string name="sim_reply_setting">"Saitunan ba da amsa na Sim"</string>
+<string name="reply_message_setting">"Ba da amsar Mms ko Sms"</string>
+<string name="closeData">"Rufe"</string>
+<string name="data_title">"Saitunan mahadin bayanai"</string>
+<string name="sel_sub_title">"Saituna na wucin gadi"</string>
+<string name="sel_sub_summary">"Don kunnawa ko kashe katin SIM"</string>
+<string name="set_data_subscription_timeout">"Lokacin saitunan mahadin bayanai ya wuce!"</string>
+<string name="set_dds_failed">"Kuskure!Share duk mahadin bayanai ka sake kuma!"</string>
+<string name="set_dds_success">"An saita cikin nasara"</string>
+<string name="set_data_subscription_progress">"Yin saituna, dakata kadan ..."</string>
+<string name="set_data_subscription_error_ok">"Bayyanar"</string>
+<string name="set_data_subscription_error_title">"Kuskure"</string>
+<string name="set_data_subscription_error">"Idan babu wannan katin SIM, tantance ka sake kuma!"</string>
+<string name="sim_retries_left">"Saura lambar"</string>
+<string name="menu_kill_apps_services">"Rufe duk masarrafai"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Tsarin amfani da bayanai ta bayan fage."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Karbitsarin amfani da bayanai ta bayan fage?"</string>
+<string name="apn_edit_quit">"Fita"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Gyara wurin isa"</string>
+<string name="input_pin_limit">"Ka sa lambobi 4 - 8"</string>
+    <string name="agps_supl_manual_settings">"Kundin sarrafa saitin uwar garken SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Kundin sarrafa saitin uwar garke SUPL server da gurbi"</string>
+     <string name="str_clear">CLR</string>
+     <string name="str_save">Ajiye</string>
+     <string name="gps_location_suplserver">Saba</string>
+    <string name="agps_setting">"Saitocin Agps"</string>
+    <string name="open">Bude</string>
+    <string name="close">Rufe</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Saitunan layukan sadarwa na Mobayil"</string>
+    <string name="pin_enabled_success">An bude PIN din SIM</string>
+    <string name="pin_disabled_success">An rufe PIN din SIM</string>
+    <string name="gps_time_sync_attention_gps_on">"Zai dauki akalla minti 1 a samu gyaran GPS. Banda wannan, GPS zai gaza ba da lokaci saboda ranunin yanayin sigina.\n\nKa tabbata kana son amfani da lokacin da GPS ya samar?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Don amfani da lokacin da GPS ya samar, dole ka kunna GPS tukuna. Yana daukar akalla minti 1 a samu gyaran GPS. Banda wannan, GPS zai iya gaza ba da lokaci saboda raunin yanayin sigina. \n\nKa tabbatar kana son kunna GPS yanzu kuma ka jira lokacin da GPS ya samar?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"កំណត់ប្រភេទapn"</string>
+<string name="user_could_input_apn_type">"អ្នកប្រើប្រាស់អាចបញ្ចូលប្រភេទapn"</string>
+<string name="could_not_input_the_same_apn_type">"មិនអាចបញ្ចូលប្រភេទapnដូចគ្នាទេ"</string>
+<string name="apn_type_message">"APNដែលលោកអ្នកបានបញ្ចូលមិនរួមចញ្ចូលប្រភេទdefaultទេ សូមជ្រើសរើAPNម្តងទៀត។"</string>
+<string name="error_apn_type_message">"ប្រភេទAPNមិនអាចទុកអោយទទេបានទេ "</string>
+<string name="error_apn_type">"ប្រភេទApnដែលលោកអ្នកបានវាយបញ្ចូលមិនត្រូវបានគាំទ្រទេ សូមវាយបញ្ចូលឡើងវិញ!"</string>
+<string name="same_apn_type">"លោកអ្នកបានបញ្ចូលប្រភេទAPNដដែល សូមវាយបញ្ចូលឡើងវិញ!"</string>
+<string name="empty_apn_type">"លោកអ្នកមិនបានវាយបញ្ចូលឬជ្រើសរើសប្រភេទAPNណាមួយទេ សូមវាយបញ្ចូលឡើងវិញ!"</string>
+<string name="dual_settings_title_uui">"ការគ្រប់គ្រងស៊ីមកាត"</string>
+<string name="dual_voice_setting_title">"ការកំណត់សម្លេង"</string>
+<string name="dual_video_setting_title">"ការកំណត់វីដេអូ"</string>
+<string name="dual_mms_setting_title">"ការកំណត់សារSMS"</string>
+<string name="dual_settings_title">"ការកំណត់ទ្វេស៊ីមកាត"</string>
+<string name="sim_name_setting_title">"កែប្រែឈ្មោះស៊ីមកាត"</string>
+<string name="sim_color_setting_title">"កំណត់ពណ៌នៅផ្ទៃក្រោយ"</string>
+<string name="dual_settings_always_prompt">"តែងតែបា្រប់ជានិច្ច"</string>
+<string name="mms_settings_auto">"ស្វ័យប្រវត្តិ"</string>
+<string name="no_need_set_data_subscription">"មិនត្រូវការកំណត់ការភ្ជាប់ទិន្នន័យតាមលំនាំដើមឡើងវិញទេ។"</string>
+<string name="voice_setting_title">"ការកំណត់ការហៅជាសម្លេង"</string>
+<string name="video_setting_title">"ការកំណត់ការហៅវីដេអូ"</string>
+<string name="mms_setting_title">"ការកំណត់MMSនិងSMS"</string>
+<string name="sim_reply_setting">"ការកំណត់ស៊ីមឆ្លើយតប"</string>
+<string name="reply_message_setting">"ឆ្លើយតបMmsឬSms"</string>
+<string name="closeData">"បិទ"</string>
+<string name="data_title">"ការកំណត់ការភ្ជាប់ទិន្នន័យអ៊ីនធឺនែតទូរស័ព្ទ"</string>
+<string name="sel_sub_title">"ការកំណត់ម៉ាស៊ីនស្តេនបាយ"</string>
+<string name="sel_sub_summary">"បើកប្រើឬបិទប្រើស៊ីមកាត"</string>
+<string name="set_data_subscription_timeout">"ការកំណត់ការភ្ជាប់អ៊ីនធឺនែតទូរស័ព្ទហួសពេលហើយ!"</string>
+<string name="set_dds_failed">"មានកំហុស!សូមលុបរាល់ការភ្ជាប់អ៊ីនធឺនែតទូរស័ព្ទហើយចាំសាកល្បងម្តងទៀត!"</string>
+<string name="set_dds_success">"កំហុស!សូមលុបរាល់ការភ្ជាប់ទិន្នន័យអ៊ីនធឺនែតទូរស័ព្ទទាំងអស់ហើយសូមសាកល្បងម្តងទៀត!"</string>
+<string name="set_data_subscription_progress">"កំពុងកំណត់ សូមរង់ចាំ ..."</string>
+<string name="set_data_subscription_error_ok">"ប្តេជ្ញាកំណត់"</string>
+<string name="set_data_subscription_error_title">"កំហុស"</string>
+<string name="set_data_subscription_error">"ដោយមិនមានស៊ីមកាតនេះ សូមផ្ទៀតផ្ទាត់និងសាកល្បងម្តងទៀត"</string>
+<string name="sim_retries_left">"នៅសល់ចំនួន"</string>
+<string name="menu_kill_apps_services">"បិទកម្មវិធីទាំងនេះចោលទាំងអស់"</string>
+<string name="back_groud_data_usage_restrict_protocal">"សន្ធិសញ្ញានៃការប្រើប្រាស់ទិន្នន័យនៅផ្ទៃក្រោយ"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"យល់ព្រមកិច្ចព្រមព្រៀងអំពីការប្រើប្រាស់ទិន្នន័យផ្ទៃខាងក្រោយឬទេ?"</string>
+<string name="apn_edit_quit">"ចាកចេញ"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> កែប្រែចំណុចចូលប្រើ"</string>
+<string name="input_pin_limit">"សូមបញ្ចូលលេខ4-8ខ្ទង់"</string>
+    <string name="agps_supl_manual_settings">"ការកំណត់ឧបករណ៍ផ្តល់សេវាSUPLដោយដៃ"</string>
+    <string name="agps_supl_manual_settings_summary">"ការកំណត់ឧបករណ៍ផ្តល់សេវាSUPLនិងផត ដោយដៃ"</string>
+    <string name="str_clear">លុបចោល</string>
+    <string name="str_save">"រក្សាទុក"</string>
+    <string name="gps_location_suplserver">ម៉ាស៊ីនបម្រើ</string>
+    <string name="agps_setting">"ការកំណត់Agps"</string>
+    <string name="open">"បើក"</string>
+    <string name="close">"បិទ"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ការកំណត់បណ្តាញទូរស័ព្ទដៃ"</string>
+    <string name="pin_enabled_success">ស៊ីម SIM PIN ដែលអាចដំណើរការបាន </string>
+    <string name="pin_disabled_success">ស៊ីម SIM PIN ដែលមិនអាចដំណើរការបាន </string>
+    <string name="gps_time_sync_attention_gps_on">"វាត្រូវការពេលជិត១នាទីដើម្បីទទួលយកពត៍មានGPS។ក្រៅពីនេះ GPSប្រហែលនឹងបរាជ័យក្នុងការផ្តល់ពេលវេលាGPSដោយសារតែស៊ីញ៉ាល់ក្នុងមជ្ឈដ្ឋានដែលលោកអ្នកកំពុងនៅមានកម្រិតខ្សោយ។ \n\nតើលោកអ្នកច្បាស់ថានឹងបើកដំណើការGPSក្នុងពេលឥឡូវនេះ ដើម្បីរង់ចាំទទួលពេលវេលាដែលផ្តល់ដោយGPSឬ?"</string>
+    <string name="gps_time_sync_attention_gps_off">"ដើម្បីប្រើប្រាស់ពេលវេលាដែលផ្តល់ដោយGPS លោកអ្នក លោកអ្នកត្រូវតែបើកដំណើការGPSជាមុនសិន។បន្ទាប់មកវាត្រូវការពេលជិត១នាទីដើម្បីទទួលយកពត៍មានGPS។ក្រៅពីនេះ GPSប្រហែលនឹងបរាជ័យក្នុងការផ្តល់ពេលវេលាGPSដោយសារតែស៊ីញ៉ាល់ក្នុងមជ្ឈដ្ឋានដែលលោកអ្នកកំពុងនៅមានកម្រិតខ្សោយ។ \n\nតើលោកអ្នកច្បាស់ថានឹងបើកដំណើការGPSក្នុងពេលឥឡូវនេះ ដើម្បីរង់ចាំទទួលពេលវេលាដែលផ្តល់ដោយGPSឬ?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

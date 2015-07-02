@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn قسم سیٹ کر رہا ہے"</string>
+<string name="user_could_input_apn_type">"صارف apn قسم کی ان پٹ دے سکا"</string>
+<string name="could_not_input_the_same_apn_type">"اسی apn قسم کی ان پٹ نہیں دے سکا"</string>
+<string name="apn_type_message">"آپ کے نئے APN میں ڈیفالٹ ٹائپ موجود نہیں ہے، آپ APN منتخب نہیں کر سکیں گے۔۔"</string>
+<string name="error_apn_type_message">"اے پی این ٹائپ خالی نہیں ہو سکتے ہیں"</string>
+<string name="error_apn_type">"۔Apn ٹائپ جو آپ نے درج کی ہے وہ سہولت موجود نہیں ہے، براہِ مہربانی دوبارہ درج کریں "</string>
+<string name="same_apn_type">"آپ نے APN کی وہی ٹائپ درج کی ہے، براہِ مہربانی دوبارہ درج کریں "</string>
+<string name="empty_apn_type">"آپ نے کوئی APN ٹائپ درج یا منتخب نہیں کی، براہِ مہربانی دوبارہ درج کریں  "</string>
+<string name="dual_settings_title_uui">"SIM کارڈ کانظم و نسق"</string>
+<string name="dual_voice_setting_title">"آوازوں کی ترتیبات "</string>
+<string name="dual_video_setting_title">"وڈیو ترتیبات "</string>
+<string name="dual_mms_setting_title">"ایس ایم ایس ترتیبات "</string>
+<string name="dual_settings_title">"دوہری سم ترتیبات"</string>
+<string name="sim_name_setting_title">"سم کے نام میں ترمیم کریں"</string>
+<string name="sim_color_setting_title">"پس منظر رنگ سیٹ کریں"</string>
+<string name="dual_settings_always_prompt">"ہمیشہ فوری طور پر"</string>
+<string name="mms_settings_auto">"ازخود"</string>
+<string name="no_need_set_data_subscription">"ڈیٹا سکریپشن سیٹ کرنے کی کوئی ضرورت نہیں ہے"</string>
+<string name="voice_setting_title">"وائس کال ترتیبات"</string>
+<string name="video_setting_title">"ویڈیو کال ترتیبات"</string>
+<string name="mms_setting_title">"ایم ایم ایس اور ایس ایم ایس ترتیبات"</string>
+<string name="sim_reply_setting">"سم جواب ترتیبات"</string>
+<string name="reply_message_setting">"ایم ایم ایس یا ایس ایم ایس کا جواب دیں"</string>
+<string name="closeData">"بند کریں"</string>
+<string name="data_title">"ڈیٹا کنکشن کی ترتیبات"</string>
+<string name="sel_sub_title">"اسٹینڈبائے  ترتیبات"</string>
+<string name="sel_sub_summary">"سم کارڈ فعال یا غیر فعال کرنے کے لئے"</string>
+<string name="set_data_subscription_timeout">"ڈیٹا کنکشن کی ترتیبات کا وقت ختم"</string>
+<string name="set_dds_failed">"غلطی ہے!تمام ڈیٹاکنیکشن صاف کریں۔ اور دوبارہ کوشش کریں."</string>
+<string name="set_dds_success">"کامیابی کے ساتھ مقرر کریں"</string>
+<string name="set_data_subscription_progress">"ترتیب ہو رہی ہے  براہ مہربانی انتظار کریں "</string>
+<string name="set_data_subscription_error_ok">"تعین""</string>
+<string name="set_data_subscription_error_title">"نقص"</string>
+<string name="set_data_subscription_error">""   اس سم کارڈ کے بغیر، اس بات کی تصدیق کریں اور دوبارہ کوشش کریں براہ مہربانی"</string>
+<string name="sim_retries_left">"کی باقی تعداد"</string>
+<string name="menu_kill_apps_services">"تمام ایپلی کیشنز بند کریں"</string>
+<string name="back_groud_data_usage_restrict_protocal">"بیک گراؤنڈ ڈیٹا کے استعمال کا پروٹوکول"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"پس منظر کوائف استعمال پروٹوکول وبول کریں?"</string>
+<string name="apn_edit_quit">"ترک کریں "</string>
+<string name="apn_edit_ex">"۔"SIM<xliff:g id="SIM">%s</xliff:g> ترمیمی رسائی پوائنٹ"</string>
+<string name="input_pin_limit">" براہِ مہربانی چار سے آٹھ  تک نمبرز درج کریں"</string>
+    <string name="agps_supl_manual_settings">"۔SUPL سرور کی مینوَل ترتیب"</string>
+    <string name="agps_supl_manual_settings_summary">"۔SUPL سرور اور پورٹ کو مینوَل سیٹ کریں "</string>
+    <string name="str_clear">صاف</string>
+    <string name="str_save">محفوظ</string>
+    <string name="gps_location_suplserver">سرور</string>
+    <string name="agps_setting">"۔Agps ترتیبات"</string>
+    <string name="open">کھولیں</string>
+    <string name="close">بند </string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> موبائل نیٹ ورک ترتیبات"</string>
+    <string name="pin_enabled_success">سم پن چالو</string>
+    <string name="pin_disabled_success">سم پن کو غیر فعال کر دیا گیا</string>
+    <string name="gps_time_sync_attention_gps_on">"یہ GPS حل حاصل کرنے میں زیادہ سے زیادہ1 منٹ میں لے گا۔اس کے علاوہ GPS کمزور ماحولیاتی سگنلز کی وجہ سے ٹائم فراہم کرنے میں ناکام بھی ہو سکتا ہے۔ \n\n کیا آپ کو یقین ہے کہ آپ GPS کا فراہم کردہ ٹائم استعمال کرنا چاہتے ہیں۔"</string>
+    <string name="gps_time_sync_attention_gps_off">"۔GPS کا فراہم کردہ وقت استعمال کرنے کے لئے، آپ کو سب سے پہلے GPS کے فعال کرنا ہوگا۔ اس کے بعد یہ GPS حل حاصل کرنے میں زیادہ سے زیادہ1 منٹ میں لے گا۔ اس کے علاوہ GPS کمزور ماحولیاتی سگنلز کی وجہ سے ٹائم فراہم کرنے میں ناکام بھی ہو سکتا ہے۔ \n\nکیا آپ کو یقین ہے کہ آپ GPS کو فعال اور GPS کا فراہم کردہ ٹائم استعمال کرنا چاہتے ہیں ؟"</string>
+    <string name="apn_settings_ex">"سِم <xliff:g id="SIM">%s</xliff:g> اے پی این ایس"</string>
+
+</resources>

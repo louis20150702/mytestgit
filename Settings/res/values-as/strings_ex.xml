@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apnধৰণ চেটিং"</string>
+<string name="user_could_input_apn_type">"ব্যৱহাৰকাৰীয়ে  apn ধৰণ ইনপুট কৰিব পাৰিলে"</string>
+<string name="could_not_input_the_same_apn_type">"একেটা  apn ধৰণ ইনপুট কৰিব নোৱাৰিলে"</string>
+<string name="apn_type_message">"আপোনাৰ নতুন  APN ত ডিফল্ট ধৰণ নাথাকে,  APN নির্বাচন কৰিবলৈ সমর্থ নহ\'ব"</string>
+<string name="error_apn_type_message">"APN ধৰণ  খালী থাকিব নোৱাৰে"</string>
+<string name="error_apn_type">"আপুনি ভৰোৱা Apn ধৰণ  চাপর্ট কৰা নাই, অনুগ্ৰহ কৰি আকৌ ভৰাওক  !"</string>
+<string name="same_apn_type">"আপুনি একেটা ধৰণৰ  APN ভৰালে , অনুগ্ৰহ কৰি আকৌ ভৰাওক  !"</string>
+<string name="empty_apn_type">"আপুনি কোনো ধৰণৰ APN নভৰালে নাইবা নির্বাচন নকৰিলে , অনুগ্ৰহ কৰি আকৌ ভৰাওক  !"</string>
+<string name="dual_settings_title_uui">"SIM কার্ড ব্যৱস্থাপনা"</string>
+<string name="dual_voice_setting_title">"ভইচ চেটিং"</string>
+<string name="dual_video_setting_title">"ভিডিও চেটিং"</string>
+<string name="dual_mms_setting_title">"SMS চেটিং"</string>
+<string name="dual_settings_title">"ডুৱেল SIM চেটিং"</string>
+<string name="sim_name_setting_title">"SIMৰ নাম সম্পাদনা কৰক"</string>
+<string name="sim_color_setting_title">"বেকগ্ৰউণ্ড ৰং চেট কৰক"</string>
+<string name="dual_settings_always_prompt">"সদায় খৰতকীয়া"</string>
+<string name="mms_settings_auto">"অটো"</string>
+<string name="no_need_set_data_subscription">"ডাটা স্বাক্ষৰ চেট কৰাৰ প্ৰয়োজন নাই"</string>
+<string name="voice_setting_title">"ভইচ কল চেটিং"</string>
+<string name="video_setting_title">"ভিডিও কল চেটিং"</string>
+<string name="mms_setting_title">"MMS আৰু  SMS চেটিংবোৰ"</string>
+<string name="sim_reply_setting">"SIM প্ৰত্যুত্তৰ চেটিং"</string>
+<string name="reply_message_setting">"Mms নাইবা Sms ৰ উত্তৰ দিয়ক"</string>
+<string name="closeData">"বন্ধ"</string>
+<string name="data_title">"ডাটা সংযোগ চেটিং বোৰ"</string>
+<string name="sel_sub_title">"অপেক্ষিত সহায়কাৰী  চেটিং"</string>
+<string name="sel_sub_summary">"SIM কার্ড সক্ৰিয় নাইবা নিষ্ক্ৰিয় কৰিবলৈ"</string>
+<string name="set_data_subscription_timeout">"ডাটা সংযোগ চেটিংৰ সময় উকলিল"</string>
+<string name="set_dds_failed">"ত্ৰুটি ! সকলো ডাটা সংযোগ ক্লীয়াৰ কৰক আৰু চেষ্টা কৰক"</string>
+<string name="set_dds_success">"সফলতাৰে চেট কৰা হ\'ল"</string>
+<string name="set_data_subscription_progress">"চেটিং হৈ আছে, অলপ অপেক্ষা কৰক ..."</string>
+<string name="set_data_subscription_error_ok">"নিশ্চিত কৰক"</string>
+<string name="set_data_subscription_error_title">"অটো"</string>
+<string name="set_data_subscription_error">"এই SIM কার্ড অবিহনে , অনুগ্ৰহ কৰি পৰীক্ষা কৰক আৰু আকৌ চেষ্টা কৰক !"</string>
+<string name="sim_retries_left">"বাকী থকা নম্বৰ"</string>
+<string name="menu_kill_apps_services">"সকলো এপ্লিকেচন বন্ধ কৰক"</string>
+<string name="back_groud_data_usage_restrict_protocal">"বেকগ্ৰাউণ্ড তথ্য ব্যৱহাৰ প্ৰট\'কল"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"বেকগ্ৰাউণ্ড তথ্য ব্যৱহাৰ প্ৰট\'কল গ্ৰহণ কৰিবনে ?"</string>
+<string name="apn_edit_quit">"পৰিত্যাগ কৰক"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> যোগসূত্ৰ পইণ্ট সম্পাদনা কৰক t"</string>
+<string name="input_pin_limit">"দয়া করে 4- 8 নম্বর ইনপুট কৰক"</string>
+<string name="agps_supl_manual_settings">"SUPL চাৰ্ভাৰ মেনুৱেল ছেটিং"</string>
+<string name="agps_supl_manual_settings_summary">"মেনুৱেলি ছেট কৰা SUPL চাৰ্ভাৰ আৰু পোৰ্ট"</string>
+<string name="str_clear">"ক্লীয়াৰ"</string>
+<string name="str_save">"সংৰক্ষণ কৰা "</string>
+<string name="gps_location_suplserver">"চাৰ্ভাৰ"</string>
+    <string name="agps_setting">"Agps ছেটিং"</string>
+    <string name="open">"খোলা"</string>
+    <string name="close">"বন্ধ"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> মোবাইল নেটৱৰ্কছেটিংছ"</string>
+    <string name="pin_enabled_success">"SIM PIN সক্ৰিয়"</string>
+    <string name="pin_disabled_success">"SIM PIN নিস্ক্ৰিয়"</string>
+    <string name="gps_time_sync_attention_gps_on">"GPS পুন:সক্ৰিয় কৰিবলৈ অধিকতৰ 1 মিনিট সময় লাগিব. ইয়াৰোপৰি GPS, দুৰ্বল পৰ্যাবৰণ চিগনেলৰ বাবে সময় দিবলৈ অক্ষম হ\'ব পাৰে.\n\n আপুনি GPS প্ৰাপ্ত সময় ব্য‌ৱহাৰ কৰিবলৈ নিশ্চিত নে?"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS প্ৰাপ্ত সময় ব্য‌ৱহাৰৰ বাবে, প্ৰথমে GPS সক্ৰিয়কৰণ নিশ্চিত কৰক। তাৰপাছত GPS পুন:সক্ৰিয় কৰিবলৈ অধিকতৰ 1 মিনিট সময় লাগিব। ইয়াৰোপৰি GPS, দুৰ্বল পৰ্যাবৰণ চিগনেলৰ বাবে সময় দিবলৈ অক্ষম হ\'ব পাৰে।\n\n আপুনি GPS প্ৰাপ্ত সময় ব্য‌ৱহাৰ কৰিবলৈ আৰু অপেক্ষা কৰিবলৈ নিশ্চিত নে?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

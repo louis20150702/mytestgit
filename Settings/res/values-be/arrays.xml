@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- no translation found for wifi_security:0 (8491993170197127709) -->
+    <!-- no translation found for wifi_security:1 (6524315248437318854) -->
+    <!-- no translation found for wifi_security:2 (1532568756571457140) -->
+    <!-- no translation found for wifi_security:3 (3620707702811709779) -->
+    <!-- no translation found for wifi_security_no_eap:0 (2084555984818107151) -->
+    <!-- no translation found for wifi_security_no_eap:1 (397579322683471524) -->
+    <!-- no translation found for wifi_security_no_eap:2 (1968820975358150484) -->
+    <!-- no translation found for wifi_ap_security:0 (5251664683198623324) -->
+    <!-- no translation found for wifi_ap_security:1 (7989073072260294673) -->
+    <!-- no translation found for wifi_ap_security:2 (3112452131886885338) -->
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="2577747762745812488">"Няма"</item>
+    <item msgid="937786527870979616">"MSCHAPV2"</item>
+    <item msgid="5302613883318643629">"GTC"</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item msgid="4367119357633573465">"Няма"</item>
+    <item msgid="6062567900587138000">"SPN"</item>
+    <item msgid="2454085083342423481">"IMSI"</item>
+    <item msgid="2681427309183221543">"GID"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="6358963769537892925">"Месцазнаходжанне"</item>
+    <item msgid="255608127647030286">"Персанальны"</item>
+    <item msgid="4588829735729884491">"Абмен паведамленнямі"</item>
+    <item msgid="886742181977884584">"Медыя"</item>
+    <item msgid="7924928667052300589">"Прылада"</item>
+  </string-array>
+    <!-- no translation found for app_ops_summaries:41 (26109888160231211) -->
+    <!-- no translation found for app_ops_summaries:42 (5753382310468855812) -->
+    <!-- no translation found for app_ops_labels:14 (2623604824935968113) -->
+    <!-- no translation found for app_ops_labels:15 (4420177125221176306) -->
+    <!-- no translation found for app_ops_labels:21 (3527273606643794973) -->
+    <!-- no translation found for app_ops_labels:22 (4370895547001583812) -->
+    <!-- no translation found for app_ops_labels:41 (8584357129746649222) -->
+    <!-- no translation found for app_ops_labels:42 (7669257279311110599) -->
+    <!-- no translation found for captioning_typeface_selector_titles:0 (1319652728542138112) -->
+    <!-- no translation found for captioning_typeface_selector_titles:1 (1016452621833735880) -->
+    <!-- no translation found for captioning_typeface_selector_titles:2 (2496277987934654454) -->
+    <!-- no translation found for captioning_typeface_selector_titles:3 (4406003087391086325) -->
+    <!-- no translation found for captioning_typeface_selector_titles:4 (1558362802170124073) -->
+    <!-- no translation found for captioning_font_size_selector_titles:0 (4800919809575254054) -->
+    <!-- no translation found for captioning_font_size_selector_titles:1 (6781094565687692782) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (8222123259497646551) -->
+    <!-- no translation found for captioning_font_size_selector_titles:3 (5813217276778560466) -->
+    <!-- no translation found for captioning_font_size_selector_titles:4 (9044232017390975191) -->
+    <!-- no translation found for captioning_edge_type_selector_titles:0 (6022616153255438487) -->
+    <!-- no translation found for captioning_edge_type_selector_titles:1 (1352974708028506778) -->
+    <!-- no translation found for captioning_edge_type_selector_titles:2 (5850876295428722675) -->
+    <!-- no translation found for captioning_opacity_selector_titles:0 (7622491218136667566) -->
+    <!-- no translation found for captioning_opacity_selector_titles:1 (2367156416247936773) -->
+    <!-- no translation found for captioning_opacity_selector_titles:2 (5395560410107149298) -->
+    <!-- no translation found for captioning_opacity_selector_titles:3 (8342334626783983353) -->
+    <!-- no translation found for captioning_preset_selector_titles:0 (1630625150404038035) -->
+    <!-- no translation found for captioning_preset_selector_titles:1 (4589278788192525675) -->
+    <!-- no translation found for captioning_preset_selector_titles:2 (1309255027325660115) -->
+    <!-- no translation found for captioning_preset_selector_titles:3 (2985943780939258562) -->
+    <!-- no translation found for captioning_preset_selector_titles:4 (7520438652121629055) -->
+    <!-- no translation found for select_runtime_titles:0 (3574453009229338122) -->
+    <!-- no translation found for select_runtime_titles:1 (8978402910750533864) -->
+    <!-- no translation found for select_runtime_titles:2 (7839859333977894115) -->
+    <!-- no translation found for select_runtime_summaries:0 (6412880178297884701) -->
+    <!-- no translation found for select_runtime_summaries:1 (5131846588686178907) -->
+    <!-- no translation found for select_runtime_summaries:2 (4530003713865319928) -->
+    <!-- no translation found for overlay_display_devices_entries:2 (6027541158956821790) -->
+    <!-- no translation found for overlay_display_devices_entries:3 (8181151155909301030) -->
+    <!-- no translation found for overlay_display_devices_entries:4 (2920655562462493148) -->
+    <!-- no translation found for overlay_display_devices_entries:5 (8910371271391940941) -->
+    <!-- no translation found for overlay_display_devices_entries:6 (4171600481380800455) -->
+    <!-- no translation found for overlay_display_devices_entries:7 (1937752114395156918) -->
+  <string-array name="enable_opengl_traces_entries">
+    <item msgid="3191973083884253830">"Няма"</item>
+    <item msgid="9089630089455370183">"Logcat"</item>
+    <item msgid="5397807424362304288">"Systrace (Graphics)"</item>
+    <item msgid="1340692776955662664">"Выклікаць стэк на glGetError"</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item msgid="993742912147090253">"Адключана"</item>
+    <item msgid="675719912558941285">"Намаляваць непрамавугольную вобласць кліпа сінім колерам"</item>
+    <item msgid="1064373276095698656">"Вылучыце выпрабаваныя каманды малявання зялёным колерам"</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item msgid="2193584639058893150">"Адключана"</item>
+    <item msgid="2751513398307949636">"На экране ў выглядзе слупкоў"</item>
+    <item msgid="8272260411216018353">"На экране ў выглядзе ліній"</item>
+    <item msgid="120512413928262547">"У абалонцы adb dumpsys gfxinfo"</item>
+  </string-array>
+    <!-- no translation found for debug_hw_overdraw_entries:2 (2290859360633824369) -->
+    <!-- no translation found for debug_hw_overdraw_entries:3 (3448087929560624983) -->
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="7389829271787670252">"Запытацца"</item>
+    <item msgid="5077768429488260031">"Нiколi не дазваляць"</item>
+    <item msgid="1417929597727989746">"Заўсёды дазваляць"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (7088762389498381203) -->
+    <!-- no translation found for ram_states:1 (4517779899383204000) -->
+    <!-- no translation found for ram_states:2 (406385694840950802) -->
+    <!-- no translation found for ram_states:3 (4212263919458209842) -->
+    <string-array name="animator_duration_scale_entries">
+            <item>"Анімацыя выключана"</item>
+            <item>"Маштаб анімацыі 0.5x"</item>
+            <item>"Маштаб анімацыі 1x"</item>
+            <item>"Маштаб анімацыі 1.5x"</item>
+            <item>"Маштаб анімацыі 2x"</item>
+            <item>"Маштаб анімацыі 5x"</item>
+            <item>"Маштаб анімацыі 10x"</item>
+      </string-array>
+     <string-array name="timezone_filters">
+            <item>"Амерыка"</item>
+            <item>"Еўропа"</item>
+            <item>"Афрыка"</item>
+            <item>"Азія"</item>
+            <item>"Аўстралія"</item>
+            <item>"Ціхі акіян"</item>
+            <item>"Усе"</item>
+      </string-array>
+     <string-array name="screen_timeout_entries">
+            <item>"15 секунд"</item>
+            <item>"30 секунд"</item>
+            <item>"1 хвіліна"</item>
+            <item>"2 хвіліны"</item>
+            <item>"5 хвілін"</item>
+            <item>"10 хвілін"</item>
+            <item>"30 хвілін"</item>
+            <!--revo lyq 20141215-->    
+            <item>"Ніколі"</item>
+      </string-array>
+     <string-array name="dream_timeout_entries">
+            <item>"Ніколі"</item>
+            <item>"15 секунд"</item>
+            <item>"30 секунд"</item>
+            <item>"1 хвіліна"</item>
+            <item>"2 хвіліны"</item>
+            <item>"5 хвілін"</item>
+            <item>"10 хвілін"</item>
+            <item>"30 хвілін"</item>
+      </string-array>
+     <string-array name="lock_after_timeout_entries">
+            <item>"Неадкладна"</item>
+            <item>"5 секунд"</item>
+            <item>"15 секунд"</item>
+            <item>"30 секунд"</item>
+            <item>"1 хвіліна"</item>
+            <item>"2 хвіліны"</item>
+            <item>"5 хвілін"</item>
+            <item>"10 хвілін"</item>
+            <item>"30 хвілін"</item>
+      </string-array>
+     <string-array name="entries_font_size">
+            <item>"Малы"</item>
+            <item>"Звычайны"</item>
+            <item>"Вялікі"</item>
+            <item>"Вялiзны"</item>
+      </string-array>
+<string-array name="tts_rate_entries">
+    <item msgid="6041212618892492920">"Вельмі павольная"</item>
+    <item msgid="2361722960903353554">"Павольная"</item>
+    <item msgid="1145554631248513562">"Звычайная"</item>
+    <item msgid="7553665153391107454">"Хуткая"</item>
+    <item msgid="1370673569131070146">"Хутчэй"</item>
+    <item msgid="4648206845228970803">"Вельмі хутка"</item>
+    <item msgid="4977949754169483251">"Хутка"</item>
+    <item msgid="6106302964845503577">"Вельмі хуткі"</item>
+    <item msgid="6800277205640837264">"Самы хуткі"</item>
+  </string-array>
+     <string-array name="tts_pitch_entries">
+            <item>"Вельмі нізкі"</item>
+            <item>"Нізкі"</item>
+            <item>"Звычайны"</item>
+            <item>"Высокі"</item>
+            <item>"Вельмі высокі"</item>
+      </string-array>
+     <string-array name="wifi_status">
+            <item></item>
+            <item>"Сканаванне..."</item>
+            <item>"Падлучэнне..."</item>
+            <item>"Аўтэнтыфікацыя..."</item>
+            <item>"Атрыманне IP-адраса..."</item>
+            <item>"Падлучана"</item>
+            <item>"Прыпынена"</item>
+            <item>"Адлучэнне..."</item>
+            <item>"Адключана"</item>
+            <item>"Няўдала"</item>
+      </string-array>
+     <string-array name="wifi_status_with_ssid">
+            <item></item>
+            <item>"Сканаванне..."</item>
+            <item>"Падключэнне да сеткі <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+            <item>"Аўтэнтыфікацыя ў сетцы <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+            <item>"Атрыманне IP-адраса ў сетцы <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+            <item>"Падключаны да сеткi <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+            <item>"Прыпынена"</item>
+            <item>"Адключэнне ад сеткі <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+            <item>"Адключана"</item>
+            <item>"Няўдала"</item>
+      </string-array>
+     <string-array name="wifi_eap_method">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+            <item>"Націсніце кнопку"</item>
+            <item>"PIN-код ад пірынгавай прылады"</item>
+            <item>"PIN-код для гэтай прылады"</item>
+      </string-array>
+     <string-array name="wifi_p2p_status">
+            <item>"Падключана"</item>
+            <item>"Запрошаны"</item>
+            <item>"Няўдала"</item>
+            <item>"Даступны"</item>
+            <item>"Выхад за дазволеныя межы"</item>
+      </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+            <item>"2 хвіліны"</item>
+            <item>"5 хвілін"</item>
+            <item>"1 гадзіна"</item>
+            <item>"Ніколі не ўключаць тайм-аўт"</item>
+      </string-array>
+     <string-array name="wifi_signal">
+            <item>"Дрэнная"</item>
+            <item>"Слабая"</item>
+            <item>"Добрая"</item>
+            <item>"Выдатная"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+            <item>"Заўсёды"</item>
+            <item>"Толькі калі падлучаны"</item>
+            <item>"Ніколі (павялічвае выкарыстанне дадзеных)"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+            <item>"Заўсёды"</item>
+            <item>"Толькі калі падлучаны"</item>
+            <item>"Ніколі"</item>
+      </string-array>
+     <string-array name="wifi_frequency_band_entries">
+            <item>"Аўтаматычна"</item>
+            <item>"Толькі 5 ГГц"</item>
+            <item>"Толькі 2,4 ГГц"</item>
+      </string-array>
+     <string-array name="usage_stats_display_order_types">
+            <item>"Час выкарыстання"</item>
+            <item>"Запуск падліку"</item>
+            <item>"Назва прыкладання"</item>
+      </string-array>
+     <string-array name="wifi_eap_entries">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_phase2_entries">
+            <item>"Няма"</item>
+            <item>"PAP"</item>
+            <item>"MSCHAP"</item>
+            <item>"MSCHAPV2"</item>
+            <item>"GTC"</item>
+      </string-array>
+     <string-array name="wifi_ip_settings">
+            <item>"DHCP"</item>
+            <item>"Статычны"</item>
+      </string-array>
+     <string-array name="wifi_proxy_settings">
+            <item>"Няма"</item>
+            <item>"Ручныя налады"</item>
+      </string-array>
+     <string-array name="emergency_tone_entries">
+            <item>"Адключана"</item>
+            <item>"Абвестка"</item>
+            <item>"Вібраваць"</item>
+      </string-array>
+     <string-array name="apn_auth_entries">
+            <item>"Няма"</item>
+            <item>"PAP"</item>
+            <item>"CHAP"</item>
+            <item>"PAP ці CHAP"</item>
+      </string-array>
+     <string-array name="apn_protocol_entries">
+            <item>"IPv4"</item>
+            <item>"IPv6"</item>
+            <item>"IPv4/IPv6"</item>
+      </string-array>
+     <string-array name="bearer_entries">
+            <item>"LTE"</item>
+            <item>"eHRPD"</item>
+            <item>"Не пазначана"</item>
+      </string-array>
+     <string-array name="app_install_location_entries">
+            <item>"Унутраная памяць прылады"</item>
+            <item>"Зменная SD-карта"</item>
+            <item>"Няхай вырашыць сістэма"</item>
+      </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+            <item>"Кароткі"</item>
+            <item>"Сярэдні"</item>
+            <item>"Доўгі"</item>
+      </string-array>
+     <string-array name="hdcp_checking_titles">
+            <item>"Ніколі не правяраць"</item>
+            <item>"Праверка толькi для змесціва, абароненага DRM"</item>
+            <item>"Заўсёды правяраць"</item>
+      </string-array>
+     <string-array name="hdcp_checking_summaries">
+            <item>"Ніколі не выкарыстоўваць праверку HDCP"</item>
+            <item>"Выкарыстанне праверкі HDCP только для змесціва, абароненага DRM"</item>
+            <item>"Заўсёды выкарыстоўваць праверку HDCP"</item>
+      </string-array>
+     <string-array name="window_animation_scale_entries">
+            <item>"Анімацыя выключаная"</item>
+            <item>"Маштаб анімацыі 0.5x"</item>
+            <item>"Маштаб анімацыі 1x"</item>
+            <item>"Маштаб анімацыі 1,5x"</item>
+            <item>"Маштаб анімацыі 2x"</item>
+            <item>"Маштаб анімацыі 5x"</item>
+            <item>"Маштаб анімацыі 10x"</item>
+      </string-array>
+     <string-array name="transition_animation_scale_entries">
+            <item>"Анімацыя выключана"</item>
+            <item>"Маштаб анімацыі 0.5x"</item>
+            <item>"Маштаб анімацыі 1x"</item>
+            <item>"Маштаб анімацыі 1,5x"</item>
+            <item>"Маштаб анімацыі 2x"</item>
+            <item>"Маштаб анімацыі 5x"</item>
+            <item>"Маштаб анімацыі 10x"</item>
+      </string-array>
+     <string-array name="app_process_limit_entries">
+            <item>"Стандартны ліміт"</item>
+            <item>"Няма фонавых працэсаў"</item>
+            <item>"Не больш за 1  працэс"</item>
+            <item>"Не больш за 2 працэсы"</item>
+            <item>"Не больш за 3 працэсы"</item>
+            <item>"Не больш за 4 працэсы"</item>
+      </string-array>
+     <string-array name="vpn_types_long">
+            <item>"PPTP VPN"</item>
+            <item>"L2TP/IPSec VPN з загадзя размеркаванымі ключамі"</item>
+            <item>"L2TP/IPSec VPN з сертыфікатамі"</item>
+            <item>"IPSec VPN з папярэдне размеркаванымі ключамі і аўтэнтыфікацыяй Xauth"</item>
+            <item>"IPSec VPN з сертыфікатамі і аўтэнтыфікацыяй Xauth"</item>
+            <item>"IPSec VPN з сертыфікатамі і гібрыднай аўтэнтыфікацыяй"</item>
+      </string-array>
+     <string-array name="vpn_states">
+            <item>"Адключана"</item>
+            <item>"Ініцыялізацыя..."</item>
+            <item>"Злучэнне..."</item>
+            <item>"Злучана"</item>
+            <item>"Тайм-аўт"</item>
+            <item>"Няўдала"</item>
+      </string-array>
+     <string-array name="silent_mode_entries">
+            <item>"Адключана"</item>
+            <item>"Вібрацыя"</item>
+            <item>"Выключыць гук"</item>
+      </string-array>
+</resources>

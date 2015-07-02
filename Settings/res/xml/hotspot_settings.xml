@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/wifi_advanced_titlebar">
+
+    <Preference
+            android:key="hotspot_ssid_and_security"
+            android:title="@string/wifi_tether_configure_ap_text"
+            android:persistent="false"/>
+
+    <PreferenceCategory
+            android:key="hotspot_connected_stations"
+            android:title="@string/hotspot_connected_stations" >
+        <Preference
+                android:key="hotspot_no_connected_station"
+                android:title="@string/hotspot_no_connected_station" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:key="hotspot_blocked_stations"
+            android:title="@string/hotspot_blocked_stations" >
+        <Preference
+                android:key="hotspot_no_blocked_station"
+                android:title="@string/hotspot_no_blocked_station" />
+    </PreferenceCategory>
+</PreferenceScreen>

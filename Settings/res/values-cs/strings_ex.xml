@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Nastavení apn typu"</string>
+<string name="user_could_input_apn_type">"Uživatel nemohl zadat apn typ"</string>
+<string name="could_not_input_the_same_apn_type">"Nebylo možné zadat stejný typ apn"</string>
+<string name="apn_type_message">"Neobsahuje standardní typ ve vašem novém APN, nebude možné zvolit APN."</string>
+<string name="error_apn_type_message">"APN typ nemůže být prázdný"</string>
+<string name="error_apn_type">"Apn typ, který jste zadali, není podporován, prosím, zadejte znovu!"</string>
+<string name="same_apn_type">"Zadali jste stejný typ APN, prosím, zadejte znovu!"</string>
+<string name="empty_apn_type">"Nezadali jste anebo zvolte jakýkoliv typ APN, prosím, zadejte znovu!"</string>
+<string name="dual_settings_title_uui">"Správa SIM karty"</string>
+<string name="dual_voice_setting_title">"Nastavení hlasu"</string>
+<string name="dual_video_setting_title">"Nastavení videa"</string>
+<string name="dual_mms_setting_title">"Nastavení SMS"</string>
+<string name="dual_settings_title">"Nastavení duální Sim"</string>
+<string name="sim_name_setting_title">"Editovat název SIM"</string>
+<string name="sim_color_setting_title">"Nastavit barvu pozadí"</string>
+<string name="dual_settings_always_prompt">"Vždy rychlé"</string>
+<string name="mms_settings_auto">"Auto"</string>
+<string name="no_need_set_data_subscription">"Žádná potřeba nastavit předplatné dat ."</string>
+<string name="voice_setting_title">"Nastavení hlasového hovoru"</string>
+<string name="video_setting_title">"Nastavení video hovoru"</string>
+<string name="mms_setting_title">"Nastavení MMS a SMS"</string>
+<string name="sim_reply_setting">"Nastavení odpovědi Sim"</string>
+<string name="reply_message_setting">"Odpověď Mms anebo Sms"</string>
+<string name="closeData">"Zavřít"</string>
+<string name="data_title">"Nastavení datového připojení"</string>
+<string name="sel_sub_title">"Nastavení pohotovosti"</string>
+<string name="sel_sub_summary">"Pro aktivaci anebo deaktivaci SIM karty"</string>
+<string name="set_data_subscription_timeout">"Přestávka nastavení datového připojení!"</string>
+<string name="set_dds_failed">"Chyba!Vymazat všechny datové připojení a zkusit znovu!"</string>
+<string name="set_dds_success">"Nastavení úspěšné"</string>
+<string name="set_data_subscription_progress">"Nastavování, prosím, čekejte ..."</string>
+<string name="set_data_subscription_error_ok">"Určit"</string>
+<string name="set_data_subscription_error_title">"Chyba"</string>
+<string name="set_data_subscription_error">"Bez SIM karty, prosím, ověřte a zkuste znovu!"</string>
+<string name="sim_retries_left">"Zůstávající počet"</string>
+<string name="menu_kill_apps_services">"Zavřete všechny aplikace"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protokol používání dat na pozadí."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Příjmout protokol používání dat na pozadí?"</string>
+<string name="apn_edit_quit">"ukončit"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Editovat přístupový bod"</string>
+<string name="input_pin_limit">"Prosím, zadejte 4 - 8 čísel"</string>
+    <string name="agps_supl_manual_settings">"Manuální nastavení SUPL serveru"</string>
+    <string name="agps_supl_manual_settings_summary">"Manuální nastavení SUPL serveru a portu"</string>
+    <string name="str_clear">Vymazat</string>
+    <string name="str_save">"Uložit"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Agps nastavení"</string>
+    <string name="open">"otevřít"</string>
+    <string name="close">"zavřít"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Nastavení mobilní sítě"</string>
+    <string name="pin_enabled_success">"Kód PIN karty SIM je povolen."</string>
+    <string name="pin_disabled_success">"Kód PIN karty SIM je zakázán."</string>
+    <string name="gps_time_sync_attention_gps_on">"Bude to trvat nejvíc 1 minutu pro získání upevnění GPS. Kromě toho, GPS nemusí poskytnout čas kvůli slabému okolnímu signálu.\n\nSkutečně si přejete použít čas poskytnutý GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Pro použití času poskytnutému GPS musíte nejdřív aktivovat GPS. Pak to trvá nejvíc 1 minutu pro získání upevnění GPS. Kromě toho, GPS nemusí poskytnout čas kvůli slabému okolnímu signálu. \n\nSkutečné si přejete teď aktivovat GPS a počkat na čas poskytnutý GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

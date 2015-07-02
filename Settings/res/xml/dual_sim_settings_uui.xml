@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2010, Code Aurora Forum. All rights reserved.
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" >
+
+    <PreferenceScreen
+        android:key="standby_setting"
+        android:persistent="false"
+        android:summary="@string/sel_sub_summary"
+        android:title="@string/sel_sub_title" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.phone.StandbySet"
+            android:targetPackage="com.android.phone" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="simslotcfg"
+        android:persistent="true"
+        android:summary="@string/simslotcfg_sub_summary"
+        android:title="@string/simslotcfg_title" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.phone.SimSlotCfgActivity"
+            android:targetPackage="com.android.phone"/>
+
+    </PreferenceScreen>
+
+    <com.sprd.settings.sim.ListPreference
+        android:key="data_setting"
+        android:persistent="false"
+        android:title="@string/data_title" />
+    <com.sprd.settings.sim.ListPreference
+        android:key="voice_setting"
+        android:persistent="false"
+        android:title="@string/voice_setting_title" />
+    <com.sprd.settings.sim.ListPreference
+        android:key="video_setting"
+        android:persistent="false"
+        android:title="@string/video_setting_title" />
+    <com.sprd.settings.sim.ListPreference
+        android:key="mms_setting"
+        android:persistent="false"
+        android:title="@string/mms_setting_title" />
+    <PreferenceCategory android:title="@string/sim_reply_setting"
+                        android:key="sim_reply_setting">
+        <CheckBoxPreference android:key="reply_message_setting"
+                        android:title="@string/reply_message_setting"
+                        android:defaultValue="false" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

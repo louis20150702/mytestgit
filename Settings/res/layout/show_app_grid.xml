@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#e9e9e9" >
+
+       <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" >
+
+        <ImageButton
+            android:id="@+id/ib_change_view"
+            android:layout_width="76px"
+            android:layout_height="54px"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5px"
+            android:layout_marginTop="1px"
+            android:src="@drawable/list" >
+        </ImageButton>
+    </RelativeLayout>
+    
+    <GridView
+        android:id="@+id/gv_apps"
+        android:layout_below="@+id/separate_line"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="0px"
+        android:layout_marginLeft="5px"
+        android:layout_marginRight="5px"
+        android:layout_marginTop="0px"
+        android:horizontalSpacing="2px"
+        android:listSelector="@drawable/choose_gridview"
+        android:numColumns="4"
+        android:verticalSpacing="15px" >
+    </GridView>
+
+
+
+</RelativeLayout>

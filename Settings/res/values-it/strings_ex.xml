@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"impostazione APN"</string>
+<string name="user_could_input_apn_type">"inserimento manuale dell\'APN"</string>
+<string name="could_not_input_the_same_apn_type">"impossibile inserire lo stesso APN"</string>
+<string name="apn_type_message">"Nessuna tipologia di default nel nuovo APN, impossibile selezionare APN."</string>
+<string name="error_apn_type_message">"Il tipo APN non può essere vuoto"</string>
+<string name="error_apn_type">"APN che è stato inserito non è supportato, immettere nuovamente!"</string>
+<string name="same_apn_type">"Si è inserito lo stesso APN, immettere nuovamente!"</string>
+<string name="empty_apn_type">"Non si è immesso o selezionato alcun APN, immettere nuovamente!"</string>
+<string name="dual_settings_title_uui">"Gestione SIM card"</string>
+<string name="dual_voice_setting_title">"Impostazioni vocali"</string>
+<string name="dual_video_setting_title">"Impostazioni video"</string>
+<string name="dual_mms_setting_title">"Impostazioni SMS"</string>
+<string name="dual_settings_title">"Impostazioni Dual SIM"</string>
+<string name="sim_name_setting_title">"Modificare nome SIM"</string>
+<string name="sim_color_setting_title">"imposta il colore di sfondo"</string>
+<string name="dual_settings_always_prompt">"Sempre pronti"</string>
+<string name="mms_settings_auto">"Automatico"</string>
+<string name="no_need_set_data_subscription">"Non è necessario impostare sottoscrizione dati. "</string>
+<string name="voice_setting_title">"Impostazioni chiamata vocale"</string>
+<string name="video_setting_title">"Impostazioni chiamata video"</string>
+<string name="mms_setting_title">"Impostazioni MMS e SMS"</string>
+<string name="sim_reply_setting">"Impostazioni di risposta alla chiamata"</string>
+<string name="reply_message_setting">"Rispondere a MMS e SMS"</string>
+<string name="closeData">"chiudi"</string>
+<string name="data_title">"Impostazioni connessione dati"</string>
+<string name="sel_sub_title">"Impostazioni di Standby"</string>
+<string name="sel_sub_summary">"Per abilitare o disabilitare la SIM"</string>
+<string name="set_data_subscription_timeout">"Impostazioni connessione dati scaduta!"</string>
+<string name="set_dds_failed">"Errore! Eliminare tutte le connessioni dati e riprovare"</string>
+<string name="set_dds_success">"Impostato con successo"</string>
+<string name="set_data_subscription_progress">"Impostazione in corso, si prega di attendere..."</string>
+<string name="set_data_subscription_error_ok">"Determinare"</string>
+<string name="set_data_subscription_error_title">"Errore"</string>
+<string name="set_data_subscription_error">"Senza questa scheda SIM, verificare e provare di nuovo!"</string>
+<string name="sim_retries_left">"Numero rimanente di"</string>
+<string name="menu_kill_apps_services">"Chiudere tutte le applicazioni"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protocollo di utilizzo dati di sfondo."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"accetta protocollo di utilizzo dati di background?"</string>
+<string name="apn_edit_quit">"Uscire"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Modificare punto di accesso""</string>
+<string name="input_pin_limit">"Inserire dai 4 agli 8 numeri"</string>
+    <string name="agps_supl_manual_settings">"Impostazioni manuali del server SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Imposta manualmente il server SUPL e la password"</string>
+     <string name="str_clear">"CANC"</string>
+     <string name="str_save">"Salva"</string>
+     <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Impostazioni Agps"</string>
+    <string name="open">"Aperta"</string>
+    <string name="close">"Chiudi"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> impostazioni rete mobile"</string>
+    <string name="pin_enabled_success">"PIN della SIM attivato"</string>
+    <string name="pin_disabled_success">"PIN della SIM disattivato"</string>
+    <string name="gps_time_sync_attention_gps_on">" Occorre circa 1 minuto per ottenere il GPS. Inoltre, il GPS potrebbe non essere in grado di garantire del tempo, a causa del basso segnale del posto. \n\nSi è sicuri di voler abilitare il GPS adesso e attendere il tempo fornito dal GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Per utilizzare il tempo del GPS è necessario abilitare innanzitutto il GPS. Occorre circa 1 minuto per ottenere il GPS. Inoltre, il GPS potrebbe non essere in grado di garantire del tempo, a causa del basso segnale del posto. \n\nSi è sicuri di voler abilitare il GPS adesso e attendere il tempo fornito dal GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g>APNs"</string>
+</resources>

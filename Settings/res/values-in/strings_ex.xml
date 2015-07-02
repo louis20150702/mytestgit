@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Pengaturan tipe apn"</string>
+<string name="user_could_input_apn_type">"Pengguna dapat memasukkan tipe apn"</string>
+<string name="could_not_input_the_same_apn_type">"Tidak dapat memasukkan tipe apn yang sama"</string>
+<string name="apn_type_message">"Itu tidak mengandung tipe standar di APN baru anda, tidak dapat memungkin untuk memilih APN."</string>
+<string name="error_apn_type_message">"Tipe APN  tidak dapat kosong"</string>
+<string name="error_apn_type">"Tipe APN yang anda masukkan tidak mendukung, silahkan masukkan kembali"</string>
+<string name="same_apn_type">"Anda harus memasukkan tipe APN yang sama, silahkan masukkan kembali!"</string>
+<string name="empty_apn_type">"Anda tidak dapat memasukkan atau memilih tipe APN apapun, silahkan ulangi kembali!""</string>
+<string name="dual_settings_title_uui">"Manajemen kartu SIM"</string>
+<string name="dual_voice_setting_title">"Pengaturan Suara"</string>
+<string name="dual_video_setting_title">"Pengaturan Video""</string>
+<string name="dual_mms_setting_title">"Pengaturan SMS""</string>
+<string name="dual_settings_title">"Pengaturan Sim rangkap"</string>
+<string name="sim_name_setting_title">"Memperbaiki nama SIM"</string>
+<string name="sim_color_setting_title">"Mengatur warna latar belakang"</string>
+<string name="dual_settings_always_prompt">"Cepat selalu"</string>
+<string name="mms_settings_auto">"Otomatis"</string>
+<string name="no_need_set_data_subscription">"Tidak membutuhkan untuk mengatur sambungan data standar.""</string>
+<string name="voice_setting_title">"Pengaturan panggilan suara"</string>
+<string name="video_setting_title">"Pengaturan panggilan Video"</string>
+<string name="mms_setting_title">"Pengaturan MMS dan SMS"</string>
+<string name="sim_reply_setting">"Pengaturan membalas Sim"</string>
+<string name="reply_message_setting">"Balas Mms atau Sms"</string>
+<string name="closeData">"Tutup"</string>
+<string name="data_title">"Pengaturan Koneksi Data"</string>
+<string name="sel_sub_title">"Pengaturan saat Siaga"</string>
+<string name="sel_sub_summary">"Untuk mengizinkan atau tidak izinkan kartu SIM"</string>
+<string name="set_data_subscription_timeout">"Pengaturan data koneksi telah habis waktu!"</string>
+<string name="set_dds_failed">"Kesalahan!Hapus semua data koneksi dan ulangi kembali!"</string>
+<string name="set_dds_success">"Pengaturan berhasil"</string>
+<string name="set_data_subscription_progress">"Sedang mengatur, silahkan tunggu …"</string>
+<string name="set_data_subscription_error_ok">"Menentukan"</string>
+<string name="set_data_subscription_error_title">"Kesalahan"</string>
+<string name="set_data_subscription_error">"Tanpa kartu SIM ini, silahkan periksa dan ulangi kembali!"</string>
+<string name="sim_retries_left">"Sisa dari nomor"</string>
+<string name="menu_kill_apps_services">"Tutup semua aplikasi"</string>
+<string name="back_groud_data_usage_restrict_protocal">""Latar belakang data penggunaaan protokal"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Menerima latar belakand fata penggunaan protokol?"</string>
+<string name="apn_edit_quit">"Keluar"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Memperbaiki akses poin"</string>
+<string name="input_pin_limit">"Silahkan masukkan 4-8 nomor"</string>
+    <string name="agps_supl_manual_settings">"Pengaturan manual server SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Mengatur manual server SUPL dan port"</string>
+     <string name="str_clear">"Bersihkan"</string>
+     <string name="str_save">Simpan</string>
+     <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Pengaturan Agps"</string>
+    <string name="open">"Buka"</string>
+    <string name="close">"Tutup"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Pengaturan jaringan mobile"</string>
+    <string name="pin_enabled_success">"PIN SIM diaktifkan"</string>
+    <string name="pin_disabled_success">"PIN SIM dinonaktifkan"</string>
+    <string name="gps_time_sync_attention_gps_on">"Itu kan memakan waktu paling 1 menit untuk memperoleh GPS tetap. Disamping itu, GPS mungkin gagal untuk menyediakan waktu karena sinyal lingkungan lemah.\n\nAnda yakin untuk menggunakan GPS penyediaan waktu?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Untuk menggunakan GPS penyediaan waktu, anda harus terlebih dahulu mengaktifkan GPS. Itu kan memakan waktu paling 1 menit untuk memperoleh GPS tetap. Disamping itu, GPS mungkin gagal untuk menyediakan waktu karena sinyal lingkungan lemah.\n\nAnda yakin untuk menggunakan GPS penyediaan waktu?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

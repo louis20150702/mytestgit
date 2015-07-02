@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Réglage du type d\'APN"</string>
+<string name="user_could_input_apn_type">"L\'utilisateur peur entrer un type d\'apn"</string>
+<string name="could_not_input_the_same_apn_type">"Ne peut pas saisir le même type d\'APN"</string>
+<string name="apn_type_message">"Il n\'y a pas de type par défaut dans votre nouvel APN donc impossible de sélectionner l\'APN"</string>
+<string name="error_apn_type_message">"Type d\'APN ne peut être vide"</string>
+<string name="error_apn_type">"Le type d\'APN entré n\'est pas supportez, rééssayez!"</string>
+<string name="same_apn_type">"Vous avez entré le même type d\'APN, réessayez s\'il vous plaît !"</string>
+<string name="empty_apn_type">"Vous n\'avez ni entré ni sélectionné un type d\'APN, réessayez s\'il vous plaît !"</string>
+<string name="dual_settings_title_uui">"Gestion des cartes SIM"</string>
+<string name="dual_voice_setting_title">"Paramètres de voix"</string>
+<string name="dual_video_setting_title">"Paramètres vidéo"</string>
+<string name="dual_mms_setting_title">"Paramètres SMS"</string>
+<string name="dual_settings_title">"Réglages Double Sim"</string>
+<string name="sim_name_setting_title">"Editer le nom de la Sim"</string>
+<string name="sim_color_setting_title">"Régler couleur d\'arrière-plan"</string>
+<string name="dual_settings_always_prompt">"Toujours demander"</string>
+<string name="mms_settings_auto">"Auto"</string>
+<string name="no_need_set_data_subscription">"Pas besoin de régler les souscriptions de données."</string>
+<string name="voice_setting_title">"Paramètres d\'appel vocal"</string>
+<string name="video_setting_title">"Paramètres appel vidéo"</string>
+<string name="mms_setting_title">"Préférences MMS et SMS"</string>
+<string name="sim_reply_setting">"Paramètres réponse SIM"</string>
+<string name="reply_message_setting">"Répondre au Mms ou Sms"</string>
+<string name="closeData">"fermer"</string>
+<string name="data_title">"Réglages connexion de données"</string>
+<string name="sel_sub_title">"Paramètres veille"</string>
+<string name="sel_sub_summary">"Pour activer ou désactiver la carte SIM"</string>
+<string name="set_data_subscription_timeout">"Temps écoule pour les réglages de la connexion de données !"</string>
+<string name="set_dds_failed">"Erreur ! Effacez toutes les connexions de données et réessayez !"</string>
+<string name="set_dds_success">"Réglage effectué."</string>
+<string name="set_data_subscription_progress">"Réglages en cours, merci de patienter…"</string>
+<string name="set_data_subscription_error_ok">"Déterminer"</string>
+<string name="set_data_subscription_error_title">"Erreur"</string>
+<string name="set_data_subscription_error">"Sans cette carte SIM, merci de vérifier et de réessayer !"</string>
+<string name="sim_retries_left">"Nombre restant de"</string>
+<string name="menu_kill_apps_services">"Fermer toutes les applications"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Utilisation de données cellulaires en arrière-plan."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Accepter l\'usage de données cellulaires en arrière-plan ?"</string>
+<string name="apn_edit_quit">"Quitter"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="sim_id">%1$d</xliff:g> opérteur déverrouiller PIN"</string>
+<string name="input_pin_limit">"Merci d\'insérer 4 à 8 chiffres"</string>
+    <string name="agps_supl_manual_settings">"Configuration manuelle du serveur SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Configuration manuelle du serveur et du port SUPL "</string>
+     <string name="str_clear">"EFF."</string>
+     <string name="str_save">"Sauvegarder"</string>
+     <string name="gps_location_suplserver">"Serveur"</string>
+    <string name="agps_setting">"Réglages Agps"</string>
+    <string name="open">"Ouvert"</string>
+    <string name="close">"Fermer"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="sim_id">%1$d</xliff:g> sim déverrouiller PIN"</string>
+    <string name="pin_enabled_success">"Le code PIN de la carte SIM est activé"</string>
+    <string name="pin_disabled_success">"Code PIN de la carte SIM désactivé"</string>
+    <string name="gps_time_sync_attention_gps_on">"L\'obtention du signal GPS prendra au maximum 1 minute. De plus, le GPS peut ne pas fournir l\'heure à cause d\'un environnement faible en signal.\n\nVoulez vous vraiment utiliser l\'heure GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Pour utiliser l\'heure GPS, vous devez d\'abord activer le GPS. Ensuite, il faut au maximum 1 minute pour obtenir le signal GPS . De plus, le GPS peut ne pas fournir l\'heure à cause d\'un environnement faible en signal. \n\nVoulez vous vraiment utiliser le GPS maintenant et attendre l\'heure GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

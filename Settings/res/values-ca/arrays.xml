@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- no translation found for wifi_security:0 (8491993170197127709) -->
+    <!-- no translation found for wifi_security:1 (6524315248437318854) -->
+    <!-- no translation found for wifi_security:2 (1532568756571457140) -->
+    <!-- no translation found for wifi_security:3 (3620707702811709779) -->
+    <!-- no translation found for wifi_security_no_eap:0 (2084555984818107151) -->
+    <!-- no translation found for wifi_security_no_eap:1 (397579322683471524) -->
+    <!-- no translation found for wifi_security_no_eap:2 (1968820975358150484) -->
+    <!-- no translation found for wifi_ap_security:0 (5251664683198623324) -->
+    <!-- no translation found for wifi_ap_security:1 (7989073072260294673) -->
+    <!-- no translation found for wifi_ap_security:2 (3112452131886885338) -->
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="2577747762745812488">"Cap"</item>
+    <item msgid="937786527870979616">"MSCHAPV2"</item>
+    <item msgid="5302613883318643629">"GTC"</item>
+  </string-array>
+  <string-array name="mvno_type_entries">
+    <item msgid="4367119357633573465">"Cap"</item>
+    <item msgid="6062567900587138000">"SPN"</item>
+    <item msgid="2454085083342423481">"IMSI"</item>
+    <item msgid="2681427309183221543">"GID"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="6358963769537892925">"Ubicació"</item>
+    <item msgid="255608127647030286">"Personal"</item>
+    <item msgid="4588829735729884491">"Missatgeria"</item>
+    <item msgid="886742181977884584">"Multimèdia"</item>
+    <item msgid="7924928667052300589">"Dispositiu"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="4979188868761515915">"ubicació aproximada"</item>
+    <item msgid="5789673140227507995">"ubicació precisa"</item>
+    <item msgid="1061584358377390581">"GPS"</item>
+    <item msgid="5387405117297558954">"vibració"</item>
+    <item msgid="3434165993711230924">"lectura de contactes"</item>
+    <item msgid="616161687718081936">"modifica els contactes"</item>
+    <item msgid="7638002295329050091">"llegeix el registre de trucades"</item>
+    <item msgid="6546959730920410907">"modifica el registre de trucades"</item>
+    <item msgid="446877710771379667">"lectura del calendari"</item>
+    <item msgid="7674458294386319722">"modifica el calendari"</item>
+    <item msgid="8281201165558093009">"exploració de Wi-Fi"</item>
+    <item msgid="8694611243479480497">"notificació"</item>
+    <item msgid="7776439107987345446">"exploració de cel·la"</item>
+    <item msgid="514615766544675057">"trucada de telèfon"</item>
+    <item msgid="8181415497109310680">"llegeix SMS"</item>
+    <item msgid="6816551144382117307">"escriu SMS"</item>
+    <item msgid="4600463921908905030">"rep SMS"</item>
+    <item msgid="5958926493289432745">"rep SMS d\'emergència"</item>
+    <item msgid="4945269495221089540">"rep MMS"</item>
+    <item msgid="5570472453573929087">"rep insercions WAP"</item>
+    <item msgid="7125408150230860501">"envia SMS"</item>
+    <item msgid="7080337936612188061">"llegeix SMS ICC"</item>
+    <item msgid="587124103118495063">"escriu SMS ICC"</item>
+    <item msgid="2320577158869025503">"modifica la configuració"</item>
+    <item msgid="1545733463471924009">"dibuixa a sobre"</item>
+    <item msgid="3609046903962454582">"accedeix a les notificacions"</item>
+    <item msgid="4671646036128214513">"càmera"</item>
+    <item msgid="1097324338692486211">"enregistra l\'àudio"</item>
+    <item msgid="5031552983987798163">"reprodueix l\'àudio"</item>
+    <item msgid="8374996688066472414">"llegeix el porta-retalls"</item>
+    <item msgid="3045529469061083747">"modifica el porta-retalls"</item>
+    <item msgid="5124443975763747838">"botons multimèdia"</item>
+    <item msgid="4547883971364273343">"enfocament de l\'àudio"</item>
+    <item msgid="2603878814882344450">"volum general"</item>
+    <item msgid="7136963238377062018">"volum de la veu"</item>
+    <item msgid="4270236897655923007">"volum del to"</item>
+    <item msgid="6325739889222559394">"volum multimèdia"</item>
+    <item msgid="5762123934816216821">"volum de l\'alarma"</item>
+    <item msgid="785049718065337473">"volum de notificació"</item>
+    <item msgid="6700305533746877052">"volum del Bluetooth"</item>
+    <item msgid="2029227495214047094">"actiu"</item>
+    <item msgid="26109888160231211">"supervisa la ubicació"</item>
+    <item msgid="5753382310468855812">"fes un seguiment de la precisió de la ubicació"</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item msgid="6602854600289714121">"Ubicació"</item>
+    <item msgid="8677040780775113033">"Ubicació"</item>
+    <item msgid="1660743989948992916">"Ubicació"</item>
+    <item msgid="8791172739860195290">"Vibració"</item>
+    <item msgid="383413555642128046">"Lectura de contactes"</item>
+    <item msgid="3654594895269697313">"Modifica els contactes"</item>
+    <item msgid="7928393476362362538">"Llegeix el registre de trucades"</item>
+    <item msgid="6248591205254641116">"Modifica el registre de trucades"</item>
+    <item msgid="6093344633066170692">"Lectura del calendari"</item>
+    <item msgid="1334886368750347692">"Modifica el calendari"</item>
+    <item msgid="1638204101698708656">"Ubicació"</item>
+    <item msgid="2154671955760380322">"Notificació de la publicació"</item>
+    <item msgid="4282477730595931828">"Ubicació"</item>
+    <item msgid="4891423912898525905">"Trucada de telèfon"</item>
+    <item msgid="2623604824935968113">"Llegeix l\'SMS/MMS"</item>
+    <item msgid="4420177125221176306">"Escriu un SMS/MMS"</item>
+    <item msgid="3986142739951490025">"Rep SMS/MMS"</item>
+    <item msgid="3984213795861739778">"Rep SMS/MMS"</item>
+    <item msgid="3656243523752472788">"Rep SMS/MMS"</item>
+    <item msgid="8105802370238551510">"Rep SMS/MMS"</item>
+    <item msgid="1407766984645388488">"Envia SMS/MMS"</item>
+    <item msgid="3527273606643794973">"Llegeix l\'SMS/MMS"</item>
+    <item msgid="4370895547001583812">"Escriu un SMS/MMS"</item>
+    <item msgid="4218544235221631789">"Modifica la configuració"</item>
+    <item msgid="736541391767350377">"Dibuixa a sobre"</item>
+    <item msgid="5530815681721654194">"Accedeix a les notificacions"</item>
+    <item msgid="781213371706962767">"Càmera"</item>
+    <item msgid="1720492593061838172">"Enregistra l\'àudio"</item>
+    <item msgid="3493046322001257041">"Reprodueix l\'àudio"</item>
+    <item msgid="136815868796597058">"Llegeix el porta-retalls"</item>
+    <item msgid="5238692940326972503">"Modifica el porta-retalls"</item>
+    <item msgid="5753789168376302997">"Botons de multimèdia"</item>
+    <item msgid="3265262911688671938">"Enfocament de l\'àudio"</item>
+    <item msgid="2098976479485046797">"Volum general"</item>
+    <item msgid="5660213838861789350">"Volum de la veu"</item>
+    <item msgid="7983336752371254444">"Volum del to"</item>
+    <item msgid="7878027809189330917">"Volum de multimèdia"</item>
+    <item msgid="7260546305036218513">"Volum de l\'alarma"</item>
+    <item msgid="9103719301075748925">"Volum de notificació"</item>
+    <item msgid="7025966722295861512">"Volum de Bluetooth"</item>
+    <item msgid="4665183401128289653">"Actiu"</item>
+    <item msgid="8584357129746649222">"Ubicació"</item>
+    <item msgid="7669257279311110599">"Ubicació"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="1319652728542138112">"Predeterminat"</item>
+    <item msgid="1016452621833735880">"Sans-serif"</item>
+    <item msgid="2496277987934654454">"Sans-serif condensada"</item>
+    <item msgid="4406003087391086325">"Serif"</item>
+    <item msgid="1558362802170124073">"Monoespaiada"</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item msgid="4800919809575254054">"Molt petit"</item>
+    <item msgid="6781094565687692782">"Petit"</item>
+    <item msgid="8222123259497646551">"Normal"</item>
+    <item msgid="5813217276778560466">"Gran"</item>
+    <item msgid="9044232017390975191">"Molt gran"</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="6022616153255438487">"Cap"</item>
+    <item msgid="1352974708028506778">"Contorn"</item>
+    <item msgid="5850876295428722675">"Ombra"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="7622491218136667566">"25%"</item>
+    <item msgid="2367156416247936773">"50%"</item>
+    <item msgid="5395560410107149298">"75%"</item>
+    <item msgid="8342334626783983353">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="1630625150404038035">"Blanc sobre negre"</item>
+    <item msgid="4589278788192525675">"Negre sobre blanc"</item>
+    <item msgid="1309255027325660115">"Groc sobre negre"</item>
+    <item msgid="2985943780939258562">"Groc sobre blau"</item>
+    <item msgid="7520438652121629055">"Personalitzat"</item>
+  </string-array>
+  <string-array name="select_runtime_titles">
+    <item msgid="3574453009229338122">"Dalvik"</item>
+    <item msgid="8978402910750533864">"ART"</item>
+    <item msgid="7839859333977894115">"ART (depuració)"</item>
+  </string-array>
+  <string-array name="select_runtime_summaries">
+    <item msgid="6412880178297884701">"Fes servir Dalvik"</item>
+    <item msgid="5131846588686178907">"Fes servir ART"</item>
+    <item msgid="4530003713865319928">"Fes servir la compilació de depuració ART"</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item msgid="1606809880904982133">"Cap"</item>
+    <item msgid="688482401508173818">"720x480 mdpi"</item>
+    <item msgid="6027541158956821790">"720x480 mdpi (segur)"</item>
+    <item msgid="8181151155909301030">"1280x720 tvdpi"</item>
+    <item msgid="2920655562462493148">"1280x720 tvdpi (segur)"</item>
+    <item msgid="8910371271391940941">"1920x1080 xhdpi"</item>
+    <item msgid="4171600481380800455">"1920x1080 xhdpi (segur)"</item>
+    <item msgid="1937752114395156918">"1280x720 tvdpi i 1920x1080 xhdpi"</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item msgid="3191973083884253830">"Cap"</item>
+    <item msgid="9089630089455370183">"Logcat"</item>
+    <item msgid="5397807424362304288">"Systrace (gràfics)"</item>
+    <item msgid="1340692776955662664">"Pila de trucades a glGetError"</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item msgid="993742912147090253">"Desactivada"</item>
+    <item msgid="675719912558941285">"Àrea retall no rectangular en blau"</item>
+    <item msgid="1064373276095698656">"Ressalta ordres de dibuix provats en verd"</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item msgid="2193584639058893150">"Desactivat"</item>
+    <item msgid="2751513398307949636">"A la pantalla com a barres"</item>
+    <item msgid="8272260411216018353">"A la pantalla com a línies"</item>
+    <item msgid="120512413928262547">"A adb shell dumpsys gfxinfo"</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item msgid="8190572633763871652">"Desactiva"</item>
+    <item msgid="7688197031296835369">"Mostra les àrees modificades"</item>
+    <item msgid="2290859360633824369">"Mostra les àrees de deuteranomalia"</item>
+    <item msgid="3448087929560624983">"Mostra el comptador de modificacions"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="7389829271787670252">"Pregunta-ho"</item>
+    <item msgid="5077768429488260031">"No permetis mai"</item>
+    <item msgid="1417929597727989746">"Permet sempre"</item>
+  </string-array>
+  <string-array name="ram_states">
+    <item msgid="7088762389498381203">"normal"</item>
+    <item msgid="4517779899383204000">"moderada"</item>
+    <item msgid="406385694840950802">"baixa"</item>
+    <item msgid="4212263919458209842">"molt baixa"</item>
+  </string-array>
+    <string-array name="animator_duration_scale_entries">
+            <item>"Animació desactivada"</item>
+            <item>"Animació a escala 0,5x"</item>
+            <item>"Animació a escala 1x"</item>
+            <item>"Animació a escala 1,5x"</item>
+            <item>"Animació a escala 2x"</item>
+            <item>"Animació a escala 5x"</item>
+            <item>"Animació a escala 10x"</item>
+      </string-array>
+     <string-array name="timezone_filters">
+            <item>"Amèrica"</item>
+            <item>"Europa"</item>
+            <item>"Àfrica"</item>
+            <item>"Àsia"</item>
+            <item>"Austràlia"</item>
+            <item>"Pacífic"</item>
+            <item>"Totes"</item>
+      </string-array>
+     <string-array name="screen_timeout_entries">
+            <item>"15 segons"</item>
+            <item>"30 segons"</item>
+            <item>"1 minut"</item>
+            <item>"2 minuts"</item>
+            <item>"5 minuts"</item>
+            <item>"10 minuts"</item>
+            <item>"30 minuts"</item>
+            <!--revo lyq 20141215-->    
+            <item>"Mai"</item>   
+      </string-array>
+     <string-array name="dream_timeout_entries">
+            <item>"Mai"</item>
+            <item>"15 segons"</item>
+            <item>"30 segons"</item>
+            <item>"1 minut"</item>
+            <item>"2 minuts"</item>
+            <item>"5 minuts"</item>
+            <item>"10 minuts"</item>
+            <item>"30 minuts"</item>
+      </string-array>
+     <string-array name="lock_after_timeout_entries">
+            <item>"Immediatament"</item>
+            <item>"5 segons"</item>
+            <item>"15 segons"</item>
+            <item>"30 segons"</item>
+            <item>"1 minut"</item>
+            <item>"2 minuts"</item>
+            <item>"5 minuts"</item>
+            <item>"10 minuts"</item>
+            <item>"30 minuts"</item>
+      </string-array>
+     <string-array name="entries_font_size">
+            <item>"Petit"</item>
+            <item>"Normal"</item>
+            <item>"Gran"</item>
+            <item>"Enorme"</item>
+      </string-array>
+<string-array name="tts_rate_entries">
+    <item msgid="6041212618892492920">"Molt lenta"</item>
+    <item msgid="2361722960903353554">"Lenta"</item>
+    <item msgid="1145554631248513562">"Normal"</item>
+    <item msgid="7553665153391107454">"Ràpida"</item>
+    <item msgid="1370673569131070146">"Més ràpida"</item>
+    <item msgid="4648206845228970803">"Molt ràpida"</item>
+    <item msgid="4977949754169483251">"Ràpida"</item>
+    <item msgid="6106302964845503577">"Molt ràpida"</item>
+    <item msgid="6800277205640837264">"Màxima"</item>
+  </string-array>
+     <string-array name="tts_pitch_entries">
+            <item>"Molt baix"</item>
+            <item>"Baixa"</item>
+            <item>"Normal"</item>
+            <item>"Alta"</item>
+            <item>"Molt alt"</item>
+      </string-array>
+     <string-array name="wifi_status">
+            <item></item>
+            <item>"S\'està cercant..."</item>
+            <item>"S\'està connectant…"</item>
+            <item>"S\'està autenticant…"</item>
+            <item>"S\'està obtenint l\'adreça IP…"</item>
+            <item>"Connectat"</item>
+            <item>"Suspesa"</item>
+            <item>"S\'està desconnectant..."</item>
+            <item>"Desconnectada"</item>
+            <item>"Incorrecte"</item>
+      </string-array>
+     <string-array name="wifi_status_with_ssid">
+            <item></item>
+            <item>"S\'està cercant..."</item>
+            <item>"S\'està connectant a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+            <item>"S\'està autenticant amb <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"S\'està obtenint l\'adreça IP de <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Connectat a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+            <item>"Suspesa"</item>
+            <item>"S\'està desconnectant de <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+            <item>"Desconnectada"</item>
+            <item>"Incorrecte"</item>
+      </string-array>
+     <string-array name="wifi_eap_method">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+            <item>"Botó per prémer"</item>
+            <item>"PIN de l\'altre dispositiu"</item>
+            <item>"PIN des del dispositiu"</item>
+      </string-array>
+     <string-array name="wifi_p2p_status">
+            <item>"Connectat"</item>
+            <item>"Convidat"</item>
+            <item>"Incorrecte"</item>
+            <item>"Disponible"</item>
+            <item>"Fora de l\'abast"</item>
+      </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+            <item>"2 minuts"</item>
+            <item>"5 minuts"</item>
+            <item>"1 hora"</item>
+            <item>"Sense temps d\'espera"</item>
+      </string-array>
+     <string-array name="wifi_signal">
+            <item>"Dolenta"</item>
+            <item>"Normal"</item>
+            <item>"Bona"</item>
+            <item>"Excel·lent"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+            <item>"Sempre"</item>
+            <item>"Només quan està endollat"</item>
+            <item>"Mai (augmenta l\'ús de dades)"</item>
+      </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+            <item>"Sempre"</item>
+            <item>"Només quan està endollat"</item>
+            <item>"Mai"</item>
+      </string-array>
+     <string-array name="wifi_frequency_band_entries">
+            <item>"Automàtic"</item>
+            <item>"Només 5 GHz"</item>
+            <item>"Només 2,4 GHz"</item>
+      </string-array>
+     <string-array name="usage_stats_display_order_types">
+            <item>"Temps d\'ús"</item>
+            <item>"Inicia el recompte"</item>
+            <item>"Nom de l\'aplicació"</item>
+      </string-array>
+     <string-array name="wifi_eap_entries">
+            <item>"PEAP"</item>
+            <item>"TLS"</item>
+            <item>"TTLS"</item>
+      </string-array>
+     <string-array name="wifi_phase2_entries">
+            <item>"Cap"</item>
+            <item>"PAP"</item>
+            <item>"MSCHAP"</item>
+            <item>"MSCHAPV2"</item>
+            <item>"GTC"</item>
+      </string-array>
+     <string-array name="wifi_ip_settings">
+            <item>"DHCP"</item>
+            <item>"Estàtic"</item>
+      </string-array>
+     <string-array name="wifi_proxy_settings">
+            <item>"Cap"</item>
+            <item>"Manual"</item>
+      </string-array>
+     <string-array name="emergency_tone_entries">
+            <item>"Desactivat"</item>
+            <item>"Alerta"</item>
+            <item>"Vibra"</item>
+      </string-array>
+     <string-array name="apn_auth_entries">
+            <item>"Cap"</item>
+            <item>"PAP"</item>
+            <item>"CHAP"</item>
+            <item>"PAP o CHAP"</item>
+      </string-array>
+     <string-array name="apn_protocol_entries">
+            <item>"IPv4"</item>
+            <item>"IPv6"</item>
+            <item>"IPv4/IPv6"</item>
+      </string-array>
+     <string-array name="bearer_entries">
+            <item>"LTE"</item>
+            <item>"eHRPD"</item>
+            <item>"No especificat"</item>
+      </string-array>
+     <string-array name="app_install_location_entries">
+            <item>"Emmagatzematge intern del dispositiu"</item>
+            <item>"Targeta SD extraïble"</item>
+            <item>"Deixa que ho decideixi el sistema"</item>
+      </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+            <item>"Curt"</item>
+            <item>"Mitjana"</item>
+            <item>"Llarg"</item>
+      </string-array>
+     <string-array name="hdcp_checking_titles">
+            <item>"No comprovis mai"</item>
+            <item>"Comprova només el contingut DRM"</item>
+            <item>"Comprova sempre"</item>
+      </string-array>
+     <string-array name="hdcp_checking_summaries">
+            <item>"No utilitzis mai la comprovació HDCP"</item>
+            <item>"Utilitza la comprovació HDCP només per a contingut DRM"</item>
+            <item>"Utilitza sempre la comprovació HDCP"</item>
+      </string-array>
+     <string-array name="window_animation_scale_entries">
+            <item>"Animació desactivada"</item>
+            <item>"Animació a escala 0,5x"</item>
+            <item>"Animació a escala 1x"</item>
+            <item>"Animació a escala 1,5x"</item>
+            <item>"Animació a escala 2x"</item>
+            <item>"Animació a escala 5x"</item>
+            <item>"Animació a escala 10x"</item>
+      </string-array>
+     <string-array name="transition_animation_scale_entries">
+            <item>"Animació desactivada"</item>
+            <item>"Animació a escala 0,5x"</item>
+            <item>"Animació a escala 1x"</item>
+            <item>"Animació a escala 1,5x"</item>
+            <item>"Animació a escala 2x"</item>
+            <item>"Animació a escala 5x"</item>
+            <item>"Animació a escala 10x"</item>
+      </string-array>
+     <string-array name="app_process_limit_entries">
+            <item>"Límit estàndard"</item>
+            <item>"Cap procés de fons"</item>
+            <item>"Com a màxim 1 procés"</item>
+            <item>"Com a màxim 2 processos"</item>
+            <item>"Com a màxim 3 processos"</item>
+            <item>"Com a màxim 4 processos"</item>
+      </string-array>
+     <string-array name="vpn_types_long">
+            <item>"VPN de PPTP"</item>
+            <item>"VPN L2TP/IPSec amb claus prèviament compartides"</item>
+            <item>"VPN L2TP/IPSec amb certificats"</item>
+            <item>"VPN IPSec amb claus prèviament compartides i autenticació Xauth"</item>
+            <item>"VPN IPSec amb certificats i autenticació Xauth"</item>
+            <item>"VPN IPSec amb certificats i autenticació híbrida"</item>
+      </string-array>
+     <string-array name="vpn_states">
+            <item>"Desconnectada"</item>
+            <item>"S\'està inicialitzant..."</item>
+            <item>"S\'està connectant..."</item>
+            <item>"Connectada"</item>
+            <item>"Temps d\'espera esgotat"</item>
+            <item>"Incorrecte"</item>
+      </string-array>
+     <string-array name="wifi_security">
+            <item>@string/wifi_security_none</item>
+            <item>@string/wifi_security_wep</item>
+            <item>@string/wifi_security_psk_generic</item>
+            <item>@string/wifi_security_eap</item>
+            <item>@string/wifi_security_wapi_psk</item>
+            <item>@string/wifi_security_wapi_cert</item>
+      </string-array>
+     <string-array name="silent_mode_entries">
+            <item>"Desactivat"</item>
+            <item>"Vibra"</item>
+            <item>"Silencia"</item>
+      </string-array>
+</resources>

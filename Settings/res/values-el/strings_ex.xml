@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Ρύθμιση τύπου apn"</string>
+<string name="user_could_input_apn_type">"Ο χρήστης μπορεί να προσθέσει τύπο apn"</string>
+<string name="could_not_input_the_same_apn_type">"Δεν μπορεί να προστεθεί ο ίδιος τύπος apn"</string>
+<string name="apn_type_message">"Δεν περιέχει τον προεπιλεγμένο τύπο στο νέο σας APN, αδυναμία επιλογής APN."</string>
+<string name="error_apn_type_message">"Ο τύπος APN δεν μπορεί να είναι κενός"</string>
+<string name="error_apn_type">"Ο τύπος Apn που εισάγατε δεν υποστηρίζεται, πληκτρολογήστε ξανά!"</string>
+<string name="same_apn_type">"Έχετε πληκτρολογήσει τον ίδιο τύπο APN, πληκτρολογήστε ξανά!"</string>
+<string name="empty_apn_type">"Δεν έχετε εισάγει ή επιλέξει κανένα τύπο APN, πληκτρολογήστε ξανά!"</string>
+<string name="dual_settings_title_uui">"Διαχείριση κάρτας SIM"</string>
+<string name="dual_voice_setting_title">"Ρύθμιση Φωνής"</string>
+<string name="dual_video_setting_title">"Ρύθμιση Βίντεο"</string>
+<string name="dual_mms_setting_title">"Ρύθμιση SMS""</string>
+<string name="dual_settings_title">"Ρυθμίσεις διπλής SIM"</string>
+<string name="sim_name_setting_title">"Επεξεργασία ονόματος SIM"</string>
+<string name="sim_color_setting_title">"Ορισμός χρώματος φόντου"</string>
+<string name="dual_settings_always_prompt">"Πάντα ερώτηση"</string>
+<string name="mms_settings_auto">"Αυτόματη"</string>
+<string name="no_need_set_data_subscription">"Δεν χρειάζεται ρύθμιση συνδρομής δεδομένων."</string>
+<string name="voice_setting_title">"Ρυθμίσεις κλήσεων φωνής"</string>
+<string name="video_setting_title">"Ρυθμίσεις κλήσεων βίντεο"</string>
+<string name="mms_setting_title">"Ρυθμίσεις MMS και SMS"</string>
+<string name="sim_reply_setting">"Ρυθμίσεις απάντησης Sim"</string>
+<string name="reply_message_setting">"Απάντηση Μms ή Sms"</string>
+<string name="closeData">"Κλείσιμο"</string>
+<string name="data_title">"Ρύθμιση σύνδεσης δεδομένων"</string>
+<string name="sel_sub_title">"Ρυθμίσεις αναμονής"</string>
+<string name="sel_sub_summary">"Για ενεργοποίηση ή απενεργοποίηση κάρτας SIM"</string>
+<string name="set_data_subscription_timeout">"Λήξη αναμονής ρύθμισης σύνδεσης δεδομένων"</string>
+<string name="set_dds_failed">"Σφάλμα! Διαγράψτε όλες τις συνδέσεις δεδομένων και δοκιμάστε ξανά!"</string>
+<string name="set_dds_success">"Επιτυχία ρύθμισης."</string>
+<string name="set_data_subscription_progress">"Ρύθμιση, παρακαλώ περιμένετε..."</string>
+<string name="set_data_subscription_error_ok">"Προσδιορίστε"</string>
+<string name="set_data_subscription_error_title">"Σφάλμα"</string>
+<string name="set_data_subscription_error">"Χωρίς αυτή την SIM, βεβαιωθείτε και προσπαθήστε ξανά!"</string>
+<string name="sim_retries_left">"Υπόλοιπος αριθμός για"</string>
+<string name="menu_kill_apps_services">"Κλείστε όλες τις εφαρμογές"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Πρωτόκολο ιστορικού χρήσης δεδομένων."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Αποδοχή χρήσης προτοκόλου κρυφών δεδομένων;"</string>
+<string name="apn_edit_quit">"έξοδος"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Επεξεργασία σημείου πρόσβασης"</string>
+<string name="input_pin_limit">"Παρακαλώ εισάγετε 4-8 αριθμούς"</string>
+    <string name="agps_supl_manual_settings">"Χειροκίνητη ρύθμιση SUPL του σέρβερ"</string>
+    <string name="agps_supl_manual_settings_summary">"Χειροκίνητη ρύθμιση SUPL του σέρβερ και της θύρας"</string>
+    <string name="str_clear">"CLEAR"</string>
+    <string name="str_save">Αποθήκευση</string>
+    <string name="gps_location_suplserver">"Διακομιστής"</string>
+    <string name="agps_setting">"Ρύθμιση Agps"</string>
+    <string name="open">"Άνοιγμα"</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="mobile_network_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> Ρυθμίσεις δικτύου κινητής</string>
+    <string name="pin_enabled_success">"Ο αριθμός PIN της κάρτας SIM ενεργοποιήθηκε"</string>
+    <string name="pin_disabled_success">"Ο αριθμός PIN της κάρτας SIM απενεργοποιήθηκε"</string>
+    <string name="gps_time_sync_attention_gps_on">""Θα χρειαστεί το πολύ 1 λεπτό για να αποκτήσετε την θέση του GPS. Επιπλέον, το GPS μπορεί να αποτύχει να παράσχει χρόνο λόγω του αδύναμου περιβαλλοντικού σήματος.\n\nΕίσαστε σίγουροι ότι θέλετε να χρησιμοποιήσετε τον χορηγούμενο χρόνο GPS;" "</string>
+    <string name="gps_time_sync_attention_gps_off">""Για να χρησιμοποιήσετε τον χορηγούμενο χρόνο GPS , πρέπει πρώτα να ενεργοποιήσετε το GPS. Έπειτα χρειάζεται το πολύ 1 λεπτό  για να αποκτήσετε την θέση του GPS. \n\nΕπιπλέον, το GPS μπορεί να αποτύχει να παράσχει χρόνο λόγω του αδύναμου περιβαλλοντικού σήματος. "</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

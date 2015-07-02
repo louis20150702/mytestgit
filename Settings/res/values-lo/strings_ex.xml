@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"ການ​ຕັ້ງ​ຄ່າ​ປະ​ເພດAPN "</string>
+<string name="user_could_input_apn_type">"ຜູ້​ໃຊ້​ຕ້ອງ​ໃສ່​ປະ​ເພດAPN "</string>
+<string name="could_not_input_the_same_apn_type">"ບໍ່​ສາ​ມາດ​ໃສ່​ປະ​ເພດAPNທີ່​ຄື​ກັນ"</string>
+<string name="apn_type_message">"ໃນAPNທີ່​ທ່ານ​ປ້ອນບໍ່​ລວມ​ທັ້ງ​ປະ​ເພດ​ໃນ​ຕອນ​ຕົ້ນ,ກະ​ລຸ​ນາ​ເລືອກ​ໃໝ່"</string>
+<string name="error_apn_type_message">"ປະ​ເພດAPNບໍ່​ສາ​ມາດ​ໃຫ້​ເປົ່າ​ວ່າງ"</string>
+<string name="error_apn_type">"​ບໍ່​ສະ​ໜັບ​ສະ​ໜຸນປະ​ເພດAPN​ທີ່​ທ່ານ​ໃສ່,ກະ​ລຸ​ນາ​ໃສ່​ໃໝ່!"</string>
+<string name="same_apn_type">""​ທ່ານ​ໄດ້​ປ້ອນ​ປະ​ເພດAPN​​ຄື​ກັນ,ກະ​ລຸ​ນາ​ໃສ່​ໃໝ່!"​"</string>
+<string name="empty_apn_type">""​ປະ​ເພດAPNບໍ່​ໄດ້​ປ້ອນ​ຫຼືບໍ່​ໄດ້​ເລືອກ,ກະ​ລຸ​ນາ​ປ້ອນ​ຫຼື​ເລືອກ!"​"</string>
+<string name="dual_settings_title_uui">"ການ​ຄວບ​ຄຸມSIM"</string>
+<string name="dual_voice_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ສຽງ"</string>
+<string name="dual_video_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ວິ​ດີ​ໂອ"</string>
+<string name="dual_mms_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ຂໍ້​ຄວາມ"</string>
+<string name="dual_settings_title">"ການ​ຕັ້ງ​ຄ່າ​ຊິມ​ຄູ່"</string>
+<string name="sim_name_setting_title">"ແກ້​ໄຂ​ຊື່ SIM"</string>
+<string name="sim_color_setting_title">"ຕັ້ງ​ຄ່າ​ສີ​ແບັກ​ກ​ຣາວ"</string>
+<string name="dual_settings_always_prompt">"ເຕືອນ​ສະ​ເໝີ"</string>
+<string name="mms_settings_auto">"​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="no_need_set_data_subscription">"ບໍ​ຈຳ​ເປັນ​ຕ້ອງ​ຕັ້ງ​ຄ່າການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ​ເລີ່ມ​ຕົ້ນ​ອີກ."</string>
+<string name="voice_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ການ​ໂທ​ສຽງ"</string>
+<string name="video_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ການ​ໂທວິ​ດີ​ໂອ"</string>
+<string name="mms_setting_title">"ການ​ຕັ້ງ​ຄ່າ​ຂໍ້​ຄວາມ​ແລະ​ຂໍ້​ຄວາມ​ມັ​ລ​ຕິ​ມິ​ເດຍ"</string>
+<string name="sim_reply_setting">"ການ​ຕັ້ງ​ຄ່າ​ການ​ຕອບ​ກັບ​ຊິມ"</string>
+<string name="reply_message_setting">"ການ​ຕອບ​ກັບ​ຂໍ້​ຄວາມ"</string>
+<string name="closeData">"ປິດ"</string>
+<string name="data_title">"ການ​ຕັ້ງ​ຄ່າ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ"</string>
+<string name="sel_sub_title">"ການ​ຕັ້ງ​ຄ່າ​ສະ​ແຕນ​ບາຍ"</string>
+<string name="sel_sub_summary">"ເປີດ​ຫຼື​ປິດSIM"</string>
+<string name="set_data_subscription_timeout">"ການ​ຕັ້ງ​ຄ່າ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ​ໝົດ​ເວ​ລາ!"</string>
+<string name="set_dds_failed">"ຜິດ​ພາດ!ກະ​ລຸ​ນາ​ລິບ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ​ທັ້ງ​ໝົດ​ຈາກນັ້ນ​ລອງ​ໃໝ່!"</string>
+<string name="set_dds_success">"ສຳ​ເລັດ​ການ​ຕັ້ງ​ຄ່າ"</string>
+<string name="set_data_subscription_progress">"ກຳ​ລັງ​ຕັ້ງ​ຄ່າ,ກະ​ລຸ​ນາ​ລໍ​ຖ້າ…."</string>
+<string name="set_data_subscription_error_ok">"ຕົກ​ລົງ"</string>
+<string name="set_data_subscription_error_title">"ຜິດພາດ"</string>
+<string name="set_data_subscription_error">"ບໍ່​ມີSIM ນີ້,ກະລຸນາກວດສອບແລະພະຍາຍາມອີກເທື່ອຫນຶ່ງ! "</string>
+<string name="sim_retries_left">"ຈໍານວນຄັ້ງທີ່ຍັງເຫຼືອ"</string>
+<string name="menu_kill_apps_services">"ປິດ​ໂປ​ຣ​ແກ​ຣມ​ທັ້ງ​ໝົດ"</string>
+<string name="back_groud_data_usage_restrict_protocal">"ພື້ນ​ຫລັງ​ຂໍ້​ມູນ​ໂປ​ຣ​ໂຕ​ຄອນ."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ຮັບ​ເອົາ​ພື້ນ​ຫລັງ​ໂປ​ຣ​ໂຕ​ຄອນ​ການ​ນຳ​ໃຊ້​ຂໍ້​ມູນຫຼືບໍ່?"</string>
+<string name="apn_edit_quit">"ອອກ"</string>
+<string name="apn_edit_ex">"ແກ້​ໄຂ​ຈຸດ​ເຊື່ອມ​ຕໍ່SIM<xliff:g id="SIM">%s</xliff:g> "</string>
+<string name="input_pin_limit">"ກະ​ລຸ​ນາ​ໃສ່ 4 - 8 ​ຕົວ​ເລກ"</string>
+    <string name="agps_supl_manual_settings">"ການຕັ້ງຄາລາຍການເຊີເວີ SUPL"</string>
+    <string name="agps_supl_manual_settings_summary">"ຄູມືການຕັ້ງຄາຫົວສຽບແລະເຊີເວີ SUPL"</string>
+    <string name="str_clear">ລົບລ້າງ</string>
+    <string name="str_save">ຈັດເກັບ</string>
+    <string name="gps_location_suplserver">"ເຊີເວີ້"</string>
+    <string name="agps_setting">"ການຕັ້ງຄາ Agps"</string>
+    <string name="open">ເປີດ</string>
+    <string name="close">ປິດ</string>
+    <string name="mobile_network_settings_ex">"ການ​ຕັ້ງ​ຄ່າ​ເຄືອ​ຂ່າຍ​ມື​ຖືSIM<xliff:g id="SIM">%s</xliff:g> "</string>
+    <string name="pin_enabled_success">ເປີດໃຊ້ງານ SIM PIN</string>
+    <string name="pin_disabled_success">ປິດໃຊ້ງານ SIM PIN</string>
+    <string name="gps_time_sync_attention_gps_on">"ມັນຈະໃຊ້ເວລາຫຼາຍທີ່ສຸດ 1 ນາທີ ເພື່ອທີ່ຈະໄດ້ຮັບການແກ້ໄຂ GPS . ນອກຈາກນີ້, GPS ອາດຈະບໍ່ສາມາດບອກເວລາໃຫ້ໄດ້ ເນື່ອງຈາກສັນຍານທາງດ້ານສິ່ງແວດລ້ອມອ່ອນ.\n\n ທ່ານແນ່ໃຈທີ່ຈະໃຊ້ GPS ບອກເວລາບໍ?"</string>
+    <string name="gps_time_sync_attention_gps_off">"ເພື່ອໃຊ້ງານ GPS ບອກເວລາ, ທ່ານຈະຕ້ອງເປີດໃຊ້ງານ GPS ກ່ອນ. ຈາກນັ້ນ ມັນຈະໃຊ້ເວລາຫຼາຍສຸດ 1 ເພື່ອທີ່ຈະໄດ້ຮັບການແກ້ໄຂ GPS. ນອກຈາກນີ້, GPS ອາດຈະບໍ່ສາມາດບອກເວລາໃຫ້ໄດ້ ເນື່ອງຈາກສັນຍານທາງດ້ານສິ່ງແວດລ້ອມອ່ອນ. \n\n ທ່ານແນ່ໃຈທີ່ຈະເປີດໃຊ້ງານ GPS ດ່ຽວນີ້ ແລະລໍຖ້າໃຫ້ GPS ບອກເວລາບໍ?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

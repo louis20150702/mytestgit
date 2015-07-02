@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Nagatakda sa matang sa apn"</string>
+<string name="user_could_input_apn_type">"Ang tiggamit mahimong magsulod sa matang sa apn"</string>
+<string name="could_not_input_the_same_apn_type">"Dili mahimo sa pagsulod sa pareho nga matang sa apn"</string>
+<string name="apn_type_message">"Walay sulod ang anaa na daan nga matang sa imong bag-o nga APN, dili mahimo sa pagpili sa APN."</string>
+<string name="error_apn_type_message">"Ang matang sa APN kay dili mahimo nga walay sulod"</string>
+<string name="error_apn_type">"Ang matang sa apn nga imong gisulod kay wala gisuportahan, palihug pagsulod balik!"</string>
+<string name="same_apn_type">"Imong gisulod ang pareho nga matang sa APN, palihug pagsulog balik!"</string>
+<string name="empty_apn_type">"Wala nimo gisulod o gipili ang bisag unsa nga matang sa APN, palihug pagsulod balik!"</string>
+<string name="dual_settings_title_uui">"Ang pagdumala sa Sim kard"</string>
+<string name="dual_voice_setting_title">"Mga gitakda sa Tingog"</string>
+<string name="dual_video_setting_title">"Mga gitakda sa Bidyo"</string>
+<string name="dual_mms_setting_title">"Mga gitakda sa SMS"</string>
+<string name="dual_settings_title">"Mga gitakda sa duha ka Sim"</string>
+<string name="sim_name_setting_title">"Pagusab sa ngalan sa SIM"</string>
+<string name="sim_color_setting_title">"Pagtakda sa kolor sa likod"</string>
+<string name="dual_settings_always_prompt">"Kanunay magdali"</string>
+<string name="mms_settings_auto">"Awto"</string>
+<string name="no_need_set_data_subscription">"Dili na kinahanglan sa pagsubskripsiyon."</string>
+<string name="voice_setting_title">"Mga gitakda sa Tingog nga tawag"</string>
+<string name="video_setting_title">"Mga gitakda sa Bidyo nga tawag"</string>
+<string name="mms_setting_title">"Mga gitakda sa MMS ug SMS"</string>
+<string name="sim_reply_setting">"Mga gitakda sa tubag sa Sim"</string>
+<string name="reply_message_setting">"Tubag sa Mms o Sms"</string>
+<string name="closeData">"Sirado"</string>
+<string name="data_title">"Mga gitakda sa Koneksyon sa Datus"</string>
+<string name="sel_sub_title">"Mga gitakda sa estambay"</string>
+<string name="sel_sub_summary">"Para mapagana o mapawng ang SIM kard"</string>
+<string name="set_data_subscription_timeout">"Nahurot ang oras sa pagtakda sa koneksyon sa datus!"</string>
+<string name="set_dds_failed">"Sayop!Limpyuhi ang tanan koneksyon sa datus ug sulay balik!"</string>
+<string name="set_dds_success">"Malampuson sa pagtakda"</string>
+<string name="set_data_subscription_progress">"Nagatakda pa, palihug paghuwat ..."</string>
+<string name="set_data_subscription_error_ok">"Pagtino"</string>
+<string name="set_data_subscription_error_title">"Sayop"</string>
+<string name="set_data_subscription_error">"Kung wala ni nga kard, palihug pagpamatuod ug sulay balik!"</string>
+<string name="sim_retries_left">"Nahabilin nga numero sa"</string>
+<string name="menu_kill_apps_services">"Isirado tanan nga aplikasyon"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protokol sa likod nga paggamit sa datus."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Dawaton ang Protokol sa likod nga paggamit sa datus?"</string>
+<string name="apn_edit_quit">"pabayaan"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Pagusab sa lugar sa pagakses"</string>
+<string name="input_pin_limit">"Palihug pagsulod sa 4 - 8 ka mga numero"</string>
+    <string name="agps_supl_manual_settings">"Manwal nga mga gitakda sa SUPL server"</string>
+    <string name="agps_supl_manual_settings_summary">"Manwal nga pagtakda sa SUPL nga server ug port"</string>
+    <string name="str_clear">"Limas"</string>
+    <string name="str_save">I-save</string>
+    <string name="gps_location_suplserver">Server</string>
+    <string name="agps_setting">"Mga gitakda sa Agps"</string>
+    <string name="open">Abli</string>
+    <string name="close">"Sarado"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> mga gitakda sa mobayl nga network"</string>
+    <string name="pin_enabled_success">"SIM PIN kay gipagana"</string>
+    <string name="pin_disabled_success">"SIM PIN kay wala gipagana"</string>
+    <string name="gps_time_sync_attention_gps_on">"Kini magdagan ug 1 ka minuto sa pagkuha sa GPS nga tarong. Labot pa, ang GPS mahimong mapakyas sa paghatag ug oras tungod sa hinay nga signal sa lugar.\n\nSigurado ba ka nga ipagana ang oras nga gihatag sa GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Para magamit ang gihatag nga oras sa GPS, gikinahanglan nga ipagana paguna ang GPS. Kini magdagan ug 1 ka minuto para makuha ang GPS nga tarong. Labot pa, ang GPS mahimong mapakyas sa paghatag ug oras tungod sa hinay nga signal sa lugar. \n\nSigurado ba ka nga ipagana ang GPS karon o maghuwat sa gihatag nga oras sa GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Setari tip apn "</string>
+<string name="user_could_input_apn_type">"Utilizatorul a putut introduce tipul apn "</string>
+<string name="could_not_input_the_same_apn_type">"Nu a putut fi introdus acelasi tip apn "</string>
+<string name="apn_type_message">"Intrarea dvs. nu este inclusă în tipul implicit de APN; APN nu poate fi selectat."</string>
+<string name="error_apn_type_message">"Tipul APN nu poate rămâne necompletat"</string>
+<string name="error_apn_type">"Tipul APN pe care l-aţi introdus nu este suportat, vă rugăm să reîncercaţi!"</string>
+<string name="same_apn_type">"Aţi introdus acelaşi tip de APN, vă rugăm să reîncercaţi!"</string>
+<string name="empty_apn_type">"Nu aţi introdus şi nu aţi selectat niciun tip de APN, vă rugăm să reîncercaţi!"</string>
+<string name="dual_settings_title_uui">"Gestionare cartelă SIM"</string>
+<string name="dual_voice_setting_title">"Setare voce"</string>
+<string name="dual_video_setting_title">"Setare video"</string>
+<string name="dual_mms_setting_title">"Setare SMS"</string>
+<string name="dual_settings_title">"Setare Dual SIM"</string>
+<string name="sim_name_setting_title">"Editati numele SIM "</string>
+<string name="sim_color_setting_title">"Stabiliţi culoarea fundalului"</string>
+<string name="dual_settings_always_prompt">"Întreabă întotdeauna"</string>
+<string name="mms_settings_auto">"Auto"</string>
+<string name="no_need_set_data_subscription">"Nu este nevoie de setarea unui abonament de date ."</string>
+<string name="voice_setting_title">"Setari apel video"</string>
+<string name="video_setting_title">"Setari apeluri video"</string>
+<string name="mms_setting_title">"Setari Mms si Sms"</string>
+<string name="sim_reply_setting">"Setări răspuns Sim"</string>
+<string name="reply_message_setting">"Răspunde prin MMS sau SMS"</string>
+<string name="closeData">"Închidere"</string>
+<string name="data_title">"Setări conexiune de date"</string>
+<string name="sel_sub_title">"Setări mod aşteptare"</string>
+<string name="sel_sub_summary">"Pentru a activa sau dezactiva cartela SIM"</string>
+<string name="set_data_subscription_timeout">"Timpul limită de setare a conexiunii de date"</string>
+<string name="set_dds_failed">"Eroare!Ştergeţi toate conexiunile de date şi încercaţi din nou!"</string>
+<string name="set_dds_success">"Setare reuşită"</string>
+<string name="set_data_subscription_progress">"Se configurează, vă rugăm aşteptaţi ..."</string>
+<string name="set_data_subscription_error_ok">"Determină"</string>
+<string name="set_data_subscription_error_title">"Eroare"</string>
+<string name="set_data_subscription_error">"Fără această cartelă SIM, vă rugăm să verificaţi şi să încercaţi din nou!"</string>
+<string name="sim_retries_left">"Număr rămas de"</string>
+<string name="menu_kill_apps_services">"Închide toate aplicaţiile"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Protocol de utilizare a datelor context."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Acceptati protocol de utilizare date de fundal?"</string>
+<string name="apn_edit_quit">"Renuntati la acest mesaj"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Editează punctul de acces"</string>
+<string name="input_pin_limit">"Vă rugăm să introduceţi 4 - 8 numere"</string>
+    <string name="agps_supl_manual_settings">"Configurare manuală server SUPL"</string>
+    <string name="agps_supl_manual_settings_summary">"Configurarea manuală a serverului SUPL şi a portului"</string>
+    <string name="str_clear">"GOLIŢI"</string>
+    <string name="str_save">"Salvaţi"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Configurare Agps"</string>
+    <string name="open">"deschis"</string>
+    <string name="close">"Închideţi"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Setări reţea telefonie mobilă"</string>
+    <string name="pin_enabled_success">"Cod PIN activat pentru cardul SIM"</string>
+    <string name="pin_disabled_success">"Codul PIN al cardului SIM este dezactivat"</string>
+    <string name="gps_time_sync_attention_gps_on">"Repunerea în stare de funcţionare a GPS-ului va dura cel mult un minut. În plus, este posibil ca GPS-ul să nu poată oferi ora din cauza semnalului slab.\n\n Sunteţi sigur că doriţi să folosiţi ora GPS?""</string>
+    <string name="gps_time_sync_attention_gps_off">"Pentru a utiliza ora oferită de GPS, trebuie să activaţi mai întâi GPS-ul. Activarea GPS-ului durează mai puţin de 1 minut. În plus, este posibil ca GPS-ul să nu ofere o oră, din cauza semnalului slab. \n\nSunteţi sigur că doriţi sa activaţi GPS-ul acum  şi să aşteptaţi oferirea orei de către GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APNタイプの設置"</string>
+<string name="user_could_input_apn_type">"カスタマイズAPNのタイプ"</string>
+<string name="could_not_input_the_same_apn_type">"APNのデフォルトと同じタイプで入力できない、再び入力して下さい！"</string>
+<string name="apn_type_message">"あなたが入力したapnがデフォルトのタイプを含めない、再度入力してください"</string>
+<string name="error_apn_type_message">"APN タイプが空にならない"</string>
+<string name="error_apn_type">"入力したAPNタイプを支持しない、再度入力してください"</string>
+<string name="same_apn_type">"同じなAPNタイプを入力してから、再度入力してください"</string>
+<string name="empty_apn_type">"APN タイプが入力しないまたは選択しないで、再度入力しまたは選択します"</string>
+<string name="dual_settings_title_uui">"SIMカード管理"</string>
+<string name="dual_voice_setting_title">"音声設定"</string>
+<string name="dual_video_setting_title">"ビデオ設定"</string>
+<string name="dual_mms_setting_title">"メール・デコメール設置"</string>
+<string name="dual_settings_title">"二重ＳＩＭの設定"</string>
+<string name="sim_name_setting_title">"ＳＩＭ名編集"</string>
+<string name="sim_color_setting_title">"背景色を設定する"</string>
+<string name="dual_settings_always_prompt">"常に提示する"</string>
+<string name="mms_settings_auto">"自動"</string>
+<string name="no_need_set_data_subscription">"再びデフォルトデータ接続設定する必要はない"</string>
+<string name="voice_setting_title">"ボイスダイヤル設置"</string>
+<string name="video_setting_title">"ビデオコール設置"</string>
+<string name="mms_setting_title">"メール・デコメール設置"</string>
+<string name="sim_reply_setting">"ＳＩＭ返信設定"</string>
+<string name="reply_message_setting">"回復メール"</string>
+<string name="closeData">"閉じる"</string>
+<string name="data_title">"データ接続の設定"</string>
+<string name="sel_sub_title">"スタンバイ設定"</string>
+<string name="sel_sub_summary">"ＳＩＭカードを起用・閉鎖する"</string>
+<string name="set_data_subscription_timeout">"データ接続設定タイムアウト"</string>
+<string name="set_dds_failed">"エラー！すべてのてーだ接続を削除し、再度試しよう"</string>
+<string name="set_dds_success">"設置が成功する"</string>
+<string name="set_data_subscription_progress">"設置中で、待って・・・"</string>
+<string name="set_data_subscription_error_ok">"確定"</string>
+<string name="set_data_subscription_error_title">"エラー"</string>
+<string name="set_data_subscription_error">"このsimカードなしで、確認して、もう一度ためしてください"</string>
+<string name="sim_retries_left">"残りの次回"</string>
+<string name="menu_kill_apps_services">"すべてのアプリケーションを閉じる"</string>
+<string name="back_groud_data_usage_restrict_protocal">"背景データ協議"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"背景データ協議が受け入れるかどうか"</string>
+<string name="apn_edit_quit">"退出"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> アクセスポイントの修正"</string>
+<string name="input_pin_limit">"4−8の数字を入力する"</string>
+    <string name="agps_supl_manual_settings">"SUPLサーバーの手動設定"</string>
+    <string name="agps_supl_manual_settings_summary">"SUPLサーバーのアドレスとポート番号の手動設定ができます。"</string>
+    <string name="str_clear">"消去"</string>
+    <string name="str_save">"保存"</string>
+    <string name="gps_location_suplserver">"サーバー"</string>
+    <string name="agps_setting">"Agpsセッティング"</string>
+    <string name="open">"開く"</string>
+    <string name="close">"閉じる"</string>
+    <string name="mobile_network_settings_ex">"SIMカード<xliff:g id="SIM">%s</xliff:g>モバイルネットワーク設定"セッテイ</string>
+    <string name="pin_enabled_success">"SIMカードのPINが有効になっています。"</string>
+    <string name="pin_disabled_success">"SIMカードのPINが無効になっています。"</string>
+    <string name="gps_time_sync_attention_gps_on">"GPSの時間提供サービスをご利用の場合、GPSの測位成功を待つ必要があります。GPS測位は最長で一分ほどかかります。\n\nGPSの時間提供サービスをご利用しますか？"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPSの時間提供サービスをご利用の場合、GPSを有効にし、GPSの測位成功を待つ必要があります。GPS測位は最長で一分ほどかかります。GPS信号が弱い場合は、測位に失敗する可能性があります。\n\n今すぐGPSを有効にし、GPSの時間提供サービスをご利用しますか？"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> アクセスポイントの名称"</string>
+
+</resources>

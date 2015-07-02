@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<!--
+     Copyright (C) 2010, Code Aurora Forum. All rights reserved.
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" >
+
+    <PreferenceScreen
+        android:key="config_sub"
+        android:persistent="false"
+        android:summary="@string/sel_sub_summary"
+        android:title="@string/sel_sub_title" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.android.phone.SelectSimCard"
+            android:targetPackage="com.android.phone" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="simslotcfg"
+        android:persistent="true"
+        android:summary="@string/simslotcfg_sub_summary"
+        android:title="@string/simslotcfg_title" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.phone.SimSlotCfgActivity"
+            android:targetPackage="com.android.phone" />
+    </PreferenceScreen>
+
+    <!--revo lyq 20141108 for dualsim data settings   
+           android:entries="@array/dualsim_entries"   
+           android:entryValues="@array/dualsim_values-->
+    <ListPreference
+        android:entries="@array/dualsim_setting_entries_extr"
+        android:entryValues="@array/dualsim_setting_values"
+        android:key="data"
+        android:persistent="false"
+        android:title="@string/data_title" />
+    <ListPreference
+        android:entries="@array/dualsim_setting_entries"
+        android:entryValues="@array/dualsim_setting_values"
+        android:key="dual_voice_setting"
+        android:persistent="false"
+        android:summary=""
+        android:title="@string/dual_voice_setting_title" />
+    <ListPreference
+        android:entries="@array/dualsim_setting_entries"
+        android:entryValues="@array/dualsim_setting_values"
+        android:key="dual_video_setting"
+        android:persistent="false"
+        android:summary=""
+        android:title="@string/dual_video_setting_title" />
+    <ListPreference
+        android:entries="@array/dualsim_summaries"
+        android:entryValues="@array/dualsim_setting_values"
+        android:key="dual_mms_setting"
+        android:persistent="false"
+        android:summary=""
+        android:title="@string/dual_mms_setting_title" />
+    <PreferenceCategory android:title="@string/sim_reply_setting"
+                        android:key="sim_reply_setting">
+        <CheckBoxPreference android:key="reply_message_setting"
+                        android:title="@string/reply_message_setting"
+                        android:defaultValue="false" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

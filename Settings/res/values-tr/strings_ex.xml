@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn türünü ayarlama"</string>
+<string name="user_could_input_apn_type">"Kullanıcı apn türünü girebilir"</string>
+<string name="could_not_input_the_same_apn_type">"Aynı apn türü girilemez"</string>
+<string name="apn_type_message">"Yeni APN\'de varsayılan tür bulunmamaktadır, APN seçilemeyecek."</string>
+<string name="error_apn_type_message">"APN türü boş olamaz"</string>
+<string name="error_apn_type">"Girmiş olduğunuz APN türü desteklenmiyor, lütfen tekrar girin!"</string>
+<string name="same_apn_type">"Aynı tür APN girdiniz, lütfen tekrar girin!"</string>
+<string name="empty_apn_type">"Herhangi bir tür APN girmediniz veya seçmediniz, lütfen tekrar girin!"</string>
+<string name="dual_settings_title_uui">"SIM kart yönetimi"</string>
+<string name="dual_voice_setting_title">"Ses Ayarları"</string>
+<string name="dual_video_setting_title">"Video Ayarları"</string>
+<string name="dual_mms_setting_title">"SMS Ayarları"</string>
+<string name="dual_settings_title">"Çift SIM Ayarları"</string>
+<string name="sim_name_setting_title">"SIM Adını Düzenle"</string>
+<string name="sim_color_setting_title">"Arkaplan Rengini Ayarla"</string>
+<string name="dual_settings_always_prompt">"Daima hatırlat"</string>
+<string name="mms_settings_auto">"Otomatik"</string>
+<string name="no_need_set_data_subscription">"Veri aboneliği ayarlamaya gerek yok."</string>
+<string name="voice_setting_title">"Sesli çağrı ayarları"</string>
+<string name="video_setting_title">"Görüntülü arama ayarları"</string>
+<string name="mms_setting_title">"MMS ve SMS ayarları"</string>
+<string name="sim_reply_setting">"Sim cevaplama ayarları"</string>
+<string name="reply_message_setting">"MMS veya SMS cevaplandır"</string>
+<string name="closeData">"Kapat"</string>
+<string name="data_title">"Veri Bağlantısı Ayarları"</string>
+<string name="sel_sub_title">"Bekleme modu ayarı"</string>
+<string name="sel_sub_summary">"SIM kartı etkinleştirmek veya devre dışı bırakmak için"</string>
+<string name="set_data_subscription_timeout">"Veri bağlantısı ayarları zaman aşımı!"</string>
+<string name="set_dds_failed">"Hata! Tüm veri bağlantılarını kaldırın ve tekrar deneyin!"</string>
+<string name="set_dds_success">"Başarıyla ayarlandı"</string>
+<string name="set_data_subscription_progress">"Ayarlanıyor, lütfen bekleyin..."</string>
+<string name="set_data_subscription_error_ok">"Belirle"</string>
+<string name="set_data_subscription_error_title">"Hata"</string>
+<string name="set_data_subscription_error">"Bu SIM kart olmadan lütfen doğrulayın ve tekrar deneyin!"</string>
+<string name="sim_retries_left">"Kalan sayı:"</string>
+<string name="menu_kill_apps_services">"Tüm uygulamaları kapatın"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Arkaplan veri kullanım protokolü."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Arkaplan veri kullanım protokolünü kabul ediyor musun?"</string>
+<string name="apn_edit_quit">"çık"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Erişim noktası düzenleme"</string>
+<string name="input_pin_limit">"Lütfen 4 ila 8 rakam girin"</string>
+    <string name="agps_supl_manual_settings">"SUPL sunucu manuel ayarlama"</string>
+     <string name="agps_supl_manual_settings_summary">"SUPL sunucusunu ve portunu manuel ayarla"</string>
+     <string name="str_clear">"CLR"</string>
+     <string name="str_save">"Kaydet"</string>
+     <string name="gps_location_suplserver">"Sunucu"</string>
+    <string name="agps_setting">"Agps Ayarı"</string>
+    <string name="open">"Aç"</string>
+    <string name="close">Kapat</string>
+    <string name="mobile_network_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> Mobil ağ ayarları</string>
+    <string name="pin_enabled_success">"SIM PIN kodu etkin"</string>
+    <string name="pin_disabled_success">"SIM PIN kodu devre dışı"</string>
+    <string name="gps_time_sync_attention_gps_on">"GPS düzeltmeyi edinmek en fazla 1 dakika sürer. Ayrıca, çevresel sinyalin zayıf olması nedeniyle GPS zamanı göstermede başarısız olabilir. \n\nGPS tarafından sağlanan zamanı kullanmak istiyor musunuz?"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS tarafından sağlanan zamanı kullanmak için ilk önce GPS\'i etkileştirmelisiniz. Sonrasında GPS düzeltmeyi edinmek en fazla 1 dakika sürer. Ayrıca, çevresel sinyalin zayıf olması nedeniyle GPS zamanı göstermede başarısız olabilir. \n\nGPS\'i şimdi etkinleştirmek ve GPS tarafından sağlanan zamanı kullanmak istiyor musunuz?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

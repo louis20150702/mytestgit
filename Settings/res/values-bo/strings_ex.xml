@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">apnརྣམ་གྲངས་ཀྱི་སྒྲིག་འགོད།</string>
+<string name="user_could_input_apn_type">བཀོལ་བདག་གིས་རྣམ་གྲངས་apnནང་འཇུག་བྱེད་ཆོག</string>
+<string name="could_not_input_the_same_apn_type">རྣམ་གྲངས་apnདང་མཚུངས་པ་ནང་འཇུག་བྱེད་མི་ཐུབ།</string>
+<string name="apn_type_message">"ཁྱད་ཀྱིས་ནང་འཇུག་བྱས་པའི་APNནང་དུ་defaultརིགས་སྣ་མི་འདུག སླར་འདམ་རོགས།"</string>
+<string name="error_apn_type_message">"APNརིགས་སྣ་སྟོང་བར་སྐྱུར་མི་རུང་།"</string>
+<string name="error_apn_type">"ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་APNརིགས་སྣར་རྒྱབ་སྐྱོར་མི་བྱེད། སླར་ནང་འཇུག་གནང་རོགས།"</string>
+<string name="same_apn_type">"ཁྱེད་ཀྱིས་མཚུངས་པའི་APNརིགས་སྣ་ནང་འཇུག་བྱས། སླར་ནང་འཇུག་བྱེད་རོགས།་"</string>
+<string name="empty_apn_type">"APNརིགས་སྣ་ནང་འཇུག་བྱས་མེད་པའམ་བདམས་མེད། སླར་ནང་འཇུག་གམ་འདམ་ག་གནང་རོགས།"</string>
+<string name="dual_settings_title_uui">Simཁྭ་དོ་དམ།</string>
+<string name="dual_voice_setting_title">"སྐད་སྒྲའི་སྒྲིག་འགོད།"</string>
+<string name="dual_video_setting_title">"བརྙན་ཟློས་སྒྲིག་འགོད།"</string>
+<string name="dual_mms_setting_title">"འཕྲིན་ཐུང་སྒྲིག་འགོད།"</string>
+<string name="dual_settings_title">བྱང་བུ་གཉིས་ལྡན་སྒྲིག་འགོད། </string>
+<string name="sim_name_setting_title">SIMཁཱ་མིང་རྩོམ་སྒྲིག</string>
+<string name="sim_color_setting_title">རྒྱབ་ལྗོངས་ཀྱི་ཚོས་མདོག་བཟོ་བ།</string>
+<string name="dual_settings_always_prompt">"རྟག་པར་དྲན་སྐུལ་སྣང་།"</string>
+<string name="mms_settings_auto">རང་འགུལ།</string>
+<string name="no_need_set_data_subscription">རང་ལེན་དན་གྲངས་སྦྲེལ་མཐུད་སླར་སྒྲིག་འགོད་བྱེད་མི་དགོས། </string>
+<string name="voice_setting_title">སྐད་གདངས་ཨང་འབོད་སྒྲིག་འགོད།</string>
+<string name="video_setting_title">བརྙན་ཟློས་ཨང་འབོད་སྒྲིག་འགོད།</string>
+<string name="mms_setting_title">ཚོན་འཕྲིན་སྒྲིག་འགོད།</string>
+<string name="sim_reply_setting">"Simཨ་ལན་སྒྲིག་འགོད།"</string>
+<string name="reply_message_setting">"ཚོན་འཕྲིན་དང་འཕྲིན་ཐུང་ལ་ཨ་ལན་སྟེར།"</string>
+<string name="closeData">ཁ་རྒྱག་པ། </string>
+<string name="data_title">"དན་གྲངས་སྦྲེལ་མཐུད་སྒྲིག་འགོད།"</string>
+<string name="sel_sub_title">"འཕྲུལ་སྒུག་དུས་ཚོད།"</string>
+<string name="sel_sub_summary">"SIMབྱང་བུའི་སྒུལ་སློང་བའམ་སྒོ་སྟེམ།"</string>
+<string name="set_data_subscription_timeout">"དན་གྲངས་སྦྲེལ་མཐུད་སྒྲིག་འགོད་དུས་ལས་འདས།"</string>
+<string name="set_dds_failed">"ནོར། དན་གྲངས་སྦྲེལ་མཐུད་མཐའ་དག་གཙང་སེལ་བྱས་རྗེས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="set_dds_success">"སྒྲིག་འགོད་འགྲུབ།"</string>
+<string name="set_data_subscription_progress">"སྒྲིག་འགོད་གནང་བཞིན་འདུག ཅུང་ཙམ་སྒུག་རོགས..."</string>
+<string name="set_data_subscription_error_ok">"ཁོ་ཐག་ཡིན།"</string>
+<string name="set_data_subscription_error_title">ནོར་འཛོལ།</string>
+<string name="set_data_subscription_error">"SIMབྱང་བུ་དེ་མི་འདུག ལྟ་བཤེར་བྱས་རྗེས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="sim_retries_left">"ལྷག་མའི་ཐེངས་གྲངས།"</string>
+<string name="menu_kill_apps_services">"ཉེར་སྤྱོད་མཐའ་དག་གི་སྒོ་རྒྱབ།"</string>
+<string name="back_groud_data_usage_restrict_protocal">"རྒྱབ་ལྗོངས་དན་གྲངས་ཆིངས་ཡིག"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"རྒྱབ་ལྗོངས་དན་གྲངས་ཆིངས་ཡིག་དང་ལེན་བྱེད་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="apn_edit_quit">ཕྱིར་འབུད།</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g>རྩོམ་སྒྲིག་སྦྲེལ་གནས།"</string>
+<string name="input_pin_limit">"གྲངས་གནས་4~8ནང་འཇུག་བྱེད་རོགས།"</string>
+<string name="agps_supl_manual_settings">"SUPLཞབས་ཞུ་ཆས་ཀྱི་མིར་བརྟེན་སྒྲིག་འགོད།"</string>
+<string name="agps_supl_manual_settings_summary">"མིར་བརྟེན་གྱིས་SUPLཞབས་ཞུ་ཆས་དང་མཐུད་སྣེ་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="str_clear">གཙང་སེལ།</string>
+<string name="str_save">ཉར་ཚགས།</string>
+<string name="gps_location_suplserver">ཁོག་འཐད་གནས་ཚུལ་འོག་བཀོལ་མིང་འདིས་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐུར་སྐྱེལ།</string>
+<string name="agps_setting">"Agps སྒྲིག་འགོད།"</string>
+<string name="open">ཁ་འབྱེད་པ། </string>
+<string name="close">ཁ་རྒྱག་པ། </string>
+<string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> གནས་སྤོ་དྲ་རྒྱའི་སྒྲིག་འགོད།"</string>
+<string name="pin_enabled_success">SIM ཁཱ་ PINསྤྱོད་འགོ་ཚུགས་ཟིན།</string>
+<string name="pin_disabled_success">SIM ཁཱ་ PINསྤྱོད་འཚམས་བཞག་ཟིན།</string>
+<string name="gps_time_sync_attention_gps_on">"GPSགནས་འཁེལ་ཐོབ་པར་དུས་ཚོད་སྐར་མ་1དགོས་ཤིང་། དེ་ལས་གཞན། བརྡ་རྟགས་ཞན་དྲགས་པའི་སྟབས་ཀྱིས་GPSའདོན་སྤྲོད་བྱེད་མི་ཐུབ། \n\nཁྱེད་ཀྱིས་GPSཡིས་འདོན་སྤྲོད་བྱས་པའི་དུས་ཚོད་སྤྱོད་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="gps_time_sync_attention_gps_off">"GPSཡིས་འདོན་སྤྲོད་བྱས་པའི་དུས་ཚོད་སྤྱོད་ན་ངེས་པར་GPSཡི་སྒུལ་སློང་དགོས་ཤིང་GPSགནས་འཁེལ་འགྲུབ་པར་སྒུག་དགོས། GPSགནས་འཁེལ་ལ་ཉུང་མཐར་ཡང་དུས་ཚོད་སྐར་མ་1དགོས། གལ་ཁེ་GPSབརྡ་རྟགས་ཞན་དྲགས་ན་གནས་འཁེལ་ཕམ་ངེས། \n\GPSཡི་སྒུལ་སློང་ཞིང་དུས་མཚངས་GPSཡིས་མཁོ་སྤྲོད་བྱས་པའི་དུས་ཚོད་སྤྱོད་ཁོ་ཐག་ཡིན་ནམ།"</string>
+<string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> སྦྲེལ་ཚེག་གི་མིང་།"</string>
+</resources>

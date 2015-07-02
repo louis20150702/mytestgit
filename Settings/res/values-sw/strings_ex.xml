@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Inaweka aina ya apn"</string>
+<string name="user_could_input_apn_type">"Mtumizi anaweza kuingiza aina ya apn"</string>
+<string name="could_not_input_the_same_apn_type">"Haikuweza kuingiza aina hiyo hiyo ya apn"</string>
+<string name="apn_type_message">"Hakuna aina msingi katika APN yako mpya, hautaweza kuchagua APN hiyo."</string>
+<string name="error_apn_type_message">"Aina ya APN haiwezio kuwa tupu"</string>
+<string name="error_apn_type">"Aina ya APN uliyoingiza haihimiliwi, tafadhali ingiza tena!"</string>
+<string name="same_apn_type">"Umeingiza aina sawia ya APN, tafadhali ingiza tena!"</string>
+<string name="empty_apn_type">"Haujaingiza wala kuchagua aina yoyote ya APN, tafadhali ingiza tena!"</string>
+<string name="dual_settings_title_uui">"Menejimenti ya kadi ya SIM"</string>
+<string name="dual_voice_setting_title">"Mpangilio wa Sauti"</string>
+<string name="dual_video_setting_title">"Mpangilio wa Video"</string>
+<string name="dual_mms_setting_title">"Mpangilio wa SMS"</string>
+<string name="dual_settings_title">"Mipangilio ya Sim Mbili"</string>
+<string name="sim_name_setting_title">"Hariri jina la SIM"</string>
+<string name="sim_color_setting_title">"Weka Rangi ya Nyuma"</string>
+<string name="dual_settings_always_prompt">"Uliza kila wakati"</string>
+<string name="mms_settings_auto">"Otomati"</string>
+<string name="no_need_set_data_subscription">"Huhitaji kupanga usambazaji wa data."</string>
+<string name="voice_setting_title">"Mipangilio ya mwito wa sauti"</string>
+<string name="video_setting_title">"Mipangilio ya simu ya video"</string>
+<string name="mms_setting_title">"Mipangilio ya Mms na Sms"</string>
+<string name="sim_reply_setting">"Mipangilio ya kujibu kwa sim"</string>
+<string name="reply_message_setting">"Jibu Mms au Sms"</string>
+<string name="closeData">"Funga"</string>
+<string name="data_title">"Mipangilio ya Muunganisho wa Data"</string>
+<string name="sel_sub_title">"Mipangilio ya usubiri"</string>
+<string name="sel_sub_summary">"Kuwezesha au Kulemaza kadi ya SIM"</string>
+<string name="set_data_subscription_timeout">"Mwisho wa wakati wa mipangilio ya muunganisho wa data"</string>
+<string name="set_dds_failed">"Hitilafu!Futa miunganisho yote ya data na ujaribu tena!"</string>
+<string name="set_dds_success">"Uwekaji umefaulu"</string>
+<string name="set_data_subscription_progress">"Inapanga, tafadhali subiri…"</string>
+<string name="set_data_subscription_error_ok">"Tambua"</string>
+<string name="set_data_subscription_error_title">"Hitilafu"</string>
+<string name="set_data_subscription_error">"Bila kadi hii ya SIM, tafadhali thibitisha na ujaribu tena!"</string>
+<string name="sim_retries_left">"Idadi iliyosalia ya"</string>
+<string name="menu_kill_apps_services">"Funga programu zote tumizi"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Itifaki ya utumiaji wa nyuma wa nyuma."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Kubali itifaki ya utumiaji data wa nyuma?"</string>
+<string name="apn_edit_quit">"Toka"</string>
+<string name="apn_edit_ex">"Hariri kituo cha ufikiaji cha SIM<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="input_pin_limit">"Tafadhali ingiza nambari 4 - 8"</string>
+    <string name="agps_supl_manual_settings">"Mpangilio wa mikono wa seva ya SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Panga kwa mikono seva na port ya SUPL"</string>
+     <string name="str_clear">"FUT"</string>
+     <string name="str_save">"Hifadhi"</string>
+     <string name="gps_location_suplserver">"Seva"</string>
+    <string name="agps_setting">"Mpangilio wa Agps"</string>
+    <string name="open">"Fungua"</string>
+    <string name="close">Funga</string>
+    <string name="mobile_network_settings_ex">Ukarabati wa mtandao wa rununu wa SIM<xliff:g id="SIM">%s</xliff:g></string>
+    <string name="pin_enabled_success">"Nenosiri la SIM limewezeshwa"</string>
+    <string name="pin_disabled_success">"Nenosiri la SIM limelemazwa"</string>
+    <string name="gps_time_sync_attention_gps_on">"Itachukua dakika 1 kupokea rekebisho la GPS. Zaidi ya hayo, GPS yaweza kukosa kutoa saa kwa ajili ya ishara dhaifu za kimazingira.\n\nUna uhakika kutumia saa zinazotolewa na GPS?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Ili kutumia saa zilizotolewa na GPS, lazima kwanza uwezeshe GPS. "Kisha itachukua dakika 1 kupokea rekebisho la GPS. Zaidi ya hayo, GPS yaweza kukosa kutoa saa kwa ajili ya ishara dhaifu za kimazingira. \n\nUna uhakika kuwezesha GPS sasa na kusubiri saa zinazotolewa na GPS?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

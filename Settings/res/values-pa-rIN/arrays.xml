@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+<item>"ਅਮਰੀਕਾ"</item>
+<item>"ਯੂਰੋਪ"</item>
+<item>"ਅਫ੍ਰੀਕਾ"</item>
+<item>"ਏਸ਼ੀਆ"</item>
+<item>"ਆਸਟ੍ਰੇਲੀਆ"</item>
+<item>"ਪੈਸੀਫਿਕ"</item>
+<item>"ਸਾਰੇ"</item>
+</string-array>
+  <string-array name="screen_timeout_entries">
+<item>"15 ਸੈਕਿੰਡ"</item>
+<item>"30 ਸੈਕਿੰਡ"</item>
+<item>"1 ਮਿੰਟ"</item>
+<item>"2 ਮਿੰਟ"</item>
+<item>"5 ਮਿੰਟ"</item>
+<item>"10 ਮਿੰਟ"</item>
+<item>"30 ਮਿੰਟ"</item>
+            <!--revo lyq 20141215-->    
+            <item>"ਕਦੇ ਨਹੀਂ"</item>
+</string-array>
+  <string-array name="touch_light_timeout_entries">
+<item>"1.5 ਸੈਕਿੰਡ"</item>
+<item>"6 ਸੈਕਿੰਡ"</item>
+<item>"ਹਮੇਸ਼ਾ ਚਾਲੂ"</item>
+<item>Always close</item>
+</string-array>
+  <string-array name="dream_timeout_entries">
+<item>"ਕਦੇ ਨਹੀਂ"</item>
+<item>"15 ਸੈਕਿੰਡ"</item>
+<item>"30 ਸੈਕਿੰਡ"</item>
+<item>"1 ਮਿੰਟ"</item>
+<item>"2 ਮਿੰਟ"</item>
+<item>"5 ਮਿੰਟ"</item>
+<item>"10 ਮਿੰਟ"</item>
+<item>"30 ਮਿੰਟ"</item>
+</string-array>
+  <string-array name="lock_after_timeout_entries">
+<item>"ਤੁਰੰਤ"</item>
+<item>"5 ਸੈਕਿੰਡ"</item>
+<item>"15 ਸੈਕਿੰਡ"</item>
+<item>"30 ਸੈਕਿੰਡ"</item>
+<item>"1 ਮਿੰਟ"</item>
+<item>"2 ਮਿੰਟ"</item>
+<item>"5 ਮਿੰਟ"</item>
+<item>"10 ਮਿੰਟ"</item>
+<item>"30 ਮਿੰਟ"</item>
+</string-array>
+  <string-array name="entries_font_size">
+<item>"ਛੋਟਾ"</item>
+<item>"ਸਧਾਰਨ"</item>
+<item>"ਵੱਡਾ"</item>
+<item>"ਬਹੁਤ ਵੱਡਾ"</item>
+</string-array>
+  <string-array name="tts_pitch_entries">
+<item>"ਬਹੁਤ ਘੱਟ"</item>
+<item>"ਘੱਟ"</item>
+<item>"ਸਧਾਰਨ"</item>
+<item>"ਉੱਚ"</item>
+<item>"ਬਹੁਤ ਵੱਧ"</item>
+</string-array>
+  <string-array name="wifi_status">
+<item></item>
+<item>"ਸਕੈਨ ਕਰ ਰਿਹਾ ਹੈ..."</item>
+<item>"ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ\u2026"</item>
+<item>"ਪ੍ਰਮਾਣੀਕਰਨ ਕਰ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"IP ਪਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"ਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਮੁਅੱਤਲ ਕੀਤਾ"</item>
+<item>"ਡਿਸਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ\u2026"</item>
+<item>"ਡਿਸਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਅਸਫਲ"</item>
+<item>ਬਲਾੱਕ ਹੋਇਆ</item>
+<item>Temporarily avoiding poor connection</item>
+</string-array>
+  <string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"ਸਕੈਨ ਕਰ ਰਿਹਾ ਹੈ..."</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g>ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"with <xliff:g id="network_name">%1$s</xliff:g>ਦਾ ਪ੍ਰਮਾਣੀਕਰਨ ਕਰ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g>ਤੋਂ IP ਪਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ"</item>
+<item>"ਮੁਅੱਤਲ ਕੀਤਾ"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ\u2026 "</item>
+<item>"ਡਿਸਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਅਸਫਲ"</item>
+<item>ਬਲਾੱਕ ਹੋਇਆ</item>
+<item>Temporarily avoiding poor connection</item>
+</string-array>
+  <string-array name="wifi_security">
+<item>@string/wifi_security_none</item>
+<item>@string/wifi_security_wep</item>
+<item>@string/wifi_security_psk_generic</item>
+<item>@string/wifi_security_eap</item>
+<item>@string/wifi_security_wapi_psk</item>
+<item>@string/wifi_security_wapi_cert</item>
+</string-array>
+  <string-array name="wifi_p2p_wps_setup">
+<item>"ਪੁਸ਼ ਬਟਨ"</item>
+<item>"ਪੀਅਰ ਡਿਵਾਈਸ ਤੋਂ PIN "</item>
+<item>"ਇਸ ਡਿਵਾਈਸ ਤੋਂ PIN "</item>
+</string-array>
+  <string-array name="wifi_p2p_status">
+<item>"ਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਸੱਦਾ ਦਿੱਤਾ"</item>
+<item>"ਅਸਫਲ"</item>
+<item>"ਮੌਜੂਦ"</item>
+<item>"ਰੇਂਜ-ਤੋਂ-ਬਾਹਰ"</item>
+</string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+<item>"2 ਮਿੰਟ"</item>
+<item>"5 ਮਿੰਟ"</item>
+<item>"1 ਘੰਟਾ"</item>
+<item>"ਕਦੇ ਵੀ ਸਮਾਂ ਸਮਾਪਤ ਨਹੀਂ"</item>
+</string-array>
+  <string-array name="wifi_signal">
+<item>"ਖਰਾਬ"</item>
+<item>"ਵਧੀਆ"</item>
+<item>"ਚੰਗਾ"</item>
+<item>"ਬਹੁਤ ਵਧੀਆ"</item>
+</string-array>
+  <string-array name="wifi_sleep_policy_entries">
+<item>"ਹਮੇਸ਼ਾ"</item>
+<item>"ਕੇਵਲ ਉਦੋਂ ਜਦੋਂ ਪਲਗ ਇਨ ਕੀਤਾ ਹੋਵੇ"</item>
+<item>"ਕਦੇ ਨਹੀਂ (ਡੇਟਾ ਪ੍ਰਯੋਗ ਵਧਾਉਂਦਾ ਹੈ)"</item>
+</string-array>
+  <string-array name="wifi_sleep_policy_entries_wifi_only">
+<item>"ਹਮੇਸ਼ਾ"</item>
+<item>"ਕੇਵਲ ਉਦੋਂ ਜਦੋਂ ਪਲਗ ਇਨ ਕੀਤਾ ਹੋਵੇ"</item>
+<item>"ਕਦੇ ਨਹੀਂ"</item>
+</string-array>
+  <string-array name="wifi_frequency_band_entries">
+<item>"ਸਵੈ"</item>
+<item>"5 GHz ਕੇਵਲ "</item>
+<item>"2.4 GHz ਕੇਵਲ"</item>
+</string-array>
+  <string-array name="usage_stats_display_order_types">
+<item>"ਵਰਤੋ ਦਾ ਸਮਾਂ"</item>
+<item>"ਲਾਂਚ ਕਾਊਂਟ"</item>
+<item>"ਅਨੁਪ੍ਰਯੋਗ ਨਾਂ"</item>
+</string-array>
+  <string-array name="wifi_phase2_entries">
+<item>"ਕੋਈ ਨਹੀਂ"</item>
+<item>PAP</item>
+<item>MSCHAP</item>
+<item>MSCHAPV2</item>
+<item>GTC</item>
+</string-array>
+  <string-array name="wifi_ip_settings">
+<item>DHCP</item>
+<item>"ਅੰਕੜਾ"</item>
+</string-array>
+  <string-array name="wifi_proxy_settings">
+<item>"ਕੋਈ ਨਹੀਂ"</item>
+<item>"ਮੈਨੂਅਲ"</item>
+</string-array>
+  <string-array name="emergency_tone_entries">
+<item>"ਬੰਦ"</item>
+<item>"ਚੇਤਾਵਨੀ"</item>
+<item>"ਵਾਈਬ੍ਰੇਟ"</item>
+</string-array>
+  <string-array name="apn_auth_entries">
+<item>"ਕੋਈ ਨਹੀਂ"</item>
+<item>PAP</item>
+<item>CHAP</item>
+<item>"PAP ਜਾਂ CHAP"</item>
+</string-array>
+  <string-array name="bearer_entries">
+<item>LTE</item>
+<item>eHRPD</item>
+<item>"ਅਨਿਰਦਿਸ਼ਟ"</item>
+</string-array>
+  <string-array name="app_install_location_entries">
+<item>"ਅੰਦਰੂਨੀ ਡਿਵਾਈਸ ਸਟੋਰੇਜ"</item>
+<item>"ਕੱਢਣ ਯੋਗ SD ਕਾਰਡ"</item>
+<item>"ਸਿਸਟਮ ਨੂੰ ਨਿਰਧਾਰਿਤ ਕਰਨ ਦਿਓ"</item>
+</string-array>
+
+<string-array name="app_ums_install_location_entries">
+        <item>"ਅੰਦਰੂਨੀ ਉਪਕਰਨ ਸਟੋਰੇਜ"</item>
+        <item>"ਮੋਬਾਈਲ ਦੀ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ"</item>
+        <item>"ਸਿਸਟਮ ਨੂੰ ਨਿਰਧਾਰਿਤ ਕਰਨ ਦਿਉ"</item>
+</string-array>
+
+  <string-array name="dualsim_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"ਹਮੇਸ਼ਾ ਝਟਪਟ"</item>
+</string-array>
+  <string-array name="dualsim_mms_summaries">
+<item>" SIM 1 "</item>
+<item>" SIM 2 "</item>
+<item>"ਹਮੇਸ਼ਾ ਝਟਪਟ"</item>
+<item>"ਸਵੈ"</item>
+</string-array>
+  <string-array name="dualsim_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+</string-array>
+  <string-array name="dualsim_setting_entries">
+<item>"SIM 1"</item>
+<item>"SIM 2"</item>
+<item>"ਹਮੇਸ਼ਾ ਝਟਪਟ"</item>
+</string-array>
+  <string-array name="silent_mode_entries">
+<item>"ਬੰਦ"</item>
+<item>"ਵਾਈਬ੍ਰੇਟ"</item>
+<item>"ਮਿਊਟ"</item>
+</string-array>
+  <string-array name="long_press_timeout_selector_titles">
+<item>"ਛੋਟਾ"</item>
+<item>"ਮਾਧਿਅਮ"</item>
+<item>"ਲੰਬਾ"</item>
+</string-array>
+  <string-array name="hdcp_checking_titles">
+<item>"ਕਦੇ ਜਾਂਚ ਨਾ ਕਰੋ"</item>
+<item>"ਕੇਵਲ DRM ਸਮੱਗਰੀ ਲਈ ਜਾਂਚ ਨਾ ਕਰੋ"</item>
+<item>"ਹਮੇਸ਼ਾ ਜਾਂਚ ਕਰੋ"</item>
+</string-array>
+  <string-array name="hdcp_checking_summaries">
+<item>"ਕਦੇ ਵੀ HDCP ਜਾਂਚ ਪ੍ਰਯੋਗ ਨਾ ਕਰੋ"</item>
+<item>"ਕੇਵਲ DRM ਸਮੱਗਰੀ ਲਈ HDCP ਜਾਂਚ ਪ੍ਰਯੋਗ ਕਰੋ"</item>
+<item>"ਹਮੇਸ਼ਾ HDCP ਜਾਂਚ ਪ੍ਰਯੋਗ ਕਰੋ"</item>
+</string-array>
+  <string-array name="window_animation_scale_entries">
+<item>"ਐਨੀਮੇਸ਼ਨ ਬੰਦ"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 0.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.0x"</item>
+</string-array>
+  <string-array name="transition_animation_scale_entries">
+<item>"ਐਨੀਮੇਸ਼ਨ ਬੰਦ"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 0.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.0x"</item>
+</string-array>
+  <string-array name="animator_duration_scale_entries">
+<item>"ਐਨੀਮੇਸ਼ਨ ਬੰਦ"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 0.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 2x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 5x"</item>
+<item>"ਐਨੀਮੇਸ਼ਨ ਸਕੇਲ 1.0x"</item>
+</string-array>
+  <string-array name="app_process_limit_entries">
+<item>"ਸਟੈਂਡਰਡ "</item>
+<item>"ਕੋਈ ਪਿਛੋਕੜ ਪ੍ਰਕਿਰਿਆਵਾਂ ਨਹੀਂ"</item>
+<item>"ਵੱਧ ਤੋਂ ਵੱਧ 1 ਪ੍ਰਕਿਰਿਆ"</item>
+<item>"ਵੱਧ ਤੋਂ ਵੱਧ 2 ਪ੍ਰਕਿਰਿਆ"</item>
+<item>"ਵੱਧ ਤੋਂ ਵੱਧ 3 ਪ੍ਰਕਿਰਿਆ"</item>
+<item>"ਵੱਧ ਤੋਂ ਵੱਧ 4 ਪ੍ਰਕਿਰਿਆ"</item>
+</string-array>
+  <string-array name="vpn_types_long">
+<item>PPTP VPN</item>
+<item>"ਪ੍ਰੀ-ਸ਼ੇਅਰਡ ਕੁੰਜੀਆਂ ਨਾਲ L2TP/IPSec VPN "</item>
+<item>"ਸਰਟੀਫਿਕੇਟਾਂ ਨਾਲ L2TP/IPSec VPN "</item>
+<item>"ਪ੍ਰੀ-ਸ਼ੇਅਰਡ ਕੁੰਜੀਆਂ ਅਤੇ Xauth ਪ੍ਰਮਾਣੀਕਰਨ ਨਾਲ IPSec VPN "</item>
+<item>"ਸਰਟੀਫਿਕੇਟਾਂ ਅਤੇ Xauth ਪ੍ਰਮਾਣੀਕਰਨ ਨਾਲ IPSec VPN "</item>
+<item>"ਸਰਟੀਫਿਕੇਟਾਂ ਅਤੇ ਹਾਈਬ੍ਰਿਡ ਪ੍ਰਮਾਣੀਕਰਨ ਨਾਲ IPSec VPN "</item>
+</string-array>
+  <string-array name="vpn_states">
+<item>"ਡਿਸਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਸ਼ੁਰੂ ਕਰ ਰਿਹਾ ਹੈ\u2026"</item>
+<item>"ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ\u2026"</item>
+<item>"ਕਨੈਕਟ ਹੋ ਗਿਆ"</item>
+<item>"ਸਮਾਂ ਸਮਾਪਤ"</item>
+<item>"ਅਸਫਲ"</item>
+</string-array>
+  <string-array name="mobile_to_wlan">
+<item>"ਸਵੈ ਕਨੈਕਟ"</item>
+<item>"ਮੈਨੂਅਲ ਕਨੈਕਟ"</item>
+<item>"ਹਮੇਸ਼ਾ ਪੁੱਛੋ"</item>
+</string-array>
+  <string-array name="alarm_set">
+<item>"ਇਹ ਹੁਣ ਤੋਂ 1 ਮਿੰਟ ਤੋਂ ਘੱਟ ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਅਤੇ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ ਸੈਟ ਹੈ।"</item>
+<item>"ਇਹ ਹੁਣ ਤੋਂ <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, ਅਤੇ <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> ਲਈ  ਸੈਟ ਹੈ।"</item>
+</string-array>
+    <string-array name="tts_rate_entries">
+        <item>"ਬਹੁਤ ਮੰਦ"</item>
+        <item>"ਮੰਦ"</item>
+        <item>"ਸਧਾਰਨ"</item>
+        <item>"ਤੇਜ਼"</item>
+        <item>"ਬਹੁਤ ਤੇਜ਼"</item>
+        <item>"ਬਹੁਤ ਤੇਜ਼"</item>
+        <item>"ਤੇਜ਼"</item>
+        <item>"ਬਹੁਤ ਤੇਜ਼"</item>
+        <item>"ਸਭ ਤੋਂ ਤੇਜ਼"</item>
+    </string-array>
+     <string-array name="wifi_peap_phase2_entries">
+        <item>"ਕੋਈ ਨਹੀਂ"</item>
+        <item>"MSCHAPV2"</item>
+        <item>"GTC"</item>
+    </string-array>
+     <string-array name="mvno_type_entries">
+        <item>"ਕੋਈ ਨਹੀਂ"</item>
+        <item>"SPN"</item>
+        <item>"IMSI"</item>
+        <item>"GID"</item>
+    </string-array>
+     <string-array name="app_ops_categories">
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਨਿਜੀ"</item>
+        <item>"ਸੰਦੇਸ਼ ਭੇਜਣਾ"</item>
+        <item>"ਮੀਡੀਆ"</item>
+        <item>"ਡਿਵਾਈਸ"</item>
+    </string-array>
+     <string-array name="app_ops_summaries">
+        <item>"ਘਟੀਆ ਸਥਾਨ"</item>
+        <item>"ਵਧੀਆ ਸਥਾਨ"</item>
+        <item>"GPS"</item>
+        <item>"ਵਾਈਬ੍ਰੇਟ"</item>
+        <item>"ਸੰਪਰਕ ਪੜ੍ਹੋ"</item>
+        <item>"ਸੰਪਰਕਾਂ ਨੂੰ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਕਾਲ ਲੌਗ ਪੜ੍ਹੋ"</item>
+        <item>"ਕਾਲ ਲੌਗ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਕੈਲੰਡਰ ਪੜ੍ਹੋ"</item>
+        <item>"ਕੈਲੰਡਰ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"wi-fi ਸਕੈਨ"</item>
+        <item>"ਸੂਚਨਾ"</item>
+        <item>"ਸੈਲ ਸਕੈਨ"</item>
+        <item>"ਕਾਲ ਫੋਨ"</item>
+        <item>"SMS ਪੜ੍ਹੋ"</item>
+        <item>"SMS ਲਿਖੋ"</item>
+        <item>"SMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"ਆਪਾਤਕਾਲੀਨ SMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"MMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"WAP ਪੁਸ਼ ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"SMS ਭੇਜੋ"</item>
+        <item>"ICC SMS ਪੜ੍ਹੋ"</item>
+        <item>"ICC SMS ਲਿਖੋ"</item>
+        <item>"ਸੈਟਿੰਗਸ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਉਪਰ ਖਿੱਚੋ"</item>
+        <item>"ਸੂਚਨਾਵਾਂ ਤੱਕ ਪਹੁੰਚੋ"</item>
+        <item>"ਕੈਮਰਾ"</item>
+        <item>"ਆਡੀਓ ਰਿਕਾਰਡ ਕਰੋ"</item>
+        <item>"ਔਡਿਓ ਪਲੇ ਕਰੋ"</item>
+        <item>"ਕਲਿਪਬੋਰਡ ਪੜ੍ਹੋ"</item>
+        <item>"ਕਲਿਪਬੋਰਡ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਮੀਡਿਆ ਬਟਨ"</item>
+        <item>"ਔਡਿਓ ਫੋਕਸ"</item>
+        <item>"ਮਾਸਟਰ ਵੋਲਿਊਮ"</item>
+        <item>"ਵੌਆਇਸ ਵੋਲਿਊਮ"</item>
+        <item>"ਰਿੰਗ ਵੋਲਿਊਮ"</item>
+        <item>"ਮੀਡਿਆ ਵੋਲਯੂਮ"</item>
+        <item>"ਅਲਾਰਮ ਵੋਲਯੂਮ"</item>
+        <item>"ਸੂਚਨਾ ਵੋਲਯੂਮ"</item>
+        <item>"ਬਲੂਟੁੱਥ ਵੋਲਯੂਮ"</item>
+        <item>"ਜਾਗਦਾ ਰੱਖੋ"</item>
+        <item>"ਸਥਾਨ ਮਾਨੀਟਰ ਕਰੋ"</item>
+        <item>"ਉੱਚ ਪਾਵਰ ਸਥਾਨ ਮਾਨੀਟਰ ਕਰੋ"</item>
+    </string-array>
+     <string-array name="app_ops_labels">
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਵਾਈਬ੍ਰੇਟ"</item>
+        <item>"ਸੰਪਰਕ ਪੜ੍ਹੋ"</item>
+        <item>"ਸੰਪਰਕਾਂ ਨੂੰ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਕਾਲ ਲੌਗ ਪੜ੍ਹੋ"</item>
+        <item>"ਕਾਲ ਲੌਗ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਕੈਲੰਡਰ ਪੜ੍ਹੋ"</item>
+        <item>"ਕੈਲੰਡਰ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਸੂਚਨਾ ਪੋਸਟ ਕਰੋ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਕਾਲ ਫੋਨ"</item>
+        <item>"SMS/MMS ਪੜ੍ਹੋ"</item>
+        <item>"SMS/MMS ਲਿਖੋ"</item>
+        <item>"SMS/MMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"SMS/MMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"SMS/MMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"SMS/MMS ਪ੍ਰਾਪਤ ਕਰੋ"</item>
+        <item>"SMS/MMS ਭੇਜੋ"</item>
+        <item>"SMS/MMS ਪੜ੍ਹੋ"</item>
+        <item>"SMS/MMS ਲਿਖੋ"</item>
+        <item>"ਸੈਟਿੰਗਸ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਉਪਰ ਖਿੱਚੋ"</item>
+        <item>"ਸੂਚਨਾਵਾਂ ਤੱਕ ਪਹੁੰਚੋ"</item>
+        <item>"ਕੈਮਰਾ"</item>
+        <item>"ਆਡੀਓ ਰਿਕਾਰਡ ਕਰੋ"</item>
+        <item>"ਔਡਿਓ ਪਲੇ ਕਰੋ"</item>
+        <item>"ਕਲਿਪਬੋਰਡ ਪੜ੍ਹੋ"</item>
+        <item>"ਕਲਿਪਬੋਰਡ ਸੰਸ਼ੋਧਿਤ ਕਰੋ"</item>
+        <item>"ਮੀਡਿਆ ਬਟਨ"</item>
+        <item>"ਔਡਿਓ ਫੋਕਸ"</item>
+        <item>"ਮਾਸਟਰ ਵੋਲਿਊਮ"</item>
+        <item>"ਵੌਆਇਸ ਵੋਲਿਊਮ"</item>
+        <item>"ਰਿੰਗ ਵੋਲਿਊਮ"</item>
+        <item>"ਮੀਡਿਆ ਵੋਲਯੂਮ"</item>
+        <item>"ਅਲਾਰਮ ਵੋਲਯੂਮ"</item>
+        <item>"ਸੂਚਨਾ ਵੋਲਯੂਮ"</item>
+        <item>"ਬਲੂਟੁੱਥ ਵੋਲਯੂਮ"</item>
+        <item>"ਜਾਗਦਾ ਰੱਖੋ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+        <item>"ਸਥਾਨ ਸੇਵਾਵਾਂ"</item>
+    </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>"ਡਿਫਾਲਟ"</item>
+        <item>"Sans-serif"</item>
+        <item>"Sans-serif condensed"</item>
+        <item>"Serif"</item>
+        <item>"ਮੋਨੋਸਪੇਸ"</item>
+    </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>"ਬਹੁਤ ਛੋਟਾ"</item>
+        <item>"ਛੋਟਾ"</item>
+        <item>"ਸਧਾਰਨ"</item>
+        <item>"ਵੱਡਾ"</item>
+        <item>"ਬਹੁਤ ਵੱਡਾ"</item>
+    </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>"ਕੋਈ ਨਹੀਂ"</item>
+        <item>"ਆਊਟਲਾਈਨ"</item>
+        <item>"ਡ੍ਰੌਪ ਸ਼ੈਡੋ"</item>
+    </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>"ਕਾਲੇ ਤੇ ਚਿੱਟਾ"</item>
+        <item>"ਚਿੱਟੇ ਤੇ ਕਾਲਾ"</item>
+        <item>"ਕਾਲੇ ਤੇ ਪੀਲਾ"</item>
+        <item>"ਨੀਲੇ ਤੇ ਪੀਲਾ"</item>
+        <item>"ਕਸਟਮ"</item>
+    </string-array>
+     <string-array name="select_runtime_titles">
+        <item>"Dalvik"</item>
+        <item>"ART"</item>
+        <item>"ART (ਡੀਬਗ)"</item>
+    </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>"ਡਾਲਵਿਕ ਪ੍ਰਯੋਗ ਕਰ"</item>
+        <item>"ART ਪ੍ਰਯੋਗ ਕਰੋ"</item>
+        <item>"ART ਡੀਬਗ ਬਿਲਡ ਪ੍ਰਯੋਗ ਕਰੋ"</item>
+    </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>"ਕੋਈ ਨਹੀਂ"</item>
+        <item>"720x480 mdpi"</item>
+        <item>"720x480 mdpi (secure)"</item>
+        <item>"1280x720 tvdpi"</item>
+        <item>"1280x720 tvdpi (ਸੁਰੱਖਿਅਤ)"</item>
+        <item>"1920x1080 xhdpi"</item>
+        <item>"1920x1080 xhdpi (ਸੁਰੱਖਿਅਤ)"</item>
+        <item>"1280x720 tvdpi ਅਤੇ 1920x1080 xhdpi"</item>
+    </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>"ਕੋਈ ਨਹੀਂ"</item>
+        <item>"Logcat"</item>
+        <item>"ਸਿਸਟ੍ਰੇਸ (ਗ੍ਰਾਫਿਕਸ)"</item>
+        <item>"glGetError ਤੇ ਸਟੈਕ ਕਾਲ ਕਰੋ"</item>
+    </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>"ਬੰਦ"</item>
+        <item>"ਨੀਲੇ ਵਿੱਚ ਗੈਰ-ਆਇਤਾਕਾਰ ਕਲਿਪ ਖੰਡ ਖਿੱਚੋ"</item>
+        <item>"ਹਰੇ ਵਿੱਚ ਚਿੰਨ੍ਹਿਤ ਜਾਂਚ ਕੀਤੀਆਂ ਡ੍ਰਾਇੰਗ ਕਮਾਂਡਾਂ"</item>
+    </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>"ਬੰਦ"</item>
+        <item>"ਬਾਰਸ ਦੇ ਤੌਰ ਤੇ ਸਕ੍ਰੀਨ ਤੇ"</item>
+        <item>"ਲਾਈਨਾਂ ਤੇ ਤੌਰ ਤੇ ਸਕ੍ਰੀਨ ਤੇ"</item>
+        <item>"adb ਸ਼ੈਲ dumpsys gfxinfo ਵਿੱਚ"</item>
+    </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>"ਬੰਦ"</item>
+        <item>"ਓਵਰਡ੍ਰਾ ਖੇਤਰ ਦਿਖਾਓ"</item>
+        <item>"ਡਿਊਟ੍ਰਾਮੋਨਲੀ ਲਈ ਖੇਤਰ ਦਿਖਾਓ"</item>
+        <item>"ਓਵਰਡ੍ਰਾ ਕਾਊਂਟਰ ਦਿਖਾਓ"</item>
+    </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>"ਪੁੱਛੋ"</item>
+        <item>"ਕਦੇ ਅਨੁਮਤੀ ਨਾ ਦਿਓ"</item>
+        <item>"ਹਮੇਸ਼ਾ ਅਨੁਮਤੀ ਦਿਓ"</item>
+    </string-array>
+     <string-array name="ram_states">
+        <item>"ਸਧਾਰਨ"</item>
+        <item>"ਮਾਮੂਲੀ"</item>
+        <item>"ਘੱਟ"</item>
+        <item>"ਨਾਜ਼ਕ"</item>
+    </string-array>
+  <string-array name="agps_setting_entries">
+    <item>ਖੋਲ੍ਹੋ</item>
+    <item>ਬੰਦ ਕਰੋ</item>
+  </string-array>
+  <string-array name="auto_time_entries">
+    <item>ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</item>
+    <item>"GPS-ਵੱਲੋਂ ਦਿੱਤਾ ਸਮਾਂ ਵਰਤੋ"</item>
+    <item>ਬੰਦ</item>
+  </string-array>
+  <string-array name="auto_time_entries_no_gps">
+    <item>ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</item>
+    <item>ਬੰਦ</item>
+  </string-array>
+
+</resources>

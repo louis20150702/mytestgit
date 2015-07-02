@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn شەكلىنى تاللاش"</string>
+<string name="user_could_input_apn_type">"ئىشلەتكۈچى apn شەكلىنى كىرگۈزەلەيدۇ"</string>
+<string name="could_not_input_the_same_apn_type">"ئوخشاش apn شەكلىنى كىرگۈزەلمەيدۇ"</string>
+<string name="apn_type_message">"سىزنىڭ يېڭى APN نىڭىز سۈكۈتتىكى شەكىلنى ئۆز ئىچىگە ئالمىغان، بۇ APN نى تاللىغىلى بولمايدۇ."</string>
+<string name="error_apn_type_message">"APN تۈرى بوش قالسا بولمايدۇ"</string>
+<string name="error_apn_type">"سىز كىرگۈزگەن APN تۈرىنى قوللىمايدۇ، قايتا كىرگۈزۈڭ!"</string>
+<string name="same_apn_type">"سىز ئوخشاش تۈردىكى APN كىرگۈزدىڭىز، قايتا كىرگۈزۈڭ!"</string>
+<string name="empty_apn_type">"سىز APN تۈرىنى كىرگۈزمىدىڭىز ياكى تاللىمىدىڭىز، قايتا كىرگۈزۈڭ!"</string>
+<string name="dual_settings_title_uui">"Sim كارتا باشقۇرۇش"</string>
+<string name="dual_voice_setting_title">"ئۈن تەڭشىكى"</string>
+<string name="dual_video_setting_title">"سىن تەڭشىكى"</string>
+<string name="dual_mms_setting_title">"قىسقا ئۇچۇر تەڭشىكى"</string>
+<string name="dual_settings_title">"قوش Sim كارتا تەڭشىكى"</string>
+<string name="sim_name_setting_title">"SIM ئىسمىنى تەھرىرلەش"</string>
+<string name="sim_color_setting_title">"ئارقا كۆرنۈش رەڭگىنى تاللاش"</string>
+<string name="dual_settings_always_prompt">"داۋاملىق ئەسكەرتىش"</string>
+<string name="mms_settings_auto">"ئاپتوماتىك"</string>
+<string name="no_need_set_data_subscription">"ئۇچۇر مۇشتەرىسى بېكىتىش ھاجىتى يوق."</string>
+<string name="voice_setting_title">"ئۈنلىك چاقىرىش تەڭشىكى"</string>
+<string name="video_setting_title">"سىنلىق چاقىرىش تەڭشىكى"</string>
+<string name="mms_setting_title">"رەڭلىك ئۇچۇر ۋە قىسقا ئۇچۇر تەڭشىكى"</string>
+<string name="sim_reply_setting">"Sim قايتۇرۇش تەڭشىكى"</string>
+<string name="reply_message_setting">"رەڭلىك ئۇچۇر ياكى قىسقا ئۇچۇر قايتۇرۇش"</string>
+<string name="closeData">"تاقاش"</string>
+<string name="data_title">"سانلىق مەلۇمات ئۇلىنىش تەڭشىكى"</string>
+<string name="sel_sub_title">"كۈتۈش ھالىتى تەڭشەكلىرى"</string>
+<string name="sel_sub_summary">"“SIM كارتىنى قوزغۇتۇش ياكى تاقاش""</string>
+<string name="set_data_subscription_timeout">"سانلىق مەلۇمات ئۇلىنىشى تەڭشەش ۋاقتى ئىشىپ كەتتى!"</string>
+<string name="set_dds_failed">"خاتالىق، بارلىق ساقلىق مەلۇمات ئۇلىنىشىنى ئۆچۈرۈڭ ھەم سەل تۇرۇپ قايتا سىناڭ!"</string>
+<string name="set_dds_success">"مۇۋاپىقيەتلىك يوللاندى"</string>
+<string name="set_data_subscription_progress">"تەڭشە ۋاتىدۇ، ساقلاڭ..."</string>
+<string name="set_data_subscription_error_ok">"بېكىتىش"</string>
+<string name="set_data_subscription_error_title">"خاتالىق"</string>
+<string name="set_data_subscription_error">"بۇ SIM كارتا يوق، تەكشۈرۈپ قايتا سىناڭ!"</string>
+<string name="sim_retries_left">"ئىشىپ قالغان قېتىم سانى"</string>
+<string name="menu_kill_apps_services">"ھەممە قوللىنىشچان دېتالنى ئىتىش"</string>
+<string name="back_groud_data_usage_restrict_protocal">"ئارقا سۇپا سانلىق مەلۇماتىنى ئىشلىتىش كىلشىمى."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ئارقا سۇپا سانلىق مەلۇمات ئىشلىتىش كېلىشمىگە رۇخسەت قىلامدۇ؟"</string>
+<string name="apn_edit_quit">"چېكىنىش"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> زىيارەت نۇقتىسىنى تەھرىرلەش"</string>
+<string name="input_pin_limit">"4 - 8 خانىگىچە سان كىرگۈزۈڭ"</string>
+    <string name="agps_supl_manual_settings">"SUPL مۇلازىمىتېرىنى قولدا قوزغىتىش"</string>
+    <string name="agps_supl_manual_settings_summary">"SUPL مۇلازىمىتېرى ۋە ئۇلىنىش نۇقتىسىنى قولدا بىكىتىش"</string>
+    <string name="str_clear">تازلاقلىق</string>
+    <string name="str_save">ساقلاش</string>
+    <string name="gps_location_suplserver">مۇلازىمېتىر</string>
+    <string name="agps_setting">"Agps تەڭشىكى"</string>
+    <string name="open">ئېچىش</string>
+    <string name="close">ئىتىۋىتىش </string>
+    <string name="mobile_network_settings_ex">"SIM <xliff:g id="SIM">%s</xliff:g> كۆچمە تور تەڭشەكلىرى"</string>
+    <string name="pin_enabled_success">SIM PIN كارتىسى نۇمۇرى قوزغىتىلدى</string>
+    <string name="pin_disabled_success">SIM PIN كارتىسى نۇمۇرى چەكلەندى</string>
+    <string name="gps_time_sync_attention_gps_on">"تەمىنلىگەن ۋاقىتنى ئىشلىتىشنى مۇقىملامسىز؟ GPSسىز\n\n .نىڭ ۋاقىتنى تەمىنلىيەلمەسلىكى ئەتراپتىكى ئاجىز سىگنال بىلەن مۇناسىۋەتلىك بولۇشى مۇمكىنGPSنى ئوڭشاشقا ئەڭ كۆپ بولغاندا 1مىنۇت ۋاقىت كېتىدۇ ئۇنىڭ ئۈستىگە GPS"</string>
+    <string name="gps_time_sync_attention_gps_off">" تەمىنلىگەن ۋاقىتنى ئىشلىتەمسىز؟GPSنى قوزغىتىپ GPSسىز\n\nنىڭ ۋاقىتنى تەمىنلىيەلمەسلىكى ئەتراپتىكى ئاجىز سىگنال بىلەن مۇناسىۋەتلىك بولۇشى مۇمكىنGPSنى ئوڭشاشقا ئەڭ كۆپ بولغاندا 1مىنۇت ۋاقىت كېتىدۇ، ئۇنىڭ ئۈستىگە GPS.نى قوزغىتىش لازىمGPS تەمىنلىگەن ۋاقىتقا ئېرىشىش ئۈچۈن ئالدى بىلەن GPS"</string>
+    <string name="apn_settings_ex">" چېتىش نۇقتا نامىSIM<xliff:g id="SIM">%s</xliff:g>"</string>
+
+</resources>

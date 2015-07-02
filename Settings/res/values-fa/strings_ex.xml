@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"انواع تنظیمات apn"</string>
+<string name="user_could_input_apn_type">"کاربر می تواند نوع apn را وارد نماید"</string>
+<string name="could_not_input_the_same_apn_type">"عدم قابلیت وارد کردن نوع مشابه apn"</string>
+<string name="apn_type_message">"نوع پیش فرض در APN جدید شما وجود ندارد، قادر به انتخاب APN نیستیم."</string>
+<string name="error_apn_type_message">"نوع APN نمی تواند خالی باشد"</string>
+<string name="error_apn_type">"نوع APN وارد شده قابل قبول نیست، لطفا دوباره وارد کنید!"</string>
+<string name="same_apn_type">"شما همان نوع APN را وارد کرده اید، لطفا دوباره وارد کنید!"</string>
+<string name="empty_apn_type">"شما نوع APN را وارد یا انتخاب نکرده اید، لطفا دوباره وارد کنید!"</string>
+<string name="dual_settings_title_uui">"مدیریت سیم کارت"</string>
+<string name="dual_voice_setting_title">"تنظیمات صدا"</string>
+<string name="dual_video_setting_title">"تنظیمات ویدئو"</string>
+<string name="dual_mms_setting_title">"تنظیمات SMS"</string>
+<string name="dual_settings_title">"تنظیمات جفت SIM"</string>
+<string name="sim_name_setting_title">"ویرایش نام SIM"</string>
+<string name="sim_color_setting_title">"تنظیم رنگ زمینه"</string>
+<string name="dual_settings_always_prompt">"همواره آماده فعالیت"</string>
+<string name="mms_settings_auto">"خودکار"</string>
+<string name="no_need_set_data_subscription">"نیازی به تنظیم اشتراک داده نیست."</string>
+<string name="voice_setting_title">"تنظیمات تماس صوتی"</string>
+<string name="video_setting_title">"تننظیمات تماس تصویری"</string>
+<string name="mms_setting_title">"تنظیمات SMS و MMS"</string>
+<string name="sim_reply_setting">"تنظیمات پاسخ SIM"</string>
+<string name="reply_message_setting">"پاسخ MMS یا SMS"</string>
+<string name="closeData">"بسته"</string>
+<string name="data_title">"تنظیمات ارتباط داده ها"</string>
+<string name="sel_sub_title">"تنظیمات حالت آماده باش"</string>
+<string name="sel_sub_summary">"برای فعال یا غیر فعال کردن SIM"</string>
+<string name="set_data_subscription_timeout">"زمان تنظیمات ارتباط داده ها تمام شد!"</string>
+<string name="set_dds_failed">"خطا! تمام ارتباط داده ها را پاک و دوباره امتحان کنید!"</string>
+<string name="set_dds_success">"با موفقیت تنظیم شد"</string>
+<string name="set_data_subscription_progress">"در حال تنظیم، لطفا صبر کنید…"</string>
+<string name="set_data_subscription_error_ok">"تایید"</string>
+<string name="set_data_subscription_error_title">"خطا"</string>
+<string name="set_data_subscription_error">"لطفا بدون این SIM تایید کنید و دوباره امتحان کنید!"</string>
+<string name="sim_retries_left">"تعداد باقیمانده از"</string>
+<string name="menu_kill_apps_services">"بستن تمام برنامه ها"</string>
+<string name="back_groud_data_usage_restrict_protocal">"پروتوکل استفاده از داده های پس زمینه ای"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"قبول پروتوکل استفاده از داده های زمینه؟"</string>
+<string name="apn_edit_quit">"خروج"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ویرایش نقطه دسترسی"</string>
+<string name="input_pin_limit">"لطفا 4 تا 8 رقم وارد کنید"</string>
+    <string name="agps_supl_manual_settings">"تنظیمات دستی سرور SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"سرور و پورت SUPL را به صورت دستی تنظیم کنید"</string>
+     <string name="str_clear">"CLR"</string>
+     <string name="str_save">"استفاده از این مورد ضبط شده"</string>
+     <string name="gps_location_suplserver">"سرور"</string>
+    <string name="agps_setting">"تنظیمات برنامه ها"</string>
+    <string name="open">"باز کردن"</string>
+    <string name="close">"بستن"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> تنظیمات شبکه موبایل"</string>
+    <string name="pin_enabled_success">"پین سیم فعال شد"</string>
+    <string name="pin_disabled_success">"پین سیم غیر فعال شد"</string>
+    <string name="gps_time_sync_attention_gps_on">"تقریباً 1 دقیقه برای تنظیم GPS زمان نیاز است. علاوه بر این ممکن است بر اثر سیگنال محیطی ضعیف این زمان بیشتر شود. \n\nمطمئن هستید می خواهید از زمان GPS استفاده کنید؟"</string>
+    <string name="gps_time_sync_attention_gps_off">"برای استفاده از زمان GPS باید ابتدا GPS را فعال کنید. سپس 1 دقیقه طول می کشد GPS تنظیم شود. علاوه بر این ممکن است بر اثر سیگنال محیطی ضعیف این زمان بیشتر شود. \n\nمطمئن هستید می خواهید GPS را فعال و از زمان GPS استفاده کنید؟"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> نام نقاط دسترسی"</string>
+</resources>

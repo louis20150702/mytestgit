@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Instelling apn type"</string>
+<string name="user_could_input_apn_type">"Gebruiker kan apn type invoeren"</string>
+<string name="could_not_input_the_same_apn_type">"Kan niet dezelfde apn type invoeren"</string>
+<string name="apn_type_message">"Er bevindt zich geen standaard type in uw nieuwe APN, niet in staat om de APN te kiezen."</string>
+<string name="error_apn_type_message">"APN type kan niet leeg zijn"</string>
+<string name="error_apn_type">"Apn type die u invoerde is niet ondersteund, voer alstublieft opnieuw in!"</string>
+<string name="same_apn_type">"U heeft hetzelfde type APN ingevoerd, voer alstublieft opnieuw in!"</string>
+<string name="empty_apn_type">"U heeft geen of enig type APN ingevoerd, voer alstublieft opnieuw in!"</string>
+<string name="dual_settings_title_uui">"SIM kaart beheer"</string>
+<string name="dual_voice_setting_title">"Spraak instelling"</string>
+<string name="dual_video_setting_title">"Video instelling"</string>
+<string name="dual_mms_setting_title">"SMS instelling"</string>
+<string name="dual_settings_title">"Dubbele SIM instellingen"</string>
+<string name="sim_name_setting_title">"Bewerk SIM naam"</string>
+<string name="sim_color_setting_title">"Stel achtergrondkleur in"</string>
+<string name="dual_settings_always_prompt">"Altijd vraag"</string>
+<string name="mms_settings_auto">"Automatisch"</string>
+<string name="no_need_set_data_subscription">"Niet nodig om gegevens abonnement in te stellen."</string>
+<string name="voice_setting_title">"Spraakoproep instellingen"</string>
+<string name="video_setting_title">"Video oproep instellingen"</string>
+<string name="mms_setting_title">"MMS en SMS instellingen"</string>
+<string name="sim_reply_setting">"Sim antwoord instellingen"</string>
+<string name="reply_message_setting">"Antwoord Mms of Sms"</string>
+<string name="closeData">"Sluiten"</string>
+<string name="data_title">"Gegevens verbinding instellingen"</string>
+<string name="sel_sub_title">"Standby instellingn"</string>
+<string name="sel_sub_summary">"Om de SIM kaart in of uit te schakelen"</string>
+<string name="set_data_subscription_timeout">"Gegevens verbinding instellingen tineout!"</string>
+<string name="set_dds_failed">"Fout! Verwijder alle gegevensverbindingen en probeer opnieuw!"</string>
+<string name="set_dds_success">"Instellen succesvol"</string>
+<string name="set_data_subscription_progress">""Instellen, wacht alstublieft..."</string>
+<string name="set_data_subscription_error_ok">"Bepalen"</string>
+<string name="set_data_subscription_error_title">"Fout"</string>
+<string name="set_data_subscription_error">"Zonder deze SIM kaart, verifieer alstublieft en probeer opnieuw!"</string>
+<string name="sim_retries_left">"Overgebleven nummer van"</string>
+<string name="menu_kill_apps_services">"Sluit alle applicaties"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Gebruik achtergrond gegevens protocol."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Accepteer achtergrond gegevens gebruiker protocol?"</string>
+<string name="apn_edit_quit">"stoppen"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Bewerk toegangspunt"</string>
+<string name="input_pin_limit">"Voer a.u.b. 4 - 8 nummers in"</string>
+    <string name="agps_supl_manual_settings">"SUPL server handmatige instelling"</string>
+     <string name="agps_supl_manual_settings_summary">"Handmatige instelling SUPL server en poort"</string>
+     <string name="str_clear">"Wissen"</string>
+     <string name="str_save">"Deze opname gebruiken"</string>
+     <string name="gps_location_suplserver">"Server"</string>
+    <string name="agps_setting">"Agps instelling"</string>
+    <string name="open">"Open"</string>
+    <string name="close">"sluiten"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobiele netwerk instellingen"</string>
+    <string name="pin_enabled_success">"SIM PIN-code ingeschakeld"</string>
+    <string name="pin_disabled_success">"SIM PIN-code uitgeschakeld"</string>
+    <string name="gps_time_sync_attention_gps_on">""Het zal ongeveer 1 minuut duren om GPS bepaling te verkrijgen. Evenzo, GPS kan falen bij het geven van tijd door zwak omgeving signaal. \n\nWeet u zeker dat u de GPS tijd wilt gebruiken?"</string>
+    <string name="gps_time_sync_attention_gps_off">"Om GPS gegeven tijd te gebruiken, moet u eerst GPS inschakelen. Het zal ongeveer 1 minuut duren om GPS bepaling te verkrijgen. Evenzo, GPS kan falen om de tijd te geven door zwak omgeving signaal. \n\nWeet u zeker dat u de GPS tijd wilt gebruiken?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

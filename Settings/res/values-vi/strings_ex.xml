@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"Cài đặt loại apn"</string>
+<string name="user_could_input_apn_type">"Người dùng có thể nhập loại apn"</string>
+<string name="could_not_input_the_same_apn_type">"Không thể nhập cùng loại apn"</string>
+<string name="apn_type_message">"Không chứa loại mặc định trong APN mới của bạn, sẽ không thể chọn APN."</string>
+<string name="error_apn_type_message">"Loại APN không được trống"</string>
+<string name="error_apn_type">"Loại Apn bạn đã nhập không được hỗ trợ, vui lòng nhập lại!"</string>
+<string name="same_apn_type">"Bạn đã nhập cùng loại APN, vui lòng nhập lại!"</string>
+<string name="empty_apn_type">"Bạn chưa nhập hay chọn bất kỳ APN nào, vui lòng nhập lại!"</string>
+<string name="dual_settings_title_uui">"Quản lý thẻ SIM"</string>
+<string name="dual_voice_setting_title">"Thiết đặt Thoại"</string>
+<string name="dual_video_setting_title">"Thiết đặt Video"</string>
+<string name="dual_mms_setting_title">"Thiết đặt SMS"</string>
+<string name="dual_settings_title">"Thiết đặt Hai Sim"</string>
+<string name="sim_name_setting_title">"Chỉnh sửa Tên SIM"</string>
+<string name="sim_color_setting_title">"Đặt Màu Nền"</string>
+<string name="dual_settings_always_prompt">"Luôn luôn nhắc nhở"</string>
+<string name="mms_settings_auto">"Tự động"</string>
+<string name="no_need_set_data_subscription">"Không cần đặt đăng ký dữ liệu."</string>
+<string name="voice_setting_title">"Thiết đặt cuộc gọi thoại"</string>
+<string name="video_setting_title">"Thiết đặt cuộc gọi video"</string>
+<string name="mms_setting_title">"Thiết đặt MMS và SMS"</string>
+<string name="sim_reply_setting">"Thiết đặt trả lời Sim"</string>
+<string name="reply_message_setting">"Mms hoặc Sms trả lời"</string>
+<string name="closeData">"đóng"</string>
+<string name="data_title">"Thiết đặt Kết nối Dữ liệu"</string>
+<string name="sel_sub_title">"Thiết đặt Chờ"</string>
+<string name="sel_sub_summary">"Để bật hoặc tắt thẻ SIM"</string>
+<string name="set_data_subscription_timeout">"Hết thời gian thiết đặt kết nối dữ liệu!"</string>
+<string name="set_dds_failed">"Lỗi! Xóa tất cả kết nối dữ liệu và thử lại!"</string>
+<string name="set_dds_success">"Đặt thành công"</string>
+<string name="set_data_subscription_progress">"Đang đặt, vui lòng đợi..."</string>
+<string name="set_data_subscription_error_ok">"Xác định"</string>
+<string name="set_data_subscription_error_title">"Lỗi"</string>
+<string name="set_data_subscription_error">"Không có thẻ SIM này, vui lòng kiểm tra và thử lại!"</string>
+<string name="sim_retries_left">"Số còn lại của"</string>
+<string name="menu_kill_apps_services">"Đóng tất cả ứng dụng"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Giao thức sử dụng dữ liệu nền."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Chấp nhận giao thức sử dụng dữ liệu Nền?"</string>
+<string name="apn_edit_quit">"Thoát"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Chỉnh sửa điểm truy cập"</string>
+<string name="input_pin_limit">"Vui lòng nhập 4 - 8 số"</string>
+    <string name="agps_supl_manual_settings">"Cài đặt thủ công máy chủ SUPL"</string>
+     <string name="agps_supl_manual_settings_summary">"Cài đặt thủ công máy chủ và cổng SUPL"</string>
+     <string name="str_clear">"Xoá"</string>
+     <string name="str_save">"Lưu"</string>
+     <string name="gps_location_suplserver">"Máy chủ"</string>
+    <string name="agps_setting">"Cài đặt Agps"</string>
+    <string name="open">"Mở"</string>
+    <string name="close">đóng</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Thiết đặt mạng di động"</string>
+    <string name="pin_enabled_success">"Đã bật mã PIN của SIM"</string>
+    <string name="pin_disabled_success">"Đã vô hiệu hoá mã PIN của SIM"</string>
+    <string name="gps_time_sync_attention_gps_on">"" Mất 1 phút để lấy bản sửa GPS. Bên cạnh đó, GPS có thể bị lỗi cung cấp thời gian do tín hiệu môi trường yếu\n\nBạn có chắc chắn sử dungh GPS được cung cấp"</string>
+    <string name="gps_time_sync_attention_gps_off">"_x000D_
+"Sử dụng thời gian GPS cung cấp, cần bật GPS trước, và đợi GPS định vị thành công.Định vị GPS nhiều nhất cần một phút. Nếu tín hiệu GPS yếu, có thể dẫn đến định vị thất bại. \n\n xác nhận cần bật GPD bây giờ_x000D_
+"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+</resources>

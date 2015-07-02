@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: for Bug257276,add new function that user can do multi choice for apn type, and also can edit @{ -->
+     <string name="apn_type_setting">"APN 类型设置"</string>
+     <string name="user_could_input_apn_type">"可自定义APN类型"</string>
+     <string name="could_not_input_the_same_apn_type">"不能输入与默认APN相同的类型，请重新输入!"</string>
+    <string name="apn_type_message">"您输入的APN中不包含 default 类型， APN列表中该APN将不能被选择用于上网！"</string>
+    <string name="error_apn_type_message">"APN 类型不能为空"</string>
+    <string name="error_apn_type">"您输入的 APN 类型不支持，请重新输入 !"</string>
+    <string name="same_apn_type">"您输入了相同的 APN 类型，请重新输入 !"</string>
+    <string name="empty_apn_type">"APN 类型未输入或者未选择，请重新输入或选择!"</string>
+    <!-- @} -->
+     <!-- SPRD: add for SimManagerActivity -->
+     <string name="dual_settings_title">双卡设置</string>
+     <string name="dual_voice_setting_title">语音设置</string>
+     <string name="dual_video_setting_title">视频设置</string>
+     <string name="dual_mms_setting_title">短彩信设置</string>
+     <string name="data_title">数据连接设置</string>
+     <string name="sim_reply_setting">本卡回复</string>
+     <string name="reply_message_setting">回复信息</string>
+     <string name="sel_sub_title">待机设置</string>
+     <string name="sel_sub_summary">启用或者关闭SIM卡</string>
+     <string name="set_data_subscription_timeout">数据连接设置超时！</string>
+     <string name="set_dds_failed">错误！请清除所有的数据连接后再试！</string>
+     <string name="set_dds_success">设置成功</string>
+     <!-- SPRD: modify for bug270356 -->
+     <string name="set_data_subscription_progress">正在设置，请等候...</string>
+     <string name="set_data_subscription_error_ok">确定</string>
+     <string name="set_data_subscription_error_title">错误提示</string>
+     <string name="set_data_subscription_error">没有此SIM卡，请核实后再试！</string>
+     <string name="sim_retries_left">剩余次数</string>
+     <string name="menu_kill_apps_services">"关闭全部应用"</string>
+     <string name="dual_settings_title_uui">SIM 卡管理</string>
+     <string name="sim_name_setting_title">编辑 SIM 卡名称</string>
+     <string name="sim_color_setting_title">设置背景颜色</string>
+     <string name="dual_settings_always_prompt">始终提示</string>
+     <string name="mms_settings_auto">自动</string>
+     <string name="no_need_set_data_subscription">不需要再次设置默认数据连接。</string>
+     <string name="voice_setting_title">"语音拨号设置"</string>
+     <string name="video_setting_title">"视频拨号设置"</string>
+     <string name="mms_setting_title">"短彩信设置"</string>
+     <string name="closeData">关闭</string>
+    <!-- @} -->
+    <!-- SPRD: add for DataUsageRestrictBackground @{ -->
+     <string name="back_groud_data_usage_restrict_protocal">"背景数据协议"</string>
+     <string name="accept_back_groud_data_usage_restrict_protocal">"是否接受背景数据协议？"</string>
+    <!-- @} -->
+    <!-- SPRD: add for ApnSettings @{ -->
+    <string name="apn_edit_quit">"退出"</string>
+    <string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> 修改接入点"</string>
+    <!-- @} -->
+    <string name="input_pin_limit">请输入4-8位数字</string>
+    <string name="agps_supl_manual_settings">"SUPL服务器手动设置"</string>
+  <string name="agps_supl_manual_settings_summary">"支持手动设置 SUPL 服务器地址和端口号"</string>
+  <string name="str_clear">清除</string>
+  <string name="str_save">保存</string>
+  <string name="gps_location_suplserver">服务器设置</string>
+  <string name="agps_setting">Agps 开关</string>
+  <string name="open">开启</string>
+  <string name="close">关闭</string>
+  <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> 移动网络设置"</string>
+  <string name="pin_enabled_success">"SIM卡PIN码功能，已开启"</string>
+  <string name="pin_disabled_success">"SIM卡PIN码功能，已关闭"</string>
+  <!-- SPRD：ADD for Auto GPS time for bug320995 @{ -->
+  <string name="gps_time_sync_attention_gps_on">使用 GPS 提供时间，必须要等待 GPS 定位成功。GPS 定位最多需要一分钟。\n\n确定要使用 GPS 提供时间吗？</string>
+  <string name="gps_time_sync_attention_gps_off">使用 GPS 提供时间，必须要先启用 GPS，并等待 GPS 定位成功。GPS 定位最多需要一分钟。如果 GPS 信号弱，可能会定位失败。\n\n确定现在要启用 GPS 并使用 GPS 提供时间吗？</string>  
+  <!-- @} -->
+  <string name="apn_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> 接入点名称</string>
+  <string name="sim_lock_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> 锁定设置</string>
+  <string name="device_status_ex">SIM<xliff:g id="SIM">%s</xliff:g> 状态信息</string>
+   <string name="sim_number_setting_title">编辑SIM卡号码</string>
+   
+   <string name="slide_lock_setting">滑动解锁设置</string>
+
+    <string name="select_icon">点击图标更改解锁快捷方式</string>
+    <string name="waiting">请稍后...</string>
+    <string name="rearching">正在加载应用程序</string>  
+</resources>

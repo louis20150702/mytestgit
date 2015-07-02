@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"apn ਪ੍ਰਕਾਰ ਸੈਟਿੰਗ"</string>
+<string name="user_could_input_apn_type">"ਉਪਯੋਗਕਰਤਾ apn ਪ੍ਕਾਰ ਇਨਪੁਟ ਕਰ ਸਕਿਆ"</string>
+<string name="could_not_input_the_same_apn_type">"ਇੱਕੋ ਅਨੁਪ੍ਰਯੋਗ ਪ੍ਰਕਾਰ ਇਨਪੁਟ ਨਹੀਂ ਕਰ ਸਕਿਆ"</string>
+<string name="apn_type_message">"ਤੁਹਾਡੇ ਨਵੇਂ APN ਵਿੱਚ ਕੋਈ ਡਿਫੌਲਟ ਪ੍ਰਕਾਰ ਨਹੀਂ ਹੈ, ਇਹ APN ਨੂੰ ਚੁਣਨ ਵਿੱਚ ਸਮਰਥ ਨਹੀਂ ਹੋਵੇਗਾ।"</string>
+<string name="error_apn_type_message">"APN ਪ੍ਰਕਾਰ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ"</string>
+<string name="error_apn_type">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਦਰਜ ਕੀਤਾ ਗਿਆ Apn ਪ੍ਰਕਾਰ ਸਮਰੱਥਿਤ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ-ਦਰਜ ਕਰੋ!"</string>
+<string name="same_apn_type">"ਤੁਸੀਂ APN ਦਾ ਉਹੋ ਪ੍ਰਕਾਰ ਦਰਜ ਕੀਤਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ-ਦਰਜ ਕਰੋ!"</string>
+<string name="empty_apn_type">"ਤੁਸੀਂ APN ਦਾ ਕੋਈ ਪ੍ਰਕਾਰ ਦਰਜ ਨਹੀਂ ਕੀਤਾ ਜਾਂ ਨਹੀਂ ਚੁਣਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ-ਦਰਜ ਕਰੋ!"</string>
+<string name="dual_settings_title_uui">"Sim ਕਾਰਡ ਵਿਵਸਥਾ"</string>
+<string name="dual_voice_setting_title">"ਵੌਆਇਸ ਸੈਟਿੰਗ"</string>
+<string name="dual_video_setting_title">"ਵੀਡਿਓ ਸੈਟਿੰਗ"</string>
+<string name="dual_mms_setting_title">"SMS ਸੈਟਿੰਗ"</string>
+<string name="dual_settings_title">"ਡੁਅਲ Sim ਸੈਟਿੰਗਸ"</string>
+<string name="sim_name_setting_title">"SIM ਨਾਂ ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+<string name="sim_color_setting_title">"ਪਿਛੋਕੜ ਰੰਗ ਸੈਟ ਕਰੋ"</string>
+<string name="dual_settings_always_prompt">"ਹਮੇਸ਼ਾ ਝਟਪਟ"</string>
+<string name="mms_settings_auto">"ਸਵੈ"</string>
+<string name="no_need_set_data_subscription">"ਡੇਟਾ ਗਾਹਕੀ ਸੈਟ ਕਰਨ ਦੀ ਕੋਈ ਲੋੜ ਨਹੀਂ।"</string>
+<string name="voice_setting_title">"ਵੌਆਇਸ ਕਾਲ ਸੈਟਿੰਗਸ"</string>
+<string name="video_setting_title">"ਵੀਡਿਓ ਕਾਲ ਸੈਟਿੰਗਸ"</string>
+<string name="mms_setting_title">"Mms ਅਤੇ Sms ਸੈਟਿੰਗਸ"</string>
+<string name="sim_reply_setting">"Sim ਜਵਾਬ ਸੈਟਿੰਗਸ"</string>
+<string name="reply_message_setting">"Mms ਜਾਂ Sms ਦਾ ਜਵਾਬ ਦਿਓ"</string>
+<string name="closeData">"ਬੰਦ ਕਰੋ"</string>
+<string name="data_title">"ਡੇਟਾ ਕਨੈਕਸ਼ਨ ਸੈਟਿੰਗਸ"</string>
+<string name="sel_sub_title">"ਸਟੈਂਡਬਾਇ ਸੈਟਿੰਗਸ"</string>
+<string name="sel_sub_summary">"SIM ਕਾਰਡ ਨੂੰ ਸਮਰਥ ਜਾਂ ਅਸਮਰਥ ਕਰਨ ਲਈ"</string>
+<string name="set_data_subscription_timeout">"ਡੇਟਾ ਕਨੈਕਸ਼ਨ ਸੈਟਿੰਗਸ ਸਮਾਂ ਸਮਾਪਤ!"</string>
+<string name="set_dds_failed">"ਅਸ਼ੁੱਧੀ!ਸਾਰੇ ਡੇਟਾ ਕਨੈਕਸ਼ਨ ਮਿਟਾਓ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+<string name="set_dds_success">"ਸਫਲਤਾਪੂਰਵਕ ਸੈਟ ਕਰੋ"</string>
+<string name="set_data_subscription_progress">"ਸੈਟ ਅਪ ਕਰ ਰਿਹਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ ..."</string>
+<string name="set_data_subscription_error_ok">"ਨਿਰਧਾਰਿਤ ਕਰੋ"</string>
+<string name="set_data_subscription_error_title">"ਅਸ਼ੁੱਧੀ"</string>
+<string name="set_data_subscription_error">"ਇਸ SIM ਕਾਰਡ ਤੋਂ ਬਿਨਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਮਾਣਿਤ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+<string name="sim_retries_left">"ਇਸਦੇ ਬਾਕੀ ਨੰਬਰ"</string>
+<string name="menu_kill_apps_services">"ਸਾਰੇ ਅਨੁਪ੍ਰਯੋਗ ਬੰਦ ਕਰੋ"</string>
+<string name="back_groud_data_usage_restrict_protocal">"ਪਿਛੋਕੜ ਡੇਟਾ ਉਪਯੋਗ ਪ੍ਰੋਟੋਕਾਲ।"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"ਕੀ ਪਿਛੋਕੜ ਡੇਟਾ ਪ੍ਰਯੋਗ ਪ੍ਰੋਟੋਕਾਲ ਸਵੀਕਾਰ ਕਰਨਾ ਹੈ?"</string>
+<string name="apn_edit_quit">"ਛੱਡੋ"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ਪਹੁੰਚ ਬਿੰਦੂ ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+<string name="input_pin_limit">"ਕਿਰਪਾ ਕਰਕੇ 4 - 8 ਸੰਖਿਆਵਾਂ ਇਨਪੁਟ ਕਰੋ"</string>
+    <string name="agps_supl_manual_settings">"SUPL ਸਰਵਰ ਮੈਨੁਅਲ ਸੈਟਿੰਗ"</string>
+    <string name="agps_supl_manual_settings_summary">"ਮੇਨੁਅਲ ਸੈਟ SUPL ਸਰਵਰ ਅਤੇ ਪੋਰਟ"</string>
+    <string name="str_clear">ਸਾਫ਼ ਕਰੋ</string>
+    <string name="str_save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="gps_location_suplserver">ਸਰਵਰ</string>
+    <string name="agps_setting">"Agps ਸੈਟਿੰਗ"</string>
+    <string name="open">ਖੋਲ੍ਹੋ</string>
+    <string name="close">ਬੰਦ ਕਰੋ</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ਮੋਬਾਈਲ ਨੈਟਵਰਕ ਸੈਟਿੰਗਸ"</string>
+    <string name="pin_enabled_success">SIM PIN ਸਕ੍ਰਿਅ ਹੋਇਆ</string>
+    <string name="pin_disabled_success">SIM PIN ਅਸਕ੍ਰਿਆ ਹੋਇਆ</string>
+    <string name="gps_time_sync_attention_gps_on">"GPS ਫਿਕਸ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਲਗਭਗ 1 ਮਿੰਟ ਲੱਗੇਗਾ। ਇਸ ਤੋਂ ਇਲਾਵਾ, GPS ਕਮਜ਼ੋਰ ਵਾਤਾਵਰਣ ਸੰਬੰਧੀ ਸਿਗਨਲ ਦੇ ਕਾਰਨ ਸਮਾਂ ਦੇਣ ਵਿੱਚ ਅਸਫਲ ਹੋ ਸਕਦਾ ਹੈ।\n\nਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ ਤੇ GPS ਵੱਲੋਂ ਦਿੱਤਾ ਸਮਾਂ ਵਰਤੋਗੇ?"</string>
+    <string name="gps_time_sync_attention_gps_off">"""GPS ਵੱਲੋਂ ਦਿੱਤਾ ਸਮਾਂ ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ GPS ਨੂੰ ਸਮਰੱਥ ਕਰਨਾ ਹੋਵੇਗਾ। ਫਿਰ GPS ਫਿਕਸ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਲਗਭਗ 1 ਮਿੰਟ ਲੱਗੇਗਾ। ਇਸ ਤੋਂ ਇਲਾਵਾ, GPS ਕਮਜ਼ੋਰ ਵਾਤਾਵਰਣ ਸੰਬੰਧੀ ਸਿਗਨਲ ਦੇ ਕਾਰਨ ਸਮਾਂ ਦੇਣ ਵਿੱਚ ਅਸਫਲ ਹੋ ਸਕਦਾ ਹੈ। \n\nਕੀ ਤੁਸੀਂ ਹੁਣ ਯਕੀਨੀ ਤੌਰ ਤੇ GPS ਨੂੰ ਸਮਰੱਥ ਕਰੋਗੇ ਅਤੇ GPS ਵੱਲੋਂ ਸਮਾਂ ਦਿੱਤੇ ਜਾਣ ਦੀ ਉਡੀਕ ਕਰੋਗੇ"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>

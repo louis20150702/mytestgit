@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: for Bug257276,add new function that user can do multi choice for apn type, and also can edit @{ -->
+    <string name="apn_type_setting">"Setting apn type"</string>
+    <string name="user_could_input_apn_type">"User could input apn type"</string>
+    <string name="could_not_input_the_same_apn_type">"Could not input the same apn type"</string>
+    <string name="apn_type_message">"There does not contain a default type in your new APN, will not be able to select the APN."</string>
+    <string name="error_apn_type_message">"APN type cannot be empty"</string>
+    <string name="error_apn_type">"Apn type you entered is not supported, please re-enter!"</string>
+    <string name="same_apn_type">"You have entered the same type of APN, please re-enter!"</string>
+    <string name="empty_apn_type">"You did not entered or select any type of APN, please re-enter!"</string>
+    <!-- @} -->
+    <!-- SPRD: add for SimManagerActivity -->
+    <string name="dual_settings_title_uui">Sim card management</string>
+    <string name="dual_voice_setting_title">Voice Setting</string>
+    <string name="dual_video_setting_title">Video Setting</string>
+    <string name="dual_mms_setting_title">SMS Setting</string>
+    <string name="dual_settings_title">Dual Sim Settings</string>
+    <string name="sim_name_setting_title">Edit SIM Name</string>
+    <string name="sim_color_setting_title">Set Background Color</string>
+    <string name="dual_settings_always_prompt">Always prompt</string>
+    <string name="mms_settings_auto">Auto</string>
+    <string name="no_need_set_data_subscription">No need to set data subscription .</string>
+    <string name="voice_setting_title">"Voice call settings"</string>
+    <string name="video_setting_title">"Video call settings"</string>
+    <string name="mms_setting_title">"MMS and SMS settings"</string>
+    <string name="sim_reply_setting">"Sim reply settings"</string>
+    <string name="reply_message_setting">"Reply MMS or SMS"</string>
+    <string name="closeData" >Close</string>
+    <!-- @} -->
+    <!-- Dual card settings -->
+    <!-- SPRD: add by spreadst @{ -->
+
+    <!-- Dual Sim Settings screen, Data box label -->
+    <string name="data_title">Data Connection Settings</string>
+    <!-- Dual Sim Settings screen, Select Sub label -->
+    <string name="sel_sub_title">Standby settings</string>
+    <!-- Dual Sim Settings screen, Select Sub Summary label -->
+    <string name="sel_sub_summary">To enable or disable the SIM card</string>
+    <string name="set_data_subscription_timeout">Data connection settings timeout!</string>
+    <string name="set_dds_failed">Error!Clear all data connections and try again!</string>
+    <string name="set_dds_success">Set successfully</string>
+    <!-- SPRD: modify for bug270356 -->
+    <string name="set_data_subscription_progress">Setting up, please wait ...</string>
+    <string name="set_data_subscription_error_ok">Determine</string>
+    <string name="set_data_subscription_error_title">Error</string>
+    <string name="set_data_subscription_error">Without this SIM card, please verify and try again!</string>
+    <string name="sim_retries_left">Remaining number of</string>
+    <string name="menu_kill_apps_services">"Close all applications"</string>
+    <!-- @} -->
+    <!-- SPRD: add for DataUsageRestrictBackground @{ -->
+    <string name="back_groud_data_usage_restrict_protocal">"Background data usage protocol."</string>
+    <string name="accept_back_groud_data_usage_restrict_protocal">"Accept Background data usage protocol?"</string>
+    <!-- @} -->
+    <!-- SPRD: add for ApnSettings @{ -->
+    <string name="apn_edit_quit">"Quit"</string>
+    <string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Edit access point"</string>
+    <!-- @} -->
+    <string  name="input_pin_limit">Please input 4 - 8 numbers</string>
+    <string name="agps_supl_manual_settings">"SUPL server manual setting"</string>
+    <string name="agps_supl_manual_settings_summary">"Manual set SUPL server and port"</string>
+    <string name="str_clear">clear</string>
+    <string name="str_save">save</string>
+    <string name="gps_location_suplserver">Server</string>
+    <string name="agps_setting">Agps Setting</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobile Network settings"</string>
+    <string name="pin_enabled_success">"SIM PIN enabled"</string>
+    <string name="pin_disabled_success">"SIM PIN disabled"</string>
+    <!--SPRD：ADD for Auto GPS time for bug320995 @{ -->
+    <string name="gps_time_sync_attention_gps_on">It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.\n\nAre you sure to use GPS provided time?</string>
+    <string name="gps_time_sync_attention_gps_off">To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. \n\nAre you sure to enable GPS now and wait for GPS provided time?</string>
+    <!-- @} -->
+    <string name="apn_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> APNs</string>
+    <string name="sim_lock_settings_ex">SIM<xliff:g id="SIM">%s</xliff:g> lock settings</string>
+    <string name="device_status_ex">SIM<xliff:g id="SIM">%s</xliff:g> status</string>
+    
+    <string name="apn_edit_ex_1">"Master SIM Edit access point"</string>
+    <string name="apn_edit_ex_2">"Slave SIM Edit access point"</string>  
+    <string name="mobile_network_settings_ex_1">"Master SIM Mobile Network settings"</string>
+    <string name="mobile_network_settings_ex_2">"Slave SIM Mobile Network settings"</string>    
+    <string name="apn_settings_ex_1">Master SIM APNs</string>
+    <string name="apn_settings_ex_2">Slave SIM APNs</string>
+    <string name="sim_lock_settings_ex_1">Master SIM lock settings</string>
+    <string name="sim_lock_settings_ex_2">Slave SIM lock settings</string>       
+    <string name="sim_number_setting_title">Edit SIM Number</string>
+</resources>

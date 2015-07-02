@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">"APN-Typ einstellen"</string>
+<string name="user_could_input_apn_type">"Nutzer kann APN-Typ eingeben"</string>
+<string name="could_not_input_the_same_apn_type">"Es konnte nicht der gleiche APN-Typ eingegeben werden"</string>
+<string name="apn_type_message">"In Ihrem neuen APN gibt es keinen Default-Typ, es ist nicht möglich das APN auszuwählen."</string>
+<string name="error_apn_type_message">"APN-Typ darf nicht leer sein"</string>
+<string name="error_apn_type">"Der APN-Typ, den Sie eingegeben haben, wird nicht unterstützt, bitte erneut eingeben!"</string>
+<string name="same_apn_type">"Sie haben den gleichen APN-Typ eingegeben, bitte erneut eingeben!"</string>
+<string name="empty_apn_type">"Sie haben keinen APN-Typ eingegeben oder ausgewählt, bitte erneut eingeben!"</string>
+<string name="dual_settings_title_uui">"SIM-Kartenmanagement"</string>
+<string name="dual_voice_setting_title">"Stimmeinstellung"</string>
+<string name="dual_video_setting_title">"Videoeinstellung"</string>
+<string name="dual_mms_setting_title">"SMS-Einstellung"</string>
+<string name="dual_settings_title">"Duale SIM-Einstellungen"</string>
+<string name="sim_name_setting_title">"SIM-Name bearbeiten"</string>
+<string name="sim_color_setting_title">"Hintergrundfarbe einstellen"</string>
+<string name="dual_settings_always_prompt">"Immer sofort"</string>
+<string name="mms_settings_auto">"Auto "</string>
+<string name="no_need_set_data_subscription">"Kein Einstellen der Datenunterschrift erforderlich ."</string>
+<string name="voice_setting_title">"Sprachanruf-Einstellungen"</string>
+<string name="video_setting_title">"Videoanruf-Einstellungen"</string>
+<string name="mms_setting_title">"MMS- und SMS-Einstellungen"</string>
+<string name="sim_reply_setting">"SIM-Antworteinstellungen"</string>
+<string name="reply_message_setting">"MMS oder SMS beantworten"</string>
+<string name="closeData">"schließen"</string>
+<string name="data_title">"Datenverbindungs-Einstellungen"</string>
+<string name="sel_sub_title">"Standby-Einstellungen"</string>
+<string name="sel_sub_summary">"SIM-Karte aktivieren oder deaktivieren"</string>
+<string name="set_data_subscription_timeout">"Datenverbindungs-Einstellungen-Timeout!"</string>
+<string name="set_dds_failed">"Fehler! Alle Datenverbindungen löschen und erneut versuchen!"</string>
+<string name="set_dds_success">"erfolgreich eingestellt"</string>
+<string name="set_data_subscription_progress">"Vorbereiten, bitte warten ..."</string>
+<string name="set_data_subscription_error_ok">"Bestimmen"</string>
+<string name="set_data_subscription_error_title">"Fehler"</string>
+<string name="set_data_subscription_error">"Ohne diese SIM-Karte, bitte verifizieren und erneut versuchen!"</string>
+<string name="sim_retries_left">"Verbleibende Anzahl an"</string>
+<string name="menu_kill_apps_services">"Alle Anwendungen schließen"</string>
+<string name="back_groud_data_usage_restrict_protocal">"Hintergrund-Datennutzungs-Protokoll."</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"Hintergrund-Datennutzungs-Protokoll akzeptieren?"</string>
+<string name="apn_edit_quit">"Verlassen"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Zugangspunkt bearbeiten"</string>
+<string name="input_pin_limit">"Bitte geben Sie 4 - 8 Ziffern ein"</string>
+    <string name="str_clear">"C"</string>
+    <string name="str_save">"Diese Aufnahme verwenden"</string>
+    <string name="gps_location_suplserver">"Server"</string>
+    <string name="open">"Offen"</string>
+    <string name="close">"Nah"</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> Mobilnetzwerkeinstellungen"</string>
+    <string name="pin_enabled_success">"PIN für SIM-Karte aktiviert"</string>
+    <string name="pin_disabled_success">"PIN-Abfrage für SIM-Karte deaktiviert"</string>
+
+</resources>

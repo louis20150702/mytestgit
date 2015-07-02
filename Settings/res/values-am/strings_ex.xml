@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="apn_type_setting">" apn ዓይነት ማቀናበርያ"</string>
+<string name="user_could_input_apn_type">"ተጠቃሚ apn ዓይነት ተጠቃሚ ማስገባት ይችላል"</string>
+<string name="could_not_input_the_same_apn_type">"ተመሳሳይ apn ዓይነት  ማስገባት አልቻለም"</string>
+<string name="apn_type_message">"በአዲሱ APN ነባሪ ዓይነት አላካተተም፣ APN መምረጥ አያስችልም"</string>
+<string name="error_apn_type_message">"APNባዶ ሊሆን አይችልም"</string>
+<string name="error_apn_type">" ያስገቡትApn  ዓይነት አይሰራም፣እባክዎ በድጋመረ ያስገቡ።!"</string>
+<string name="same_apn_type">"አንድ ዓይነት APN አስገብተዋል፣እባክዎ በድጋሜ ያስገቡ!"</string>
+<string name="empty_apn_type">" ምንም ዓይነት APN አላስገቡም ወይም አልመረጡም፣እባክዎ በድጋሜ ያስገቡ!"</string>
+<string name="dual_settings_title_uui">"SIM ካርድ አስተዳደር "</string>
+<string name="dual_voice_setting_title">"የድምጽ ማቀናበርያ"</string>
+<string name="dual_video_setting_title">"የቪድዮ ማቀናበርያ"</string>
+<string name="dual_mms_setting_title">"SMS ማቀናበርያ"</string>
+<string name="dual_settings_title">"" ጥንድ SMS ማቀናበር"</string>
+<string name="sim_name_setting_title">"የSIM ስም ኤዲት አድርግ"</string>
+<string name="sim_color_setting_title">"የልጣፍ ቀለም አዘጋጅ"</string>
+<string name="dual_settings_always_prompt">"ሁሌ ፈጣን"</string>
+<string name="mms_settings_auto">"ራስ"</string>
+<string name="no_need_set_data_subscription">" ውሂብ በቋሚነት የተመዘገበ መመድረግ አያስፈልግም።"</string>
+<string name="voice_setting_title">"የድምጽ ጥሪ ማቀናበርያ"</string>
+<string name="video_setting_title">"የቪድዮ ጥሪ ማቀናበርያ"</string>
+<string name="mms_setting_title">"MMS እና SMS ማቀናበርያዎች"</string>
+<string name="sim_reply_setting">"Sim መልስ ማቀናበርያዎች "</string>
+<string name="reply_message_setting">" Mms ወይም Sms መልስ"</string>
+<string name="closeData">"ዝጋ"</string>
+<string name="data_title">" የውሂብ ግንኙነት ማቃብርያዎች"</string>
+<string name="sel_sub_title">"ዝግጁ ማቀናበርያዎች"</string>
+<string name="sel_sub_summary">"SIM ካርድ ማስቻል ወይም አለማስቻል"</string>
+<string name="set_data_subscription_timeout">"የውሂብ ግንኙነት ማቀናበርያዎች ጊዜ አብቅቷል!"</string>
+<string name="set_dds_failed">"የተሳሳተ !ሁሉንም የውሂብ ግንኙነቶች አስወግደው እንደገና ይሞክሩ!"</string>
+<string name="set_dds_success">"ማዘጋጀት ተሳክቷል"</string>
+<string name="set_data_subscription_progress">"በማቀናበር፣ እባክዎ ይጠብቁ ..."</string>
+<string name="set_data_subscription_error_ok">"ፈልግ"</string>
+<string name="set_data_subscription_error_title">"ስህተት"</string>
+<string name="set_data_subscription_error">" ከ SIM ካርድ ውጪ እባክዎ አረጋግጠው እንደገና ይሞክሩ  !"</string>
+<string name="sim_retries_left">"የቀረው ቁጥር"</string>
+<string name="menu_kill_apps_services">"ሁሉንም መተግበርያዎች ዝጋ"</string>
+<string name="back_groud_data_usage_restrict_protocal">"የዳራ ፍርግም አጠቃቀም ፕሮቶኮል?"</string>
+<string name="accept_back_groud_data_usage_restrict_protocal">"የዳራ ፍርግም አጠቃቀም ፕሮቶኮል ተቀበል?"</string>
+<string name="apn_edit_quit">"ጸጥ"</string>
+<string name="apn_edit_ex">"SIM<xliff:g id="SIM">%s</xliff:g> የመድረሻ ነጥብ ኤዲት አድርግ"</string>
+<string name="input_pin_limit">"እባክዎከ 4 - 8 ቁጥሮች ያስገቡ"</string>
+    <string name="agps_supl_manual_settings">"SUPL ሰርቨር የማንዋል ቅንብር"</string>
+    <string name="agps_supl_manual_settings_summary">"ማንዋል አዘጋጅ SUPL ሰርቨርና ፖርት"</string>
+    <string name="str_clear">አጽዳ</string>
+    <string name="str_save">አስቀምጥ</string>
+    <string name="gps_location_suplserver">አገልጋ</string>
+    <string name="agps_setting">" መተግበርያ ቅንብር"</string>
+    <string name="open">ክፈት</string>
+    <string name="close">ዝጋ</string>
+    <string name="mobile_network_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> የተንቀሳቃሽ ስልክ አውታረ መረብ ማቀናበርያዎች"</string>
+    <string name="pin_enabled_success">የSIM PIN ነቅቷል</string>
+    <string name="pin_disabled_success">የSIM PIN ቦዝኗል</string>
+    <string name="gps_time_sync_attention_gps_on">"  GPS መግጠም ለመፈለግ ቢያንስ ቢበዛ 1 ደቂቃ ይፈጃል።በተጨማሪም GPS በደካማ አከባቢያዊ ምልክት ምክንያት ጊዜ ላያካትት ይችላል  ።\n\n  GPS  ጊዜ አካቶ ለማየት እርግጠኛ ነዎት?"</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS  ጊዜ አካቶ ለመጠቀም መጀመርያ  GPS መክፈት ይገባል።  ቀጥሎም  GPS ለማግኘት ቢያንስ 1 ደቂቃ ያስፈልገዋል።በተጨማሪም GPS በ ደካማ የአከባቢ ምልክት ምክንያት ጊዜ ላያካትት ይችላል። \n\n  GPS  አሁን GPS ጊዜ አካታች ይጠብቅ ?"</string>
+    <string name="apn_settings_ex">"SIM<xliff:g id="SIM">%s</xliff:g> APNs"</string>
+
+</resources>
